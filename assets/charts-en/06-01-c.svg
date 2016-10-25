@@ -1,0 +1,847 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="912" style="height:912px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:64.140625px;fill:#666666;">
+            aged 16-24
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.9375px;fill:#666666;">
+                General
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#004f80" width="84" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="82" fill="#467aaf" width="77" height="24" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="157" fill="#df2f5a" width="31" height="24" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="187" fill="#a0002d" width="13" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="85" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:58.578125px;fill:#666666;">
+                Bodily harm
+            </text>
+            <g transform="translate(0,100)" style="">
+                <rect x="0" fill="#004f80" width="93" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="91" fill="#467aaf" width="62" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="152" fill="#df2f5a" width="21" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="171" fill="#a0002d" width="29" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="125" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.109375px;fill:#666666;">
+                Burglary
+            </text>
+            <g transform="translate(0,140)" style="">
+                <rect x="0" fill="#004f80" width="92" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="90" fill="#467aaf" width="56" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="145" fill="#df2f5a" width="19" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="163" fill="#a0002d" width="38" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="165" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.609375px;fill:#666666;">
+                Theft
+            </text>
+            <g transform="translate(0,180)" style="">
+                <rect x="0" fill="#004f80" width="86" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="84" fill="#467aaf" width="61" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="143" fill="#df2f5a" width="18" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="160" fill="#a0002d" width="40" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="205" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:90.84375px;fill:#666666;">
+                Sexual harassment
+            </text>
+            <g transform="translate(0,220)" style="">
+                <rect x="0" fill="#004f80" width="112" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="110" fill="#467aaf" width="38" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="146" fill="#df2f5a" width="20" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="165" fill="#a0002d" width="35" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g transform="translate(0,244)" style="">
+            <line x2="199" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(99.5,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(199,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(219,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:64.140625px;fill:#666666;">
+            aged 25-34
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.9375px;fill:#666666;">
+                General
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#004f80" width="89" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="87" fill="#467aaf" width="88" height="24" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="173" fill="#df2f5a" width="19" height="24" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="191" fill="#a0002d" width="9" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="85" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:58.578125px;fill:#666666;">
+                Bodily harm
+            </text>
+            <g transform="translate(0,100)" style="">
+                <rect x="0" fill="#004f80" width="102" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="100" fill="#467aaf" width="61" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="159" fill="#df2f5a" width="15" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="172" fill="#a0002d" width="28" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="125" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.109375px;fill:#666666;">
+                Burglary
+            </text>
+            <g transform="translate(0,140)" style="">
+                <rect x="0" fill="#004f80" width="86" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="84" fill="#467aaf" width="75" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="158" fill="#df2f5a" width="14" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="170" fill="#a0002d" width="30" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="165" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.609375px;fill:#666666;">
+                Theft
+            </text>
+            <g transform="translate(0,180)" style="">
+                <rect x="0" fill="#004f80" width="95" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="93" fill="#467aaf" width="67" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="158" fill="#df2f5a" width="13" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="169" fill="#a0002d" width="31" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="205" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:90.84375px;fill:#666666;">
+                Sexual harassment
+            </text>
+            <g transform="translate(0,220)" style="">
+                <rect x="0" fill="#004f80" width="123" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="121" fill="#467aaf" width="40" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="160" fill="#df2f5a" width="14" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="172" fill="#a0002d" width="28" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g transform="translate(0,244)" style="">
+            <line x2="199" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(99.5,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(199,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(438,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:64.140625px;fill:#666666;">
+            aged 35-44
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.9375px;fill:#666666;">
+                General
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#004f80" width="95" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="93" fill="#467aaf" width="84" height="24" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="176" fill="#df2f5a" width="19" height="24" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="193" fill="#a0002d" width="7" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="85" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:58.578125px;fill:#666666;">
+                Bodily harm
+            </text>
+            <g transform="translate(0,100)" style="">
+                <rect x="0" fill="#004f80" width="110" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="108" fill="#467aaf" width="59" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="166" fill="#df2f5a" width="14" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="178" fill="#a0002d" width="22" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="125" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.109375px;fill:#666666;">
+                Burglary
+            </text>
+            <g transform="translate(0,140)" style="">
+                <rect x="0" fill="#004f80" width="77" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="75" fill="#467aaf" width="85" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="158" fill="#df2f5a" width="18" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="175" fill="#a0002d" width="25" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="165" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.609375px;fill:#666666;">
+                Theft
+            </text>
+            <g transform="translate(0,180)" style="">
+                <rect x="0" fill="#004f80" width="97" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="95" fill="#467aaf" width="69" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="162" fill="#df2f5a" width="13" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="174" fill="#a0002d" width="26" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="205" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:90.84375px;fill:#666666;">
+                Sexual harassment
+            </text>
+            <g transform="translate(0,220)" style="">
+                <rect x="0" fill="#004f80" width="131" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="129" fill="#467aaf" width="40" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="168" fill="#df2f5a" width="10" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="177" fill="#a0002d" width="24" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g transform="translate(0,244)" style="">
+            <line x2="199" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(99.5,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(199,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,266)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:64.140625px;fill:#666666;">
+            aged 45-54
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.9375px;fill:#666666;">
+                General
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#004f80" width="92" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="90" fill="#467aaf" width="86" height="24" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="175" fill="#df2f5a" width="19" height="24" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="193" fill="#a0002d" width="7" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="85" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:58.578125px;fill:#666666;">
+                Bodily harm
+            </text>
+            <g transform="translate(0,100)" style="">
+                <rect x="0" fill="#004f80" width="118" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="116" fill="#467aaf" width="58" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="173" fill="#df2f5a" width="13" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="184" fill="#a0002d" width="16" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="125" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.109375px;fill:#666666;">
+                Burglary
+            </text>
+            <g transform="translate(0,140)" style="">
+                <rect x="0" fill="#004f80" width="85" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="83" fill="#467aaf" width="85" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="167" fill="#df2f5a" width="15" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="181" fill="#a0002d" width="19" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="165" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.609375px;fill:#666666;">
+                Theft
+            </text>
+            <g transform="translate(0,180)" style="">
+                <rect x="0" fill="#004f80" width="95" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="93" fill="#467aaf" width="74" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="166" fill="#df2f5a" width="17" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="181" fill="#a0002d" width="19" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="205" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:90.84375px;fill:#666666;">
+                Sexual harassment
+            </text>
+            <g transform="translate(0,220)" style="">
+                <rect x="0" fill="#004f80" width="144" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="142" fill="#467aaf" width="36" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="176" fill="#df2f5a" width="9" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="183" fill="#a0002d" width="17" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g transform="translate(0,244)" style="">
+            <line x2="199" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(99.5,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(199,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(219,266)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:64.140625px;fill:#666666;">
+            aged 55-64
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.9375px;fill:#666666;">
+                General
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#004f80" width="87" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="85" fill="#467aaf" width="85" height="24" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="169" fill="#df2f5a" width="24" height="24" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="191" fill="#a0002d" width="9" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="85" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:58.578125px;fill:#666666;">
+                Bodily harm
+            </text>
+            <g transform="translate(0,100)" style="">
+                <rect x="0" fill="#004f80" width="110" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="108" fill="#467aaf" width="65" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="171" fill="#df2f5a" width="14" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="184" fill="#a0002d" width="16" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="125" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.109375px;fill:#666666;">
+                Burglary
+            </text>
+            <g transform="translate(0,140)" style="">
+                <rect x="0" fill="#004f80" width="89" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="87" fill="#467aaf" width="83" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="169" fill="#df2f5a" width="15" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="182" fill="#a0002d" width="18" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="165" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.609375px;fill:#666666;">
+                Theft
+            </text>
+            <g transform="translate(0,180)" style="">
+                <rect x="0" fill="#004f80" width="95" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="93" fill="#467aaf" width="80" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="171" fill="#df2f5a" width="15" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="185" fill="#a0002d" width="16" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="205" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:90.84375px;fill:#666666;">
+                Sexual harassment
+            </text>
+            <g transform="translate(0,220)" style="">
+                <rect x="0" fill="#004f80" width="151" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="149" fill="#467aaf" width="31" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="178" fill="#df2f5a" width="9" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="186" fill="#a0002d" width="14" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g transform="translate(0,244)" style="">
+            <line x2="199" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(99.5,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(199,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(438,266)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:64.140625px;fill:#666666;">
+            aged 65-74
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.9375px;fill:#666666;">
+                General
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#004f80" width="72" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="70" fill="#467aaf" width="85" height="24" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="154" fill="#df2f5a" width="34" height="24" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="187" fill="#a0002d" width="13" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="85" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:58.578125px;fill:#666666;">
+                Bodily harm
+            </text>
+            <g transform="translate(0,100)" style="">
+                <rect x="0" fill="#004f80" width="110" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="108" fill="#467aaf" width="61" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="168" fill="#df2f5a" width="17" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="183" fill="#a0002d" width="17" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="125" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.109375px;fill:#666666;">
+                Burglary
+            </text>
+            <g transform="translate(0,140)" style="">
+                <rect x="0" fill="#004f80" width="85" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="83" fill="#467aaf" width="85" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="166" fill="#df2f5a" width="18" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="183" fill="#a0002d" width="17" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="165" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.609375px;fill:#666666;">
+                Theft
+            </text>
+            <g transform="translate(0,180)" style="">
+                <rect x="0" fill="#004f80" width="89" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="87" fill="#467aaf" width="79" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="164" fill="#df2f5a" width="18" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="180" fill="#a0002d" width="20" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="205" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:90.84375px;fill:#666666;">
+                Sexual harassment
+            </text>
+            <g transform="translate(0,220)" style="">
+                <rect x="0" fill="#004f80" width="152" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="150" fill="#467aaf" width="30" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="179" fill="#df2f5a" width="8" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="185" fill="#a0002d" width="15" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g transform="translate(0,244)" style="">
+            <line x2="199" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(99.5,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(199,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,532)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:99.734375px;fill:#666666;">
+            Aged 75 and over
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.9375px;fill:#666666;">
+                General
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#004f80" width="55" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="53" fill="#467aaf" width="76" height="24" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="127" fill="#df2f5a" width="51" height="24" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="177" fill="#a0002d" width="23" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="85" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:58.578125px;fill:#666666;">
+                Bodily harm
+            </text>
+            <g transform="translate(0,100)" style="">
+                <rect x="0" fill="#004f80" width="105" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="103" fill="#467aaf" width="63" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="165" fill="#df2f5a" width="22" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="186" fill="#a0002d" width="14" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="125" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.109375px;fill:#666666;">
+                Burglary
+            </text>
+            <g transform="translate(0,140)" style="">
+                <rect x="0" fill="#004f80" width="96" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="94" fill="#467aaf" width="78" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="170" fill="#df2f5a" width="19" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="188" fill="#a0002d" width="12" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="165" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.609375px;fill:#666666;">
+                Theft
+            </text>
+            <g transform="translate(0,180)" style="">
+                <rect x="0" fill="#004f80" width="100" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="98" fill="#467aaf" width="69" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="165" fill="#df2f5a" width="22" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="186" fill="#a0002d" width="14" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="205" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:90.84375px;fill:#666666;">
+                Sexual harassment
+            </text>
+            <g transform="translate(0,220)" style="">
+                <rect x="0" fill="#004f80" width="165" height="16" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="163" fill="#467aaf" width="24" height="16" style="fill:#467aaf;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="186" fill="#df2f5a" width="9" height="16" style="fill:#df2f5a;"/>
+            </g>
+            <g transform="translate(0,220)" style="">
+                <rect x="194" fill="#a0002d" width="6" height="16" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g transform="translate(0,244)" style="">
+            <line x2="199" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(99.5,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(199,0)" style="">
+                <line y1="-199" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="798" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
+            <div style="display:block;height:116px;width:640px;">
+                <div style="display:block;height:20px;line-height:12px;width:640px;">
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:55.140625px;">
+                        <div style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        not at all 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:42.78125px;">
+                        <div style="background-color:rgb(70, 122, 175);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        a little 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:36.4375px;">
+                        <div style="background-color:rgb(223, 47, 90);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        fairly 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:45.453125px;">
+                        <div style="background-color:rgb(160, 0, 45);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        greatly 
+                    </div>
+                </div>
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Deutscher Viktimisierungssurvey 2012.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Federal Government
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                Proportion of respondents with general and offense-specific fear of crime, N = 35,405 (general fear of crime), 11,584 (bodily harm), 11,608 (burglary), 11,601 (theft), 11,604 (sexual harassment).
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

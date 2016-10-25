@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="453" style="height:453px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:189.0625px;fill:#666666;">
+            Atypisch Beschäftigte insgesamt
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.78125px;fill:#666666;">
+                Männer
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#be5b00" width="114" height="16" style="fill:#be5b00;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.71875px;fill:#666666;">
+                Frauen
+            </text>
+            <g transform="translate(0,85)" style="">
+                <rect x="0" fill="#f28502" width="273" height="16" style="fill:#f28502;"/>
+            </g>
+        </g>
+        <g transform="translate(0,109)" style="">
+            <line x2="309" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(154.5,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;text-anchor:middle;">
+                    3
+                </text>
+            </g>
+            <g transform="translate(309,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;text-anchor:end;">
+                    6 Mio. 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(329,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:127.140625px;fill:#666666;">
+            Befristet Beschäftigte
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.78125px;fill:#666666;">
+                Männer
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#be5b00" width="63" height="16" style="fill:#be5b00;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.71875px;fill:#666666;">
+                Frauen
+            </text>
+            <g transform="translate(0,85)" style="">
+                <rect x="0" fill="#f28502" width="65" height="16" style="fill:#f28502;"/>
+            </g>
+        </g>
+        <g transform="translate(0,109)" style="">
+            <line x2="309" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(154.5,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;text-anchor:middle;">
+                    3
+                </text>
+            </g>
+            <g transform="translate(309,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;text-anchor:end;">
+                    6 Mio. 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,131)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:145.390625px;fill:#666666;">
+            Geringfügig Beschäftigte
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.78125px;fill:#666666;">
+                Männer
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#be5b00" width="29" height="16" style="fill:#be5b00;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.71875px;fill:#666666;">
+                Frauen
+            </text>
+            <g transform="translate(0,85)" style="">
+                <rect x="0" fill="#f28502" width="94" height="16" style="fill:#f28502;"/>
+            </g>
+        </g>
+        <g transform="translate(0,109)" style="">
+            <line x2="309" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(154.5,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;text-anchor:middle;">
+                    3
+                </text>
+            </g>
+            <g transform="translate(309,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;text-anchor:end;">
+                    6 Mio. 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(329,131)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:266.375px;fill:#666666;">
+            Teilzeitbeschäftigte bis zu 20 Wochenstunden
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.78125px;fill:#666666;">
+                Männer
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#be5b00" width="38" height="16" style="fill:#be5b00;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.71875px;fill:#666666;">
+                Frauen
+            </text>
+            <g transform="translate(0,85)" style="">
+                <rect x="0" fill="#f28502" width="215" height="16" style="fill:#f28502;"/>
+            </g>
+        </g>
+        <g transform="translate(0,109)" style="">
+            <line x2="309" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(154.5,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;text-anchor:middle;">
+                    3
+                </text>
+            </g>
+            <g transform="translate(309,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;text-anchor:end;">
+                    6 Mio. 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,262)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:147.03125px;fill:#666666;">
+            Zeitarbeitnehmer/-innen
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.71875px;fill:#666666;">
+                Frauen
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#f28502" width="12" height="16" style="fill:#f28502;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.78125px;fill:#666666;">
+                Männer
+            </text>
+            <g transform="translate(0,85)" style="">
+                <rect x="0" fill="#be5b00" width="25" height="16" style="fill:#be5b00;"/>
+            </g>
+        </g>
+        <g transform="translate(0,109)" style="">
+            <line x2="309" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(154.5,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;text-anchor:middle;">
+                    3
+                </text>
+            </g>
+            <g transform="translate(309,0)" style="">
+                <line y1="-64" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;text-anchor:end;">
+                    6 Mio. 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="393" width="640" height="60" style="display:block;height:60px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
+            <div style="display:block;height:60px;width:640px;">
+                <div style="display:block;height:60px;width:640px;">
+                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Mikrozensus.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Bundesregierung
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

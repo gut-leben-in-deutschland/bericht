@@ -1,0 +1,381 @@
+dimension_id,id,title,placeholder,data,filter,mini_config,keywords
+01,01-01,Lebenserwartung bei Geburt,,01/01/regions.csv,datum.at_age == 0 && (datum.year == 1990 || datum.year == 2013) && datum.region == 'Gesamt' && datum.gender == 'Total',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/01-01.csv"",
+ ""numberFormat"": "".1f"",
+ ""unit"": ""Jahre"",
+ ""columns"": 1,
+ ""zero"": false
+}","Gesundheit,Lebenserwartung,Lebensdauer,Gesundheitszustand"
+01,01-02,Verbreitung von Fettleibigkeit,,01/02/states.csv,(datum.year == 1999 || datum.year == 2013) && datum.state == 'Deutschland',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/01-02.csv"",
+ ""color"": ""state"",
+ ""columns"": 1,
+ ""numberFormat"": "".1%""
+}","Adipositas,Fettleibigkeit,BMI,Body Mass Index,Gesundheitsvorsorge"
+01,01-03,Versorgung mit Haus- und Fachärzten,,01/03/density.csv,datum.category == 'HAUS' && datum.year == '2015',"{
+ ""type"": ""KRegMap"",
+ ""data"": ""static/dashboard/data/01-03.csv"",
+ ""legendTitle"": ""Anzahl der Einwohner"",
+ ""column"": """",
+ ""columns"": 1
+}","ärztliche Versorgung,medizinische Versogung,ärztliche Versogungsdichte,Hausarzt,Hausärzte,Facharzt,Fachärzte"
+01,01-04,Qualität der Pflege (Platzhalter),TRUE,,,,"Pflege,Pflegebedürftige,Pflegesituation,Familienangehörige,Platzhalter"
+01,01-05,Verhältnis von subjektiv eingeschätzter Gesundheit und Einkommen,,01/05/quintile.csv,datum.category == 'weniger gut oder schlecht' && (datum.quintile == '1. Quintil (unterste Einkommen)' || datum.quintile == '5. Quintil (oberste Einkommen)'),"{
+ ""type"": ""Lollipop"",
+ ""data"": ""static/dashboard/data/01-05.csv"",
+ ""numberFormat"": ""%"",
+ ""column"": """",
+ ""y"": ""quintile"",
+ ""color"": ""category"",
+ ""sort"": ""none""
+}","Gesundheit und Einkommen,Einkommensabhängigkeit,Gesundheit,Einkommen,medizinische Versorgung"
+02,02-01,Arbeitslosenquote,,02/01/regions.csv,datum.region == 'Deutschland',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-01.csv"",
+ ""color"": ""region"",
+ ""numberFormat"": "".1%"",
+ ""endDy"": ""1.9em""
+}","Arbeitslosigkeit,arbeitslos,erwerbslos,Arbeitslosenquote,Arbeit,Beschäftigung,Bundesagentur für Arbeit,Erwerbstätigkeit,Erwerbsperson,Arbeitssuchende,Arbeitssuchender,arbeitssuchend"
+02,02-03,Erwerbstätigenquote,,02/03/facets.csv,datum.facet == '' && datum.gender == 'Insgesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-03.csv"",
+ ""numberFormat"": "".1%"",
+ ""color"": ""gender"",
+ ""zero"": false
+}","Erwerbstätigkeit,erwerbslos,Erwerbstätige"
+02,02-04,Normalarbeitsverhältnisse und atypische Beschäftigung,,02/04/percentages.csv,datum.category == 'Insgesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-04.csv"",
+ ""minInnerWidth"": 250,
+ ""endDy"": ""1.9em""
+}","Beschäftigungsformen,Normalarbeitsverhältnis,atypische Beschäftigung,Leiharbeit,Zeitarbeit,Minijob,befristete Arbeitsverhältnisse,Teilzeit"
+02,02-05,Reale Nettolöhne und -gehälter,,02/05/years.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-05.csv"",
+ ""numberFormat"": ""s"",
+ ""zero"": false,
+ ""height"": 120
+}","Lohn,Gehalt,Nettolohn,Nettogehalt,Einkommen,abhängige Beschäftigung"
+02,02-06,Zufriedenheit mit der eigenen Arbeit,,02/06/income.csv,datum.category == 'Gesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-06.csv"",
+ ""numberFormat"": "".2f"",
+ ""color"": ""category"",
+ ""confidence"": 95
+}","Arbeitszufriedenheit,Arbeit,berufliche Zufriedenheit,Zufriedenheit mit Job"
+03,03-01,Personen mit mindestens abgeschlossener Berufsausbildung oder Hochschulreife,,03/01/age-groups.csv,datum.facet == 'Migrationshintergrund' && datum.age_group == 'Insgesamt',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/03-01.csv"",
+ ""color"": ""facet_value"",
+ ""colorSort"": ""none"",
+ ""numberFormat"": ""%"",
+ ""y"": ""facet_value"",
+ ""sort"": ""none"",
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""columns"": 1
+}","Bildung,Bildungsniveau,Sekundarbereich II,Qualität des Bildungssystems,Bildungserfolg"
+03,03-02,Frühe Schulabgänger,,03/02/facets.csv,year(datum.year) >= 2005 && datum.facet == 'Insgesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/03-02.csv"",
+ ""color"": ""facet_value"",
+ ""numberFormat"": "".1%"",
+ ""endDy"": ""1.9em""
+}","Sekundarstufe I,Bildung,Hauptschule,Realschule,Schulabbrecher"
+03,03-03,Bildungsmobilität zwischen Eltern und Kindern,,03/03/facets.csv,,"{
+ ""type"": ""Static"",
+ ""data"": ""static/dashboard/data/03-03.csv""
+}","Bildung,Bildungsmobilität,Bildungssystem,Aufstiegsmöglichkeiten,Durchlässigkeit des Bildungssystems"
+03,03-04,Beteiligung an Weiterbildung,,03/04/age-groups.csv,datum.age_group == 'Insgesamt',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/03-04.csv"",
+ ""columns"": 1,
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""color"": ""age_group"",
+ ""highlight"": ""false""
+}","Weiterbildung,lebenslanges Lernen,Fortbildung,Erwachsenenbildung,Lernen"
+04,04-01,Vergleich der tatsächlichen und gewünschten Arbeitszeit,,04/01/categories.csv,datum.year == 2014 && datum.facet == 'gender' && datum.category == 'Tatsächliche Arbeitszeit',"{
+ ""type"": ""Lollipop"",
+ ""data"": ""static/dashboard/data/04-01.csv"",
+ ""unit"": ""Wochenstunden"",
+ ""y"": ""facet_value"",
+ ""column"": ""category"",
+ ""color"": ""facet_value"",
+ ""numberFormat"": "".2f""
+}","Arbeitszeit,Vereinbarkeit von Beruf und Familie,Wochenarbeitszeit,Arbeitsumfang"
+04,04-02,Kinderbetreuungsquote,,04/02/preschool.csv,datum.group == 'Unter-3-Jährige',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/04-02.csv"",
+ ""numberFormat"": "".1%"",
+ ""color"": ""group""
+}","Kinderbetreuung,Ganztagsbetreuung,Vereinbarkeit von Beruf und Familie,Ganztagsschulen,Kita,Tagesmutter,Kindertagespflege,Kindertageseinrichtungen,Hort"
+04,04-03,Arbeitszeitverkürzung für Betreuungsaufgaben,,04/03/reasons.csv,datum.category == 'Einschränkung der Erwerbstätigkeit',"{
+ ""type"": ""TimeBar"",
+ ""data"": ""static/dashboard/data/04-03.csv"",
+ ""color"": ""category"",
+ ""numberFormat"": ""%"",
+ ""padding"": 20
+}","Pflege,Kinderbetreuung,Erwerbstätigkeit und Pflege,Erwerbstätigkeit und Kinderbetreuung,Pflege von Angehörigen,Betreuung von Angehörigen"
+04,04-04,Pendeldauer,,04/04/germany.csv,datum.region == 'Deutschland' && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/04-04.csv""
+}","Pendeln,Pendeldauer,Arbeitsweg"
+05,05-01,Haushaltsnettoeinkommen,,05/01/region.csv,datum.region == 'Deutschland',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/05-01.csv"",
+ ""confidence"": 95,
+ ""category"": ""datum.region"",
+ ""numberFormat"": ""s"",
+ ""endLabel"": false,
+ ""colorLegend"": false
+}","Haushaltseinkommen,Einkommen,Einkommen der Haushalte,verfügbares Einkommen,Medianeinkommen,Nettoeinkommen"
+05,05-02,Gini-Koeffizient der Einkommen,,05/02/germany.csv,datum.category == 'Gini nach Steuern und Transfers',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/05-02.csv"",
+ ""confidence"": 95,
+ ""category"": ""datum.category"",
+ ""numberFormat"": "".3f""
+}","Ungleichheit,Einkommen,Einkommensungleichheit,Schere zwischen arm und reich,Einkommensverteilung,Verteilung"
+05,05-03,Gini-Koeffizient der Vermögen,,05/03/euro15.csv,"indexof(['DE', 'FR', 'NL'], datum.country_code) !== -1","{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/05-03.csv"",
+ ""y"": ""country"",
+ ""numberFormat"": "".2f"",
+ ""category"": ""datum.country_code == 'DE' ? '1' : '0'"",
+ ""sort"": ""descending""
+}","Ungleichheit,Vermögen,Vermögensverteilung,Schere zwischen arm und reich,Verteilung"
+05,05-04,Armutsrisikoquote,,05/04/groups.csv,datum.facet == 'Alle',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/05-04.csv"",
+ ""confidence"": 95,
+ ""numberFormat"": "".1%""
+}","Armut,Armutsgefährdung,Einkommensarmut,Armutsrisikoschwelle,relative Armut,relative Einkommensarmut,materielle Deprivation"
+05,05-05,Altenquotient,,05/05/scenario.csv,datum.scenario == 'Standard-Szenario',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/05-05.csv"",
+ ""numberFormat"": "".1f"",
+ ""color"": ""scenario"",
+ ""category"": ""datum.scenario + datum.type"",
+ ""stroke"": ""datum.type == 'Prognose'"",
+ ""labelFilter"": ""datum.type == 'Prognose'""
+}","demografischer Wandel,Rente,Rentensystem,soziale Sicherungssysteme,Nachhaltigkeit,Altersstruktur,Alterung"
+06,06-01,Kriminalitätsfurcht,,06/01/facets.csv,"datum.facet == '' && indexof(['Allgemein', 'Körperverletzung', 'Sexuelle Belästigung'], datum.category) !== -1","{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/06-01.csv"",
+ ""numberFormat"": ""%"",
+ ""color"": ""concern"",
+ ""colorRange"": ""diverging2"",
+ ""colorLegend"": true,
+ ""y"": ""category"",
+ ""domain"": [
+ 0,
+ 1
+ ],
+ ""sort"": ""none"",
+ ""colorSort"": ""none"",
+ ""highlight"": ""datum.category == 'Allgemein'""
+}","Sicherheit,Unsicherheit,gefühlte Sicherheit,subjektives Sicherheitsgefühl,Kriminalität,Straftaten,Angst vor Kriminalität,Angst vor Straftaten"
+06,06-02,Tatsächliche Kriminalität,,06/02/categories.csv,datum.category == 'Gewaltkriminalität' && datum.type == 'erfasste Fälle',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/06-02.csv"",
+ ""numberFormat"": ""s"",
+ ""color"": ""type"",
+ ""endDy"": ""1.9em""
+}","Straftaten,Gewaltkriminalität,Diebstahlkriminalität,Eigentumsdelikte,Sicherheit,Polizeiliche Kriminalstatistik,PKS,Dunkelfeld,tatsächliche Kriminalität"
+06,06-04,Hasskriminalität und politisch motivierte Straftaten,,06/04/categories.csv,datum.category == 'Hasskriminalität',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/06-04.csv"",
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""color"": ""category"",
+ ""numberFormat"": ""s""
+}","Kriminalität,Hasskriminalität,politisch motivierte Kriminalität,Toleranz,Intoleranz,Respekt,Vorurteile,Straftaten"
+06,06-03,Vertrauen der Menschen in die örtliche Polizeiarbeit,,06/03/facets.csv,datum.facet == '',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/06-03.csv"",
+ ""numberFormat"": ""%"",
+ ""color"": ""rating"",
+ ""colorRange"": ""diverging2"",
+ ""y"": ""facet"",
+ ""colorLegend"": true,
+ ""sort"": ""none"",
+ ""colorSort"": ""none"",
+ ""barStyle"": ""large"",
+ ""highlight"": ""true""
+}","Vertrauen in Polizei,Polizei,Justiz,Vertrauen in staatliche Institutionen,staatliche Institutionen,Rechtsstaat"
+07,07-01,Anteil der Wohnkosten am Haushaltseinkommen für Miethaushalte,,07/01/facets.csv,datum.facet == 'Gesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/07-01.csv"",
+ ""confidence"": 95,
+ ""endDy"": ""1.9em""
+}","Wohnkosten,Mieten,Mietkosten,Wohnen,bezahlbarer Wohnraum,Wohngeld"
+07,07-02,"Fahrzeit zu Bildungs-, Versorgungs- und Kultureinrichtungen",,07/02/center-points.csv,false,"{
+ ""type"": ""PointMap"",
+ ""data"": ""static/dashboard/data/07-02.csv"",
+ ""geotiff"": ""07-02-oev"",
+ ""accessor"": ""center"",
+ ""ordinalAccessor"": ""center"",
+ ""shape"": ""square"",
+ ""legendTitle"": """",
+ ""sizes"": [5,10],
+ ""height"": 350,
+ ""colorRange"": [""#FE5072"",""#810019""],
+ ""geotiffLegendTitle"": ""Fahrzeit im ÖV zum nächsten Zentrum in Minuten"",
+ ""geotiffLegend"": [
+   {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
+   {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
+   {""color"": ""rgb(99,180,228)"", ""label"": ""20 - 30""},
+   {""color"": ""rgb(67,153,200)"", ""label"": ""30 - 40""},
+   {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
+   {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
+ ]
+}","Erreichbarkeit,Wohnumfeld,ÖPNV,öffentlicher Personennahverkehr,Daseinsvorsorge,Kultur,Mobilität"
+07,07-03,Breitbandversorgung,,07/03/districts.csv,datum.year == '2015',"{
+ ""type"": ""KrsMap"",
+ ""data"": ""static/dashboard/data/07-03.csv"",
+ ""column"": """",
+ ""columns"": 1,
+ ""numberFormat"": "".0%"",
+ ""legendTitle"": ""Verfügbarkeit von 50 Mbit/s""
+}","Internet,Mbit/s,Breitband,schnelles Internet,Internetgeschwindigkeit,Internetschnelligkeit,Digitalisierung"
+08,08-01,Familien- und Lebensformen,,08/01/facets.csv,datum.facet == 'Erwachsene' && datum.year == '2014',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/08-01.csv"",
+ ""numberFormat"": ""%"",
+ ""y"": ""facet"",
+ ""color"": ""category"",
+ ""colorLegend"": true
+}","Familie,Lebensformen,Paare,Ehepaare,Alleinerziehende,Alleinstehende,Kinder,gleichgeschlechtliche Paare,Ehe,Lebenspartnerschaft"
+08,08-02,Hilfe durch andere,,08/02/facets.csv,"indexof(['Erwerbstätige', 'Arbeitslose', 'Rentner'], datum.facet) !== -1","{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/08-02.csv"",
+ ""numberFormat"": ""%"",
+ ""y"": ""facet"",
+ ""domain"": [
+ 0,
+ 1
+ ],
+ ""sort"": ""none"",
+ ""color"": ""response"",
+ ""colorSort"": ""none"",
+ ""colorRange"": ""diverging1n"",
+ ""columns"": 3,
+ ""column"": ""category"",
+ ""colorLegend"": true,
+ ""highlight"": ""datum.facet == 'Insgesamt'""
+}","Hilfe,Unterstützung,soziales Netz,Freunde,Familie,Verwandte"
+08,08-03,Ehrenamtlich Engagierte,,08/03/facets.csv,datum.facet == 'Alter' && datum.facet_value == 'Insgesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/08-03.csv"",
+ ""numberFormat"": "".1%"",
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""columns"": 1
+}","Ehrenamt,ehrenamtliches Engagement,gesellschaftlicher Zusammenhalt,bürgerschaftliches Engagement,freiwilliges Engagement"
+08,08-04,Mitgliedschaften in Sportvereinen,,08/04/regions.csv,datum.age == 'Insgesamt',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/08-04.csv"",
+ ""color"": ""region"",
+ ""numberFormat"": ""%"",
+ ""y"": ""region"",
+ ""sort"": ""none"",
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""columns"": 1,
+ ""highlight"": ""false""
+}","Sport,Freizeit,Zusammenhalt,Integration,Inklusion,Gesundheit,Vereine,Vereinsmitgliedschaften"
+09,09-01,Reales Bruttoinlandsprodukt pro Kopf,,09/01/years.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-01.csv"",
+ ""numberFormat"": ""s""
+}","BIP,Wirtschaft,Wirtschaftswachstum,Wirtschaftsleistung,Wachstum,Wohlstand,materieller Wohlstand"
+09,09-02,Investitionsquote,,09/02/sectors.csv,datum.sector == 'gesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-02.csv""
+}","Investitionen,Bruttoanlageinvestitionen,Investitionslücke,Zukunftsfähigkeit,Wirtschaft"
+09,09-03,Gesamtstaatliche Schuldenstandsquote,,09/03/years.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-03.csv"",
+ ""endDy"": ""1.9em""
+}","Verschuldung,Staatsverschuldung,Schulden,implizite Schulden,Nachhaltigkeit,fiskalische Nachhaltigkeit"
+09,09-04,Öffentliche und private Ausgaben für Forschung und Entwicklung im Verhältnis zum BIP,,09/04/fue.csv,datum.country == 'Deutschland',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-04.csv"",
+ ""color"": ""country"",
+ ""numberFormat"": "".2%""
+}","Forschung und Entwicklung,Innovationsfähigkeit,Wirtschaft,Wettbewerbsfähigkeit,Zukunftsfähigkeit,Forschung"
+09,09-05,Zeitdauer für eine Unternehmensgründung,,09/05/days.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-05.csv"",
+ ""numberFormat"": "".1f"",
+ ""unit"": ""Tage""
+}","Gründerkultur,Unternehmensgründungen,Start-Ups,Bürokratie,Wettbewerbsfähigkeit,bürokratische Hürden"
+10,10-01,Luftqualität,,10/01/categories.csv,"year(datum.year) >= 2000 && datum.category == 'Luftschadstoffe (+ PM<sub>2,5</sub>)'","{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/10-01.csv"",
+ ""numberFormat"": "".2f"",
+ ""endDy"": ""1.9em""
+}","Luft,Schafstoffe,saubere Luft,Luftschadstoffe,Feinstaub,Emissionen,Schwefeldioxid,Stickstoff,Amoniak"
+10,10-02,Artenvielfalt und Landschaftsqualität,,10/02/categories.csv,(datum.year == 1990 || datum.year == 2013) && datum.facet == 'Gesamtindikator',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/10-02.csv"",
+ ""color"": ""facet_value"",
+ ""column"": """",
+ ""numberFormat"": "".1f"",
+ ""columns"": 1
+}","Landschaftsqualität,Artenvielfalt,Natur,Naturschutz,Nachhaltigkeit,Landnutzung,Vogelindex"
+10,10-03,Energieproduktivität,,10/03/years.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/10-03.csv"",
+ ""x"": ""year"",
+ ""y"": ""value"",
+ ""numberFormat"": "".2f""
+}","Energieeffizienz,Energieproduktivität,Primärenergieverbrauch,Energiewende"
+11,11-01,Wahlbeteiligung,,11/01/federation.csv,datum.region == 'Deutschland',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/11-01.csv"",
+ ""color"": ""region"",
+ ""numberFormat"": "".1%"",
+ ""endDy"": ""1.9em""
+}","politische Partizipation,Wahlen,Wahlbeteiligung,Wahlablauf,Wahlleiter"
+11,11-02,"Möglichkeit, Einfluss auf die Politik zu nehmen",,11/02/facets.csv,datum.facet == 'Insgesamt',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/11-02.csv"",
+ ""numberFormat"": ""%"",
+ ""color"": ""answer"",
+ ""y"": ""facet"",
+ ""colorLegend"": true,
+ ""sort"": ""none"",
+ ""colorSort"": ""none"",
+ ""domain"": [0,1],
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""highlight"": ""datum.facet == 'Insgesamt'""
+}","politische Partizipation,Einflussmöglichkeiten,Partizipation,Partizipationsmöglichkeiten,politisches System,Einfluss,Beteiligung,politscher Prozess"
+11,11-03,Gewährleistung von acht ausgewählten Grundrechten,,11/03/categories.csv,datum.category == 'Grundrechte Insgesamt' && datum.year != '2014',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/11-03.csv"",
+ ""height"": 310,
+ ""color"": ""category"",
+ ""numberFormat"": "".2f"",
+ ""zero"": false,
+ ""endLabel"": false,
+ ""columns"": 1,
+ ""paddingRight"": 50
+}","Freiheit,Freiheitsrechte,Grundrechte,Rechtsstaatlichkeit,Gleicheit"
+12,12-01,Globale und nationale Treibhausgas-Emissionen,,12/01/global.csv,datum.category == 'GHG' && (datum.year == 1990 || datum.year == 2012),"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/12-01.csv"",
+ ""numberFormat"": ""s"",
+ ""unit"": ""Tonnen"",
+ ""columns"": 1
+}","Klima,Klimawandel,Klimaschutz,Treibhausgase,CO2-Emissionen,Entwaldung,Treibhausgase,Emissionen"
+12,12-02,Anteil der öffentlichen Ausgaben für Entwicklungszusammenarbeit am Bruttonationaleinkommen,,12/02/values.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/12-02.csv"",
+ ""numberFormat"": "".2%""
+}","ODA-Quote,Entwicklungshilfe,Zusammenarbeit mit Entwicklungsländern,Entwicklungsländer,internationale Organisationen,globale Verantwortung,internationale Verantwortung"
+12,12-03,Globale unternehmerische Verantwortung (Platzhalter),TRUE,,,,"unternehmerische Verantwortung,Umweltstandards,Arbeitnehmerrechte,Menschenrechte,CSR,Corporate Social Responsibility,globale Verantwortung,Verantwortung"

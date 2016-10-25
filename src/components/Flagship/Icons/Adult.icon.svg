@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="26px" height="84px" viewBox="0 0 32 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Erwachsener</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="3-l-Dimension-Flagships" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,15.7428368 C21.8120083,14.4775576 23,12.3769648 23,9.99957974 L23,7.00042026 C23,3.13787336 19.8659932,0 16,0 C12.1418733,0 9,3.13419491 9,7.00042026 L9,9.99957974 C9,12.3762043 10.1865159,14.4784719 12,15.7442305 L12,17 L20,17 L20,15.7428368 Z M21,17 L11,17 C8.71903751,17.3871713 0,19 0,24 L0,58 C0,61 3.62329102,63 6,63 L11,105 L21,105 L26,63 C28.5646973,63 32,61 32,58 L32,24 C32,19 23.3294915,17.3905067 21,17 Z" id="Combined-Shape" fill="#8C1478"></path>
+    </g>
+</svg>

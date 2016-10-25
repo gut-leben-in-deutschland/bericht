@@ -1,0 +1,10 @@
+category,facet,response,value
+Erwerbsstatus,Erwerbstätige,ja,0.946
+Erwerbsstatus,Erwerbstätige,weiß nicht,0.02
+Erwerbsstatus,Erwerbstätige,nein,0.033
+Erwerbsstatus,Arbeitslose,ja,0.808
+Erwerbsstatus,Arbeitslose,weiß nicht,0.065
+Erwerbsstatus,Arbeitslose,nein,0.127
+Erwerbsstatus,Rentner,ja,0.943
+Erwerbsstatus,Rentner,weiß nicht,0.027
+Erwerbsstatus,Rentner,nein,0.03

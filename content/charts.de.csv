@@ -1,0 +1,848 @@
+id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_label,source_url,source_annotation,footnote
+00-00-a,Dialogorte,PointMap,X2/event-points.csv,"{
+  ""ordinalAccessor"": ""type"",
+  ""colorRange"": [""#F2BF17"", ""#0778a5"", ""#8c1478""],
+  ""shape"": ""marker"",
+  ""legendTitle"": ""Veranstaltungstyp""
+}","Die Abbildung zeigt eine Deutschlandkarte, auf der anhand von kleinen Pinnnadeln die Veranstaltungsorte in ganz Deutschland markiert sind.",plotted,FALSE,TRUE,,,,,
+01-00-a,Anzahl der Pflegebedürftigen nach Art der Versorgung zum Jahresende 2013,Bar,01/00/categories.csv,"{
+  ""column"": ""category"",
+  ""columnSort"": ""none"",
+  ""y"": ""description"",
+  ""color"": ""type"",
+  ""colorSort"": ""none"",
+  ""sort"": ""none"",
+  ""highlight"": ""datum.type == 'Total'""
+}",,"deprecated, replaced by static",FALSE,FALSE,,,,Statistisches Bundesamt (2015): Pflegestatistik 2013 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.,
+01-00-b,Anzahl der Pflegebedürftigen nach Art der Versorgung zum Jahresende 2013,Static,01/00/categories.csv,,"DIe Abbildung zeigt, dass von den 2,6 Millionen Pflegebedürftigen im Jahr 2013 1,8 Millionen zu Hause versorgt und 800.000 vollstationär in Heimen betreut wurden. Von den Pflegebedürftigen, die zu Hause betreut wurden, wurden 1,2 Millionen alleine durch Angehörige und 600.000 zusammen mit ambulanten Pfelgediensten betreut.",plotted,FALSE,TRUE,,,,Statistisches Bundesamt (2015): Pflegestatistik 2013 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.,
+01-01-a,Entwicklung der Lebenserwartung bei Geburt,Line,01/01/regions.csv,"{
+  ""filter"": ""datum.at_age == 0 && datum.region != 'Gesamt' && datum.gender != 'Total'"",
+  ""unit"": ""Jahre"",
+  ""numberFormat"": "".1f"",
+  ""zero"": false,
+  ""colorRange"": [""#F2BF18"", ""#F28502"", ""#C40046"", ""#890D48""],
+  ""category"": ""datum.gender + ' ' + datum.region""
+}","Die Abbildung zeigt die Entwcklung der Lebenserwartung bei Geburt zwischen 1956 und 2013 differenziert nach Männern und Frauen und alten und neuen Bundesländern. Die Lebenserwartung ist in dem genannten Zeitraum für alle Gruppen deutlich gestiegen. Frauen hatten 2013 eine höhere Lebenserwartung als Männer und Menschen in den alten Bundesländern eine höhere Lebenserwartung als Menschen in den neuen Bundesländern. So betrug die Lebenserwartung 2013 für Frauen sowohl in den alten als auch den neuen Bundesländern rund 83 Jahre, für Männer lag die Lebenserwartung bei 78,2 in den alten und 77 Jahre in den neuen Bundesländern. Seit den späten 1950er Jahren steigt die Lebenserwartung bei Geburt in Deutschland kontinuierlich an, Jahr für Jahr um knapp drei Monate.",plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
+01-01-b,Zugewinne in der Lebenserwartung bei Geburt seit der Deutschen Wiedervereinigung nach Geschlecht 1990 und 2013,Slope,01/01/regions.csv,"{
+  ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2013) && datum.region != 'Gesamt' && datum.gender != 'Total'"",
+  ""numberFormat"": "".1f"",
+  ""unit"": ""Jahre"",
+  ""column"": ""gender"",
+  ""color"": ""region"",
+  ""zero"": false
+}","Die Abbildung zeigt, dass sich die Lebenserwartung von Frauen und Männer in den neuen und alten Bundesländern zwischen 1990 und 2013 deutlich erhöht hat. Der Anstieg der Lebenserwartung fiel bei den Männern insgesamt sträker aus. Die Lebenserwartung von Männer war 2013 aber nach wie vor niedriger als die von Frauen. Für Frauen lag die Lebenserwartung 2013 sowohl in den alten als auch den neuen Bundesländern bei rund 83 Jahren. DIe Lebenserwartung der Frauen in den neuen Bundesländern hat sich seit der Deutschen Einheit stark der von Frauen in den alten Bundesländern angenähert und lag 2013 auf dem gleichen Niveau. Auch die Lebenserwartung der Männer in den neuen Bundesländern hat sich der von Männern in den alten Bundesländern angenähert, hier gib es aber noch ein Differenz von 1,2 Jahren. So betrug die Lebenserwartung von Männern in den alten Bundesländer im Jahr 2013 73,2 Jahre und in den neuen Bundesländern 77 Jahre.",plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
+01-01-c,Zugewinne in der Lebenserwartung seit der Deutschen Wiedervereinigung 1990 und 2013,Slope,01/01/regions.csv,"{
+  ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2013) && datum.region == 'Gesamt' && datum.gender == 'Total'"",
+  ""numberFormat"": "".1f"",
+  ""unit"": ""Jahre"",
+  ""columns"": 1,
+  ""zero"": false
+}","Die Abbildung zeigt, dass die Lebenserwartung bei Geburt von 75,3 Jahren im Jahr 1990 auf 80,5 Jahre im Jahr 2013 angestiegen ist.",plotted,TRUE,FALSE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
+01-02-a,Entwicklung des Anteils an Fettleibigen nach Altersgruppen 1999 und 2013,Slope,01/02/age-groups.csv,"{
+  ""filter"": ""(datum.year == 1999 || datum.year == 2013) && datum.age_group != 'Zusammen' && datum.age_group != '65 und älter'"",
+  ""column"": ""gender"",
+  ""color"": ""age_group""
+}","Die Abbildung zeigt, dass sich der Anteil an Männern und Frauen mit einem BMI größer als 30 zwischen 1999 und 2013 in allen fünf dargestellten Altersgruppen zwischen 18 und 64 Jahren erhöht hat, wobei das Risiko für Fettleibigkeit mit zunehmendem Alter steigt. So ist der Anteil der Männer und Frauen mit einem BMI von 30 und höher in der Altersgruppe der 55- bis 64-Jährigen am höchsten. Jeder vierte Mann und jede fünfte Frau dieser Altersgruppe war im Jahr 2013 fettleibig. Bei jungen Erwachsenen (18 bis 24 Jahre) ist zwar nur etwa jede 20. Person fettleibig, aber in dieser Altersgruppe sind mit 65 Prozent die größten prozentualen Zuwächse zu beobachten. Dieser Befund ist auch mit Blick auf die Verbreitung von Fettleibigkeit unter Kindern und Jugendlichen relevant. ",plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen.",
+01-02-b,Entwicklung des Anteils an Fettleibigen nach Bundesländern 1999 und 2013,Slope,01/02/states.csv,"{
+  ""column"": ""category"",
+  ""color"": ""state"",
+  ""filter"": ""datum.year == 1999 || datum.year == 2013"",
+  ""numberFormat"": "".1%"",
+  ""columnFilter"": [
+    {""title"": ""Höchster Anteil"", ""test"": ""indexof(['Brandenburg', 'Mecklenburg-Vorpommern', 'Rheinland-Pfalz', 'Sachsen-Anhalt', 'Thüringen', 'Deutschland'], datum.state) > -1""},
+    {""title"": ""Niedrigster Anteil"", ""test"": ""indexof(['Baden-Württemberg', 'Berlin', 'Bremen', 'Hamburg', 'Schleswig-Holstein', 'Deutschland'], datum.state) > -1""}
+  ]
+}","Die Abbildung zeigt, das sich der Anteil an fettleibigen Erwachstenen zwischen 1999 und 2013 in Deutschland insgesamt aber auch in vielen Bundesländern erhöht hat. Der gesamtdeutsche Durchschnitt betrug 1999 11,5 und 2013 15,7 Prozent.Die Bundesländer Sachsen-Anhalt, Thüringen, Mecklenburg-Vorpommern, Brandenburg und Rheinland-Pfalz lagen 2013 über diesem Wert und hatten Anteile an fettleibigen Erwachsenen zwischen 17,1 und 20,6 Prozent. Die Bundesländer Baden-Würtemberg, Berlin, Hamburg, Bremen, Schleswig-Holstein lagen unter dem gesamtdeutschen Durchschnitt. Sie wiesen Anteile an Fettleibigen Erwachsenen zwischen 11,1 und 14,6 Prozent auf.",plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen. ",
+01-02-c,Entwicklung des Anteils an Fettleibigen 1999 und 2013,Slope,01/02/states.csv,"{
+  ""columns"": 1,
+  ""filter"": ""(datum.year == 1999 || datum.year == 2013) && datum.state == 'Deutschland'"",
+  ""numberFormat"": "".1%""
+}",,plotted,FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen. ",
+01-03-a,"Anzahl der Einwohner, die ein Hausarzt pro Kreisregion versorgt 2010 und 2015",KRegMap,01/03/density.csv,"{
+  ""filter"": ""datum.category == 'HAUS'"",
+  ""legendTitle"": ""Anzahl der Einwohner"",
+  ""column"": ""year"",
+  ""columns"": 2
+}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung.","Datenstand: Arztzahlen 31.12.2015, Bevölkerung 31.12.2013."
+01-03-b,Durchschnittliche Fahrtzeit mit PKW zum nächsten Hausarzt in einer Kreisregion in Minuten 2015,KRegMap,01/03/distance.csv,"{
+  ""legendTitle"": ""Fahrtzeit in Minuten mit PKW"",
+  ""numberFormat"": "".2f""
+}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung.","Datenstand: Arztzahlen 31.12.2015, Bevölkerung 31.12.2013."
+01-03-bb,Kürzeste und längste Anfahrtswege zum nächsten Hausarzt in Minuten 2015,Bar,01/03/distance.csv,"{
+  ""y"": ""name"",
+  ""category"": ""datum.value <= 2.78 ? 'Top 5' : (datum.value >= 9.61 ? 'Bottom 5' : '')"",
+  ""colorSort"": ""none"",
+  ""columns"": 2,
+  ""columnFilter"": [
+    {""title"": ""Kürzeste Fahrtzeit"", ""test"": ""datum.value <= 2.78""},
+    {""title"": ""Längste Fahrtzeit"", ""test"": ""datum.value >= 9.61""}
+  ],
+  ""numberFormat"": "".2f""
+}",,plotted,FALSE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung.","Datenstand: Arztzahlen 31.12.2015, Bevölkerung 31.12.2013."
+01-03-c,"Anzahl der Einwohner, die ein allgemeiner Facharzt pro Kreisregion versorgt 2015",KRegMap,01/03/density.csv,"{
+  ""legendTitle"": ""Anzahl der Einwohner"",
+  ""filter"": ""datum.category == 'ALLGFA'"",
+  ""column"": ""year"",
+  ""columns"": 2
+}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung.","Datenstand: Arztzahlen 31.12.2015, Bevölkerung 31.12.2013."
+01-05-a,"Anteil der Personen, die ihre Gesundheit als „weniger gut“ oder „schlecht“ bzw. „gut“ oder „sehr gut“ einschätzen, differenziert nach Einkommensklassen 2013",Lollipop,01/05/quintile.csv,"{
+  ""numberFormat"": ""%"",
+  ""column"": ""quintile"",
+  ""y"": ""category"",
+  ""color"": ""category"",
+  ""sort"": ""none""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",Berücksichtigt werden Personen in Privathaushalten zwischen 20 und 64 Jahren.
+02-01-a,Entwicklung der Arbeitslosenquote im Jahresdurchschnitt,Line,02/01/regions.csv,"{
+  ""color"": ""region"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
+02-01-b,Regionale Verteilung der Arbeitslosigkeit in Deutschland auf Kreisebene 2005 und 2015,KrsMap,02/01/districts.csv,"{
+  ""accessor"": ""value"",
+  ""filter"": ""datum.year == 2005 || datum.year == 2015"",
+  ""column"": ""year"",
+  ""columns"": 2,
+  ""krsYear"": 2015,
+  ""numberFormat"": "".1%"",
+  ""legendTitle"": ""Arbeitslosenquote""
+}",,plotted,TRUE,TRUE,,,,"Laufende Raumbeobachtung des BBSR, Bundesagentur für Arbeit.",
+02-01-c,Entwicklung der Langzeitarbeitslosigkeit,Line,02/01/long-term.csv,"{
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
+02-01-d,Entwicklung der Jugendarbeitslosigkeit,Line,02/01/youth.csv,"{
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
+02-03-a,Entwicklung der Erwerbstätigenquote der 20-64-Jährigen nach Geschlecht,Line,02/03/facets.csv,"{
+  ""filter"": ""datum.facet == ''"",
+  ""numberFormat"": "".1%"",
+  ""color"": ""gender"",
+  ""zero"": false
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+02-03-b,Entwicklung der Erwerbstätigenquote nach Migrationshintergrund,Slope,02/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Migrationshintergrund' && (datum.year == 2005 || datum.year == 2014)"",
+  ""column"": ""gender"",
+  ""columnSort"": ""none"",
+  ""columns"": 3,
+  ""color"": ""facet_value"",
+  ""bandSize"": 80
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+02-03-c,Entwicklung der Erwerbstätigenquote von Menschen mit und ohne Behinderung,Slope,02/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Behinderung'"",
+  ""columns"": 1,
+  ""endLabel"": true,
+  ""color"": ""facet_value""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",*Grad der Behinderung: 50 Prozent oder höher.
+02-04-aa,Entwicklung des Anteils atypischer Beschäftigung an abhängiger Beschäftigung,Line,02/04/percentages.csv,"{
+  ""filter"": ""datum.category == 'Insgesamt'"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+02-04-ab,Entwicklung des Anteils der unterschiedlichen Formen atypischer Beschäftigung an abhängiger Beschäftigung,Line,02/04/percentages.csv,"{
+  ""filter"": ""datum.category != 'Insgesamt'"",
+  ""column"": ""category"",
+  ""minInnerWidth"": 250,
+  ""columns"": 2,
+  ""columnSort"": ""none"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.","Es gilt zu beachten, dass die verschiedenen Formen von atypischer Beschäftigung nicht trennscharf sind und atypisch Beschäftigte doppelt gezählt werden können, bspw. wenn eine Person in Teilzeit arbeitet und befristet beschäftigt ist. "
+02-04-b,Anzahl atypisch und normal Beschäftigter 1991 bis 2014,TimeBar,02/04/absolute.csv,"{
+  ""filter"": ""datum.gender == 'Insgesamt'"",
+  ""color"": ""category"",
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+02-04-c,Atypische Beschäftigungsformen nach Geschlecht 2014,Bar,02/04/absolute.csv,"{
+  ""filter"": ""datum.gender != 'Insgesamt' && datum.year == 2014"",
+  ""color"": ""gender"",
+  ""numberFormat"": ""s"",
+  ""y"": ""gender"",
+  ""column"": ""category"",
+  ""columns"": 2,
+  ""highlight"": ""datum.category == 'Atypisch Beschäftigte'""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+02-05-a,Entwicklung der Nettolöhne und –gehälter je Arbeitnehmer (preisbereinigt),Line,02/05/years.csv,"{
+  ""numberFormat"": ""s"",
+  ""zero"": false,
+  ""height"": 120
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+02-05-b,Entwicklung der Tarifbindung bei Beschäftigten nach Flächentarifverträgen ,Line,02/05/collective-agreements.csv,"{
+  ""color"": ""region"",
+  ""numberFormat"": "".0%""
+}",,plotted,TRUE,TRUE,,,,IAB Betriebspanel 2015.,
+02-05-c,Unbereinigte und bereinigte Entgeltlücke zwischen Männern und Frauen,Slope,02/05/gender-gap.csv,"{
+  ""column"": ""category"",
+  ""columnSort"": ""none"",
+  ""color"": ""region"",
+  ""numberFormat"": "".0%""
+}",,plotted,TRUE,TRUE,,,,Statistisches Bundesamt.,Die Berechnung der bereinigten Entgeltlücke zwischen Männern und Frauen erfolgt nur alle vier Jahre im Rahmen der Verdienststrukturerhebung. Die Zahlen für 2014 wurden noch nicht veröffentlicht. 
+02-06-a,Entwicklung der Arbeitszufriedenheit nach Einkommensgruppen,Line,02/06/income.csv,"{
+  ""numberFormat"": "".2f"",
+  ""color"": ""category"",
+  ""confidence"": 95
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",Die Arbeitszufriedenheit wird auf einer Skala von 0 (sehr unzufrieden) bis 10 (sehr zufrieden) gemessen.
+03-01-a,Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II nach Altersgruppen und Geschlecht 2014,Bar,03/01/age-groups.csv,"{
+  ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Geschlecht'"",
+  ""color"": ""facet_value"",
+  ""colorSort"": ""none"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet_value"",
+  ""sort"": ""none"",
+  ""column"": ""age_group"",
+  ""columnSort"": ""none"",
+  ""columns"": 3
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+03-01-b,Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II nach Altersgruppen und Migrationshintergrund 2014,Bar,03/01/age-groups.csv,"{
+  ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Migrationshintergrund'"",
+  ""color"": ""facet_value"",
+  ""colorSort"": ""none"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet_value"",
+  ""sort"": ""none"",
+  ""column"": ""age_group"",
+  ""columnSort"": ""none"",
+  ""columns"": 3
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+03-02-a,Entwicklung des Anteils der frühen Schulabgänger an allen Personen im Alter von 18 bis 24 Jahren nach Geschlecht,Line,03/02/facets.csv,"{
+  ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Geschlecht'"",
+  ""color"": ""facet_value"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+03-02-b,Entwicklung des Anteils der frühen Schulabgänger an allen Personen im Alter von 18 bis 24 Jahren nach Migrationshintergrund,Line,03/02/facets.csv,"{
+  ""filter"": ""year(datum.year) >= 2005 && (datum.facet == 'Insgesamt' || datum.facet == 'Migrationshintergrund')"",
+  ""color"": ""facet_value"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+03-03-a,Bildungsmobilität zwischen Eltern und Kindern 2014,Bar,03/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Insgesamt'"",
+  ""y"": ""children"",
+  ""sort"": ""none"",
+  ""color"": ""children"",
+  ""colorSort"": ""none"",
+  ""column"": ""parents"",
+  ""columnSort"": ""none"",
+  ""columns"": 3,
+  ""numberFormat"": ""%""
+}",,"deprecated, replaced by static",FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
+03-03-a14,Bildungsmobilität zwischen Eltern und Kindern 2014,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
+03-03-a95,Bildungsmobilität zwischen Eltern und Kindern 1995,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
+03-03-b,Bildungsmobilität zwischen Eltern und Kindern in Familien mit Migrationshintergrund 2014,Bar,03/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Ledige Kinder in Familien mit Migrationshintergrund'"",
+  ""y"": ""children"",
+  ""sort"": ""none"",
+  ""color"": ""children"",
+  ""colorSort"": ""none"",
+  ""column"": ""parents"",
+  ""columnSort"": ""none"",
+  ""columns"": 3,
+  ""numberFormat"": ""%""
+}",,"deprecated, replaced by static",FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
+03-03-b14,Bildungsmobilität zwischen Eltern und Kindern in Familien mit Migrationshintergrund 2014,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
+03-04-a,Weiterbildungsbeteiligung nach Altersgruppen 2007 und 2014,Slope,03/04/age-groups.csv,"{
+  ""columns"": 3,
+  ""column"": ""age_group"",
+  ""columnSort"": ""none""
+}",,plotted,TRUE,TRUE,,,,Adult Education Survey 2007 und 2014.,Bis 2007: 19- bis 64-Jährige; ab 2010: 18- bis 64-Jährige.
+03-04-b,Themenstruktur der verschiedenen Formen der Weiterbildung 2014,Bar,03/04/categories.csv,"{
+  ""color"": ""type"",
+  ""colorSort"": ""none"",
+  ""numberFormat"": ""%"",
+  ""sort"": ""none"",
+  ""column"": ""type"",
+  ""y"": ""category"",
+  ""columns"": 3,
+  ""minInnerWidth"": 250
+}",,plotted,TRUE,TRUE,,,,Adult Education Survey 2014.,
+04-01-a,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit von Frauen und Männern 2000 bis 2014",Slope,04/01/categories.csv,"{
+  ""xScale"": ""time"",
+  ""unit"": ""Wochenstunden"",
+  ""filter"": ""(datum.year == 2000 || datum.year == 2005 || datum.year == 2010 || datum.year == 2014) && datum.facet == 'gender'"",
+  ""column"": ""facet_value"",
+  ""color"": ""category"",
+  ""numberFormat"": "".1f"",
+  ""zero"": false,
+  ""confidence"": 95
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+04-01-b,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit in ost- und westdeutschen Bundesländern 2014",Lollipop,04/01/categories.csv,"{
+  ""numberFormat"": "".2f"",
+  ""filter"": ""datum.year == 2014 && datum.facet == 'region'"",
+  ""y"": ""facet_value"",
+  ""column"": ""category"",
+  ""color"": ""facet_value""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+04-01-c,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit nach HH-Typen und Geschlecht",,,,,data missing,,,,,,,
+04-01-d,Tatsächliche Arbeitszeit von Männern und Frauen 2014,Lollipop,04/01/categories.csv,"{
+  ""unit"": ""Wochenstunden"",
+  ""filter"": ""datum.year == 2014 && datum.facet == 'gender' && datum.category == 'Tatsächliche Arbeitszeit'"",
+  ""y"": ""facet_value"",
+  ""column"": ""category"",
+  ""color"": ""facet_value"",
+  ""numberFormat"": "".2f""
+}",,plotted,FALSE,FALSE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+04-02-a,Entwicklung der Ganztagsquoten,Line,04/02/preschool.csv,"{
+  ""numberFormat"": "".1%"",
+  ""color"": ""group""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Statistiken der Kinder- und Jugendhilfe.",
+04-02-b,Ganztagsquoten der Unter-3- und der 3- bis Unter-6-Jährigen auf Kreisebene 2015,KrsMap,04/02/districts.csv,"{
+  ""column"": ""group"",
+  ""columns"": 2,
+  ""numberFormat"": "".1%"",
+  ""filter"": ""datum.krs !== 'DE'"",
+  ""legendTitle"": ""Ganztagsquote""
+}",,"plotted, needs additional year facet, needs data update from Input/160704/Anfrage BKAmt.xlsx",TRUE,TRUE,,,,"Statistische Ämter des Bundes und der Länder, Statistiken der Kinder- und Jugendhilfe.",
+04-02-c,Entwicklung des Anteils der Kinder im Grundschulalter in Ganztagsschulen,Line,04/02/primary-school.csv,"{
+  ""numberFormat"": "".1%"",
+  ""xScale"": ""ordinal"",
+  ""filter"": ""datum.group == 'Anteil der Kinder in Ganztagsgrundschulen'""
+}",,plotted,TRUE,TRUE,,,,"Sekretariat der Ständigen Konferenz der Kultusminister der Länder, Zusammenstellung Forschungsverbund DJI/TU Dortmund, 2016.",
+04-02-d,Entwicklung des Anteils der Kinder im Grundschulalter in Horten,Line,04/02/primary-school.csv,"{
+  ""filter"": ""datum.group == 'Anteil der Kinder im Grundschulalter in Horten'"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Statistiken der Kinder- und Jugendhilfe.",Erfasst werden Schulkinder unter elf Jahren.
+04-03-a,Einschränkung der Erwerbstätigkeit wegen Kinderbetreuung und Pflege 2006 bis 2014,TimeBar,04/03/reasons.csv,"{
+  ""filter"": ""datum.category == 'Einschränkung der Erwerbstätigkeit'"",
+  ""color"": ""reason"",
+  ""numberFormat"": ""%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Arbeitskräfteerhebung. ","Anteil der Teilzeitbeschäftigten, die als Hauptgrund für ihre Teilzeittätigkeit die Betreuung von pflegebedürftigen Personen, Menschen mit Behinderung oder Kindern angeben."
+04-03-b,Aufgabe der Erwerbstätigkeit wegen Kinderbetreuung und Pflege 2006 bis 2014,TimeBar,04/03/reasons.csv,"{
+  ""filter"": ""datum.category == 'Aufgabe der Erwerbstätigkeit'"",
+  ""color"": ""reason"",
+  ""numberFormat"": ""%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Arbeitskräfteerhebung. ","Anteil der Nichterwerbstätigen, die als Hauptgrund für die Beendigung der letzten Tätigkeit die Betreuung von pflegebedürftigen Personen, Menschen mit Behinderung oder Kindern angeben."
+04-04-aa,Entwicklung des Anteils der Erwerbstätigen mit einem Arbeitsweg über 30 Minuten,Line,04/04/germany.csv,"{
+  ""filter"": ""datum.region == 'Deutschland' && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger'""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+04-04-ab,Entwicklung des Anteils der Erwerbstätigen mit einem Arbeitsweg über 30 Minuten nach Lagetypen,Line,04/04/germany.csv,"{
+  ""filter"": ""datum.region != 'Deutschland' && datum.year >= 2000 && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger'"",
+  ""column"": ""region"",
+  ""columnSort"": ""none"",
+  ""columns"": 2
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+04-04-b,Nutzung verschiedener Verkehrsmittel durch Pendler 2000 und 2012,Slope,04/04/germany.csv,"{
+  ""filter"": ""(datum.year == 2000 || datum.year == 2012) && datum.facet == 'Verkehrsmittel' && (datum.facet_value == 'Pkw' || datum.facet_value == 'Öffentliches Verkehrsmittel' || datum.facet_value == 'Fahrrad')"",
+  ""column"": ""region"",
+  ""columnSort"": ""none"",
+  ""color"": ""facet_value"",
+  ""columns"": 3
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.","Ballungsräume: ""sehr zentral"", Einzugsgebiete von Großstädten: ""zentral"", ländlicher Raum: ""peripher und sehr peripher""
+"
+04-04-c,Nutzung verschiedener Verkehrsmittel durch Fernpendlern 2000 bis 2012,Slope,04/04/germany.csv,"{
+  ""filter"": ""(datum.year == 2000 || datum.year == 2012) && datum.facet == 'Fernpendler'"",
+  ""column"": ""region"",
+  ""columnSort"": ""none"",
+  ""color"": ""facet_value"",
+  ""bandSize"": 65
+}",,plotted,TRUE,TRUE,,,,Statistisches Bundesamt.,
+05-01-a,Entwicklung der Haushaltnettoseinkommen in Euro,Line,05/01/region.csv,"{
+  ""confidence"": 95,
+  ""category"": ""datum.region"",
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",Haushaltsnettoeinkommen in Preisen von 2010.
+05-02-a,Gini-Koeffizient der Haushaltseinkommen 1991 bis 2013,Line,05/02/germany.csv,"{
+  ""confidence"": 95,
+  ""category"": ""datum.category"",
+  ""numberFormat"": "".2f"",
+  ""filter"": ""datum.category == 'Gini nach Steuern und Transfers'""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+05-02-b,Gini-Koeffizient der Haushaltsnettoeinkommen im OECD-Vergleich 2012,Bar,05/02/oecd.csv,"{
+  ""y"": ""country"",
+  ""numberFormat"": "".3f"",
+  ""category"": ""datum.country_code == 'DEU' ? '1' : '0'""
+}",,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/inequality/income-inequality.htm,Income Inequality Indicator,"Für Kanada, Chile und Japan gibt es noch keine Werte gemäß der neuen OECD Einkommensdefinition von 2012."
+05-02-c,Gini-Koeffizient der Haushaltsnettoeinkommen vor und nach Steuern und Transfers 1991 bis 2013,Line,05/02/germany.csv,"{
+  ""confidence"": 95,
+  ""category"": ""datum.category"",
+  ""numberFormat"": "".2f""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1",
+05-02-d,Abgabenquote im internationalen Vergleich in Prozent des BIP 2014,Bar,05/02/contribution-ratio.csv,"{
+  ""numberFormat"": "".0%"",
+  ""y"": ""country"",
+  ""category"": ""datum.country == 'Deutschland' ? '1' : '0'""
+}",,plotted,TRUE,TRUE,,,,OECD 2015. Revenue Statistics 1965-2014. Bundesministerium der Finanzen 2016. Die wichtigsten Steuern im internationalen Vergleich 2015.,"* Daten für Niederlande, Japan und Polen Stand 2013."
+05-03-a,Gini-Koeffizienten der Vermögen in EU-15,Bar,05/03/euro15.csv,"{
+  ""y"": ""country"",
+  ""numberFormat"": "".2f"",
+  ""category"": ""datum.country_code == 'DE' ? '1' : '0'"",
+  ""sort"": ""descending""
+}",,plotted,TRUE,TRUE,,,,Sierminska und Medgyesi 2013. The Distributions of Wealth Between Households. European Commission Research Note 11/2013. ,"Die Daten wurden in einer für den Euro-Raum harmonisierten Haushaltsbefragung, dem Eurosystem Household Finance and Consumption Survey erhoben. Die Befragung fand in den Ländern in verschiedenen Jahren zwischen 2008 und 2011 statt."
+05-04-a,Entwicklung der Armutsrisikoquote,Line,05/04/groups.csv,"{
+  ""confidence"": 95,
+  ""numberFormat"": "".1%"",
+  ""filter"": ""datum.facet == 'Alle'""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+05-04-b,Armutsrisikoquote für ausgewählte Gruppen 2013,Lollipop,05/04/groups.csv,"{
+  ""numberFormat"": ""%"",
+  ""filter"": ""datum.year == '2013' && ((datum.facet == 'Haushaltstyp' && (datum.facet_value == 'Alleinerziehend 1 Kind' || datum.facet_value == 'Alleinerziehend 2+ Kinder' || datum.facet_value == 'Paar 3+ Kinder')) || datum.facet == 'Herkunftsland' || datum.facet == 'Region' || datum.facet == 'Alle')"",
+  ""color"": ""facet"",
+  ""y"": ""facet_value"",
+  ""column"": ""facet"",
+  ""highlight"": ""datum.facet == 'Alle'""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+05-04-c,Armutsrisikoquote nach Altersgruppen 2013,Lollipop,05/04/groups.csv,"{
+  ""y"": ""facet_value"",
+  ""sort"": ""none"",
+  ""numberFormat"": ""%"",
+  ""filter"": ""datum.year == '2013' && datum.facet == 'Altersgruppen'""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+05-04-d,Armutsrisikoquote vor und nach Steuern und Transfers 1991 bis 2013,Line,05/04/groups.csv,"{
+  ""confidence"": 95,
+  ""numberFormat"": "".0%"",
+  ""filter"": ""datum.facet == 'Alle' || datum.facet == 'Umverteilung'"",
+  ""category"": ""datum.facet == 'Umverteilung' ? datum.facet_value : 'Nach Steuern und Transfers'""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+05-05-a,Entwicklung des Altenquotienten bis 2013 und Prognose bis 2060,Line,05/05/scenario.csv,"{
+  ""numberFormat"": "".1f"",
+  ""color"": ""scenario"",
+  ""category"": ""datum.scenario + datum.type"",
+  ""stroke"": ""datum.type == 'Prognose'"",
+  ""labelFilter"": ""datum.type == 'Prognose'""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Bevölkerungsfortschreibung und 13. koordinierte Bevölkerungsvorausrechnung.",
+06-01-a,Kriminalitätsfurcht 2012,Bar,06/01/facets.csv,"{
+  ""filter"": ""datum.facet == ''"",
+  ""numberFormat"": ""%"",
+  ""color"": ""concern"",
+  ""colorRange"": ""diverging2"",
+  ""colorLegend"": true,
+  ""y"": ""category"",
+  ""domain"": [0, 1],
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""highlight"": ""datum.category == 'Allgemein'""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
+06-01-b,Kriminalitätsfurcht nach Geschlecht 2012,Bar,06/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Geschlecht'"",
+  ""numberFormat"": ""%"",
+  ""color"": ""concern"",
+  ""colorRange"": ""diverging2"",
+  ""y"": ""facet_value"",
+  ""domain"": [0, 1],
+  ""column"": ""category"",
+  ""columns"": 2,
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""highlight"": ""datum.category == 'Allgemein'""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
+06-01-c,Kriminalitätsfurcht nach Altersgruppen 2012,Bar,06/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Alter'"",
+  ""numberFormat"": ""%"",
+  ""color"": ""concern"",
+  ""colorRange"": ""diverging2"",
+  ""y"": ""category"",
+  ""domain"": [0, 1],
+  ""column"": ""facet_value"",
+  ""columns"": 3,
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""highlight"": ""datum.category == 'Allgemein'""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
+06-01-d,Anteil der Bevölkerung mit allgemeiner Kriminalitätsfurcht (ziemlich und sehr stark) in den Bundesländern 2012,StatesMap,06/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Bundesland'"",
+  ""featureId"": ""datum.facet_value"",
+  ""numberFormat"": "".1%"",
+  ""legendTitle"": ""Ziemlich und sehr stark""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,
+06-02-a,Erfasste und aufgeklärte Fälle von Gewaltkriminalität 1993 bis 2015,Line,06/02/categories.csv,"{
+  ""filter"": ""datum.category == 'Gewaltkriminalität' && datum.type != 'Aufklärungsquoten'"",
+  ""numberFormat"": ""s"",
+  ""color"": ""type""
+}",,plotted,TRUE,TRUE,,,,PKS.,Daten für Bundesrepublik Deutschland (ost- und westdeutsche Bundesländer) erst ab 1993 verfügbar.
+06-02-b,Erfasste und aufgeklärte Fälle von Diebstahlkriminalität 1993 bis 2015,Line,06/02/categories.csv,"{
+  ""filter"": ""datum.category == 'Diebstahlkriminalität' && datum.type != 'Aufklärungsquoten'"",
+  ""numberFormat"": ""s"",
+  ""color"": ""type""
+}",,plotted,TRUE,TRUE,,,,PKS.,Daten für Bundesrepublik Deutschland (ost- und westdeutsche Bundesländer) erst ab 1993 verfügbar.
+06-02-c,Gewaltkriminalität nach Bundesländern 2015,StatesMap,06/02/states.csv,"{
+  ""filter"": ""datum.year == 2015 && datum.category == 'Gewaltkriminalität'"",
+  ""numberFormat"": ""d"",
+  ""legendTitle"": ""Fälle pro 100.000 Einwohner""
+}",,plotted,TRUE,TRUE,,,,PKS 2015.,
+06-02-d,Diebstahlkriminalität nach Bundesländern 2015,StatesMap,06/02/states.csv,"{
+  ""filter"": ""datum.year == 2015 && datum.category == 'Diebstahlkriminalität'"",
+  ""numberFormat"": ""d"",
+  ""legendTitle"": ""Fälle pro 100.000 Einwohner""
+}",,plotted,TRUE,TRUE,,,,PKS 2015.,
+06-03-a,Bewertung der örtlichen Polizeiarbeit allgemein 2012,Bar,06/03/facets.csv,"{
+  ""filter"": ""datum.facet == ''"",
+  ""numberFormat"": ""%"",
+  ""color"": ""rating"",
+  ""colorRange"": ""diverging2"",
+  ""y"": ""facet"",
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""barStyle"": ""large"",
+  ""highlight"": ""true""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,N = 1.899
+06-03-b,Bewertung der örtlichen Polizeiarbeit 2012,Bar,06/03/facets.csv,"{
+  ""filter"": ""datum.facet != ''"",
+  ""numberFormat"": ""%"",
+  ""color"": ""rating"",
+  ""colorRange"": ""diverging1"",
+  ""y"": ""facet"",
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""barStyle"": ""large""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"N = 1.059 (keine Opfererfahrung), 814 (Opfererfahrung), 447 (zufrieden mit letztem Polizeikontakt), 73 (unzufrieden mit letztem Polizeikontakt), 100 (enge nachbarschaftliche Bindung), 1.161 (geringe nachbarschaftliche Bindung)."
+06-04-a,Hasskriminalität gesamt und fremdenfeindlich 2001 bis 2015,Line,06/04/categories.csv,"{
+  ""filter"": ""datum.category != 'Gewalttätig'"",
+  ""column"": ""category"",
+  ""columnSort"": ""none"",
+  ""color"": ""category"",
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"Statistik zur politisch motivierten Kriminalität (PMK), BMI.",
+07-00-a,Bevölkerungsdichte nach Kreisen zum Jahresende 2014,KrsMap,07/00/density.csv,"{
+  ""legendTitle"": ""Bevölkerung je km²"",
+  ""thresholds"": [100, 200, 400, 600, 800]
+}",,plotted,FALSE,TRUE,,,,"Statistisches Bundesamt, Gemeindeverzeichnis.","Kreisfreie Städte und Landkreise nach Fläche, Bevölkerung und Bevölkerungsdichte am 31.12.2014. "
+07-00-b,Bevölkerungsentwicklung nach Kreisen 2012 bis 2035,KrsMap,07/00/districts.csv,"{
+  ""legendTitle"": ""Bevölkerungsentwicklung in Prozent"",
+  ""numberFormat"": "".0%""
+}",,plotted,FALSE,TRUE,,,,"BBSR-Bevölkerungsprognose, Berechnungen: BIB.",
+07-01-a,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte 1991 bis 2013,Line,07/01/facets.csv,"{
+  ""confidence"": 95,
+  ""filter"": ""datum.facet == 'Gesamt'""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",Seit 2013 wird in der SOEP Befragung genauer nach den einzelnen Posten der Nebenkostenrechnung gefragt. Die Veränderung von 2012 bis 2013 kann auf diese methodische Anpassung zurückzuführen sein.
+07-01-b,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte differenziert nach Einkommensklassen 2013,Lollipop,07/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Einkommensposition' && datum.year == '2013'"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet_value"",
+  ""sort"": ""none""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+07-01-c,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte differenziert nach Haushaltstypen 2013,Lollipop,07/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Haushaltstyp' && datum.year == '2013'"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet_value""
+}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+07-02-a,"Fahrtzeit zu Mittel- und Oberzentren 2012, Motorisierter Individualverkehr",PointMap,07/02/center-points.csv,"{
+  ""geotiff"": ""07-02-miv"",
+  ""accessor"": ""center"",
+  ""ordinalAccessor"": ""center"",
+  ""shape"": ""square"",
+  ""legendTitle"": ""Zentralörtliche Einstufung"",
+  ""sizes"": [5, 10],
+  ""height"": 350,
+  ""colorRange"": [""#FE5072"", ""#810019""],
+  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegend"": [
+    {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
+    {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
+    {""color"": ""rgb(99,180,228)"", ""label"": ""20 - 30""},
+    {""color"": ""rgb(67,153,200)"", ""label"": ""30 - 40""},
+    {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
+    {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
+  ]
+}",,deprecated,FALSE,FALSE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (Stand: 31. Dezember 2012)","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
+typische Ausstattung: Fachhandel, größere Banken und Kreditinstitute, 
+Fach-/Hochschule, Schwerpunktkrankenhaus, wissenschaftliche Bibliothek, 
+Sportstadion, Fernbahnhof."
+07-02-b,"Fahrtzeit zu Mittel- und Oberzentren 2012, Öffentlicher Verkehr",PointMap,07/02/center-points.csv,"{
+  ""geotiff"": ""07-02-oev"",
+  ""accessor"": ""center"",
+  ""ordinalAccessor"": ""center"",
+  ""shape"": ""square"",
+  ""legendTitle"": ""Zentralörtliche Einstufung"",
+  ""sizes"": [5, 10],
+  ""height"": 350,
+  ""colorRange"": [""#FE5072"", ""#810019""],
+  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegend"": [
+    {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
+    {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
+    {""color"": ""rgb(99,180,228)"", ""label"": ""20 - 30""},
+    {""color"": ""rgb(67,153,200)"", ""label"": ""30 - 40""},
+    {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
+    {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
+  ]
+}",,deprecated,FALSE,FALSE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (Stand: 31. Dezember 2012)","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
+typische Ausstattung: Fachhandel, größere Banken und Kreditinstitute, 
+Fach-/Hochschule, Schwerpunktkrankenhaus, wissenschaftliche Bibliothek, 
+Sportstadion, Fernbahnhof."
+07-02-c,Fahrtzeit zu Mittel- und Oberzentren 2012,PointMap,07/02/center-points.csv,"{
+  ""accessor"": ""center"",
+  ""ordinalAccessor"": ""center"",
+  ""shape"": ""square"",
+  ""legendTitle"": ""Zentralörtliche Einstufung"",
+  ""sizes"": [5, 10],
+  ""height"": 350,
+  ""colorRange"": [""#FE5072"", ""#810019""],
+  ""columns"": 2,
+  ""columnFilter"": [
+    {
+      ""title"": ""Motorisierter Individualverkehr"",
+      ""test"": ""true"",
+      ""geotiff"": ""07-02-miv""
+    },
+    {
+      ""title"": ""Öffentlicher Verkehr"",
+      ""test"": ""true"",
+      ""geotiff"": ""07-02-oev""
+    }
+  ],
+  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegend"": [
+    {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
+    {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
+    {""color"": ""rgb(99,180,228)"", ""label"": ""20 - 30""},
+    {""color"": ""rgb(67,153,200)"", ""label"": ""30 - 40""},
+    {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
+    {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
+  ]
+}",,plotted,TRUE,TRUE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (Stand: 31. Dezember 2012)","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
+typische Ausstattung: Fachhandel, größere Banken und Kreditinstitute, 
+Fach-/Hochschule, Schwerpunktkrankenhaus, wissenschaftliche Bibliothek, 
+Sportstadion, Fernbahnhof."
+07-03-a,Verfügbarkeit von Internetzugängen mit mindestens 50 Mbit/s auf Gemeindeebene,GemMap,07/03/municipalities.csv,"{
+  ""filter"": ""datum.year == '2010' || datum.year == '2015'"",
+  ""column"": ""year"",
+  ""columns"": 2,
+  ""numberFormat"": "".0%"",
+  ""legendTitle"": ""Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s""
+}",,"deprecated, print only",FALSE,FALSE,"© BMVI, TÜV Rheinland",,,"BMVI, TÜV Rheinland.",Graue Flächen sind nicht-bewohnte Gemeinden in Deutschland.
+07-03-b,Verfügbarkeit von Internetzugängen mit mindestens 50 Mbit/s in Deutschland auf Kreisebene,KrsMap,07/03/districts.csv,"{
+  ""filter"": ""datum.year == '2010' || datum.year == '2015'"",
+  ""column"": ""year"",
+  ""columns"": 2,
+  ""numberFormat"": "".0%"",
+  ""legendTitle"": ""Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s""
+}",,plotted,TRUE,TRUE,"© BMVI, TÜV Rheinland",,,"BMVI, TÜV Rheinland.",
+08-01-a,Familien- und Lebensformen 1996 und 2014,Slope,08/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Erwachsene'"",
+  ""columns"": 1,
+  ""numberFormat"": "".1%"",
+  ""color"": ""category""
+}",,"plotted, new data available",TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.","Das Gesetz über die eingetragene Lebenspartnerschaft trat erst 2001 in Kraft, so dass für 1996 ausschließlich gleichgeschlechtliche Lebenspartnerschaften berücksichtigt wurden."
+08-01-b,Anteil der im Haushalt lebenden ledigen Kinder an der jeweiligen Familien- und Lebensform 1996 und 2014,Slope,08/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Kinder'"",
+  ""column"": ""region"",
+  ""columnSort"": ""none"",
+  ""bandSize"": ""70"",
+  ""color"": ""category""
+}",,"plotted, new data available",TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+08-01-c,Familien- und Lebensformen in Deutschland 2014,Bar,08/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Erwachsene' && datum.year ==  '2014'"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet"",
+  ""color"": ""category"",
+  ""colorLegend"": true
+}",,"plotted, new data available",FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus.",
+08-02-a,"Anteil der Personen, die angeben, Hilfe durch andere erhalten zu können 2013 ",Bar,08/02/facets.csv,"{
+  ""numberFormat"": ""%"",
+  ""y"": ""facet"",
+  ""domain"": [0, 1],
+  ""sort"": ""none"",
+  ""color"": ""response"",
+  ""colorSort"": ""none"",
+  ""colorRange"": ""diverging1n"",
+  ""columns"": 3,
+  ""column"": ""category"",
+  ""colorLegend"": true,
+  ""highlight"": ""datum.facet == 'Insgesamt'""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, EU-SILC.",
+08-03-a,Entwicklung des Anteils ehrenamtlich Engagierter insgesamt und nach Altersgruppen,Line,08/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Alter'"",
+  ""numberFormat"": "".1%"",
+  ""highlight"": ""datum.facet_value == 'Insgesamt'"",
+  ""color"": ""facet_value"",
+  ""columnSort"": ""none"",
+  ""columnFilter"": [
+    {""title"": ""Insgesamt"", ""test"": ""datum.facet_value == 'Insgesamt'""},
+    {""title"": ""Nach Altersgruppen"", ""test"": ""datum.facet_value != 'Insgesamt'""}
+  ],
+  ""endLabel"": true
+}",,plotted,TRUE,TRUE,,,,Freiwilligensurveys 1999 bis 2014.,
+08-03-b,Ehrenamtliches Engagement nach Einzelbereichen 2014 ,Bar,08/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Einzelbereichen' && (datum.year == '2014' || datum.year == '1999')"",
+  ""column"": ""facet_value"",
+  ""columns"": 2,
+  ""y"": ""year"",
+  ""sort"": ""none"",
+  ""color"": ""year"",
+  ""minInnerWidth"": 270,
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,Freiwilligensurvey 2014.,
+08-03-c,Ehrenamtlich Engagierte nach Art des Migrationshintergrundes 2014,Bar,08/03/migration-background.csv,"{
+  ""color"": ""citizenship"",
+  ""numberFormat"": ""%"",
+  ""y"": ""category"",
+  ""column"": ""citizenship""
+}",,plotted,TRUE,TRUE,,,,Freiwilligensurvey 2014.,
+08-04-a,Mitglieder in Sportvereinen nach Altersgruppen und Region 2015,Bar,08/04/regions.csv,"{
+  ""color"": ""region"",
+  ""numberFormat"": ""%"",
+  ""y"": ""region"",
+  ""sort"": ""none"",
+  ""column"": ""age"",
+  ""columnSort"": ""none"",
+  ""columns"": 3,
+  ""highlight"": ""datum.age == 'Insgesamt'""
+}",,plotted,TRUE,TRUE,,,,"Deutscher Olympischer Sportbund, Bestandserhebung 2015.",Ausgewiesen wird der Anteil der Mitglieder in den Sportvereinen der Landessportbünde an der jeweiligen Altersgruppe. Stand: 1. Januar 2015.
+08-04-b,Mitglieder in Sportvereinen nach Altersgruppen 2015,Bar,08/04/regions.csv,"{
+  ""numberFormat"": ""%"",
+  ""filter"": ""datum.region == 'Deutschland'"",
+  ""y"": ""age"",
+  ""sort"": ""none"",
+  ""highlight"": ""datum.age == 'Insgesamt'""
+}",,plotted,FALSE,FALSE,,,,"Deutscher Olympischer Sportbund, Bestandserhebung 2015.",
+09-01-a,Entwicklung des Bruttoinlandsproduktes pro Kopf in Euro (preisbereinigt),Line,09/01/years.csv,"{
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+09-02-a,Entwicklung der Bruttoanlageinvestitionen in Prozent des BIP,Line,09/02/sectors.csv,"{
+  ""filter"": ""datum.sector == 'gesamt'"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+09-02-b,Entwicklung der Bruttoanlageinvestitionen in Prozent des BIP nach staatlichem und privatem Sektor,Line,09/02/sectors.csv,"{
+  ""filter"": ""datum.sector != 'gesamt'"",
+  ""numberFormat"": "".1%"",
+  ""color"": ""sector""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+09-03-a,Entwicklung der Schuldenstandsquote,Line,09/03/years.csv,"{
+  ""yAnnotations"": [
+    {""value"": 0.6, ""label"": ""Maastricht-Referenzwert""}
+  ]
+}",,plotted,TRUE,TRUE,,Bundesbank 2016.,https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Oeffentliche_Finanzen_in_Deutschland/oeffentliche_finanzen_in_deutschland_details_value_node.html?tsId=BBK01.BJ9959&listId=www_v27_web011_21a,Verschuldungen gemäß Maastricht-Vertrag – Deutschland – Gesamtstaat in % des BIP. ,Vorläufige Werte für 2014 und 2015. Stand 19.09.2016.
+09-04-a,Entwicklung der Ausgaben für Forschung und Entwicklung in Prozent des BIP,Line,09/04/fue.csv,"{
+  ""color"": ""country"",
+  ""numberFormat"": "".2%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Bundesministerium für Bildung und Forschung, Stifterverband-Wissenschaftsstatistik.",
+09-04-b,Entwicklung der Innovatorenquote,Line,09/04/inno.csv,,,plotted,FALSE,TRUE,,,,"Mannheimer Innovationspanel 2015, ZEW.
+",Mit der Einführung des Unternehmensregisters hat sich seit 2006 die Grundgesamtheit für die Stichprobenziehung der Unternehmen geändert.
+09-05-a,Entwicklung der Dauer von Unternehmensgründungen in Tagen,Line,09/05/days.csv,"{
+  ""unit"": ""Tage"",
+  ""numberFormat"": "".1f""
+}",,plotted,TRUE,TRUE,,,,"EU-Kommission, Generaldirektion Wachstum, SME Performance Review.",
+09-05-b,Entwicklung der Kosten von Unternehmensgründungen in Euro,Line,09/05/costs.csv,"{
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"EU-Kommission, Generaldirektion Wachstum, SME Performance Review.",
+10-01-a,Entwicklung der Luftschadstoffe kombiniert (Index),Line,10/01/categories.csv,"{
+  ""filter"": ""year(datum.year) >= 2000 && datum.category == 'Luftschadstoffe (+ PM<sub>2,5</sub>)'"",
+  ""numberFormat"": "".2f"",
+  ""yAnnotations"": [
+    {""value"": 100, ""formattedValue"": ""100"", ""label"": """", ""dy"": ""1.1em"", ""x"": ""2005""}
+  ]
+}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Basisjahr (Index=100) ist 2005.
+10-01-b,Entwicklung verschiedener Luftschadstoffe (Index),Line,10/01/categories.csv,"{
+  ""filter"": ""year(datum.year) >= 2000 && datum.category != 'Luftschadstoffe (+ PM<sub>2,5</sub>)'"",
+  ""numberFormat"": "".2f"",
+  ""color"":  ""name"",
+  ""endLabel"": false,
+  ""column"": ""category"",
+  ""columns"": 3,
+  ""yAnnotations"": [
+    {""value"": 100, ""formattedValue"": ""100"", ""label"": """", ""dy"": ""1.1em"", ""x"": ""2005""}
+  ]
+}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Basisjahr (Index=100) ist 2005.
+10-01-c,Jahresmittelwerte der Stickstoffdioxidbelastung 2015,PointMap,10/01/no2-points.csv,"{
+  ""filter"": ""datum.value != '-999'"",
+  ""geotiff"": ""10-01-no2"",
+  ""legendTitle"": ""NO₂ Jahresmittelwert in Mikrogramm pro Kubikmeter (µg/m³)"",
+  ""thresholds"": [10, 20, 30, 40, 50, 60, 70, 80],
+  ""colorRange"": [""#95da3f"", ""#74b917"", ""#5ca200"", ""#3f8800"", ""#f2bf18"", ""#d4a500"", ""#b68b00"", ""#987200"", ""#7b5900""]
+}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Jahresmittelwerte gemessen an den Messstationen der Luftmessnetze der Länder und des Umweltbundesamtes.
+10-01-d,Überschreitung bzw. Einhaltung des gesetzlichen Stickstoffdioxid-Grenzwerts 2015,DotPlot,10/01/no2-points.csv,,,"flagship, print export only",FALSE,TRUE,,,,Umweltbundesamt 2015.,Jahresmittelwerte gemessen an den Messstationen der Luftmessnetze der Länder und des Umweltbundesamtes. Messstationen im so genannten Hintergrund stehen nicht in der näheren Umgebung eines Industriebetriebs und auch an nicht an einer viel befahrenen Straße. 
+10-01-e,Stickstoffdioxid (NO<sub>2</sub>) im EU-Vergleich 2013,BoxPlot,10/01/eu-categories.csv,"{
+  ""filter"": ""datum.category == 'NO2'"",
+  ""highlight"": ""datum.country == 'Deutschland'"",
+  ""label"": ""country""
+}",,plotted,TRUE,TRUE,,,,Europäische Umweltagentur.,
+10-01-f,"Feinstaub (PM<sub>2,5</sub>) im EU-Vergleich 2013",BoxPlot,10/01/eu-categories.csv,"{
+  ""filter"": ""datum.category == 'PM2.5'"",
+  ""highlight"": ""datum.country == 'Deutschland'"",
+  ""label"": ""country""
+}",,plotted,TRUE,TRUE,,,,Europäische Umweltagentur.,
+10-02-a,Entwicklung der Artenvielfalt und Landschaftsqualität aggregiert ,TimeBar,10/02/categories.csv,"{
+  ""filter"": ""datum.facet == 'Gesamtindikator'"",
+  ""numberFormat"": "".1f"",
+  ""padding"": 15,
+  ""domain"": [0, 120],
+  ""yAnnotations"": [
+    {""value"": 100, ""label"": ""Ziel""}
+  ],
+  ""xAnnotations"": [
+    {""x"": ""1970"", ""value"": 106.9329097153},
+    {""x"": ""1975"", ""value"": 101.3745362439},
+    {""x"": ""2013"", ""value"": 68.5}
+  ]
+}",,plotted,TRUE,TRUE,,,,Bundesamt für Naturschutz 2015.,Abbildung enthält auch rekonstruierte historische Werte.
+10-02-b,"Entwicklung der Artenvielfalt und Landschaftsqualität, aggregiert und Teilindikatoren",Slope,10/02/categories.csv,"{
+  ""filter"": ""datum.year == 1990 || datum.year == 2013"",
+  ""color"": ""facet_value"",
+  ""column"": ""facet"",
+  ""numberFormat"": "".1f"",
+  ""endLabel"": true
+}",,plotted,TRUE,TRUE,,,,Bundesamt für Naturschutz 2015.,
+10-03-a,Entwicklung der Energieproduktivität (preisbereinigtes BIP je Einheit Primärenergieverbrauch),Line,10/03/years.csv,"{
+  ""x"": ""year"",
+  ""y"": ""value"",
+  ""numberFormat"": "".2f""
+}",,plotted,TRUE,TRUE,,,,Arbeitsgemeinschaft Energiebilanzen e.V. und Statistisches Bundesamt.,Basisjahr (Index=100) ist 1990.
+11-01-a,Entwicklung der Wahlbeteiligung bei Bundestagswahlen in Prozent aller Wahlberechtigten,Line,11/01/federation.csv,"{
+  ""color"": ""region"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",Bis 1987 Wahlbeteiligung nur für die westdeutschen Bundesländer und Berlin-West.
+11-01-b,Wahlbeteiligung bei den jeweils letzten und vorletzten Landtagswahlen in Prozent aller Wahlberechtigten,Slope,11/01/states.csv,"{
+  ""column"": ""state"",
+  ""color"": ""state"",
+  ""x"": ""election"",
+  ""xSort"": ""none""
+}",,plotted,FALSE,FALSE,,,,"Statistisches Bundesamt, Wahlen. ",
+11-01-c,Entwicklung der Wahlbeteiligung bei Europawahlen in Deutschland in Prozent aller Wahlberechtigten,Line,11/01/eu.csv,{},,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",
+11-01-d,Wahlbeteiligung bei den jeweils letzten und vorletzten Landtagswahlen in Prozent aller Wahlberechtigten,Slope,11/01/states.csv,"{
+  ""xScale"": ""time"",
+  ""endLabel"": true,
+  ""startValue"": false,
+  ""columnSort"": ""none"",
+  ""color"": ""state"",
+  ""minWidth"": 120,
+  ""xTicks"": [""2006"", ""2011"", ""2016""],
+  ""columnFilter"": [
+    {""title"": ""Gestiegen"", ""test"": ""indexof(['Baden-Württemberg', 'Bayern', 'Hessen', 'Rheinland-Pfalz', 'Sachsen-Anhalt'], datum.state) > -1""},
+    {""title"": ""Stagniert"", ""test"": ""indexof(['Berlin', 'Hamburg', 'Nordrhein-Westfalen', 'Niedersachsen'], datum.state) > -1""},
+    {""title"": ""Gesunken"", ""test"": ""indexof(['Brandenburg', 'Bremen', 'Mecklenburg-Vorpommern', 'Saarland', 'Sachsen', 'Schleswig-Holstein', 'Thüringen'], datum.state) > -1""}
+  ]
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",
+11-02-a,Wahrgenommene Einflussmöglichkeit der Bürgerinnen und Bürger auf Politik 2014,Bar,11/02/facets.csv,"{
+  ""numberFormat"": ""%"",
+  ""color"": ""answer"",
+  ""y"": ""facet"",
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""domain"": [0,1],
+  ""column"": ""category"",
+  ""columnSort"": ""none"",
+  ""highlight"": ""datum.facet == 'Insgesamt'""
+}",,plotted,TRUE,TRUE,,,,European Social Survey.,
+11-03-a,Entwicklung von acht ausgewählten freiheitsbezogenen Grundrechten in Deutschland,Slope,11/03/categories.csv,"{
+  ""filter"": ""datum.year != '2014'"",
+  ""height"": 310,
+  ""color"": ""category"",
+  ""numberFormat"": "".2f"",
+  ""zero"": false,
+  ""endLabel"": true,
+  ""columns"": 1
+}",,plotted,TRUE,TRUE,,World Justice Project.,http://worldjusticeproject.org/historical-data,,
+12-01-a,"Entwicklung der globalen Treibhausgas-Emissionen (in Milliarden Tonnen CO<sub>2</sub>eq pro Jahr)
+",Slope,12/01/global.csv,"{
+  ""filter"": ""datum.category == 'GHG' && (datum.year == 1990 || datum.year == 2012)"",
+  ""numberFormat"": ""s"",
+  ""unit"": ""Tonnen"",
+  ""columns"": 1
+}",,plotted,TRUE,TRUE,,,,Edgar JRC/PBL und FAOSTAT.,
+12-01-b,Entwicklung der globalen CO<sub>2</sub>-Emissionen (in Milliarden Tonnen pro Jahr),Line,12/01/global.csv,"{
+  ""filter"": ""datum.category == 'CO2'"",
+  ""numberFormat"": ""s"",
+  ""unit"": ""Tonnen""
+}",,plotted,TRUE,TRUE,,,,Edgar JRC/PBL.,"Der Edgar-Datensatz zu CO<sub>2</sub>-Emissionen enthält keine Emissionen aus CO<sub>2</sub>-neutraler Bioenergie und aus Landnutzungsveränderung oder Bränden von Wäldern, Mooren, usw."
+12-01-c,Entwicklung der Treibhausgas-Emissionen in Deutschland (in Millionen Tonnen CO<sub>2</sub>eq pro Jahr),TimeBar,12/01/germany.csv,"{
+  ""color"": ""gas"",
+  ""unit"": ""Tonnen"",
+  ""numberFormat"": "".3s"",
+  ""xAnnotations"": [
+    {""x1"": ""2008"", ""x2"": ""2012"", ""value"": 973619338.97, ""label"": ""Kyoto-Protokoll""},
+    {""x"": ""2020"", ""value"": 748700000, ""label"": ""Ziel 2020"", ""ghost"": true},
+    {""x"": ""2050"", ""value"": 249600000, ""label"": ""Ziel 2050"", ""valuePrefix"": ""max: "", ""ghost"": true}
+  ],
+  ""padding"": 55
+}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,"*ohne Kohlendioxid aus Landnutzung, Landnutzungsänderungen und Forstwirtschaft"
+12-02-a,Entwicklung des Anteils der öffentlichen Ausgaben für Entwicklungszusammenarbeit am Bruttonationaleinkommen (ODA-Quote),Line,12/02/values.csv,"{
+  ""numberFormat"": "".2%""
+}",,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/oda/net-oda.htm,Net ODA indicator.,Werte für 2015 sind vorläufig.

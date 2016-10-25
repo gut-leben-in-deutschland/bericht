@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <g style="">
+            <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
+            <g transform="translate(0,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
+                    1991
+                </text>
+            </g>
+            <g transform="translate(201,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    1999
+                </text>
+            </g>
+            <g transform="translate(402,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2007
+                </text>
+            </g>
+            <g transform="translate(603,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
+                    2015
+                </text>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,169.92000000000002L25.107802874743328,163.68L50.284394250513344,155.28L75.39219712525667,150L100.5,132.48L125.60780287474333,125.76000000000002L150.78439425051334,122.88L175.8921971252567,121.44L201,120L226.10780287474333,122.88L251.28439425051334,125.76000000000002L276.39219712525664,121.92000000000002L301.5,113.03999999999999L326.60780287474336,108.72L351.7843942505134,103.44L376.89219712525664,104.88L402,111.6L427.1078028747433,108.24000000000001L452.28439425051334,90.24000000000001L477.3921971252567,69.6L502.5,76.07999999999998L527.6078028747434,73.19999999999999L552.7843942505133,78.96000000000001L577.8921971252566,85.19999999999999L603,93.60000000000002" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="607" x2="613" y1="93.60000000000002" y2="93.60000000000002" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="617" y="93.60000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            71%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,264)" style="">
+                <line x2="603" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(0,144)" style="">
+                <line x2="603" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:12px;fill:#666666;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(0,24)" style="">
+                <line x2="603" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:26.65625px;fill:#666666;">
+                    100% 
+                </text>
+            </g>
+            <g transform="translate(0,120)" style="">
+                <line x1="0" x2="603" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
+                <circle r="3.5" cx="4" style="fill:#f6f6f0;stroke:#454545;"/>
+                <text x="603" text-anchor="end" dy="-0.4em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:145.5625px;fill:#454545;text-anchor:end;">
+                    Maastricht-Referenzwert 60%
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
+            <div style="display:block;height:78px;width:640px;">
+                <div style="display:block;height:0px;padding-right:36px;width:640px;">
+                </div>
+                <div style="display:block;height:78px;width:640px;">
+                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle: 
+                                <a rel="external" title=" (Link zu externer Seite)" href="https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Oeffentliche_Finanzen_in_Deutschland/oeffentliche_finanzen_in_deutschland_details_value_node.html?tsId=BBK01.BJ9959&amp;listId=www_v27_web011_21a" style="border-bottom-color:rgb(0, 79, 128);border-left-color:rgb(0, 79, 128);border-right-color:rgb(0, 79, 128);border-top-color:rgb(0, 79, 128);color:rgb(0, 79, 128);cursor:pointer;font-family:BundesSans-Regular;font-size:12px;line-height:normal;outline-color:rgb(0, 79, 128);text-align:left;">
+                                    Bundesbank 2016.
+                                </a>
+                                 Verschuldungen gemäß Maastricht-Vertrag – Deutschland – Gesamtstaat in % des BIP. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Bundesregierung
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:42px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                Vorläufige Werte für 2014 und 2015. Stand 19.09.2016.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

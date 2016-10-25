@@ -1,0 +1,138 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="424" style="height:424px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwcklung der Lebenserwartung bei Geburt zwischen 1956 und 2013 differenziert nach Männern und Frauen und alten und neuen Bundesländern. Die Lebenserwartung ist in dem genannten Zeitraum für alle Gruppen deutlich gestiegen. Frauen hatten 2013 eine höhere Lebenserwartung als Männer und Menschen in den alten Bundesländern eine höhere Lebenserwartung als Menschen in den neuen Bundesländern. So betrug die Lebenserwartung 2013 für Frauen sowohl in den alten als auch den neuen Bundesländern rund 83 Jahre, für Männer lag die Lebenserwartung bei 78,2 in den alten und 77 Jahre in den neuen Bundesländern. Seit den späten 1950er Jahren steigt die Lebenserwartung bei Geburt in Deutschland kontinuierlich an, Jahr für Jahr um knapp drei Monate.
+    </desc>
+    <g transform="translate(0,0)" style="">
+        <g style="">
+            <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
+            <text y="284" dy="0.3em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:68.796875px;fill:#666666;">
+                Achse gekürzt
+            </text>
+            <g transform="translate(0,304)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
+                    1956
+                </text>
+            </g>
+            <g transform="translate(145,304)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    1975
+                </text>
+            </g>
+            <g transform="translate(290,304)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    1994
+                </text>
+            </g>
+            <g transform="translate(435,304)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
+                    2013
+                </text>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#F2BF18" stroke-width="3" stroke-dasharray="none" d="M0,193.44000000000005L7.6469740634005765,197.76000000000005L15.273054755043228,192.48000000000008L22.89913544668588,193.32L30.525216138328528,188.27999999999997L38.17219020172911,178.08000000000004L45.79827089337176,179.76000000000005L53.424351585014406,172.80000000000007L61.050432276657055,170.51999999999992L68.69740634005764,168.72000000000003L76.3234870317003,164.64L83.94956772334294,162L91.5756484149856,166.32L99.22262247838617,165.83999999999992L106.84870317002881,163.91999999999996L114.47478386167148,160.08000000000004L122.10086455331411,156.72000000000003L129.74783861671472,152.27999999999997L137.37391930835736,150.59999999999997L145,155.16000000000008L152.62608069164264,150.95999999999998L160.27305475504323,145.44000000000005L167.89913544668588,146.87999999999994L175.52521613832852,146.51999999999992L183.1512968299712,148.32L190.79827089337175,145.44000000000005L198.4243515850144,142.44000000000005L206.05043227665706,138.48000000000008L213.6765129682997,138.36L221.3234870317003,138.59999999999997L228.94956772334297,138L236.5756484149856,132.48000000000008L244.20172910662822,131.76000000000005L251.84870317002884,126.95999999999998L259.4747838616715,128.87999999999994L267.1008645533141,124.32L274.72694524495677,116.63999999999999L282.37391930835736,109.91999999999996L290,105.72000000000003L297.62608069164264,101.27999999999997L305.2521613832853,97.32L312.8991354466859,89.51999999999992L320.5252161383285,85.32L328.15129682997116,79.32L335.77737752161386,75.95999999999998L343.42435158501445,72L351.05043227665703,72.12000000000006L358.67651296829973,68.76000000000005L366.3025936599424,63.12000000000006L373.9495677233429,62.04000000000002L381.5756484149856,59.16000000000008L389.20172910662825,56.76000000000005L396.8278097982709,56.04000000000002L404.4747838616715,54.72000000000003L412.1008645533141,53.76000000000005L419.72694524495677,51.23999999999995L427.3530259365994,48.599999999999966L435,50.16000000000008" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="439" x2="445" y1="61.559999999999945" y2="61.559999999999945" stroke="#F2BF18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="449" y="61.559999999999945" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:179.578125px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            82,8
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             Frau Ostdeutsche Bundesländer
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#C40046" stroke-width="3" stroke-dasharray="none" d="M0,247.32L7.6469740634005765,253.91999999999996L15.273054755043228,246.12000000000006L22.89913544668588,248.64L30.525216138328528,246.23999999999995L38.17219020172911,236.76000000000005L45.79827089337176,236.64L53.424351585014406,230.76000000000005L61.050432276657055,229.55999999999995L68.69740634005764,228.36L76.3234870317003,223.80000000000007L83.94956772334294,222.72000000000003L91.5756484149856,227.51999999999992L99.22262247838617,229.80000000000007L106.84870317002881,226.32L114.47478386167148,221.04000000000002L122.10086455331411,220.32L129.74783861671472,217.80000000000007L137.37391930835736,216.48000000000008L145,221.16000000000008L152.62608069164264,217.68L160.27305475504323,215.76000000000005L167.89913544668588,218.16000000000008L175.52521613832852,218.87999999999994L183.1512968299712,219.48000000000008L190.79827089337175,216L198.4243515850144,214.44000000000005L206.05043227665706,209.87999999999994L213.6765129682997,207.59999999999997L221.3234870317003,209.27999999999997L228.94956772334297,208.55999999999995L236.5756484149856,205.44000000000005L244.20172910662822,206.04000000000002L251.84870317002884,201.95999999999998L259.4747838616715,213.48000000000008L267.1008645533141,210.83999999999992L274.72694524495677,203.87999999999994L282.37391930835736,200.04000000000002L290,195.95999999999998L297.62608069164264,189.95999999999998L305.2521613832853,183.83999999999992L312.8991354466859,176.04000000000002L320.5252161383285,167.16000000000008L328.15129682997116,162.72000000000003L335.77737752161386,159.36L343.42435158501445,152.27999999999997L351.05043227665703,150.83999999999992L358.67651296829973,149.27999999999997L366.3025936599424,141.95999999999998L373.9495677233429,138.59999999999997L381.5756484149856,134.87999999999994L389.20172910662825,131.51999999999992L396.8278097982709,129.48000000000008L404.4747838616715,128.40000000000003L412.1008645533141,126.23999999999995L419.72694524495677,122.04000000000002L427.3530259365994,119.63999999999999L435,120.23999999999995" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="439" x2="445" y1="120.23999999999995" y2="120.23999999999995" stroke="#C40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="449" y="120.23999999999995" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:185.9375px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            77,0
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             Mann Ostdeutsche Bundesländer
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#F28502" stroke-width="3" stroke-dasharray="none" d="M0,193.32L7.6469740634005765,191.27999999999997L15.273054755043228,182.40000000000003L22.89913544668588,179.64L30.525216138328528,181.32L38.17219020172911,174.59999999999997L45.79827089337176,170.51999999999992L53.424351585014406,171L61.050432276657055,161.51999999999992L68.69740634005764,163.08000000000004L76.3234870317003,161.76000000000005L83.94956772334294,158.27999999999997L91.5756484149856,162.72000000000003L99.22262247838617,163.55999999999995L106.84870317002881,160.19999999999993L114.47478386167148,157.80000000000007L122.10086455331411,153.95999999999998L129.74783861671472,151.32L137.37391930835736,148.08000000000004L145,148.08000000000004L152.62608069164264,142.32L160.27305475504323,133.80000000000007L167.89913544668588,133.19999999999993L175.52521613832852,128.04000000000002L183.1512968299712,124.55999999999995L190.79827089337175,122.40000000000003L198.4243515850144,118.68L206.05043227665706,115.55999999999995L213.6765129682997,108.83999999999992L221.3234870317003,107.27999999999997L228.94956772334297,104.63999999999999L236.5756484149856,99.23999999999995L244.20172910662822,96.83999999999992L251.84870317002884,95.63999999999999L259.4747838616715,95.87999999999994L267.1008645533141,93.23999999999995L274.72694524495677,88.68L282.37391930835736,89.40000000000003L290,85.91999999999996L297.62608069164264,84.48000000000008L305.2521613832853,82.91999999999996L312.8991354466859,78.72000000000003L320.5252161383285,75.72000000000003L328.15129682997116,74.04000000000002L335.77737752161386,71.16000000000008L343.42435158501445,67.91999999999996L351.05043227665703,67.68L358.67651296829973,67.19999999999993L366.3025936599424,60.83999999999992L373.9495677233429,59.87999999999994L381.5756484149856,56.639999999999986L389.20172910662825,54.72000000000003L396.8278097982709,54.95999999999998L404.4747838616715,54L412.1008645533141,52.19999999999993L419.72694524495677,49.80000000000007L427.3530259365994,48.72000000000003L435,49.559999999999945" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="439" x2="445" y1="49.559999999999945" y2="49.559999999999945" stroke="#F28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="449" y="49.559999999999945" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:186.859375px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            82,9
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             Frau Westdeutsche Bundesländer
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#890D48" stroke-width="3" stroke-dasharray="none" d="M0,252.83999999999992L7.6469740634005765,254.16000000000008L15.273054755043228,243.83999999999992L22.89913544668588,242.64L30.525216138328528,245.76000000000005L38.17219020172911,240.36L45.79827089337176,238.55999999999995L53.424351585014406,239.27999999999997L61.050432276657055,232.80000000000007L68.69740634005764,232.91999999999996L76.3234870317003,233.40000000000003L83.94956772334294,231.12000000000006L91.5756484149856,235.19999999999993L99.22262247838617,238.19999999999993L106.84870317002881,235.91999999999996L114.47478386167148,234.36L122.10086455331411,232.44000000000005L129.74783861671472,229.68L137.37391930835736,225L145,227.16000000000008L152.62608069164264,221.16000000000008L160.27305475504323,213.48000000000008L167.89913544668588,213.83999999999992L175.52521613832852,208.08000000000004L183.1512968299712,205.55999999999995L190.79827089337175,202.32L198.4243515850144,198.36L206.05043227665706,195.23999999999995L213.6765129682997,188.51999999999992L221.3234870317003,186.12000000000006L228.94956772334297,182.76000000000005L236.5756484149856,178.32L244.20172910662822,175.08000000000004L251.84870317002884,173.27999999999997L259.4747838616715,172.68L267.1008645533141,170.87999999999994L274.72694524495677,166.19999999999993L282.37391930835736,165.72000000000003L290,162.12000000000006L297.62608069164264,160.91999999999996L305.2521613832853,157.91999999999996L312.8991354466859,153.12000000000006L320.5252161383285,148.80000000000007L328.15129682997116,146.04000000000002L335.77737752161386,142.55999999999995L343.42435158501445,137.87999999999994L351.05043227665703,135.72000000000003L358.67651296829973,135L366.3025936599424,127.32L373.9495677233429,125.04000000000002L381.5756484149856,120L389.20172910662825,118.32L396.8278097982709,116.04000000000002L404.4747838616715,114.36000000000001L412.1008645533141,111.95999999999998L419.72694524495677,108L427.3530259365994,105.72000000000003L435,105.36000000000001" style="fill:none;stroke:#890d48;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="439" x2="445" y1="105.36000000000001" y2="105.36000000000001" stroke="#890D48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
+                    <text dy="0.3em" x="449" y="105.36000000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:193.21875px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            78,2
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             Mann Westdeutsche Bundesländer
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,264)" style="">
+                <line x2="435" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:12px;fill:#666666;">
+                    65
+                </text>
+            </g>
+            <g transform="translate(0,144)" style="">
+                <line x2="435" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:12px;fill:#666666;">
+                    75
+                </text>
+            </g>
+            <g transform="translate(0,24)" style="">
+                <line x2="435" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:40.125px;fill:#666666;">
+                    85 Jahre
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="328" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
+                <div style="display:block;height:0px;padding-right:204px;width:640px;">
+                </div>
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle: 
+                                <a rel="external" title=" (Link zu externer Seite)" href="http://www.humanmortality.de/" style="border-bottom-color:rgb(0, 79, 128);border-left-color:rgb(0, 79, 128);border-right-color:rgb(0, 79, 128);border-top-color:rgb(0, 79, 128);color:rgb(0, 79, 128);cursor:pointer;font-family:BundesSans-Regular;font-size:12px;line-height:normal;outline-color:rgb(0, 79, 128);text-align:left;">
+                                    Human Mortality Database.
+                                </a>
+                                 University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Bundesregierung
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

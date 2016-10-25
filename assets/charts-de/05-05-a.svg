@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <g style="">
+            <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
+            <g transform="translate(0,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
+                    2010
+                </text>
+            </g>
+            <g transform="translate(161.49791917643194,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2027
+                </text>
+            </g>
+            <g transform="translate(313.50208082356806,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2043
+                </text>
+            </g>
+            <g transform="translate(475,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
+                    2060
+                </text>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#8c1478" stroke-width="3" stroke-dasharray="none" d="M0,145.0371565136L9.493757529295804,143.1047792416L18.987515058591608,144.50203757280002L28.507282882488227,145.25131213880002" style="fill:none;stroke:#8c1478;stroke-width:3px;"/>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#bd4aa5" stroke-width="3" stroke-dasharray="none" d="M0,145.0371565136L9.493757529295804,143.1047792416L18.987515058591608,144.50203757280002L28.507282882488227,145.25131213880002" style="fill:none;stroke:#bd4aa5;stroke-width:3px;"/>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#f781dc" stroke-width="3" stroke-dasharray="none" d="M0,145.0371565136L9.493757529295804,143.1047792416L18.987515058591608,144.50203757280002L28.507282882488227,145.25131213880002" style="fill:none;stroke:#f781dc;stroke-width:3px;"/>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#8c1478" stroke-width="3" stroke-dasharray="6 2" d="M28.507282882488227,145.25131213880002L38.00104041178403,145.2L47.49479794107984,144.4L56.988555470375644,143.2L66.50832329427226,141.6L76.00208082356806,140.39999999999998L85.49583835286387,138.4L94.98959588215968,136.8L104.50936370605629,134.8L114.0031212353521,132.4L123.4968787646479,130L132.9906362939437,127.19999999999999L142.51040411784032,124L152.00416164713613,120.4L161.49791917643194,116.4L170.99167670572774,111.6L180.51144452962436,106.80000000000001L190.00520205892016,101.6L199.49895958821597,96.4L208.99271711751177,91.19999999999999L218.5124849414084,86L228.0062424707042,81.19999999999999L237.5,76.80000000000001L246.9937575292958,73.19999999999999L256.5135253531924,70.4L266.00728288248825,68.4L275.50104041178406,67.6L284.9947979410798,68L294.51456576497645,68L304.00832329427226,68.80000000000001L313.50208082356806,68.80000000000001L322.99583835286387,69.19999999999999L332.51560617676046,68.80000000000001L342.0093637060563,68.80000000000001L351.5031212353521,68L360.9968787646479,67.19999999999999L370.5166465885445,66L380.0104041178403,65.19999999999999L389.50416164713613,64.80000000000001L398.99791917643194,63.599999999999994L408.5176870003285,62.400000000000006L418.0114445296244,60.400000000000006L427.5052020589202,58L436.99895958821594,56L446.5187274121126,53.599999999999994L456.0124849414084,52L465.5062424707042,50.80000000000001L475,50" style="fill:none;stroke:#8c1478;stroke-dasharray:6px, 2px;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="479" x2="485" y1="50" y2="50" stroke="#8c1478" stroke-width="3" style="stroke:#8c1478;stroke-width:3px;"/>
+                    <text dy="0.3em" x="489" y="50" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:113.421875px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            53,5
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             Standard-Szenario
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#bd4aa5" stroke-width="3" stroke-dasharray="6 2" d="M28.507282882488227,145.25131213880002L38.00104041178403,145.2L47.49479794107984,144.4L56.988555470375644,143.2L66.50832329427226,141.6L76.00208082356806,140L85.49583835286387,138L94.98959588215968,136.4L104.50936370605629,134L114.0031212353521,131.6L123.4968787646479,128.8L132.9906362939437,126L142.51040411784032,122.4L152.00416164713613,118.4L161.49791917643194,114.4L170.99167670572774,109.6L180.51144452962436,104.4L190.00520205892016,98.80000000000001L199.49895958821597,93.19999999999999L208.99271711751177,87.6L218.5124849414084,82L228.0062424707042,76.80000000000001L237.5,72L246.9937575292958,68L256.5135253531924,65.19999999999999L266.00728288248825,62.80000000000001L275.50104041178406,61.599999999999994L284.9947979410798,61.19999999999999L294.51456576497645,61.19999999999999L304.00832329427226,61.19999999999999L313.50208082356806,61.19999999999999L322.99583835286387,60.80000000000001L332.51560617676046,60.400000000000006L342.0093637060563,59.599999999999994L351.5031212353521,58.400000000000006L360.9968787646479,57.19999999999999L370.5166465885445,55.599999999999994L380.0104041178403,54.400000000000006L389.50416164713613,53.19999999999999L398.99791917643194,51.599999999999994L408.5176870003285,49.599999999999994L418.0114445296244,47.599999999999994L427.5052020589202,44.80000000000001L436.99895958821594,42L446.5187274121126,39.19999999999999L456.0124849414084,37.19999999999999L465.5062424707042,36L475,34.400000000000006" style="fill:none;stroke:#bd4aa5;stroke-dasharray:6px, 2px;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="479" x2="485" y1="34.400000000000006" y2="34.400000000000006" stroke="#bd4aa5" stroke-width="3" style="stroke:#bd4aa5;stroke-width:3px;"/>
+                    <text dy="0.3em" x="489" y="34.400000000000006" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:138.28125px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            57,4
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             relativ alte Bevölkerung
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#f781dc" stroke-width="3" stroke-dasharray="6 2" d="M28.507282882488227,145.25131213880002L38.00104041178403,145.2L47.49479794107984,144.4L56.988555470375644,143.2L66.50832329427226,141.6L76.00208082356806,140.39999999999998L85.49583835286387,138.4L94.98959588215968,136.8L104.50936370605629,134.8L114.0031212353521,132.4L123.4968787646479,130L132.9906362939437,127.19999999999999L142.51040411784032,124L152.00416164713613,120.4L161.49791917643194,116.4L170.99167670572774,111.6L180.51144452962436,106.80000000000001L190.00520205892016,101.6L199.49895958821597,96.4L208.99271711751177,91.19999999999999L218.5124849414084,86L228.0062424707042,81.19999999999999L237.5,76.80000000000001L246.9937575292958,73.19999999999999L256.5135253531924,70.80000000000001L266.00728288248825,68.80000000000001L275.50104041178406,68.4L284.9947979410798,68.80000000000001L294.51456576497645,69.19999999999999L304.00832329427226,70L313.50208082356806,70.80000000000001L322.99583835286387,71.19999999999999L332.51560617676046,71.6L342.0093637060563,71.6L351.5031212353521,71.19999999999999L360.9968787646479,70.80000000000001L370.5166465885445,70L380.0104041178403,69.6L389.50416164713613,69.19999999999999L398.99791917643194,68.80000000000001L408.5176870003285,68L418.0114445296244,66.4L427.5052020589202,64.80000000000001L436.99895958821594,62.80000000000001L446.5187274121126,61.19999999999999L456.0124849414084,60L465.5062424707042,59.19999999999999L475,58.80000000000001" style="fill:none;stroke:#f781dc;stroke-dasharray:6px, 2px;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="479" x2="485" y1="62" y2="62" stroke="#f781dc" stroke-width="3" style="stroke:#f781dc;stroke-width:3px;"/>
+                    <text dy="0.3em" x="489" y="62" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:147.015625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            51,3
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             relativ junge Bevölkerung
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,264)" style="">
+                <line x2="475" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(0,144)" style="">
+                <line x2="475" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:12px;fill:#666666;">
+                    30
+                </text>
+            </g>
+            <g transform="translate(0,24)" style="">
+                <line x2="475" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:12px;fill:#666666;">
+                    60 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
+            <div style="display:block;height:78px;width:640px;">
+                <div style="display:block;height:0px;padding-right:164px;width:640px;">
+                </div>
+                <div style="display:block;height:78px;width:640px;">
+                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Bevölkerungsfortschreibung und 13. koordinierte Bevölkerungsvorausrechnung.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Bundesregierung
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

@@ -1,0 +1,19 @@
+category,facet,answer,value,confidence95_lower,confidence95_upper
+Region,Insgesamt,kein Einfluss,0.4581,0.4394,0.4768
+Region,Insgesamt,mittlerer Einfluss,0.3565,0.3385,0.3746
+Region,Insgesamt,starker Einfluss,0.1853,0.1706,0.2001
+Region,Ostdeutsche Bundesländer,kein Einfluss,0.5425,0.511,0.574
+Region,Ostdeutsche Bundesländer,mittlerer Einfluss,0.3155,0.286,0.345
+Region,Ostdeutsche Bundesländer,starker Einfluss,0.1421,0.1194,0.1647
+Region,Westdeutsche Bundesländer,kein Einfluss,0.4375,0.4156,0.4594
+Region,Westdeutsche Bundesländer,mittlerer Einfluss,0.3666,0.3453,0.3879
+Region,Westdeutsche Bundesländer,starker Einfluss,0.1959,0.1784,0.2135
+Bildung,Bis einschl. Hauptschule,kein Einfluss,0.6219,0.5858,0.6581
+Bildung,Bis einschl. Hauptschule,mittlerer Einfluss,0.2797,0.2462,0.3132
+Bildung,Bis einschl. Hauptschule,starker Einfluss,0.0984,0.0759,0.1209
+Bildung,Mittlere Reife,kein Einfluss,0.4834,0.451,0.5158
+Bildung,Mittlere Reife,mittlerer Einfluss,0.3686,0.3371,0.4
+Bildung,Mittlere Reife,starker Einfluss,0.148,0.1245,0.1716
+Bildung,(Fach-) Abitur,kein Einfluss,0.3317,0.3042,0.3593
+Bildung,(Fach-) Abitur,mittlerer Einfluss,0.3961,0.3672,0.4251
+Bildung,(Fach-) Abitur,starker Einfluss,0.2721,0.24,0.2986

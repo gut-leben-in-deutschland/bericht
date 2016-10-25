@@ -1,0 +1,17 @@
+facet,rating,value,n
+,sehr gut,0.142,
+,eher gut,0.728,
+,eher schlecht,0.118,
+,sehr schlecht,0.011,
+keine Opfererfahrung,sehr/eher gut,0.9,1059
+keine Opfererfahrung,eher/sehr schlecht,0.1,1059
+Opfererfahrung,sehr/eher gut,0.834,814
+Opfererfahrung,eher/sehr schlecht,0.166,814
+zufriedenstellender Polizeikontakt,sehr/eher gut,0.875,447
+zufriedenstellender Polizeikontakt,eher/sehr schlecht,0.125,447
+unzufriedenstellender Polizeikontakt,sehr/eher gut,0.732,73
+unzufriedenstellender Polizeikontakt,eher/sehr schlecht,0.268,73
+enge nachbarschaftliche Bindung,sehr/eher gut,0.894,100
+enge nachbarschaftliche Bindung,eher/sehr schlecht,0.106,100
+geringe nachbarschaftliche Bindung,sehr/eher gut,0.763,1161
+geringe nachbarschaftliche Bindung,eher/sehr schlecht,0.237,1161

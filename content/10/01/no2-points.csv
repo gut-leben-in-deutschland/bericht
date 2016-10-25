@@ -1,0 +1,519 @@
+id,name,area,type,value,hoursGt200,ags,lon,lat
+DEBW029,Aalen,vorstädtisches Gebiet,Hintergrund,23,0,08136088,10.096292,48.847917
+DEBW076,Baden-Baden,vorstädtisches Gebiet,Hintergrund,16,0,08211000,8.220214,48.773072
+DEBW042,Bernhausen,vorstädtisches Gebiet,Hintergrund,31,0,08116077,9.227769,48.678069
+DEBW046,Biberach,vorstädtisches Gebiet,Hintergrund,18,0,08426021,9.800325,48.089886
+DEBW004,Eggenstein,ländlich stadtnah,Hintergrund,24,0,08215102,8.406660,49.076550
+DEBW154,Freiberg Benninger Straße,vorstädtisches Gebiet,Verkehr,45,---,08118078,9.204340,48.937950
+DEBW084,Freiburg,städtisches Gebiet,Hintergrund,19,0,08311000,7.832122,48.001511
+DEBW122,Freiburg Schwarzwaldstraße (V),städtisches Gebiet,Verkehr,56,0,08311000,7.859920,47.988200
+DEBW127,Freiburg Zähringer Straße (S),städtisches Gebiet,Verkehr,41,---,08311000,7.855020,48.013430
+DEBW038,Friedrichshafen,städtisches Gebiet,Hintergrund,26,0,08435016,9.485675,47.660056
+DEBW112,Gaertringen,vorstädtisches Gebiet,Hintergrund,15,0,08115015,8.904442,48.645608
+DEBW009,Heidelberg,städtisches Gebiet,Hintergrund,27,0,08221000,8.676700,49.419528
+DEBW151,Heidelberg Mittermaierstraße (S),städtisches Gebiet,Verkehr,45,---,08221000,8.677000,49.407250
+DEBW145,Heidenheim Wilhelmstraße (S),vorstädtisches Gebiet,Verkehr,48,---,08135019,10.150650,48.679420
+DEBW015,Heilbronn,vorstädtisches Gebiet,Hintergrund,30,0,08121000,9.224786,49.165508
+DEBW152,Heilbronn Weinsberger Straße Ost (S),städtisches Gebiet,Verkehr,64,3,08121000,9.225890,49.146000
+DEBW135,Herrenberg Hindenburger Straße (S),städtisches Gebiet,Verkehr,52,---,08115021,8.869120,48.594760
+DEBW133,Ilsfeld König-Wilhelm-Straße (S),vorstädtisches Gebiet,Verkehr,46,---,08125046,9.244020,49.055130
+DEBW148,Ingersheim Tiefengasse (S),vorstädtisches Gebiet,Verkehr,41,---,08118077,9.184030,48.960470
+DEBW080,Karlsruhe_Reinhold-Frank-Strasse,städtisches Gebiet,Verkehr,45,1,08212000,8.387190,49.007960
+DEBW081,Karlsruhe-Nordwest,städtisches Gebiet,Hintergrund,24,0,08212000,8.355628,49.028594
+DEBW022,Kehl,vorstädtisches Gebiet,Industrie,26,0,08317057,7.802317,48.578178
+DEBW052,Konstanz,städtisches Gebiet,Hintergrund,23,0,08335043,9.169289,47.664361
+DEBW120,Leonberg Grabenstraße (S),städtisches Gebiet,Verkehr,47,0,08115028,9.016520,48.801020
+DEBW024,Ludwigsburg,vorstädtisches Gebiet,Hintergrund,27,0,08118048,9.172792,48.899233
+DEBW117,Ludwigsburg Friedrichstraße (S),städtisches Gebiet,Verkehr,58,3,08118048,9.190030,48.889200
+DEBW098,Mannheim_Friedrichsring,städtisches Gebiet,Verkehr,47,3,08222000,8.472040,49.492560
+DEBW005,Mannheim-Nord,vorstädtisches Gebiet,Industrie,28,0,08222000,8.465281,49.544078
+DEBW142,Markgröningen Grabenstraße (S),vorstädtisches Gebiet,Verkehr,44,---,08118050,9.081350,48.902920
+DEBW198,Mögglingen Hauptstraße,vorstädtisches Gebiet,Verkehr,43,---,08136043,9.964040,48.822760
+DEBW128,Mühlacker Stuttgarter Straße (S),vorstädtisches Gebiet,Verkehr,54,---,08236040,8.845690,48.946600
+DEBW073,Neuenburg,vorstädtisches Gebiet,Hintergrund,20,0,08315076,7.567969,47.819019
+DEBW125,Pfinztal Karlsruher Straße (S),vorstädtisches Gebiet,Verkehr,40,0,08215101,8.526280,49.003710
+DEBW033,Pforzheim,städtisches Gebiet,Hintergrund,27,0,08231000,8.665536,48.889039
+DEBW130,Pforzheim Jahnstraße (S),städtisches Gebiet,Verkehr,42,---,08231000,8.695870,48.888030
+DEBW121,Pleidelsheim Beihinger Straße (S),städtisches Gebiet,Verkehr,49,---,08118063,9.205150,48.959340
+DEBW027,Reutlingen,städtisches Gebiet,Hintergrund,27,0,08415061,9.207320,48.488887
+DEBW147,Reutlingen Lederstraße Ost (S),städtisches Gebiet,Verkehr,70,3,08415061,9.210790,48.489330
+DEBW156,Schramberg Oberndorfer Straße,städtisches Gebiet,Verkehr,44,0,08325053,8.390620,48.229150
+DEBW155,"Schwäbisch Gmünd, Remsstraße (S)",städtisches Gebiet,Verkehr,44,---,08136065,9.795840,48.802400
+DEBW056,Schwäbisch_Hall,vorstädtisches Gebiet,Hintergrund,20,0,08127076,9.733231,49.107878
+DEBW087,Schwäbische_Alb,ländlich regional,Hintergrund,8,0,08415091,9.207639,48.345778
+DEBW031,Schwarzwald-Süd,ländlich regional,Hintergrund,4,0,08315130,7.764528,47.809892
+DEBW118,Stuttgart Am Neckartor (S),städtisches Gebiet,Verkehr,87,61,08111000,9.191010,48.788100
+DEBW013,Stuttgart Bad Cannstatt,städtisches Gebiet,Hintergrund,32,0,08111000,9.229745,48.808800
+DEBW116,Stuttgart Hohenheimer Straße (S),städtisches Gebiet,Verkehr,77,15,08111000,9.184490,48.768710
+DEBW134,Stuttgart Waiblinger Straße,städtisches Gebiet,Verkehr,49,---,08111000,9.220360,48.803770
+DEBW099,Stuttgart_Arnulf-Klett-Platz,städtisches Gebiet,Verkehr,62,0,08111000,9.180720,48.783130
+DEBW059,Tauberbischofsheim,vorstädtisches Gebiet,Hintergrund,14,0,08128115,9.657919,49.634841
+DEBW107,Tübingen,vorstädtisches Gebiet,Hintergrund,22,0,08416041,9.051178,48.507703
+DEBW137,Tübingen-Unterjesingen Jesinger Hauptstraße (S),ländlich stadtnah,Verkehr,45,---,08416041,8.979440,48.526390
+DEBW019,Ulm,städtisches Gebiet,Hintergrund,29,0,08421000,9.979031,48.396836
+DEBW039,Villingen-Schwenningen,vorstädtisches Gebiet,Hintergrund,15,0,08326074,8.463597,48.048656
+DEBW144,Walzbachtal-Jöhlingen Bahnhofstraße (S),vorstädtisches Gebiet,Verkehr,46,---,08215089,8.576970,49.027570
+DEBW023,Weil am Rhein,vorstädtisches Gebiet,Hintergrund,18,0,08336091,7.633271,47.588152
+DEBW157,Wendlingen Stuttgarter Strasse,städtisches Gebiet,Verkehr,40,---,08116071,9.378665,48.672710
+DEBW010,Wiesloch,vorstädtisches Gebiet,Hintergrund,20,0,08226098,8.700103,49.300731
+DEBY109,Andechs/Rothenfeld,ländlich regional,Hintergrund,7,0,09188117,11.220172,47.968753
+DEBY001,Ansbach/Residenzstraße,städtisches Gebiet,Verkehr,33,0,09561000,10.572297,49.304889
+DEBY005,Aschaffenburg/Bussardweg,vorstädtisches Gebiet,Hintergrund,30,0,09661000,9.117973,49.991518
+DEBY007,Augsburg/Bourges-Platz,städtisches Gebiet,Hintergrund,28,0,09761000,10.888370,48.376576
+DEBY110,Augsburg/Karlstraße,städtisches Gebiet,Verkehr,49,0,09761000,10.896221,48.370237
+DEBY006,Augsburg/Königsplatz,städtisches Gebiet,Verkehr,30,0,09761000,10.895029,48.364589
+DEBY099,Augsburg/LfU,vorstädtisches Gebiet,Hintergrund,19,0,09761000,10.903051,48.326013
+DEBY122,Bad Hindelang/Oberjoch,ländlich regional,Hintergrund,6,0,09780123,10.404232,47.518013
+DEBY009,Bamberg/Löwenbrücke,städtisches Gebiet,Hintergrund,23,0,09461000,10.887686,49.898330
+DEBY111,Bayreuth/Hohenzollernring,städtisches Gebiet,Verkehr,31,0,09462000,11.570088,49.943637
+DEBY124,Burgbernheim/Grüne Au,ländlich regional,Hintergrund,12,0,09575115,10.325000,49.444060
+DEBY012,Burghausen/Marktler Straße,vorstädtisches Gebiet,Hintergrund,23,0,09171112,12.829314,48.177175
+DEBY113,Erlangen/Kraepelinstraße,vorstädtisches Gebiet,Hintergrund,18,0,09562000,10.963528,49.605914
+DEBY123,Garmisch-Partenkirchen/Am Herrgottschrofen,ländlich stadtnah,Hintergrund,16,0,09180117,11.062283,47.483194
+DEBY020,Hof/LfU,vorstädtisches Gebiet,Hintergrund,16,0,09464000,11.897492,50.320611
+DEBY021,Ingolstadt/Rechbergstraße,städtisches Gebiet,Verkehr,27,0,09161000,11.428766,48.769444
+DEBY028,Kelheim/Regensburger Straße,städtisches Gebiet,Verkehr,23,0,09273137,11.879245,48.909518
+DEBY031,Kempten (Allgäu)/Westendstraße,vorstädtisches Gebiet,Hintergrund,22,0,09763000,10.306561,47.725140
+DEBY004,Kleinwallstadt/Hofstetter Straße,ländlich stadtnah,Hintergrund,17,0,09676133,9.171544,49.869422
+DEBY032,Kulmbach/Konrad-Adenauer-Straße,städtisches Gebiet,Hintergrund,19,0,09477128,11.442591,50.103135
+DEBY033,Landshut/Podewilsstraße,städtisches Gebiet,Verkehr,29,0,09261000,12.157051,48.539801
+DEBY035,Lindau (Bodensee)/Friedrichshafener Straße,städtisches Gebiet,Verkehr,24,0,09776116,9.688869,47.557473
+DEBY013,Mehring/Sportplatz,ländlich regional,Hintergrund,14,0,09171124,12.781387,48.182835
+DEBY189,München/Allach,vorstädtisches Gebiet,Hintergrund,26,0,09162000,11.464450,48.181690
+DEBY089,München/Johanneskirchen,vorstädtisches Gebiet,Hintergrund,23,0,09162000,11.648036,48.173194
+DEBY115,München/Landshuter Allee,städtisches Gebiet,Verkehr,84,30,09162000,11.536513,48.149606
+DEBY039,München/Lothstraße,städtisches Gebiet,Hintergrund,33,0,09162000,11.554669,48.154534
+DEBY037,München/Stachus,städtisches Gebiet,Verkehr,64,0,09162000,11.564924,48.137252
+DEBY049,Neustadt a.d. Donau/Eining,ländlich regional,Hintergrund,11,0,09273152,11.777818,48.853211
+DEBY052,Neu-Ulm/Gabelsbergerstraße,städtisches Gebiet,Hintergrund,28,0,09775135,10.008293,48.397079
+DEBY053,Nürnberg/Bahnhof,städtisches Gebiet,Verkehr,36,0,09564000,11.088444,49.445910
+DEBY058,Nürnberg/Muggenhof,städtisches Gebiet,Hintergrund,29,0,09564000,11.025473,49.462229
+DEBY120,Nürnberg/Von-der-Tann-Straße,städtisches Gebiet,Verkehr,48,0,09564000,11.036096,49.440478
+DEBY121,Oberaudorf/Inntal-Autobahn,ländlich stadtnah,Verkehr,44,0,09187157,12.188324,47.648459
+DEBY187,Oettingen/Goethestraße,vorstädtisches Gebiet,Hintergrund,18,0,09779197,10.597720,48.952180
+DEBY118,Passau/Stelzhamerstraße,städtisches Gebiet,Hintergrund,32,0,09262000,13.422039,48.573629
+DEBY063,Regensburg/Rathaus,städtisches Gebiet,Verkehr,41,0,09362000,12.101557,49.015245
+DEBY030,Saal a.d. Donau/Regensburger Straße,vorstädtisches Gebiet,Hintergrund,20,3,09273166,11.948795,48.904228
+DEBY188,Schwabach/Angerstraße,städtisches Gebiet,Hintergrund,26,0,09565000,11.027920,49.322730
+DEBY067,Schwandorf/Wackersdorfer Straße,vorstädtisches Gebiet,Hintergrund,22,0,09376161,12.128139,49.321955
+DEBY068,Schweinfurt/Obertor,städtisches Gebiet,Hintergrund,25,0,09662000,10.232076,50.048397
+DEBY072,Tiefenbach/Altenschneeberg,ländlich regional,Hintergrund,6,0,09372163,12.548869,49.438464
+DEBY088,Trostberg/Schwimmbadstraße,vorstädtisches Gebiet,Hintergrund,19,0,09189157,12.538174,48.021657
+DEBY075,Weiden i.d.OPf./Nikolaistraße,städtisches Gebiet,Hintergrund,25,0,09363000,12.159361,49.678950
+DEBY119,Würzburg/Stadtring Süd,städtisches Gebiet,Verkehr,42,0,09663000,9.947654,49.790526
+DEBE051,B Buch,vorstädtisches Gebiet,Hintergrund,14,0,11000000,13.489531,52.643525
+DEBE056,B Friedrichshagen,ländlich stadtnah,Hintergrund,13,0,11000000,13.647050,52.447697
+DEBE065,B Friedrichshain-Frankfurter Allee,städtisches Gebiet,Verkehr,41,0,11000000,13.469931,52.514072
+DEBE062,"B Frohnau, Funkturm (3.5 m)",ländlich stadtnah,Hintergrund,13,0,11000000,13.296081,52.653269
+DEBE032,B Grunewald (3.5 m),ländlich stadtnah,Hintergrund,7,0,11000000,13.225144,52.473192
+DEBE067,B Hardenbergplatz,städtisches Gebiet,Verkehr,53,1,11000000,13.332972,52.506600
+DEBE066,B Karlshorst-Rheingoldstr./Königswinterstr.,städtisches Gebiet,Hintergrund,20,0,11000000,13.529504,52.485296
+DEBE069,"B Mariendorf, Mariendorfer Damm",städtisches Gebiet,Verkehr,49,0,11000000,13.387720,52.438115
+DEBE027,B Marienfelde-Schichauweg,ländlich stadtnah,Hintergrund,14,0,11000000,13.368103,52.398406
+DEBE068,"B Mitte, Brückenstraße",städtisches Gebiet,Hintergrund,27,0,11000000,13.418833,52.513606
+DEBE064,B Neukölln-Karl-Marx-Str. 76,städtisches Gebiet,Verkehr,52,0,11000000,13.433967,52.481709
+DEBE034,B Neukölln-Nansenstraße,städtisches Gebiet,Hintergrund,27,0,11000000,13.430844,52.489451
+DEBE063,B Neukölln-Silbersteinstr.,städtisches Gebiet,Verkehr,52,1,11000000,13.441654,52.467534
+DEBE018,B Schöneberg-Belziger Straße,städtisches Gebiet,Hintergrund,26,0,11000000,13.348775,52.485814
+DEBE061,B Steglitz-Schildhornstr.,städtisches Gebiet,Verkehr,48,1,11000000,13.318250,52.463611
+DEBE010,B Wedding-Amrumer Str.,städtisches Gebiet,Hintergrund,28,0,11000000,13.349326,52.543041
+DEBB068,"Bernau, Lohmühlenstr.",städtisches Gebiet,Verkehr,28,0,12060020,13.582269,52.677651
+DEBB086,Blankenfelde-Mahlow,vorstädtisches Gebiet,Hintergrund,16,0,12072017,13.424304,52.349703
+DEBB055,Brandenburg a.d. Havel,vorstädtisches Gebiet,Hintergrund,12,0,12051000,12.552303,52.420442
+DEBB049,"Brandenburg, Neuendorfer Str.",städtisches Gebiet,Verkehr,26,0,12051000,12.548376,52.409309
+DEBB064,Cottbus,städtisches Gebiet,Hintergrund,15,0,12052000,14.334550,51.746344
+DEBB044,"Cottbus, Bahnhofstr.",städtisches Gebiet,Verkehr,35,0,12052000,14.327998,51.756476
+DEBB087,"Cottbus, W.-Külz-Str.",städtisches Gebiet,Verkehr,25,0,12052000,14.325549,51.754130
+DEBB060,Eberswalde Breite Straße,städtisches Gebiet,Verkehr,27,0,12060052,13.822211,52.832467
+DEBB032,Eisenhüttenstadt,vorstädtisches Gebiet,Industrie,12,0,12067120,14.638166,52.146264
+DEBB007,Elsterwerda,vorstädtisches Gebiet,Hintergrund,14,0,12062124,13.526796,51.462734
+DEBB092,Frankfurt (Oder),vorstädtisches Gebiet,Hintergrund,14,0,12053000,14.525960,52.334680
+DEBB045,"Frankfurt (Oder), Leipziger Str.",städtisches Gebiet,Verkehr,37,0,12053000,14.538595,52.337336
+DEBB053,Hasenholz,ländlich regional,Hintergrund,10,0,12064084,14.015252,52.563835
+DEBB065,Lütte (Belzig),ländlich regional,Hintergrund,7,0,12069020,12.561389,52.194225
+DEBB067,Nauen,vorstädtisches Gebiet,Hintergrund,12,0,12063208,12.885194,52.608609
+DEBB048,Neuruppin,vorstädtisches Gebiet,Hintergrund,15,0,12068320,12.809481,52.931890
+DEBB075,"Potsdam, Groß Glienicke",vorstädtisches Gebiet,Hintergrund,15,0,12054000,13.123698,52.484168
+DEBB073,"Potsdam, Großbeerenstr.",städtisches Gebiet,Verkehr,42,0,12054000,13.094618,52.388869
+DEBB021,Potsdam-Zentrum,städtisches Gebiet,Hintergrund,21,0,12054000,13.059945,52.401352
+DEBB029,Schwedt (Oder),vorstädtisches Gebiet,Industrie,11,0,12073532,14.285139,53.064262
+DEBB066,Spreewald,ländlich regional,Hintergrund,8,0,12061352,14.057064,51.897598
+DEBB083,Spremberg,vorstädtisches Gebiet,Hintergrund,11,0,12071372,14.376400,51.564500
+DEBB063,Wittenberge,vorstädtisches Gebiet,Hintergrund,9,0,12070424,11.738460,52.998750
+DEHB006,Bremen Verkehr 1,städtisches Gebiet,Verkehr,47,0,04011000,8.825173,53.078663
+DEHB013,Bremen-Hasenbüren,ländlich regional,Industrie,15,0,04011000,8.695060,53.117700
+DEHB001,Bremen-Mitte,städtisches Gebiet,Hintergrund,23,0,04011000,8.815780,53.077151
+DEHB004,Bremen-Nord,städtisches Gebiet,Hintergrund,20,0,04011000,8.625456,53.180946
+DEHB012,Bremen-Oslebshausen,städtisches Gebiet,Hintergrund,22,0,04011000,8.735047,53.124561
+DEHB002,Bremen-Ost,städtisches Gebiet,Hintergrund,21,0,04011000,8.916966,53.060045
+DEHB005,Bremerhaven,städtisches Gebiet,Hintergrund,22,0,04012000,8.569405,53.562455
+DEHB011,Cherbourger Straße,städtisches Gebiet,Verkehr,42,0,04012000,8.598760,53.585262
+DEHH079,Hamburg Altona Elbhang,städtisches Gebiet,Hintergrund,31,0,02000000,9.944815,53.545269
+DEHH016,Hamburg Billbrook,städtisches Gebiet,Industrie,25,0,02000000,10.081685,53.529020
+DEHH074,Hamburg Billstedt,städtisches Gebiet,Hintergrund,31,0,02000000,10.102823,53.538531
+DEHH049,Hamburg Blankenese-Baursberg,vorstädtisches Gebiet,Hintergrund,16,0,02000000,9.786234,53.568124
+DEHH047,Hamburg Bramfeld,vorstädtisches Gebiet,Hintergrund,17,0,02000000,10.110595,53.630740
+DEHH073,Hamburg Finkenwerder Airbus,ländlich stadtnah,Industrie,17,0,02000000,9.832702,53.532075
+DEHH072,Hamburg Finkenwerder West,städtisches Gebiet,Industrie,18,0,02000000,9.844080,53.535958
+DEHH033,Hamburg Flughafen Nord,städtisches Gebiet,Hintergrund,21,0,02000000,9.998009,53.638291
+DEHH068,Hamburg Habichtstraße,städtisches Gebiet,Verkehr,63,7,02000000,10.053859,53.592301
+DEHH064,Hamburg Kieler Straße,städtisches Gebiet,Verkehr,48,0,02000000,9.944580,53.564399
+DEHH070,Hamburg Max-Brauer-Allee II (Straße),städtisches Gebiet,Verkehr,62,3,02000000,9.943012,53.555668
+DEHH050,Hamburg Neugraben,vorstädtisches Gebiet,Hintergrund,13,0,02000000,9.857223,53.480927
+DEHH008,Hamburg Sternschanze,städtisches Gebiet,Hintergrund,27,0,02000000,9.967882,53.564140
+DEHH026,Hamburg Stresemannstraße,städtisches Gebiet,Verkehr,49,0,02000000,9.957236,53.560632
+DEHH015,Hamburg Veddel,städtisches Gebiet,Industrie,34,0,02000000,10.021227,53.523262
+DEHH059,Hamburg Wilhelmsburg,städtisches Gebiet,Hintergrund,26,0,02000000,9.990569,53.507930
+DEHE046,Bad Arolsen,ländliches Gebiet,Hintergrund,9,0,06635002,8.928171,51.430897
+DEHE032,Bebra,städtisches Gebiet,Hintergrund,15,0,06632003,9.800260,50.970024
+DEHE133,Bensheim Nibelungenstraße,städtisches Gebiet,Verkehr,46,---,00000000,8.623062,49.682700
+DEHE039,Burg Herzberg (Grebenau),ländliches Gebiet,Hintergrund,9,0,06632004,9.459402,50.770381
+DEHE001,Darmstadt,städtisches Gebiet,Hintergrund,25,0,06411000,8.664619,49.872303
+DEHE040,Darmstadt-Hügelstraße,städtisches Gebiet,Verkehr,61,57,06411000,8.653745,49.869457
+DEHE041,Frankfurt-Friedb.Ldstr.,städtisches Gebiet,Verkehr,53,12,06412000,8.691911,50.124589
+DEHE005,Frankfurt-Höchst,städtisches Gebiet,Hintergrund,36,0,06412000,8.542052,50.101871
+DEHE008,Frankfurt-Ost,städtisches Gebiet,Hintergrund,34,0,06412000,8.746343,50.125332
+DEHE058,Fulda-Mitte,städtisches Gebiet,Hintergrund,24,0,06631009,9.682162,50.549297
+DEHE059,Fulda-Petersberger Str.,städtisches Gebiet,Verkehr,41,0,06631009,9.684854,50.550028
+DEHE028,Fürth/Odenwald,ländliches Gebiet,Hintergrund,10,0,06431007,8.817251,49.653465
+DEHE061,Gießen-Westanlage,städtisches Gebiet,Verkehr,45,0,06531005,8.668579,50.584108
+DEHE011,Hanau,städtisches Gebiet,Hintergrund,24,0,06435014,8.921570,50.135770
+DEHE063,Heppenheim-Lehrstraße,städtisches Gebiet,Verkehr,35,0,06431011,8.642000,49.643238
+DEHE049,Kassel-Fünffenster-Str.,städtisches Gebiet,Verkehr,42,0,06611000,9.491120,51.312076
+DEHE013,Kassel-Mitte,städtisches Gebiet,Hintergrund,22,0,06611000,9.483397,51.314248
+DEHE060,Kellerwald,ländlich regional,Hintergrund,7,0,06635009,9.031754,51.154843
+DEHE052,Kleiner Feldberg,ländliches Gebiet,Hintergrund,8,0,06434003,8.446079,50.221941
+DEHE044,Limburg,städtisches Gebiet,Hintergrund,25,0,06533009,8.060998,50.383217
+DEHE098,Limburg Diezer Str. 49,städtisches Gebiet,Verkehr,38,---,06533009,8.053849,50.384466
+DEHE101,Limburg Frankfurter Str. 52,städtisches Gebiet,Verkehr,53,---,06533009,8.070442,50.383120
+DEHE099,Limburg Schiede 28-30,städtisches Gebiet,Verkehr,63,---,06533009,8.059641,50.386210
+DEHE100,Limburg Schiede 37-41,städtisches Gebiet,Verkehr,47,---,06533009,8.059130,50.387586
+DEHE131,Limburg-Schiede,städtisches Gebiet,Verkehr,-999,23,00000000,8.059909,50.386426
+DEHE042,Linden/Leihgestern,ländliches Gebiet,Hintergrund,19,0,06531012,8.684397,50.532965
+DEHE030,Marburg,städtisches Gebiet,Hintergrund,25,0,06534014,8.769324,50.804258
+DEHE062,Marburg-Univers.Straße,städtisches Gebiet,Verkehr,47,0,06534014,8.769396,50.807018
+DEHE045,Michelstadt,städtisches Gebiet,Hintergrund,17,0,06437011,9.001981,49.672507
+DEHE103,Offenbach Bieberer Str. 86,städtisches Gebiet,Verkehr,42,---,06413000,8.775947,50.102390
+DEHE104,Offenbach Mainstr. 133,städtisches Gebiet,Verkehr,52,---,06413000,8.772779,50.107078
+DEHE102,Offenbach Untere Grenzstr. 61,städtisches Gebiet,Verkehr,48,---,06413000,8.784665,50.101443
+DEHE116,Offenbach-Untere Grenzstraße,städtisches Gebiet,Verkehr,40,0,06413000,8.784892,50.101494
+DEHE018,Raunheim,städtisches Gebiet,Hintergrund,29,0,06433010,8.451527,50.010325
+DEHE043,Riedstadt,ländlich stadtnah,Hintergrund,20,0,06433011,8.516798,49.825165
+DEHE111,Rüsselsheim Rugby-Ring,städtisches Gebiet,Verkehr,42,---,06433012,8.424390,49.995556
+DEHE026,Spessart,ländlich regional,Hintergrund,8,0,06435016,9.399441,50.164430
+DEHE051,Wasserkuppe,ländliches Gebiet,Hintergrund,5,0,06631010,9.935862,50.497711
+DEHE020,Wetzlar,städtisches Gebiet,Verkehr,29,0,06532023,8.500619,50.567185
+DEHE105,Wetzlar Linsenbergstr.,städtisches Gebiet,Verkehr,23,---,06532023,8.491714,50.575080
+DEHE037,Wiesbaden-Ringkirche,städtisches Gebiet,Verkehr,53,2,06414000,8.230316,50.077191
+DEHE112,Wiesbaden-Schiersteiner Str.,städtisches Gebiet,Verkehr,53,1,06414000,8.228865,50.072119
+DEHE022,Wiesbaden-Süd,städtisches Gebiet,Hintergrund,29,0,06414000,8.244949,50.050343
+DEHE024,Witzenhausen/Wald,ländliches Gebiet,Hintergrund,7,0,06636200,9.774588,51.291757
+DEHE050,Zierenberg,ländliches Gebiet,Hintergrund,9,0,06633029,9.271233,51.360755
+DEMV026,Garz,ländliches Gebiet,Hintergrund,5,0,13061011,13.342138,54.323514
+DEMV017,Göhlen,ländliches Gebiet,Hintergrund,7,0,13054034,11.362965,53.302352
+DEMV004,Gülzow,ländliches Gebiet,Hintergrund,5,0,13053104,12.064708,53.817775
+DEMV019,Güstrow,städtisches Gebiet,Hintergrund,9,0,13053031,12.175512,53.781750
+DEMV024,Leizen,ländliches Gebiet,Hintergrund,6,0,13056037,12.463929,53.396348
+DEMV012,Löcknitz,ländliches Gebiet,Hintergrund,7,0,13062052,14.257407,53.520456
+DEMV003,Neubrandenburg,städtisches Gebiet,Verkehr,21,0,13002000,13.266440,53.559784
+DEMV020,Rostock Am Strande,städtisches Gebiet,Verkehr,38,0,13003000,12.141994,54.092278
+DEMV031,Rostock-Hohe Düne,städtisches Gebiet,Industrie,19,0,13003000,12.097920,54.177290
+DEMV022,Rostock-Holbeinplatz,städtisches Gebiet,Verkehr,31,0,13003000,12.099553,54.092620
+DEMV007,Rostock-Stuthof,vorstädtisches Gebiet,Hintergrund,10,0,13051066,12.174105,54.161555
+DEMV021,Rostock-Warnemünde,städtisches Gebiet,Hintergrund,13,0,13003000,12.080003,54.171330
+DEMV023,Schwerin-Obotritenring,städtisches Gebiet,Verkehr,22,0,13004000,11.398332,53.631805
+DEMV025,Stralsund-Knieperdamm,städtisches Gebiet,Verkehr,18,0,13005000,13.081010,54.319230
+DEMV027,Wolgast-Oberwallstraße,städtisches Gebiet,Verkehr,14,0,00000000,13.779314,54.053175
+DENI052,Allertal,vorstädtisches Gebiet,Hintergrund,13,0,03358022,9.622950,52.829430
+DENI063,Altes Land,ländliches Gebiet,Hintergrund,14,0,03359028,9.685030,53.524180
+DENI071,Barbis-Verkehr,vorstädtisches Gebiet,Verkehr,20,0,03156002,10.422750,51.613650
+DENI011,Braunschweig,vorstädtisches Gebiet,Hintergrund,15,0,03101000,10.473640,52.226940
+DENI160,Braunschweig Hildesheimer Straße,städtisches Gebiet,Verkehr,36,---,03101000,10.499984,52.270462
+DENI008,Braunschweig Verkehr_alt,städtisches Gebiet,Verkehr,43,---,03101000,10.524609,52.263331
+DENI075,Braunschweig-Verkehr,städtisches Gebiet,Verkehr,40,0,03101000,10.540550,52.266730
+DENI028,Eichsfeld,vorstädtisches Gebiet,Hintergrund,12,0,03152007,10.238540,51.507580
+DENI059,Elbmündung,ländliches Gebiet,Hintergrund,12,0,03352011,8.801220,53.830170
+DENI043,Emsland,vorstädtisches Gebiet,Hintergrund,15,0,03454032,7.317470,52.498550
+DENI042,Göttingen,vorstädtisches Gebiet,Hintergrund,17,0,03152012,9.949760,51.551070
+DENI068,Göttingen-Verkehr,städtisches Gebiet,Verkehr,42,0,03152012,9.928330,51.530200
+DENI074,Hameln-Verkehr,städtisches Gebiet,Verkehr,43,---,03252006,9.367038,52.104039
+DENI054,Hannover,städtisches Gebiet,Hintergrund,19,0,03241001,9.706120,52.362920
+DENI149,Hannover Bornumer Straße,städtisches Gebiet,Verkehr,49,---,03241001,9.712341,52.360803
+DENI150,Hannover Friedrich-Ebert-Straße,städtisches Gebiet,Verkehr,57,---,03241001,9.718975,52.347585
+DENI151,Hannover Kurt-Schumacher-Straße,städtisches Gebiet,Verkehr,39,---,03241001,9.738463,52.376901
+DENI152,Hannover Marienstraße,städtisches Gebiet,Verkehr,54,---,03241001,9.754405,52.369965
+DENI153,Hannover Vahrenwalder Straße,städtisches Gebiet,Verkehr,46,---,03241001,9.734758,52.392658
+DENI048,Hannover Verkehr,städtisches Gebiet,Verkehr,49,0,03241001,9.715500,52.359478
+DENI066,Hildesheim Verkehr,städtisches Gebiet,Verkehr,46,---,03254021,9.950223,52.150775
+DENI031,Jadebusen,ländliches Gebiet,Hintergrund,11,0,03405000,8.090590,53.596170
+DENI062,Lüneburger Heide,vorstädtisches Gebiet,Hintergrund,17,0,03355022,10.456500,53.246960
+DENI016,Oker/Harlingerode,vorstädtisches Gebiet,Hintergrund,10,0,03153005,10.481320,51.901580
+DENI143,Oldenburg Heiligengeistwall,städtisches Gebiet,Verkehr,52,0,03403000,8.212084,53.142836
+DENI038,Osnabrück,städtisches Gebiet,Hintergrund,19,0,03404000,8.052860,52.255340
+DENI146,Osnabrück Neuer Graben,städtisches Gebiet,Verkehr,43,---,03404000,8.046981,52.272232
+DENI067,Osnabrück-Verkehr,städtisches Gebiet,Verkehr,50,0,03404000,8.041470,52.270300
+DENI058,Ostfries. Inseln,ländliches Gebiet,Hintergrund,9,0,03452020,7.213980,53.715300
+DENI029,Ostfriesland,vorstädtisches Gebiet,Hintergrund,17,0,03402000,7.207260,53.362350
+DENI070,Salzgitter-Drütte,ländliches Gebiet,Industrie,16,0,03102000,10.455910,52.153690
+DENI077,Solling-Süd,ländliches Gebiet,Hintergrund,9,0,03155501,9.554620,51.708840
+DENI053,Südoldenburg,vorstädtisches Gebiet,Industrie,14,0,03453002,7.942570,52.997960
+DENI060,Wendland,ländliches Gebiet,Hintergrund,11,0,03354018,11.167050,52.957020
+DENI041,Weserbergland,vorstädtisches Gebiet,Hintergrund,14,0,03257031,9.062550,52.170170
+DENI020,Wolfsburg,vorstädtisches Gebiet,Hintergrund,20,0,03103000,10.816380,52.440810
+DENI157,Wolfsburg Heßlinger Straße,vorstädtisches Gebiet,Verkehr,37,1,03103000,10.793683,52.427886
+DENI051,Wurmberg,ländliches Gebiet,Hintergrund,6,0,03153003,10.612480,51.758160
+DENW178,Aachen Adalbertsteinweg,städtisches Gebiet,Verkehr,44,---,05334002,6.097338,50.774694
+DENW207,Aachen Wilhelmstraße,städtisches Gebiet,Verkehr,50,2,05334002,6.095775,50.773131
+DENW094,Aachen-Burtscheid,städtisches Gebiet,Hintergrund,14,0,05334002,6.093923,50.754704
+DENW200,Bielefeld Detmolder Straße,städtisches Gebiet,Verkehr,31,0,05711000,8.552804,52.005624
+DENW228,Bielefeld Stapenhorststraße 42,städtisches Gebiet,Verkehr,41,---,05711000,8.522293,52.025960
+DENW361,Bielefeld-Innenstadt,städtisches Gebiet,Verkehr,49,---,00033602,8.534306,52.023889
+DENW067,Bielefeld-Ost,städtisches Gebiet,Hintergrund,22,0,05711000,8.548389,52.023169
+DENW331,Bochum Herner Straße 385,städtisches Gebiet,Verkehr,47,---,00000000,7.211139,51.512561
+DENW230,Bönen Bönener Straße,städtisches Gebiet,Verkehr,38,---,05978008,7.750195,51.610740
+DENW176,Bonn Bornheimer Straße 35a,städtisches Gebiet,Verkehr,41,---,05314000,7.087619,50.736963
+DENW175,Bonn Reuterstraße 24,städtisches Gebiet,Verkehr,50,---,05314000,7.097058,50.722581
+DENW062,Bonn-Auerberg,vorstädtisches Gebiet,Hintergrund,30,0,05314000,7.082676,50.753640
+DENW081,Borken-Gemen,ländlich stadtnah,Hintergrund,18,0,05554012,6.874554,51.862000
+DENW364,Bottrop Peterstraße 9,städtisches Gebiet,Verkehr,38,---,00000000,6.924361,51.519167
+DENW021,Bottrop-Welheim,städtisches Gebiet,Industrie,26,0,05512000,6.976908,51.525963
+DENW002,Datteln-Hagem,vorstädtisches Gebiet,Hintergrund,20,0,05562008,7.331405,51.641383
+DENW262,Dinslaken Hans-Böckler-Straße 9,städtisches Gebiet,Verkehr,36,---,05170008,6.741891,51.562254
+DENW275,Dinslaken Hünxer Straße,städtisches Gebiet,Verkehr,42,---,05170008,6.743404,51.563935
+DENW293,Dinslaken Wilhelm-Lantermann-Straße 33,städtisches Gebiet,Verkehr,35,---,05170008,6.740467,51.564642
+DENW185,Dortmund B1 Rheinlanddamm,städtisches Gebiet,Verkehr,46,---,05913000,7.480949,51.500589
+DENW184,Dortmund B1 Westfalendamm,städtisches Gebiet,Verkehr,42,---,05913000,7.503074,51.504083
+DENW136,Dortmund Brackeler Straße,städtisches Gebiet,Verkehr,49,0,05913000,7.483597,51.523567
+DENW101,Dortmund Steinstraße,städtisches Gebiet,Verkehr,39,0,05913000,7.464347,51.519639
+DENW008,Dortmund-Eving,städtisches Gebiet,Hintergrund,27,0,05913000,7.457463,51.536911
+DENW253,Duisburg Friedrich-Ebert-Straße 30,städtisches Gebiet,Verkehr,36,---,05112000,6.711915,51.411535
+DENW112,Duisburg Kardinal-Galen-Straße,städtisches Gebiet,Verkehr,37,0,05112000,6.771801,51.437708
+DENW338,Duisburg-Bruckhausen,städtisches Gebiet,Industrie,34,0,05112000,6.735431,51.485492
+DENW034,Duisburg-Walsum,städtisches Gebiet,Industrie,26,0,05112000,6.748402,51.524022
+DENW266,Düren Euskirchener Straße,städtisches Gebiet,Verkehr,61,---,05358008,6.494618,50.804130
+DENW082,Düsseldorf Corneliusstraße,städtisches Gebiet,Verkehr,59,0,05111000,6.782565,51.213110
+DENW340,Düsseldorf Ludenberger Straße,städtisches Gebiet,Verkehr,51,---,00000000,6.833150,51.240755
+DENW362,Düsseldorf Norfer Straße,städtisches Gebiet,Hintergrund,32,---,00040221,6.761111,51.200306
+DENW354,Düsseldorf Südring,städtisches Gebiet,Verkehr,38,0,05111000,6.456830,51.120310
+DENW216,Düsseldorf-Bilk,städtisches Gebiet,Verkehr,56,---,05111000,6.776388,51.202464
+DENW071,Düsseldorf-Lörick,städtisches Gebiet,Hintergrund,25,0,05111000,6.732383,51.249211
+DENW210,Erwitte Soester Straße 9A,städtisches Gebiet,Verkehr,35,---,05974016,8.334714,51.611676
+DENW287,Eschweiler Indestraße,städtisches Gebiet,Verkehr,43,---,05334012,6.264315,50.820557
+DENW161,Essen Alfredstraße 9/11,städtisches Gebiet,Verkehr,48,---,05113000,7.004406,51.440205
+DENW162,Essen Brückstraße,städtisches Gebiet,Verkehr,42,---,05113000,7.001110,51.388180
+DENW134,Essen Gladbecker Straße,städtisches Gebiet,Verkehr,43,1,05113000,7.005278,51.477931
+DENW169,Essen In der Baumschule,städtisches Gebiet,Hintergrund,29,---,05113000,7.005478,51.478487
+DENW277,Essen Krayer Straße 213,städtisches Gebiet,Verkehr,44,---,05113000,7.080298,51.465642
+DENW215,Essen-Frohnhausen,städtisches Gebiet,Verkehr,50,---,05113000,6.975815,51.443197
+DENW043,Essen-Ost Steeler Straße,städtisches Gebiet,Verkehr,36,0,05113000,7.030603,51.451177
+DENW247,Essen-Schuir (LANUV),vorstädtisches Gebiet,Hintergrund,33,0,05113000,6.965643,51.406968
+DENW024,Essen-Vogelheim,städtisches Gebiet,Hintergrund,27,0,05113000,6.981045,51.496527
+DENW351,Gelsenkirchen Grothusstraße,städtisches Gebiet,Verkehr,35,---,00000000,7.060337,51.524281
+DENW208,Gelsenkirchen Kurt-Schumacher-Straße,städtisches Gebiet,Verkehr,50,0,05513000,7.084597,51.527883
+DENW022,Gelsenkirchen-Bismarck,vorstädtisches Gebiet,Hintergrund,26,0,05513000,7.101786,51.533646
+DENW225,Gevelsberg Hagener Straße,städtisches Gebiet,Verkehr,36,---,05954012,7.344286,51.320635
+DENW299,Gladbeck Grabenstraße 42,ländliches Gebiet,Verkehr,41,---,05562014,6.997653,51.569886
+DENW255,Hagen Enneper Straße,städtisches Gebiet,Verkehr,35,---,05914000,7.395867,51.339466
+DENW133,Hagen Graf-von-Galen-Ring,städtisches Gebiet,Verkehr,49,0,05914000,7.463530,51.362829
+DENW281,Hagen Märkischer Ring 85,städtisches Gebiet,Verkehr,49,---,05914000,7.477383,51.360378
+DENW137,Hagen Wehringhauser Straße,städtisches Gebiet,Verkehr,25,---,05914000,7.453887,51.354904
+DENW222,Halle (Westfalen) Lange Straße,städtisches Gebiet,Verkehr,40,---,05754012,8.360942,52.061461
+DENW195,Hamm Münsterstraße,städtisches Gebiet,Verkehr,39,---,05915000,7.809711,51.689266
+DENW029,Hattingen-Blankenstein,vorstädtisches Gebiet,Hintergrund,18,0,05954016,7.208572,51.403005
+DENW203,Herne Recklinghauser Straße,städtisches Gebiet,Verkehr,41,0,05916000,7.150186,51.543141
+DENW058,Hürth,vorstädtisches Gebiet,Industrie,21,0,05362028,6.873789,50.876121
+DENW267,Hürth Luxemburger Straße 344,städtisches Gebiet,Verkehr,45,---,05362028,6.889934,50.879855
+DENW329,Jackerath,ländliches Gebiet,Industrie,19,0,00000000,6.451483,51.033834
+DENW337,Jüchen-Hochneukirch,ländlich stadtnah,Industrie,18,0,05162012,6.469463,51.097638
+DENW334,Kamen Bahnhofstraße 21,städtisches Gebiet,Verkehr,33,---,00000000,7.662739,51.588658
+DENW358,Köln Bergisch Gladbacher Straße,städtisches Gebiet,Verkehr,42,---,00000000,7.047528,50.970389
+DENW211,Köln Clevischer Ring 3,städtisches Gebiet,Verkehr,66,1,05315000,7.004590,50.962857
+DENW303,Köln Dellbrücker Hauptstraße,städtisches Gebiet,Verkehr,40,---,05315000,7.071003,50.978208
+DENW332,Köln Hauptstraße,städtisches Gebiet,Verkehr,39,---,00000000,7.055722,50.883711
+DENW148,Köln Justinianstraße,städtisches Gebiet,Verkehr,54,---,05315000,6.978026,50.938542
+DENW353,Köln Lindweilerweg 144,städtisches Gebiet,Verkehr,42,---,00000000,6.899453,50.995219
+DENW336,Köln Luxemburger Straße,städtisches Gebiet,Verkehr,50,---,00000000,6.932681,50.920406
+DENW151,Köln Neumarkt,städtisches Gebiet,Verkehr,51,---,05315000,6.947953,50.935545
+DENW212,Köln Turiner Straße,städtisches Gebiet,Verkehr,46,0,05315000,6.957701,50.947367
+DENW053,Köln-Chorweiler,städtisches Gebiet,Hintergrund,25,0,05315000,6.884636,51.019345
+DENW249,Köln-Junkersdorf Statthalterhofweg 70,städtisches Gebiet,Verkehr,35,---,05315000,6.857614,50.931615
+DENW297,Köln-Meschenich Brühler Landstraße,vorstädtisches Gebiet,Verkehr,40,---,05315000,6.924825,50.858997
+DENW059,Köln-Rodenkirchen,vorstädtisches Gebiet,Hintergrund,31,0,05315000,6.985164,50.889814
+DENW219,Köln-Weiden,städtisches Gebiet,Verkehr,52,---,05315000,6.835109,50.938052
+DENW116,Krefeld (Hafen),vorstädtisches Gebiet,Industrie,28,0,05114000,6.670195,51.342561
+DENW251,Krefeld Kölner Straße 209,städtisches Gebiet,Verkehr,37,---,05114000,6.574775,51.317847
+DENW252,Krefeld Oranierring,städtisches Gebiet,Verkehr,38,---,05114000,6.553999,51.340374
+DENW232,Langenfeld Schneiderstraße,städtisches Gebiet,Verkehr,41,---,05158020,6.969170,51.120018
+DENW355,Leverkusen Gustav-Heinemann-Str.,städtisches Gebiet,Verkehr,47,0,05316000,7.010934,51.031473
+DENW079,Leverkusen-Manfort,vorstädtisches Gebiet,Hintergrund,29,0,05316000,7.005063,51.028879
+DENW356,Lüdenscheid Lennestraße,städtisches Gebiet,Verkehr,35,1,05962032,7.643095,51.227609
+DENW006,Lünen-Niederaden,vorstädtisches Gebiet,Hintergrund,24,0,05978024,7.569838,51.592206
+DENW335,Meerbusch Meerbuscher Straße,städtisches Gebiet,Verkehr,32,---,00000000,6.641622,51.267083
+DENW291,Mettmann Breite Straße 10,städtisches Gebiet,Verkehr,41,---,05158024,6.978922,51.249869
+DENW165,Mönchengladbach Aachener Straße 426/428,städtisches Gebiet,Verkehr,42,---,05116000,6.409975,51.182463
+DENW100,Mönchengladbach Düsseldorfer Straße,städtisches Gebiet,Verkehr,22,0,05116000,6.458842,51.169967
+DENW259,Mönchengladbach Friedrich-Ebert-Straße,städtisches Gebiet,Verkehr,32,0,05116000,6.439975,51.169437
+DENW187,Mülheim Aktienstraße 152/154,städtisches Gebiet,Verkehr,41,---,05117000,6.896149,51.441164
+DENW305,Mülheim Kölner Straße (B1),vorstädtisches Gebiet,Verkehr,39,---,05117000,6.863392,51.368083
+DENW038,Mülheim-Styrum,städtisches Gebiet,Hintergrund,26,0,05117000,6.865107,51.453460
+DENW269,Münster Bült,städtisches Gebiet,Verkehr,44,---,05515000,7.631364,51.963339
+DENW268,Münster Steinfurter Straße 11,städtisches Gebiet,Verkehr,38,---,05515000,7.613536,51.968324
+DENW260,Münster Weseler Straße,städtisches Gebiet,Verkehr,39,0,05515000,7.619387,51.953267
+DENW095,Münster-Geist,städtisches Gebiet,Hintergrund,20,0,05515000,7.611581,51.936547
+DENW065,Netphen (Rothaargebirge),ländlich regional,Hintergrund,7,0,05970032,8.191932,50.930328
+DENW066,Nettetal-Kaldenkirchen,ländlich stadtnah,Hintergrund,20,0,05166016,6.195868,51.326943
+DENW290,Neuss Batteriestraße,städtisches Gebiet,Verkehr,44,---,05162024,6.693266,51.201385
+DENW172,Neuss Friedrichstraße 29,städtisches Gebiet,Verkehr,41,---,05162024,6.692515,51.193975
+DENW289,Neuss Krefelder Straße,ländliches Gebiet,Verkehr,42,---,05162024,6.685209,51.202242
+DENW209,Oberhausen Mülheimer Straße 116,städtisches Gebiet,Verkehr,46,---,05119000,6.863960,51.475005
+DENW188,Oberhausen Mülheimer Straße 117,städtisches Gebiet,Verkehr,53,0,05119000,6.863657,51.474971
+DENW213,Overath Hauptstraße 55,städtisches Gebiet,Verkehr,45,---,05378024,7.285858,50.932806
+DENW157,Paderborn Bahnhofstraße,städtisches Gebiet,Verkehr,47,---,05774032,8.744098,51.714573
+DENW158,Paderborn Friedrichstraße 29,städtisches Gebiet,Verkehr,50,---,05774032,8.747085,51.718696
+DENW363,Paderborn-Schloss Neuhaus,städtisches Gebiet,Verkehr,42,---,00000000,8.711944,51.743583
+DENW078,Ratingen-Tiefenbroich,vorstädtisches Gebiet,Hintergrund,26,0,05158028,6.819967,51.303919
+DENW296,Recklinghausen Bochumer Straße,städtisches Gebiet,Verkehr,37,---,05562032,7.213339,51.577208
+DENW279,Recklinghausen Kaiserwall,städtisches Gebiet,Verkehr,36,---,05562032,7.201525,51.613503
+DENW166,Remscheid Freiheitstraße,städtisches Gebiet,Verkehr,41,---,05120000,7.181920,51.178034
+DENW179,Schwerte,städtisches Gebiet,Hintergrund,22,0,05978028,7.582295,51.448762
+DENW365,Schwerte Hörder Straße 13,städtisches Gebiet,Verkehr,46,---,00000000,7.563578,51.446714
+DENW272,Siegen Frankfurter Straße,städtisches Gebiet,Verkehr,38,---,05970040,8.026075,50.870851
+DENW360,Siegen Sandstraße 15,städtisches Gebiet,Verkehr,46,---,00000000,8.020833,50.875594
+DENW342,Siegen Sandstraße 18,städtisches Gebiet,Verkehr,38,---,00000000,8.023820,50.875539
+DENW064,Simmerath (Eifel),ländlich regional,Hintergrund,6,0,05334028,6.281069,50.653236
+DENW068,Soest-Ost,ländlich stadtnah,Hintergrund,12,0,05974040,8.148061,51.570662
+DENW080,Solingen-Wald,vorstädtisches Gebiet,Hintergrund,23,0,05122000,7.052634,51.183773
+DENW010,Unna-Königsborn,vorstädtisches Gebiet,Hintergrund,21,0,05978036,7.693835,51.547495
+DENW181,Warstein,städtisches Gebiet,Industrie,12,0,05974044,8.360714,51.443012
+DENW030,Wesel-Feldmark,vorstädtisches Gebiet,Hintergrund,19,0,05170048,6.629576,51.672809
+DENW239,Witten-Zentrum,städtisches Gebiet,Verkehr,42,---,05954036,7.337297,51.438218
+DENW189,Wuppertal Gathe,städtisches Gebiet,Verkehr,51,0,05124000,7.147401,51.260681
+DENW114,Wuppertal-Langerfeld,städtisches Gebiet,Hintergrund,24,0,05124000,7.231895,51.277647
+DERP022,Bad Kreuznach-Bosenheimer Straße,städtisches Gebiet,Hintergrund,24,0,07133006,7.866208,49.842136
+DERP026,Frankenthal-Europaring,städtisches Gebiet,Verkehr,34,0,07311000,8.355300,49.533300
+DERP014,Hunsrück-Leisel,ländliches Gebiet,Hintergrund,6,0,07134084,7.193486,49.741035
+DERP019,Kaiserslautern-Rathausplatz,städtisches Gebiet,Hintergrund,23,0,07312000,7.767300,49.446000
+DERP024,Koblenz-Friedrich-Ebert-Ring,städtisches Gebiet,Verkehr,37,0,07111000,7.596583,50.354400
+DERP045,Koblenz-Hohenfelder Straße,städtisches Gebiet,Verkehr,45,0,07111000,7.592515,50.359605
+DERP041,Ludwigshafen-Heinigstraße,städtisches Gebiet,Verkehr,46,1,07314000,8.443654,49.478690
+DERP003,Ludwigshafen-Mundenheim,städtisches Gebiet,Industrie,31,0,07314000,8.425833,49.455378
+DERP001,Ludwigshafen-Oppau,städtisches Gebiet,Hintergrund,25,0,07314000,8.402374,49.515052
+DERP012,Mainz-Große Langgasse,städtisches Gebiet,Verkehr,45,3,07315000,8.268996,49.998837
+DERP007,Mainz-Mombach,städtisches Gebiet,Hintergrund,23,0,07315000,8.216498,50.017078
+DERP010,Mainz-Parcusstraße,städtisches Gebiet,Verkehr,57,13,07315000,8.261277,50.000973
+DERP011,Mainz-Rheinallee,städtisches Gebiet,Verkehr,40,9,07315000,8.265563,50.009954
+DERP009,Mainz-Zitadelle,städtisches Gebiet,Hintergrund,39,0,07315000,8.273965,49.994975
+DERP021,Neuwied-Hafenstraße,städtisches Gebiet,Hintergrund,23,0,07138045,7.481394,50.424674
+DERP046,Neuwied-Hermannstraße,städtisches Gebiet,Verkehr,28,0,07138045,7.460812,50.431398
+DERP017,Pfälzerwald-Hortenkopf,ländliches Gebiet,Hintergrund,6,0,07340031,7.826521,49.270263
+DERP060,Pirmasens-Innenstadt,städtisches Gebiet,Hintergrund,18,0,07317000,7.614573,49.191996
+DERP053,Speyer-Nord,vorstädtisches Gebiet,Hintergrund,32,0,07316000,8.423005,49.351143
+DERP020,Trier-Ostallee,städtisches Gebiet,Verkehr,34,0,07211000,6.646762,49.754192
+DERP047,Trier-Pfalzel,vorstädtisches Gebiet,Industrie,20,0,07211000,6.690488,49.783942
+DERP015,Westeifel Wascheid,ländliches Gebiet,Hintergrund,6,0,07232227,6.378100,50.266500
+DERP016,Westerwald-Herdorf,ländliches Gebiet,Hintergrund,8,0,07132050,7.973500,50.766751
+DERP028,Westerwald-Neuhäusel,ländliches Gebiet,Hintergrund,10,0,07143048,7.729900,50.424300
+DERP013,Westpfalz-Waldmohr,ländliches Gebiet,Hintergrund,8,0,07336017,7.293522,49.423137
+DERP023,Worms-Hagenstraße,städtisches Gebiet,Verkehr,29,0,07319000,8.364900,49.628700
+DERP025,Wörth-Marktplatz,städtisches Gebiet,Hintergrund,19,0,07334501,8.253547,49.052321
+DESL019,Biringen,ländlich regional,Hintergrund,9,0,10044114,6.552037,49.416884
+DESL003,Dillingen City,städtisches Gebiet,Hintergrund,18,0,10044111,6.733540,49.357861
+DESL010,Saarbrücken-Burbach,städtisches Gebiet,Hintergrund,23,0,10041100,6.948776,49.244247
+DESL012,Saarbrücken-City,städtisches Gebiet,Hintergrund,31,0,10041100,6.987601,49.233464
+DESL011,Saarbrücken-Eschberg,städtisches Gebiet,Hintergrund,16,0,10041100,7.036322,49.237227
+DESL020,Saarbrücken-Verkehr,städtisches Gebiet,Verkehr,40,0,10041100,7.003174,49.230740
+DESL013,Saarlouis-Fraulautern,vorstädtisches Gebiet,Hintergrund,20,0,10044115,6.753639,49.322646
+DESL018,Sulzbach,städtisches Gebiet,Hintergrund,21,1,10041518,7.061679,49.299373
+DESL017,Völklingen-City Stadionstr.,städtisches Gebiet,Hintergrund,20,0,10041519,6.867744,49.254344
+DESN001,Annaberg-Buchholz,städtisches Gebiet,Hintergrund,20,0,14521020,12.997278,50.570872
+DESN004,Bautzen,städtisches Gebiet,Hintergrund,16,0,14625020,14.443771,51.175669
+DESN006,Borna,städtisches Gebiet,Verkehr,22,0,14729050,12.493056,51.125000
+DESN093,Brockau,ländlich regional,Hintergrund,10,0,14523260,12.211112,50.608136
+DESN011,Chemnitz-Mitte,städtisches Gebiet,Hintergrund,22,0,14511000,12.917336,50.832461
+DESN076,Collmberg,ländlich abgelegen,Hintergrund,8,0,14730330,13.009406,51.303772
+DESN084,Dresden-Bergstr.,städtisches Gebiet,Verkehr,49,5,14612000,13.731608,51.026294
+DESN061,Dresden-Nord,städtisches Gebiet,Verkehr,32,0,14612000,13.741397,51.064930
+DESN092,Dresden-Winckelmannstr.,städtisches Gebiet,Hintergrund,18,0,14612000,13.730205,51.036105
+DESN017,Freiberg,städtisches Gebiet,Hintergrund,19,0,14522180,13.346826,50.916300
+DESN019,Glauchau,städtisches Gebiet,Hintergrund,20,0,14524080,12.542056,50.826001
+DESN020,Görlitz,städtisches Gebiet,Verkehr,23,0,14626110,14.973958,51.155801
+DESN024,Klingenthal,städtisches Gebiet,Hintergrund,11,0,1452300000,12.468739,50.354783
+DESN077,Leipzig Lützner Str. 36,städtisches Gebiet,Verkehr,40,0,14713000,12.334686,51.335872
+DESN025,Leipzig-Mitte,städtisches Gebiet,Verkehr,43,1,14713000,12.377163,51.344164
+DESN059,Leipzig-West,städtisches Gebiet,Hintergrund,16,0,14713000,12.297411,51.317905
+DESN079,Niesky,ländlich regional,Hintergrund,8,0,14626440,14.749731,51.285356
+DESN075,Plauen-Süd,städtisches Gebiet,Verkehr,23,0,14523320,12.138054,50.486138
+DESN051,Radebeul-Wahnsdorf,ländlich stadtnah,Hintergrund,13,0,14627210,13.675005,51.119514
+DESN074,Schwartenberg,ländlich regional,Hintergrund,8,0,14522400,13.465078,50.659097
+DESN052,Zinnwald,ländlich regional,Hintergrund,8,0,14628010,13.751450,50.731478
+DESN045,Zittau-Ost,vorstädtisches Gebiet,Hintergrund,13,0,14626610,14.822846,50.892377
+DESN091,Zwickau-Werdauer Str.,städtisches Gebiet,Verkehr,26,0,14524330,12.486621,50.720405
+DEST095,Aschersleben,städtisches Gebiet,Verkehr,27,0,15089015,11.449438,51.759554
+DEST029,Bernburg,vorstädtisches Gebiet,Hintergrund,20,0,15089030,11.738962,51.803534
+DEST015,Bitterfeld/Wolfen,vorstädtisches Gebiet,Industrie,15,0,15082015,12.302866,51.651166
+DEST039,Brocken,ländlich abgelegen,Hintergrund,3,0,15085370,10.618275,51.798629
+DEST002,Burg,vorstädtisches Gebiet,Hintergrund,13,0,15086015,11.864763,52.268354
+DEST091,Dessau Albrechtsplatz,städtisches Gebiet,Verkehr,21,0,15001000,12.244764,51.840576
+DEST104,Domäne Bobbe,ländliches Gebiet,Hintergrund,9,0,15082256,11.891412,51.837306
+DEST044,Halberstadt,städtisches Gebiet,Hintergrund,13,0,15085135,11.057442,51.896982
+DEST101,Halberstadt/Friedenstrasse,städtisches Gebiet,Verkehr,35,---,15085135,11.055946,51.889545
+DEST075,Halle/Merseburger Strasse,städtisches Gebiet,Verkehr,35,0,15002000,11.983406,51.475164
+DEST050,Halle/Nord,städtisches Gebiet,Hintergrund,18,0,15002000,11.979056,51.496185
+DEST102,Halle/Paracelsusstr.,städtisches Gebiet,Verkehr,49,0,15002000,11.981314,51.494756
+DEST090,Leuna,vorstädtisches Gebiet,Industrie,14,0,15088205,12.032141,51.321364
+DEST103,Magdeburg Schleinufer,städtisches Gebiet,Verkehr,34,0,15003000,11.632669,52.120760
+DEST077,Magdeburg/West,städtisches Gebiet,Hintergrund,18,0,15003000,11.611464,52.127899
+DEST105,Stendal Stadtsee,städtisches Gebiet,Hintergrund,11,0,15090535,11.850274,52.602056
+DEST098,Unterharz / Friedrichsbrunn,ländlich regional,Hintergrund,5,0,15085145,11.043386,51.662435
+DEST108,Weißenfels/Am Krug,städtisches Gebiet,Verkehr,18,0,15084550,11.960960,51.197249
+DEST011,Wernigerode/Bahnhof,städtisches Gebiet,Hintergrund,14,0,15085370,10.790143,51.839382
+DEST066,Wittenberg/Bahnstrasse,städtisches Gebiet,Hintergrund,12,0,15091375,12.663663,51.870852
+DEST092,Wittenberg/Dessauer Strasse,städtisches Gebiet,Verkehr,32,0,15091375,12.598270,51.867471
+DEST089,Zartau/Waldstation,ländlich regional,Hintergrund,6,0,15081280,11.172327,52.593136
+DESH008,Bornhöved,ländlich regional,Hintergrund,9,0,01057069,10.240596,54.093230
+DESH035,Brunsbüttel-Cuxhavener Straße,vorstädtisches Gebiet,Industrie,23,0,01051011,9.156908,53.896117
+DESH022,Flensburg,städtisches Gebiet,Verkehr,33,0,01001000,9.438090,54.781430
+DESH025,Itzehoe Lindenstr.,städtisches Gebiet,Verkehr,36,0,01061046,9.511769,53.928028
+DESH027,Kiel-Bahnhofstr. Verk.,städtisches Gebiet,Verkehr,41,0,01002000,10.135158,54.304676
+DESH033,Kiel-Max-Planck-Str.,städtisches Gebiet,Hintergrund,16,0,01002000,10.116563,54.309674
+DESH052,Kiel-Theodor-Heuss-Ring,städtisches Gebiet,Verkehr,65,20,01002000,10.122364,54.304242
+DESH053,Lübeck Moislinger Allee,städtisches Gebiet,Verkehr,30,0,01003000,10.673320,53.862237
+DESH023,Lübeck-St. Jürgen,städtisches Gebiet,Hintergrund,13,0,01003000,10.695936,53.835492
+DESH030,Norderstedt,städtisches Gebiet,Verkehr,43,0,01060063,9.997256,53.681993
+DESH028,Ratzeburg,städtisches Gebiet,Verkehr,31,0,01053100,10.775796,53.698939
+DETH011,Altenburg Theaterplatz,städtisches Gebiet,Hintergrund,18,0,16077001,12.437621,50.987758
+DETH026,Dreißigacker,ländlich regional,Hintergrund,11,0,16066042,10.375299,50.561754
+DETH013,Eisenach Wernebrg.Str,städtisches Gebiet,Hintergrund,16,0,16056000,10.317236,50.978292
+DETH043,Erfurt Bergstr.,städtisches Gebiet,Verkehr,37,0,16051000,11.019353,50.984874
+DETH081,Erfurt Heinrichstr,städtisches Gebiet,Verkehr,34,---,16051000,11.010446,50.972331
+DETH020,Erfurt Krämpferstr.,städtisches Gebiet,Hintergrund,23,0,16051000,11.037924,50.979455
+DETH099,Erfurt Walkmühlstr.,städtisches Gebiet,Verkehr,25,---,16051000,11.022236,50.970955
+DETH009,Gera Friedericistr.,städtisches Gebiet,Hintergrund,17,0,16052000,12.074710,50.877317
+DETH097,Gera Str.des Friedens,städtisches Gebiet,Verkehr,35,---,16052000,12.071203,50.870352
+DETH098,Gera Theaterstr. PS,städtisches Gebiet,Verkehr,33,---,16052000,12.074947,50.883860
+DETH036,Greiz Mollbergstr.,städtisches Gebiet,Hintergrund,17,0,16076022,12.205199,50.655861
+DETH061,Hummelshain,ländlich abgelegen,Hintergrund,7,0,16074102,11.661233,50.791616
+DETH082,Jena Camburger Str.,städtisches Gebiet,Verkehr,29,---,16053000,11.589781,50.936373
+DETH041,Jena Dammstr.,städtisches Gebiet,Hintergrund,20,0,16053000,11.597062,50.933513
+DETH075,Jena Westbahnhofstr.,städtisches Gebiet,Verkehr,33,---,16053000,11.579086,50.924811
+DETH095,Mühlhausen Bastmarkt,städtisches Gebiet,Hintergrund,18,0,16064046,10.450997,51.207944
+DETH094,Mühlhausen Kiliansgr.,städtisches Gebiet,Verkehr,35,0,16064046,10.465835,51.208535
+DETH100,Mühlhausen Petristeinweg,städtisches Gebiet,Verkehr,52,---,16064046,10.449634,51.210164
+DETH091,Mühlhausen Wanfrieder Str,städtisches Gebiet,Verkehr,30,0,16064046,10.448476,51.205466
+DETH027,Neuhaus,ländlich abgelegen,Hintergrund,9,0,16072013,11.134593,50.499955
+DETH018,Nordhausen,städtisches Gebiet,Hintergrund,18,0,16062041,10.791404,51.497195
+DETH042,Possen,ländlich abgelegen,Hintergrund,8,0,16065067,10.867188,51.333333
+DETH005,Saalfeld,städtisches Gebiet,Hintergrund,15,0,16073077,11.368875,50.651182
+DETH102,Suhl Dr.Th.-Neubauer-Str.,städtisches Gebiet,Verkehr,37,---,16054000,10.685369,50.606220
+DETH072,Suhl F.-König-Str,städtisches Gebiet,Verkehr,29,0,16054000,10.693092,50.611530
+DETH101,Weimar Jenaer Str.,städtisches Gebiet,Verkehr,37,---,16055000,11.341702,50.979762
+DETH093,Weimar Schwanseestr.,städtisches Gebiet,Hintergrund,20,0,16055000,11.320400,50.982544
+DETH083,Weimar Steubenstr.,städtisches Gebiet,Verkehr,26,0,16055000,11.326070,50.977462
+DETH060,Zella-Mehlis,städtisches Gebiet,Hintergrund,16,0,16066092,10.668641,50.653245
+DEUB046,Forellenbach,ländlich abgelegen,Hintergrund,6,0,00000000,13.420573,48.947611
+DEUB030,Neuglobsow,ländlich regional,Hintergrund,5,0,12065310,13.031662,53.141303
+DEUB004,Schauinsland,ländlich regional,Hintergrund,3,0,08315084,7.908035,47.913256
+DEUB029,Schmücke,ländliches Gebiet,Hintergrund,5,0,16054000,10.769534,50.654066
+DEUB005,Waldhof,ländliches Gebiet,Hintergrund,7,0,03360013,10.756733,52.800773
+DEUB001,Westerland,ländliches Gebiet,Hintergrund,5,0,01054168,8.308208,54.924967
+DEUB028,Zingst,ländliches Gebiet,Hintergrund,5,0,13057096,12.721938,54.436985

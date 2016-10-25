@@ -1,0 +1,3 @@
+facet,facet_value,category,year,value,confidence95_lower,confidence95_upper
+gender,Mann,Tatsächliche Arbeitszeit,2014,41.5885,41.26212,41.91489
+gender,Frau,Tatsächliche Arbeitszeit,2014,32.62585,32.17053,33.08118

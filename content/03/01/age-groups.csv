@@ -1,0 +1,26 @@
+facet,facet_value,age_group,value
+Insgesamt,Insgesamt,Insgesamt,0.8690346064
+Insgesamt,Insgesamt,25-34 Jahre,0.8730224101
+Insgesamt,Insgesamt,35-44 Jahre,0.8702910745
+Insgesamt,Insgesamt,45-54 Jahre,0.8742953318
+Insgesamt,Insgesamt,55-64 Jahre,0.8577370825
+Geschlecht,Männer,Insgesamt,0.8874369336
+Geschlecht,Männer,25-34 Jahre,0.8727616598
+Geschlecht,Männer,35-44 Jahre,0.8803397936
+Geschlecht,Männer,45-54 Jahre,0.8932564751
+Geschlecht,Männer,55-64 Jahre,0.9010567108
+Geschlecht,Frauen,Insgesamt,0.8506067305
+Geschlecht,Frauen,25-34 Jahre,0.873297107
+Geschlecht,Frauen,35-44 Jahre,0.8600500216
+Geschlecht,Frauen,45-54 Jahre,0.8551008489
+Geschlecht,Frauen,55-64 Jahre,0.8161237016
+Migrationshintergrund,ohne Migrationshintergrund,Insgesamt,0.9165132119
+Migrationshintergrund,ohne Migrationshintergrund,25-34 Jahre,0.9161946365
+Migrationshintergrund,ohne Migrationshintergrund,35-44 Jahre,0.9348899391
+Migrationshintergrund,ohne Migrationshintergrund,45-54 Jahre,0.9193204669
+Migrationshintergrund,ohne Migrationshintergrund,55-64 Jahre,0.8981739799
+Migrationshintergrund,mit Migrationshintergrund,Insgesamt,0.6829336994
+Migrationshintergrund,mit Migrationshintergrund,25-34 Jahre,0.7437361497
+Migrationshintergrund,mit Migrationshintergrund,35-44 Jahre,0.6855375348
+Migrationshintergrund,mit Migrationshintergrund,45-54 Jahre,0.6469111738
+Migrationshintergrund,mit Migrationshintergrund,55-64 Jahre,0.6340381765

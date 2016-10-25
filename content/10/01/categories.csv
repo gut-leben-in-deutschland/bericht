@@ -1,0 +1,121 @@
+category,name,year,value
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,1995,181.2422285679
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,1996,166.5471583191
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,1997,155.1161265347
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,1998,142.9682154052
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,1999,132.2971629633
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2000,121.0795806252
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2001,116.9875590986
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2002,110.7862704383
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2003,107.095364716
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2004,103.8169363665
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2005,100
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2006,99.2229861408
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2007,95.9719660455
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2008,93.1963186608
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2009,88.1516205519
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2010,91.8024916195
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2011,90.4819532952
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2012,87.2925421974
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2013,87.5030899678
+"Luftschadstoffe (+ PM<sub>2,5</sub>)",,2014,83.8947728141
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),1995,140.5531871434
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),1996,135.6401864414
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),1997,131.2271430389
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),1998,129.5321192378
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),1999,127.5157169632
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2000,123.5958269178
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2001,118.6789817395
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2002,113.5489697668
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2003,109.7615051454
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2004,105.1399310151
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2005,100
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2006,98.9081099981
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2007,94.3917481511
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2008,88.7545850355
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2009,82.4962856065
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2010,84.0501781689
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2011,81.8792121978
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2012,79.3449961255
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2013,78.9436565751
+NO<sub>x</sub>,Stickstoffoxid-Verbindungen (NO<sub>x</sub>),2014,75.4649054633
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),1995,360.3682755388
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),1996,305.0011526758
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),1997,255.1701745291
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),1998,205.5904682208
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),1999,168.0886150246
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2000,136.325697909
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2001,132.2030275673
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2002,118.9400364168
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2003,113.0844686579
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2004,104.9590568022
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2005,100
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2006,100.5560274529
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2007,97.0947266701
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2008,97.184485577
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2009,86.840627543
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2010,91.2431284707
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2011,90.3479433272
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2012,87.1114801069
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2013,86.6361875188
+SO<sub>2</sub>,Schwefeldioxid (SO<sub>2</sub>),2014,81.9089787024
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),1995,157.907130111
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),1996,151.9793443398
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),1997,150.1551804967
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),1998,146.8017629623
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),1999,134.1594932302
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2000,121.6991753116
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2001,112.5168634123
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2002,107.0496539859
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2003,101.3396298355
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2004,102.3301829124
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2005,100
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2006,99.0834385358
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2007,93.9009209505
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2008,88.9360856186
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2009,81.2591828343
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2010,91.1451266065
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2011,85.0202271178
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2012,81.9008956003
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2013,79.449796054
+NMVOC,Flüchtige Organische Verbindungen ohne Methan (NMVOC),2014,73.1623291945
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),1995,100.0270140117
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),1996,101.0881979273
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),1997,100.3374991161
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),1998,101.4239320177
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),1999,102.3953383885
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2000,102.8723083106
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2001,104.0940146391
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2002,101.9990056596
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2003,101.9267680847
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2004,100.6884131169
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2005,100
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2006,100.6780531424
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2007,100.7145465007
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2008,102.0760698534
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2009,104.7623639509
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2010,100.4861886473
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2011,106.6709566084
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2012,103.9472822177
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2013,107.6105357277
+NH<sub>3</sub>,Ammoniak (NH<sub>3</sub>),2014,109.0605140389
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",1995,147.3555360345
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",1996,139.026910211
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",1997,138.6906354929
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",1998,131.4927945874
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",1999,129.3266512103
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2000,120.9048946772
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2001,117.4449081346
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2002,112.3936863622
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2003,109.3644518564
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2004,105.9670979859
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2005,100
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2006,96.8893015747
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2007,93.7578879553
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2008,89.0303672195
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2009,85.3996428249
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2010,92.0878362039
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2011,88.4914272247
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2012,84.1580569365
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2013,84.8752739634
+"PM<sub>2,5</sub>","Feinstaub (PM<sub>2,5</sub>)",2014,79.8771366714

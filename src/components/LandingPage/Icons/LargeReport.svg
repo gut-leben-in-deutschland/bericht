@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="104px" height="112px" viewBox="0 0 104 112" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>report</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="88" height="96" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1-l-landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.7_l_landing-page-introduction-b" transform="translate(-332.000000, -1232.000000)">
+            <g id="report" transform="translate(340.000000, 1240.000000)">
+                <g id="card">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#454545" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="content" transform="translate(16.000000, 17.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-241" x="0" y="60" width="56" height="4"></rect>
+                    <rect id="Rectangle-241" x="0" y="48" width="56" height="4"></rect>
+                    <rect id="Rectangle-241" x="0" y="36" width="56" height="4"></rect>
+                    <rect id="Rectangle-241" x="0" y="0" width="56" height="28"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

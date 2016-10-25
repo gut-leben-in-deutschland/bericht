@@ -1,0 +1,217 @@
+category,facet,facet_value,concern,value
+Allgemein,,,gar nicht,0.416
+Allgemein,,,etwas,0.413
+Allgemein,,,ziemlich,0.124
+Allgemein,,,sehr stark,0.047
+Körperverletzung,,,gar nicht,0.535
+Körperverletzung,,,etwas,0.299
+Körperverletzung,,,ziemlich,0.073
+Körperverletzung,,,sehr stark,0.093
+Einbruch,,,gar nicht,0.427
+Einbruch,,,etwas,0.39
+Einbruch,,,ziemlich,0.077
+Einbruch,,,sehr stark,0.107
+Raub,,,gar nicht,0.464
+Raub,,,etwas,0.352
+Raub,,,ziemlich,0.074
+Raub,,,sehr stark,0.11
+Sexuelle Belästigung,,,gar nicht,0.692
+Sexuelle Belästigung,,,etwas,0.167
+Sexuelle Belästigung,,,ziemlich,0.047
+Sexuelle Belästigung,,,sehr stark,0.093
+Allgemein,Bundesland,Baden-Württemberg,ziemlich & sehr stark,0.121
+Allgemein,Bundesland,Bayern,ziemlich & sehr stark,0.123
+Allgemein,Bundesland,Berlin,ziemlich & sehr stark,0.237
+Allgemein,Bundesland,Brandenburg,ziemlich & sehr stark,0.235
+Allgemein,Bundesland,Bremen,ziemlich & sehr stark,0.262
+Allgemein,Bundesland,Hamburg,ziemlich & sehr stark,0.213
+Allgemein,Bundesland,Hessen,ziemlich & sehr stark,0.156
+Allgemein,Bundesland,Mecklenburg-Vorpommern,ziemlich & sehr stark,0.224
+Allgemein,Bundesland,Niedersachsen,ziemlich & sehr stark,0.138
+Allgemein,Bundesland,Nordrhein-Westfalen,ziemlich & sehr stark,0.196
+Allgemein,Bundesland,Rheinland-Pfalz,ziemlich & sehr stark,0.153
+Allgemein,Bundesland,Saarland,ziemlich & sehr stark,0.165
+Allgemein,Bundesland,Sachsen,ziemlich & sehr stark,0.221
+Allgemein,Bundesland,Sachsen-Anhalt,ziemlich & sehr stark,0.262
+Allgemein,Bundesland,Schleswig-Holstein,ziemlich & sehr stark,0.197
+Allgemein,Bundesland,Thüringen,ziemlich & sehr stark,0.189
+Allgemein,Geschlecht,weiblich,gar nicht,0.29
+Allgemein,Geschlecht,weiblich,etwas,0.451
+Allgemein,Geschlecht,weiblich,ziemlich,0.184
+Allgemein,Geschlecht,weiblich,sehr stark,0.074
+Allgemein,Geschlecht,männlich,gar nicht,0.547
+Allgemein,Geschlecht,männlich,etwas,0.373
+Allgemein,Geschlecht,männlich,ziemlich,0.061
+Allgemein,Geschlecht,männlich,sehr stark,0.019
+Körperverletzung,Geschlecht,weiblich,gar nicht,0.474
+Körperverletzung,Geschlecht,weiblich,etwas,0.314
+Körperverletzung,Geschlecht,weiblich,ziemlich,0.089
+Körperverletzung,Geschlecht,weiblich,sehr stark,0.124
+Körperverletzung,Geschlecht,männlich,gar nicht,0.598
+Körperverletzung,Geschlecht,männlich,etwas,0.285
+Körperverletzung,Geschlecht,männlich,ziemlich,0.057
+Körperverletzung,Geschlecht,männlich,sehr stark,0.06
+Einbruch,Geschlecht,weiblich,gar nicht,0.39
+Einbruch,Geschlecht,weiblich,etwas,0.398
+Einbruch,Geschlecht,weiblich,ziemlich,0.08
+Einbruch,Geschlecht,weiblich,sehr stark,0.132
+Einbruch,Geschlecht,männlich,gar nicht,0.465
+Einbruch,Geschlecht,männlich,etwas,0.381
+Einbruch,Geschlecht,männlich,ziemlich,0.073
+Einbruch,Geschlecht,männlich,sehr stark,0.08
+Raub,Geschlecht,weiblich,gar nicht,0.395
+Raub,Geschlecht,weiblich,etwas,0.375
+Raub,Geschlecht,weiblich,ziemlich,0.089
+Raub,Geschlecht,weiblich,sehr stark,0.141
+Raub,Geschlecht,männlich,gar nicht,0.537
+Raub,Geschlecht,männlich,etwas,0.327
+Raub,Geschlecht,männlich,ziemlich,0.058
+Raub,Geschlecht,männlich,sehr stark,0.078
+Sexuelle Belästigung,Geschlecht,weiblich,gar nicht,0.514
+Sexuelle Belästigung,Geschlecht,weiblich,etwas,0.285
+Sexuelle Belästigung,Geschlecht,weiblich,ziemlich,0.071
+Sexuelle Belästigung,Geschlecht,weiblich,sehr stark,0.13
+Sexuelle Belästigung,Geschlecht,männlich,gar nicht,0.879
+Sexuelle Belästigung,Geschlecht,männlich,etwas,0.044
+Sexuelle Belästigung,Geschlecht,männlich,ziemlich,0.023
+Sexuelle Belästigung,Geschlecht,männlich,sehr stark,0.054
+Allgemein,Alter,16-24 Jahre,gar nicht,0.414
+Allgemein,Alter,16-24 Jahre,etwas,0.379
+Allgemein,Alter,16-24 Jahre,ziemlich,0.148
+Allgemein,Alter,16-24 Jahre,sehr stark,0.059
+Allgemein,Alter,25-34 Jahre,gar nicht,0.44
+Allgemein,Alter,25-34 Jahre,etwas,0.434
+Allgemein,Alter,25-34 Jahre,ziemlich,0.087
+Allgemein,Alter,25-34 Jahre,sehr stark,0.039
+Allgemein,Alter,35-44 Jahre,gar nicht,0.472
+Allgemein,Alter,35-44 Jahre,etwas,0.414
+Allgemein,Alter,35-44 Jahre,ziemlich,0.086
+Allgemein,Alter,35-44 Jahre,sehr stark,0.028
+Allgemein,Alter,45-54 Jahre,gar nicht,0.457
+Allgemein,Alter,45-54 Jahre,etwas,0.427
+Allgemein,Alter,45-54 Jahre,ziemlich,0.087
+Allgemein,Alter,45-54 Jahre,sehr stark,0.029
+Allgemein,Alter,55-64 Jahre,gar nicht,0.431
+Allgemein,Alter,55-64 Jahre,etwas,0.421
+Allgemein,Alter,55-64 Jahre,ziemlich,0.111
+Allgemein,Alter,55-64 Jahre,sehr stark,0.038
+Allgemein,Alter,65-74 Jahre,gar nicht,0.356
+Allgemein,Alter,65-74 Jahre,etwas,0.422
+Allgemein,Alter,65-74 Jahre,ziemlich,0.163
+Allgemein,Alter,65-74 Jahre,sehr stark,0.059
+Allgemein,Alter,75 Jahre oder älter,gar nicht,0.269
+Allgemein,Alter,75 Jahre oder älter,etwas,0.374
+Allgemein,Alter,75 Jahre oder älter,ziemlich,0.248
+Allgemein,Alter,75 Jahre oder älter,sehr stark,0.109
+Körperverletzung,Alter,16-24 Jahre,gar nicht,0.461
+Körperverletzung,Alter,16-24 Jahre,etwas,0.303
+Körperverletzung,Alter,16-24 Jahre,ziemlich,0.098
+Körperverletzung,Alter,16-24 Jahre,sehr stark,0.139
+Körperverletzung,Alter,25-34 Jahre,gar nicht,0.503
+Körperverletzung,Alter,25-34 Jahre,etwas,0.3
+Körperverletzung,Alter,25-34 Jahre,ziemlich,0.066
+Körperverletzung,Alter,25-34 Jahre,sehr stark,0.131
+Körperverletzung,Alter,35-44 Jahre,gar nicht,0.545
+Körperverletzung,Alter,35-44 Jahre,etwas,0.29
+Körperverletzung,Alter,35-44 Jahre,ziemlich,0.063
+Körperverletzung,Alter,35-44 Jahre,sehr stark,0.102
+Körperverletzung,Alter,45-54 Jahre,gar nicht,0.586
+Körperverletzung,Alter,45-54 Jahre,etwas,0.285
+Körperverletzung,Alter,45-54 Jahre,ziemlich,0.058
+Körperverletzung,Alter,45-54 Jahre,sehr stark,0.071
+Körperverletzung,Alter,55-64 Jahre,gar nicht,0.546
+Körperverletzung,Alter,55-64 Jahre,etwas,0.318
+Körperverletzung,Alter,55-64 Jahre,ziemlich,0.065
+Körperverletzung,Alter,55-64 Jahre,sehr stark,0.071
+Körperverletzung,Alter,65-74 Jahre,gar nicht,0.546
+Körperverletzung,Alter,65-74 Jahre,etwas,0.3
+Körperverletzung,Alter,65-74 Jahre,ziemlich,0.077
+Körperverletzung,Alter,65-74 Jahre,sehr stark,0.077
+Körperverletzung,Alter,75 Jahre oder älter,gar nicht,0.522
+Körperverletzung,Alter,75 Jahre oder älter,etwas,0.31
+Körperverletzung,Alter,75 Jahre oder älter,ziemlich,0.105
+Körperverletzung,Alter,75 Jahre oder älter,sehr stark,0.063
+Einbruch,Alter,16-24 Jahre,gar nicht,0.457
+Einbruch,Alter,16-24 Jahre,etwas,0.275
+Einbruch,Alter,16-24 Jahre,ziemlich,0.088
+Einbruch,Alter,16-24 Jahre,sehr stark,0.181
+Einbruch,Alter,25-34 Jahre,gar nicht,0.427
+Einbruch,Alter,25-34 Jahre,etwas,0.368
+Einbruch,Alter,25-34 Jahre,ziemlich,0.064
+Einbruch,Alter,25-34 Jahre,sehr stark,0.142
+Einbruch,Alter,35-44 Jahre,gar nicht,0.377
+Einbruch,Alter,35-44 Jahre,etwas,0.418
+Einbruch,Alter,35-44 Jahre,ziemlich,0.085
+Einbruch,Alter,35-44 Jahre,sehr stark,0.12
+Einbruch,Alter,45-54 Jahre,gar nicht,0.42
+Einbruch,Alter,45-54 Jahre,etwas,0.421
+Einbruch,Alter,45-54 Jahre,ziemlich,0.069
+Einbruch,Alter,45-54 Jahre,sehr stark,0.09
+Einbruch,Alter,55-64 Jahre,gar nicht,0.44
+Einbruch,Alter,55-64 Jahre,etwas,0.411
+Einbruch,Alter,55-64 Jahre,ziemlich,0.068
+Einbruch,Alter,55-64 Jahre,sehr stark,0.082
+Einbruch,Alter,65-74 Jahre,gar nicht,0.421
+Einbruch,Alter,65-74 Jahre,etwas,0.418
+Einbruch,Alter,65-74 Jahre,ziemlich,0.082
+Einbruch,Alter,65-74 Jahre,sehr stark,0.079
+Einbruch,Alter,75 Jahre oder älter,gar nicht,0.473
+Einbruch,Alter,75 Jahre oder älter,etwas,0.383
+Einbruch,Alter,75 Jahre oder älter,ziemlich,0.089
+Einbruch,Alter,75 Jahre oder älter,sehr stark,0.055
+Raub,Alter,16-24 Jahre,gar nicht,0.423
+Raub,Alter,16-24 Jahre,etwas,0.299
+Raub,Alter,16-24 Jahre,ziemlich,0.083
+Raub,Alter,16-24 Jahre,sehr stark,0.195
+Raub,Alter,25-34 Jahre,gar nicht,0.468
+Raub,Alter,25-34 Jahre,etwas,0.329
+Raub,Alter,25-34 Jahre,ziemlich,0.056
+Raub,Alter,25-34 Jahre,sehr stark,0.147
+Raub,Alter,35-44 Jahre,gar nicht,0.478
+Raub,Alter,35-44 Jahre,etwas,0.337
+Raub,Alter,35-44 Jahre,ziemlich,0.06
+Raub,Alter,35-44 Jahre,sehr stark,0.125
+Raub,Alter,45-54 Jahre,gar nicht,0.472
+Raub,Alter,45-54 Jahre,etwas,0.366
+Raub,Alter,45-54 Jahre,ziemlich,0.076
+Raub,Alter,45-54 Jahre,sehr stark,0.086
+Raub,Alter,55-64 Jahre,gar nicht,0.47
+Raub,Alter,55-64 Jahre,etwas,0.392
+Raub,Alter,55-64 Jahre,ziemlich,0.068
+Raub,Alter,55-64 Jahre,sehr stark,0.071
+Raub,Alter,65-74 Jahre,gar nicht,0.44
+Raub,Alter,65-74 Jahre,etwas,0.387
+Raub,Alter,65-74 Jahre,ziemlich,0.081
+Raub,Alter,65-74 Jahre,sehr stark,0.092
+Raub,Alter,75 Jahre oder älter,gar nicht,0.494
+Raub,Alter,75 Jahre oder älter,etwas,0.339
+Raub,Alter,75 Jahre oder älter,ziemlich,0.102
+Raub,Alter,75 Jahre oder älter,sehr stark,0.065
+Sexuelle Belästigung,Alter,16-24 Jahre,gar nicht,0.554
+Sexuelle Belästigung,Alter,16-24 Jahre,etwas,0.184
+Sexuelle Belästigung,Alter,16-24 Jahre,ziemlich,0.092
+Sexuelle Belästigung,Alter,16-24 Jahre,sehr stark,0.17
+Sexuelle Belästigung,Alter,25-34 Jahre,gar nicht,0.613
+Sexuelle Belästigung,Alter,25-34 Jahre,etwas,0.193
+Sexuelle Belästigung,Alter,25-34 Jahre,ziemlich,0.061
+Sexuelle Belästigung,Alter,25-34 Jahre,sehr stark,0.133
+Sexuelle Belästigung,Alter,35-44 Jahre,gar nicht,0.653
+Sexuelle Belästigung,Alter,35-44 Jahre,etwas,0.195
+Sexuelle Belästigung,Alter,35-44 Jahre,ziemlich,0.042
+Sexuelle Belästigung,Alter,35-44 Jahre,sehr stark,0.111
+Sexuelle Belästigung,Alter,45-54 Jahre,gar nicht,0.715
+Sexuelle Belästigung,Alter,45-54 Jahre,etwas,0.172
+Sexuelle Belästigung,Alter,45-54 Jahre,ziemlich,0.037
+Sexuelle Belästigung,Alter,45-54 Jahre,sehr stark,0.076
+Sexuelle Belästigung,Alter,55-64 Jahre,gar nicht,0.749
+Sexuelle Belästigung,Alter,55-64 Jahre,etwas,0.149
+Sexuelle Belästigung,Alter,55-64 Jahre,ziemlich,0.037
+Sexuelle Belästigung,Alter,55-64 Jahre,sehr stark,0.065
+Sexuelle Belästigung,Alter,65-74 Jahre,gar nicht,0.756
+Sexuelle Belästigung,Alter,65-74 Jahre,etwas,0.145
+Sexuelle Belästigung,Alter,65-74 Jahre,ziemlich,0.032
+Sexuelle Belästigung,Alter,65-74 Jahre,sehr stark,0.067
+Sexuelle Belästigung,Alter,75 Jahre oder älter,gar nicht,0.821
+Sexuelle Belästigung,Alter,75 Jahre oder älter,etwas,0.114
+Sexuelle Belästigung,Alter,75 Jahre oder älter,ziemlich,0.04
+Sexuelle Belästigung,Alter,75 Jahre oder älter,sehr stark,0.025

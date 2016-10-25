@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <g style="">
+            <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
+            <g transform="translate(0,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
+                    1995
+                </text>
+            </g>
+            <g transform="translate(167.7164265129683,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2001
+                </text>
+            </g>
+            <g transform="translate(363.28357348703173,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2008
+                </text>
+            </g>
+            <g transform="translate(531,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
+                    2014
+                </text>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,93.56670639999999L55.93097982708934,89.466276L111.78544668587897,75.7332848L139.71268011527377,71.88789599999998L167.7164265129683,72.29485279999997L195.64365994236312,70.08770959999998L223.57089337175793,66.78976879999999L251.49812680115272,69.8798888L279.50187319884725,69.71133999999998L307.4291066282421,66.88996400000002L335.3563400576369,68.22990879999998L363.28357348703173,56.03478480000001L391.28731988472623,45.884611199999995L419.2145533141211,46.90673039999999L447.14178674351587,40.35067280000001L475.06902017291065,34.267011199999985L503.0727665706052,37.883216799999985L531,32.27495759999999" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="535" x2="541" y1="32.27495759999999" y2="32.27495759999999" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="545" y="32.27495759999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:94.546875px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            2,90%
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             Deutschland
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#54bbb1" stroke-width="3" stroke-dasharray="none" d="M0,105.14635279999999L55.93097982708934,101.45921999999999L111.78544668587897,96.2159624L139.71268011527377,92.93954480000002L167.7164265129683,89.9667536L195.64365994236312,91.85000319999997L223.57089337175793,91.62827039999999L251.49812680115272,93.8273696L279.50187319884725,91.56762799999998L307.4291066282421,89.06717520000001L335.3563400576369,86.56697840000001L363.28357348703173,80.739228L391.28731988472623,77.12288559999999L419.2145533141211,80.08425359999998L447.14178674351587,77.5818376L475.06902017291065,77.15150159999999L503.0727665706052,74.3997568L531,73.8161744" style="fill:none;stroke:#54bbb1;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="535" x2="541" y1="73.8161744" y2="73.8161744" stroke="#54bbb1" stroke-width="3" style="stroke:#54bbb1;stroke-width:3px;"/>
+                    <text dy="0.3em" x="545" y="73.8161744" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:63.171875px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            2,38%
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             OECD
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,264)" style="">
+                <line x2="531" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:14.6875px;fill:#666666;">
+                    0,0
+                </text>
+            </g>
+            <g transform="translate(0,144)" style="">
+                <line x2="531" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:14.6875px;fill:#666666;">
+                    1,5
+                </text>
+            </g>
+            <g transform="translate(0,24)" style="">
+                <line x2="531" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:23.34375px;fill:#666666;">
+                    3,0% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
+            <div style="display:block;height:78px;width:640px;">
+                <div style="display:block;height:0px;padding-right:108px;width:640px;">
+                </div>
+                <div style="display:block;height:78px;width:640px;">
+                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Bundesministerium für Bildung und Forschung, Stifterverband-Wissenschaftsstatistik.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Bundesregierung
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

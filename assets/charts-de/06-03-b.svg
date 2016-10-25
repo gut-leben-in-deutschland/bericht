@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="458" style="height:458px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
+        <g style="">
+            <text y="0" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:104.859375px;fill:#666666;">
+                keine Opfererfahrung
+            </text>
+            <g transform="translate(0,15)" style="">
+                <rect x="0" fill="#004f80" width="577" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,15)" style="">
+                <rect x="575" fill="#a0002d" width="65" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="55" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:76.265625px;fill:#666666;">
+                Opfererfahrung
+            </text>
+            <g transform="translate(0,70)" style="">
+                <rect x="0" fill="#004f80" width="534" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,70)" style="">
+                <rect x="532" fill="#a0002d" width="108" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="110" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:166.90625px;fill:#666666;">
+                zufriedenstellender Polizeikontakt
+            </text>
+            <g transform="translate(0,125)" style="">
+                <rect x="0" fill="#004f80" width="561" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,125)" style="">
+                <rect x="559" fill="#a0002d" width="81" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="165" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:179.484375px;fill:#666666;">
+                unzufriedenstellender Polizeikontakt
+            </text>
+            <g transform="translate(0,180)" style="">
+                <rect x="0" fill="#004f80" width="469" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,180)" style="">
+                <rect x="467" fill="#a0002d" width="173" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="220" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:161.875px;fill:#666666;">
+                enge nachbarschaftliche Bindung
+            </text>
+            <g transform="translate(0,235)" style="">
+                <rect x="0" fill="#004f80" width="573" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,235)" style="">
+                <rect x="571" fill="#a0002d" width="69" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="275" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:174.625px;fill:#666666;">
+                geringe nachbarschaftliche Bindung
+            </text>
+            <g transform="translate(0,290)" style="">
+                <rect x="0" fill="#004f80" width="489" height="24" style="fill:#004f80;"/>
+            </g>
+            <g transform="translate(0,290)" style="">
+                <rect x="487" fill="#a0002d" width="153" height="24" style="fill:#a0002d;"/>
+            </g>
+        </g>
+        <g transform="translate(0,322)" style="">
+            <line x2="639" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-307" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(319.5,0)" style="">
+                <line y1="-307" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(639,0)" style="">
+                <line y1="-307" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="344" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
+            <div style="display:block;height:116px;width:640px;">
+                <div style="display:block;height:20px;line-height:12px;width:640px;">
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:77.984375px;">
+                        <div style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        sehr/eher gut 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:102.546875px;">
+                        <div style="background-color:rgb(160, 0, 45);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        eher/sehr schlecht 
+                    </div>
+                </div>
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Deutscher Viktimisierungssurvey 2012.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Bundesregierung
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                N = 1.059 (keine Opfererfahrung), 814 (Opfererfahrung), 447 (zufrieden mit letztem Polizeikontakt), 73 (unzufrieden mit letztem Polizeikontakt), 100 (enge nachbarschaftliche Bindung), 1.161 (geringe nachbarschaftliche Bindung).
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

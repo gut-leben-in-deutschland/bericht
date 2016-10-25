@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="435" style="height:435px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:40.53125px;fill:#666666;">
+            Region
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24.484375px;fill:#666666;">
+                Total
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#4d7a3b" width="294" height="24" style="fill:#4d7a3b;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="292" fill="#89b874" width="229" height="24" style="fill:#89b874;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="520" fill="#235114" width="120" height="24" style="fill:#235114;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="85" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:130.328125px;fill:#666666;">
+                East German federal states
+            </text>
+            <g transform="translate(0,100)" style="">
+                <rect x="0" fill="#4d7a3b" width="348" height="16" style="fill:#4d7a3b;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="346" fill="#89b874" width="203" height="16" style="fill:#89b874;"/>
+            </g>
+            <g transform="translate(0,100)" style="">
+                <rect x="548" fill="#235114" width="92" height="16" style="fill:#235114;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="125" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:134.625px;fill:#666666;">
+                West German federal states
+            </text>
+            <g transform="translate(0,140)" style="">
+                <rect x="0" fill="#4d7a3b" width="281" height="16" style="fill:#4d7a3b;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="279" fill="#89b874" width="236" height="16" style="fill:#89b874;"/>
+            </g>
+            <g transform="translate(0,140)" style="">
+                <rect x="513" fill="#235114" width="127" height="16" style="fill:#235114;"/>
+            </g>
+        </g>
+        <g transform="translate(0,164)" style="">
+            <line x2="639" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-119" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(319.5,0)" style="">
+                <line y1="-119" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(639,0)" style="">
+                <line y1="-119" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,186)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:58.9375px;fill:#666666;">
+            Education
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:168.171875px;fill:#666666;">
+                Up to and including "Hauptschule"
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#4d7a3b" width="399" height="16" style="fill:#4d7a3b;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="397" fill="#89b874" width="180" height="16" style="fill:#89b874;"/>
+            </g>
+            <g transform="translate(0,45)" style="">
+                <rect x="576" fill="#235114" width="64" height="16" style="fill:#235114;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:74.25px;fill:#666666;">
+                "Mittlere Reife"
+            </text>
+            <g transform="translate(0,85)" style="">
+                <rect x="0" fill="#4d7a3b" width="310" height="16" style="fill:#4d7a3b;"/>
+            </g>
+            <g transform="translate(0,85)" style="">
+                <rect x="308" fill="#89b874" width="237" height="16" style="fill:#89b874;"/>
+            </g>
+            <g transform="translate(0,85)" style="">
+                <rect x="544" fill="#235114" width="96" height="16" style="fill:#235114;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="110" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.875px;fill:#666666;">
+                "Abitur"
+            </text>
+            <g transform="translate(0,125)" style="">
+                <rect x="0" fill="#4d7a3b" width="213" height="16" style="fill:#4d7a3b;"/>
+            </g>
+            <g transform="translate(0,125)" style="">
+                <rect x="211" fill="#89b874" width="255" height="16" style="fill:#89b874;"/>
+            </g>
+            <g transform="translate(0,125)" style="">
+                <rect x="465" fill="#235114" width="175" height="16" style="fill:#235114;"/>
+            </g>
+        </g>
+        <g transform="translate(0,149)" style="">
+            <line x2="639" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-104" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(319.5,0)" style="">
+                <line y1="-104" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    50
+                </text>
+            </g>
+            <g transform="translate(639,0)" style="">
+                <line y1="-104" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.65625px;fill:#666666;text-anchor:end;">
+                    100% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="357" width="640" height="78" style="display:block;height:78px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:80px;width:640px;">
+            <div style="display:block;height:80px;width:640px;">
+                <div style="display:block;height:20px;line-height:12px;width:640px;">
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:60.828125px;">
+                        <div style="background-color:rgb(77, 122, 59);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        no impact 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:88.546875px;">
+                        <div style="background-color:rgb(137, 184, 116);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        medium impact 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:79.53125px;">
+                        <div style="background-color:rgb(35, 81, 20);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        strong impact 
+                    </div>
+                </div>
+                <div style="display:block;height:60px;width:640px;">
+                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  European Social Survey.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Federal Government
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

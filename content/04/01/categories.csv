@@ -1,0 +1,277 @@
+facet,facet_value,category,year,value,confidence95_lower,confidence95_upper
+gender,Mann,Gewünschte Arbeitszeit,1992,37.81721,37.40565,38.22876
+gender,Mann,Gewünschte Arbeitszeit,1993,38.37551,38.05177,38.69924
+gender,Mann,Gewünschte Arbeitszeit,1994,38.62153,38.46924,38.77382
+gender,Mann,Gewünschte Arbeitszeit,1995,37.55042,37.10201,37.99884
+gender,Mann,Gewünschte Arbeitszeit,1996,,,
+gender,Mann,Gewünschte Arbeitszeit,1997,38.86224,38.5364,39.18809
+gender,Mann,Gewünschte Arbeitszeit,1998,37.55017,37.16269,37.93766
+gender,Mann,Gewünschte Arbeitszeit,1999,38.24309,38.04371,38.44247
+gender,Mann,Gewünschte Arbeitszeit,2000,38.39044,38.18776,38.59311
+gender,Mann,Gewünschte Arbeitszeit,2001,38.70522,38.50097,38.90947
+gender,Mann,Gewünschte Arbeitszeit,2002,38.77933,38.48477,39.07388
+gender,Mann,Gewünschte Arbeitszeit,2003,38.61514,38.44202,38.78825
+gender,Mann,Gewünschte Arbeitszeit,2004,38.92297,38.7208,39.12514
+gender,Mann,Gewünschte Arbeitszeit,2005,39.16958,38.83958,39.49957
+gender,Mann,Gewünschte Arbeitszeit,2006,39.05332,38.84198,39.26466
+gender,Mann,Gewünschte Arbeitszeit,2007,39.31675,38.99355,39.63995
+gender,Mann,Gewünschte Arbeitszeit,2008,38.82135,38.51394,39.12875
+gender,Mann,Gewünschte Arbeitszeit,2009,39.15778,38.92637,39.38919
+gender,Mann,Gewünschte Arbeitszeit,2010,38.66482,38.34357,38.98608
+gender,Mann,Gewünschte Arbeitszeit,2011,38.5697,38.13218,39.00721
+gender,Mann,Gewünschte Arbeitszeit,2012,38.07732,37.65619,38.49845
+gender,Mann,Gewünschte Arbeitszeit,2013,37.89921,37.53712,38.26129
+gender,Mann,Gewünschte Arbeitszeit,2014,37.52066,37.09181,37.94951
+gender,Frau,Gewünschte Arbeitszeit,1992,29.04206,28.34872,29.73541
+gender,Frau,Gewünschte Arbeitszeit,1993,30.37097,29.74123,31.00072
+gender,Frau,Gewünschte Arbeitszeit,1994,30.35179,29.97654,30.72704
+gender,Frau,Gewünschte Arbeitszeit,1995,29.10305,28.8086,29.39751
+gender,Frau,Gewünschte Arbeitszeit,1996,,,
+gender,Frau,Gewünschte Arbeitszeit,1997,30.51978,29.87156,31.16801
+gender,Frau,Gewünschte Arbeitszeit,1998,29.99626,29.5081,30.48442
+gender,Frau,Gewünschte Arbeitszeit,1999,30.29063,29.81851,30.76275
+gender,Frau,Gewünschte Arbeitszeit,2000,30.25565,29.74809,30.7632
+gender,Frau,Gewünschte Arbeitszeit,2001,30.42237,30.03174,30.81299
+gender,Frau,Gewünschte Arbeitszeit,2002,29.75868,29.45649,30.06087
+gender,Frau,Gewünschte Arbeitszeit,2003,30.02088,29.69192,30.34983
+gender,Frau,Gewünschte Arbeitszeit,2004,30.44106,30.09604,30.78608
+gender,Frau,Gewünschte Arbeitszeit,2005,30.72091,30.29657,31.14525
+gender,Frau,Gewünschte Arbeitszeit,2006,30.80661,30.57066,31.04257
+gender,Frau,Gewünschte Arbeitszeit,2007,30.90483,30.68687,31.1228
+gender,Frau,Gewünschte Arbeitszeit,2008,30.67461,30.18969,31.15954
+gender,Frau,Gewünschte Arbeitszeit,2009,31.19553,30.90988,31.48119
+gender,Frau,Gewünschte Arbeitszeit,2010,30.94518,30.47667,31.4137
+gender,Frau,Gewünschte Arbeitszeit,2011,31.40698,31.06861,31.74536
+gender,Frau,Gewünschte Arbeitszeit,2012,31.11839,30.93119,31.30559
+gender,Frau,Gewünschte Arbeitszeit,2013,31.1156,30.60467,31.62652
+gender,Frau,Gewünschte Arbeitszeit,2014,30.96153,30.59035,31.33271
+gender,Mann,Tatsächliche Arbeitszeit,1992,42.8651,42.48958,43.24061
+gender,Mann,Tatsächliche Arbeitszeit,1993,42.64252,42.43383,42.85122
+gender,Mann,Tatsächliche Arbeitszeit,1994,42.6309,42.27345,42.98834
+gender,Mann,Tatsächliche Arbeitszeit,1995,42.80393,42.43209,43.17577
+gender,Mann,Tatsächliche Arbeitszeit,1996,42.73133,42.35129,43.11138
+gender,Mann,Tatsächliche Arbeitszeit,1997,43.05357,42.72166,43.38548
+gender,Mann,Tatsächliche Arbeitszeit,1998,42.79895,42.55697,43.04094
+gender,Mann,Tatsächliche Arbeitszeit,1999,42.80041,42.59675,43.00408
+gender,Mann,Tatsächliche Arbeitszeit,2000,43.03103,42.65208,43.40997
+gender,Mann,Tatsächliche Arbeitszeit,2001,42.9786,42.75609,43.20112
+gender,Mann,Tatsächliche Arbeitszeit,2002,43.14241,42.86094,43.42388
+gender,Mann,Tatsächliche Arbeitszeit,2003,42.60652,42.41339,42.79964
+gender,Mann,Tatsächliche Arbeitszeit,2004,42.6045,42.14108,43.06793
+gender,Mann,Tatsächliche Arbeitszeit,2005,42.97133,42.65159,43.29107
+gender,Mann,Tatsächliche Arbeitszeit,2006,42.98345,42.4138,43.5531
+gender,Mann,Tatsächliche Arbeitszeit,2007,43.43291,43.05903,43.80679
+gender,Mann,Tatsächliche Arbeitszeit,2008,43.07644,42.69221,43.46068
+gender,Mann,Tatsächliche Arbeitszeit,2009,43.1125,42.73459,43.4904
+gender,Mann,Tatsächliche Arbeitszeit,2010,42.59396,42.22996,42.95796
+gender,Mann,Tatsächliche Arbeitszeit,2011,43.01304,42.63532,43.39075
+gender,Mann,Tatsächliche Arbeitszeit,2012,42.55058,42.01167,43.0895
+gender,Mann,Tatsächliche Arbeitszeit,2013,42.31436,41.94003,42.68869
+gender,Mann,Tatsächliche Arbeitszeit,2014,41.5885,41.26212,41.91489
+gender,Frau,Tatsächliche Arbeitszeit,1992,34.65855,33.98088,35.33623
+gender,Frau,Tatsächliche Arbeitszeit,1993,34.5648,34.16875,34.96086
+gender,Frau,Tatsächliche Arbeitszeit,1994,34.00549,33.5592,34.45179
+gender,Frau,Tatsächliche Arbeitszeit,1995,33.84591,33.29493,34.3969
+gender,Frau,Tatsächliche Arbeitszeit,1996,33.56626,33.08191,34.05061
+gender,Frau,Tatsächliche Arbeitszeit,1997,33.86849,33.51069,34.22628
+gender,Frau,Tatsächliche Arbeitszeit,1998,33.95403,33.50239,34.40566
+gender,Frau,Tatsächliche Arbeitszeit,1999,33.3342,32.74575,33.92264
+gender,Frau,Tatsächliche Arbeitszeit,2000,33.37738,33.09678,33.65798
+gender,Frau,Tatsächliche Arbeitszeit,2001,32.68948,32.16389,33.21508
+gender,Frau,Tatsächliche Arbeitszeit,2002,31.96336,31.54436,32.38237
+gender,Frau,Tatsächliche Arbeitszeit,2003,31.81945,31.39403,32.24488
+gender,Frau,Tatsächliche Arbeitszeit,2004,32.14846,31.72038,32.57655
+gender,Frau,Tatsächliche Arbeitszeit,2005,32.08413,31.39844,32.76981
+gender,Frau,Tatsächliche Arbeitszeit,2006,32.38201,32.04851,32.71552
+gender,Frau,Tatsächliche Arbeitszeit,2007,32.66823,32.17344,33.16301
+gender,Frau,Tatsächliche Arbeitszeit,2008,32.65958,32.192,33.12716
+gender,Frau,Tatsächliche Arbeitszeit,2009,32.92425,32.30022,33.54828
+gender,Frau,Tatsächliche Arbeitszeit,2010,32.74344,32.10442,33.38247
+gender,Frau,Tatsächliche Arbeitszeit,2011,33.18804,32.8811,33.49498
+gender,Frau,Tatsächliche Arbeitszeit,2012,32.85019,32.43998,33.2604
+gender,Frau,Tatsächliche Arbeitszeit,2013,32.79831,32.29624,33.30037
+gender,Frau,Tatsächliche Arbeitszeit,2014,32.62585,32.17053,33.08118
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,1992,38.63425,38.43109,38.83741
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,1993,38.39102,38.32529,38.45674
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,1994,38.47707,38.31759,38.63656
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,1995,38.15691,37.86086,38.45296
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,1996,38.04691,37.94245,38.15137
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,1997,38.17539,37.97665,38.37414
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,1998,37.84038,37.62533,38.05544
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,1999,38.16186,37.97048,38.35324
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2000,38.22791,37.98252,38.4733
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2001,38.2275,38.08393,38.37107
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2002,38.44942,38.27658,38.62225
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2003,37.97997,37.88353,38.0764
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2004,38.11112,37.8135,38.40874
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2005,38.41696,38.28692,38.54701
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2006,38.37613,38.22379,38.52846
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2007,38.55385,38.29867,38.80903
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2008,38.68043,38.48248,38.87839
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2009,38.64378,38.50976,38.77781
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2010,38.55132,38.32737,38.77527
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2011,38.49917,38.23211,38.76624
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2012,38.48699,38.27971,38.69427
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2013,38.39993,38.21866,38.5812
+gender,Mann,Vertraglich vereinbarte Arbeitszeit,2014,37.84729,37.64444,38.05015
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,1992,32.90955,32.33083,33.48827
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,1993,32.76472,32.30076,33.22868
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,1994,32.27573,31.87986,32.6716
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,1995,31.79518,31.31317,32.27719
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,1996,31.64392,31.19364,32.09419
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,1997,31.77764,31.14077,32.41452
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,1998,31.48576,30.90707,32.06445
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,1999,31.18934,30.49499,31.88368
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2000,31.32851,30.8811,31.77592
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2001,30.4687,29.90641,31.03099
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2002,30.21162,29.7991,30.62413
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2003,29.87102,29.59401,30.14804
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2004,30.5275,30.20844,30.84655
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2005,30.59357,29.98381,31.20333
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2006,30.39703,30.1421,30.65196
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2007,30.42074,30.08848,30.753
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2008,30.4767,30.06173,30.89167
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2009,30.73697,30.46908,31.00485
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2010,30.59014,30.28912,30.89116
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2011,30.65909,30.30631,31.01186
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2012,30.67284,30.31165,31.03403
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2013,30.76638,30.23908,31.29367
+gender,Frau,Vertraglich vereinbarte Arbeitszeit,2014,30.27533,29.82516,30.72551
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,1992,34.17981,33.72539,34.63422
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,1993,34.35301,33.8457,34.86031
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,1994,34.4226,34.19377,34.65142
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,1995,33.43833,33.04777,33.8289
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,1996,,,
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,1997,34.6762,34.26649,35.08591
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,1998,33.85627,33.49612,34.21641
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,1999,34.18751,33.78135,34.59367
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2000,34.27247,34.06729,34.47764
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2001,34.48776,34.31681,34.65871
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2002,34.13265,33.98606,34.27924
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2003,34.11569,33.81336,34.41802
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2004,34.36799,34.16398,34.572
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2005,34.69892,34.40567,34.99216
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2006,34.62263,34.39622,34.84904
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2007,34.73518,34.38247,35.08788
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2008,34.38226,34.09845,34.66607
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2009,34.76456,34.59957,34.92955
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2010,34.39025,34.08091,34.69959
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2011,34.57177,34.33586,34.80767
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2012,34.25437,33.95275,34.55599
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2013,34.18442,33.79736,34.57147
+region,Westdeutsche Bundesländer,Gewünschte Arbeitszeit,2014,33.84914,33.54512,34.15316
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,1992,,,
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,1993,37.36976,37.04237,37.69715
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,1994,37.74871,37.42456,38.07287
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,1995,35.94875,35.32353,36.57397
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,1996,,,
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,1997,37.99044,37.29253,38.68836
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,1998,36.35776,35.85123,36.86429
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,1999,37.21993,36.64967,37.7902
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2000,37.10724,36.61436,37.60013
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2001,37.12155,36.68655,37.55655
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2002,37.09357,36.74796,37.43919
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2003,37.18788,36.87802,37.49775
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2004,37.26958,36.51991,38.01926
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2005,37.06034,36.43401,37.68668
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2006,37.6249,37.07187,38.17793
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2007,37.60797,37.08399,38.13194
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2008,37.43135,36.82701,38.0357
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2009,37.21529,36.58502,37.84555
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2010,36.64358,36.3819,36.90526
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2011,36.88661,36.30258,37.47064
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2012,36.16936,35.66114,36.67758
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2013,36.07627,35.61858,36.53396
+region,Ostdeutsche Bundesländer,Gewünschte Arbeitszeit,2014,35.79078,35.01244,36.56911
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,1992,38.48883,38.00356,38.97411
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,1993,38.19478,38.00155,38.388
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,1994,38.0334,37.7534,38.3134
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,1995,38.02252,37.47426,38.57077
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,1996,37.92398,37.53064,38.31733
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,1997,38.31224,37.98646,38.63802
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,1998,38.29664,37.97239,38.62088
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,1999,37.95082,37.61954,38.28211
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2000,38.19384,38.00162,38.38605
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2001,37.72428,37.44803,38.00054
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2002,37.40359,37.16029,37.64689
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2003,37.06586,36.7928,37.33892
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2004,37.25977,36.8427,37.67683
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2005,37.16837,36.88748,37.44927
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2006,37.40843,36.98242,37.83442
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2007,37.78274,37.38674,38.17875
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2008,37.58301,37.10779,38.05822
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2009,37.52384,37.01176,38.03592
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2010,37.21693,36.67609,37.75777
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2011,37.63806,37.33766,37.93846
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2012,37.32284,36.85176,37.7939
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2013,37.21291,36.8813,37.54452
+region,Westdeutsche Bundesländer,Tatsächliche Arbeitszeit,2014,36.74014,36.27212,37.20815
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,1992,42.8537,42.56894,43.13846
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,1993,43.11459,42.49247,43.7367
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,1994,42.95613,42.55247,43.35979
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,1995,42.97182,42.39543,43.54821
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,1996,42.80182,42.39488,43.20877
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,1997,43.00407,42.43663,43.57152
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,1998,42.28489,41.49734,43.07243
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,1999,41.72519,41.11008,42.3403
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2000,41.50112,41.12835,41.87389
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2001,41.20971,40.59895,41.82047
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2002,40.97714,40.47971,41.47457
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2003,40.40451,39.92651,40.88251
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2004,39.61275,39.05389,40.17162
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2005,40.69379,40.00016,41.38742
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2006,40.60823,39.69826,41.51819
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2007,40.67592,39.99835,41.35348
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2008,40.35841,39.49242,41.2244
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2009,40.54155,39.71386,41.36924
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2010,39.99821,39.16041,40.836
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2011,40.67452,40.04022,41.30883
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2012,39.68772,39.13128,40.24416
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2013,39.4158,38.74078,40.09082
+region,Ostdeutsche Bundesländer,Tatsächliche Arbeitszeit,2014,39.03614,38.40211,39.67017
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1992,35.36558,35.00672,35.72445
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1993,35.18983,34.93901,35.44066
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1994,35.0902,34.86844,35.31197
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1995,34.76107,34.35341,35.16873
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1996,34.60125,34.35727,34.84523
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1997,34.80863,34.58525,35.03202
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1998,34.56373,34.15987,34.96759
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1999,34.47108,34.18844,34.75371
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2000,34.67941,34.31326,35.04555
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2001,34.20622,33.94927,34.46316
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2002,34.16019,33.92051,34.39987
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2003,33.74282,33.51766,33.96798
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2004,34.16932,33.88224,34.45641
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2005,34.33029,34.09004,34.57055
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2006,34.18918,34.03381,34.34455
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2007,34.23882,33.94909,34.52857
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2008,34.31726,33.90417,34.73034
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2009,34.35897,33.992,34.72593
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2010,34.23962,33.92944,34.54981
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2011,34.10371,33.8298,34.37763
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2012,34.18711,33.93056,34.44365
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2013,34.2831,34.08745,34.47875
+region,Westdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2014,33.72305,33.43248,34.01361
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1992,39.15033,39.04575,39.25492
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1993,38.8968,38.73104,39.06256
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1994,38.69288,38.49523,38.89053
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1995,38.12179,37.882,38.36157
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1996,38.30254,38.15058,38.45451
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1997,38.09299,37.74541,38.44057
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1998,37.44391,37.11664,37.77118
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,1999,37.57421,37.13457,38.01383
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2000,37.53306,37.22739,37.83872
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2001,36.83817,36.3439,37.33243
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2002,37.14154,36.8197,37.46339
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2003,36.48465,36.26293,36.70637
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2004,36.1297,35.90743,36.35197
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2005,36.55058,36.14673,36.95443
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2006,36.57729,36.2795,36.87508
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2007,36.66913,36.12984,37.20841
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2008,36.91696,36.41664,37.41728
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2009,36.60715,36.21167,37.00263
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2010,36.57693,36.24484,36.90902
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2011,36.94471,36.30241,37.58701
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2012,36.42615,35.93855,36.91375
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2013,36.13802,35.73066,36.54538
+region,Ostdeutsche Bundesländer,Vertraglich vereinbarte Arbeitszeit,2014,35.7986,35.3211,36.27611

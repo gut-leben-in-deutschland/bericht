@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <g style="">
+            <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
+            <g transform="translate(0,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
+                    1990
+                </text>
+            </g>
+            <g transform="translate(190.33333333333331,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    1998
+                </text>
+            </g>
+            <g transform="translate(380.66666666666663,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2006
+                </text>
+            </g>
+            <g transform="translate(571,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
+                    2014
+                </text>
+            </g>
+            <g style="">
+                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,128.611634259L23.77538215833904,127.86891118439999L47.55076431667808,128.3253996834L71.39128450832763,127.272611469L95.16666666666666,125.88396495660001L118.9420488250057,121.99304622719998L142.71743098334474,118.61610439860002L166.55795117499432,117.00402167940001L190.33333333333331,116.308081359L214.10871549167237,115.0914687918L237.8840976500114,109.78165580699999L261.724617841661,108.585556107L285.5,106.14204879000002L309.275382158339,98.81405206080001L333.0507643166781,91.53515586420002L356.8912845083276,85.80044373479998L380.66666666666663,80.1189219174L404.4420488250057,73.99650692520001L428.21743098334474,72.73272132720001L452.0579511749943,75.63266253660001L475.83333333333337,65.45750406420001L499.6087154916724,60.3361552854L523.3840976500114,58.308374521800005L547.2246178416609,55.176813974400034L571,55.258623273599994" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="575" x2="581" y1="55.258623273599994" y2="55.258623273599994" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="585" y="55.258623273599994" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:53.03125px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            34,79 Mrd.
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,264)" style="">
+                <line x2="571" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(0,144)" style="">
+                <line x2="571" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:12px;fill:#666666;">
+                    20
+                </text>
+            </g>
+            <g transform="translate(0,24)" style="">
+                <line x2="571" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:76.203125px;fill:#666666;">
+                    40 Mrd. Tonnen
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
+                <div style="display:block;height:0px;padding-right:68px;width:640px;">
+                </div>
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Edgar JRC/PBL.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Bundesregierung
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                Der Edgar-Datensatz zu CO
+                                <sub style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);bottom:-2.25px;color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:9px;line-height:0px;outline-color:rgb(102, 102, 102);position:relative;text-align:right;">
+                                    2
+                                </sub>
+                                -Emissionen enthält keine Emissionen aus CO
+                                <sub style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);bottom:-2.25px;color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:9px;line-height:0px;outline-color:rgb(102, 102, 102);position:relative;text-align:right;">
+                                    2
+                                </sub>
+                                -neutraler Bioenergie und aus Landnutzungsveränderung oder Bränden von Wäldern, Mooren, usw.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

@@ -1,0 +1,338 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="408" style="height:408px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt, dass sich der Anteil an Männern und Frauen mit einem BMI größer als 30 zwischen 1999 und 2013 in allen fünf dargestellten Altersgruppen zwischen 18 und 64 Jahren erhöht hat, wobei das Risiko für Fettleibigkeit mit zunehmendem Alter steigt. So ist der Anteil der Männer und Frauen mit einem BMI von 30 und höher in der Altersgruppe der 55- bis 64-Jährigen am höchsten. Jeder vierte Mann und jede fünfte Frau dieser Altersgruppe war im Jahr 2013 fettleibig. Bei jungen Erwachsenen (18 bis 24 Jahre) ist zwar nur etwa jede 20. Person fettleibig, aber in dieser Altersgruppe sind mit 65 Prozent die größten prozentualen Zuwächse zu beobachten. Dieser Befund ist auch mit Blick auf die Verbreitung von Fettleibigkeit unter Kindern und Jugendlichen relevant. 
+    </desc>
+    <g transform="translate(370,0)" style="">
+        <g style="">
+            <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:33.515625px;fill:#666666;">
+                Mann
+            </text>
+            <g transform="translate(0,288)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
+                    1999
+                </text>
+            </g>
+            <g transform="translate(217,288)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
+                    2013
+                </text>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="262.13297344" y2="262.13297344" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="262.13297344" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;text-anchor:end;">
+                        3%
+                    </text>
+                </g>
+                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,262.13297344L217,242.96405672" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="242.96405672" y2="242.96405672" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="242.96405672" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            6%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="231.79309424000002" y2="231.79309424000002" stroke="#a04200" stroke-width="3" style="stroke:#a04200;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="231.79309424000002" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;text-anchor:end;">
+                        7%
+                    </text>
+                </g>
+                <path fill="none" stroke="#a04200" stroke-width="3" stroke-dasharray="none" d="M0,231.79309424000002L217,203.95814648000004" style="fill:none;stroke:#a04200;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="203.95814648000004" y2="203.95814648000004" stroke="#a04200" stroke-width="3" style="stroke:#a04200;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="203.95814648000004" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            11%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="197.99181336" y2="197.99181336" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="197.99181336" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                        11%
+                    </text>
+                </g>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,197.99181336L217,160.46344704000003" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="160.46344704000003" y2="160.46344704000003" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="160.46344704000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            16%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="162.10453584" y2="162.10453584" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="162.10453584" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                        16%
+                    </text>
+                </g>
+                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,160.54403231999999L217,135.80050432000002" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="140.79116624000002" y2="140.79116624000002" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="140.79116624000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            19%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="150.10453584" y2="150.10453584" stroke="#ff6e8b" stroke-width="3" style="stroke:#ff6e8b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="150.10453584" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                        17%
+                    </text>
+                </g>
+                <path fill="none" stroke="#ff6e8b" stroke-width="3" stroke-dasharray="none" d="M0,150.10453584L217,99.12691720000004" style="fill:none;stroke:#ff6e8b;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="99.12691720000004" y2="99.12691720000004" stroke="#ff6e8b" stroke-width="3" style="stroke:#ff6e8b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="99.12691720000004" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            24%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="174.10453584" y2="174.10453584" stroke="#890d48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="174.10453584" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                        14%
+                    </text>
+                </g>
+                <path fill="none" stroke="#890d48" stroke-width="3" stroke-dasharray="none" d="M0,172.92169016000003L217,128.79116624000002" style="fill:none;stroke:#890d48;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="128.79116624000002" y2="128.79116624000002" stroke="#890d48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="128.79116624000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            20%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,288)" style="">
+                <line x2="217" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(0,168)" style="">
+                <line x2="217" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:12px;fill:#666666;">
+                    15
+                </text>
+            </g>
+            <g transform="translate(0,48)" style="">
+                <line x2="217" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:20.65625px;fill:#666666;">
+                    30% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(51,0)" style="">
+        <g style="">
+            <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:26.0625px;fill:#666666;">
+                Frau
+            </text>
+            <g transform="translate(0,288)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
+                    1999
+                </text>
+            </g>
+            <g transform="translate(217,288)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
+                    2013
+                </text>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="264.4020876" y2="264.4020876" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="264.4020876" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;text-anchor:end;">
+                        3%
+                    </text>
+                </g>
+                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,264.4020876L217,252.64185584" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="252.64185584" y2="252.64185584" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="252.64185584" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            4%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="239.15737936" y2="239.15737936" stroke="#a04200" stroke-width="3" style="stroke:#a04200;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="239.15737936" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;text-anchor:end;">
+                        6%
+                    </text>
+                </g>
+                <path fill="none" stroke="#a04200" stroke-width="3" stroke-dasharray="none" d="M0,239.15737936L217,220.8854704" style="fill:none;stroke:#a04200;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="220.8854704" y2="220.8854704" stroke="#a04200" stroke-width="3" style="stroke:#a04200;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="220.8854704" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            8%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="216.91906600000002" y2="216.91906600000002" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="216.91906600000002" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;text-anchor:end;">
+                        9%
+                    </text>
+                </g>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,216.91906600000002L217,200.32776712" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="200.32776712" y2="200.32776712" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="200.32776712" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            11%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="189.05491304" y2="189.05491304" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="189.05491304" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                        13%
+                    </text>
+                </g>
+                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,185.32094944000002L217,179.10027000000002" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="179.10027000000002" y2="179.10027000000002" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="179.10027000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            14%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="160.37837640000004" y2="160.37837640000004" stroke="#ff6e8b" stroke-width="3" style="stroke:#ff6e8b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="160.37837640000004" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                        16%
+                    </text>
+                </g>
+                <path fill="none" stroke="#ff6e8b" stroke-width="3" stroke-dasharray="none" d="M0,160.37837640000004L217,135.87737072000004" style="fill:none;stroke:#ff6e8b;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="135.87737072000004" y2="135.87737072000004" stroke="#ff6e8b" stroke-width="3" style="stroke:#ff6e8b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="135.87737072000004" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            19%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <g style="">
+                    <line x1="-4" x2="-10" y1="177.05491304" y2="177.05491304" stroke="#890d48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="177.05491304" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                        14%
+                    </text>
+                </g>
+                <path fill="none" stroke="#890d48" stroke-width="3" stroke-dasharray="none" d="M0,177.05491304L217,137.86697592000002" style="fill:none;stroke:#890d48;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="221" x2="227" y1="147.87737072000004" y2="147.87737072000004" stroke="#890d48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="147.87737072000004" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            19%
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,288)" style="">
+                <line x2="217" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(0,168)" style="">
+                <line x2="217" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:12px;fill:#666666;">
+                    15
+                </text>
+            </g>
+            <g transform="translate(0,48)" style="">
+                <line x2="217" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:20.65625px;fill:#666666;">
+                    30% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="312" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:98px;width:640px;">
+            <div style="display:block;height:98px;width:640px;">
+                <div style="display:block;height:20px;padding-left:51px;padding-right:51px;width:640px;">
+                    <div style="display:block;height:20px;line-height:12px;width:538px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:68.9375px;">
+                            <div style="background-color:rgb(242, 191, 24);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                            </div>
+                            18-24 Jahre 
+                        </div>
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:68.9375px;">
+                            <div style="background-color:rgb(160, 66, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                            </div>
+                            25-34 Jahre 
+                        </div>
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:68.9375px;">
+                            <div style="background-color:rgb(242, 133, 2);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                            </div>
+                            35-44 Jahre 
+                        </div>
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:68.9375px;">
+                            <div style="background-color:rgb(196, 0, 70);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                            </div>
+                            45-54 Jahre 
+                        </div>
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:68.9375px;">
+                            <div style="background-color:rgb(255, 110, 139);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                            </div>
+                            55-64 Jahre 
+                        </div>
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:98.703125px;">
+                            <div style="background-color:rgb(137, 13, 72);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                            </div>
+                            65 Jahre und älter 
+                        </div>
+                    </div>
+                </div>
+                <div style="display:block;height:78px;width:640px;">
+                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Mikrozensus, eigene Berechnungen.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Bundesregierung
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1440px" height="800px" viewBox="0 0 1440 800" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>cover-option-c-1440</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="866"></rect>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="9.33827152%" id="linearGradient-3">
+            <stop stop-color="#8C1478" offset="0%"></stop>
+            <stop stop-color="#BD4AA5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="-391.540073" y="-58.7843534" width="1261.52547" height="1094.65739" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="48" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="1.23780787%" y1="48.7621921%" x2="98.7621921%" y2="48.7621921%" id="linearGradient-6">
+            <stop stop-color="#FFC554" offset="0%"></stop>
+            <stop stop-color="#F28502" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-7" x="325.00297" y="-125.41256" width="707.356418" height="765.212859" rx="24"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="48" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="3.061617e-15%" y2="50%" id="linearGradient-9">
+            <stop stop-color="#0778A5" offset="0%"></stop>
+            <stop stop-color="#80CFFF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="174.70408" y="421.658767" width="883.946722" height="564" rx="24"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="48" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="8.08685545%" id="linearGradient-12">
+            <stop stop-color="#B2F65B" offset="0%"></stop>
+            <stop stop-color="#3F8800" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-13" x="619.011943" y="207.894053" width="861.362358" height="1063.153" rx="24"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="48" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#276295" offset="0%"></stop>
+            <stop stop-color="#003461" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-16" x="1079.07776" y="-332.660165" width="841.691347" height="1355.87004" rx="24"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-17">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="48" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="3-l-covers" stroke="none" stroke-width="1" fill="none">
+        <g id="cover-option-c-1440">
+            <g id="shade-of-red" transform="translate(239.222661, 488.544339) rotate(10.000000) translate(-239.222661, -488.544339) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+            </g>
+            <g id="shade-of-yellow" transform="translate(678.681179, 257.193870) rotate(-9.000000) translate(-678.681179, -257.193870) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                <use fill="url(#linearGradient-6)" xlink:href="#path-7"></use>
+            </g>
+            <g id="shade-of-purple" transform="translate(616.677441, 703.658767) rotate(-21.000000) translate(-616.677441, -703.658767) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                <use fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+            </g>
+            <g id="shade-of-blue" transform="translate(1049.693122, 739.470551) rotate(35.000000) translate(-1049.693122, -739.470551) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <use fill="url(#linearGradient-12)" xlink:href="#path-13"></use>
+            </g>
+            <g id="shade-of-magenta" transform="translate(1499.923431, 345.274855) rotate(-25.000000) translate(-1499.923431, -345.274855) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-17)" xlink:href="#path-16"></use>
+                <use fill="url(#linearGradient-15)" xlink:href="#path-16"></use>
+            </g>
+        </g>
+    </g>
+</svg>

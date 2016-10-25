@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="270" height="158" viewBox="0 0 270 158">
+  <defs>
+    <rect id="b" width="146.965" height="160.3" rx="3.2"/>
+    <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="a">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" in="shadowBlurOuter1"/>
+    </filter>
+    <rect id="d" width="146.965" height="160.3" rx="3.2"/>
+    <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="c">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" in="shadowBlurOuter1"/>
+    </filter><rect id="f" width="146.965" height="160.3" rx="3.2"/>
+    <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="e">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+      <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0" in="shadowBlurOuter1"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="rotate(-1 782.444 -565.88)">
+      <use fill="#000" filter="url(#a)" xlink:href="#b"/>
+      <use fill="#F2BF18" xlink:href="#b"/>
+    </g>
+    <g transform="rotate(1 -1814.05 6469.556)">
+      <use fill="#000" filter="url(#c)" xlink:href="#d"/>
+      <use fill="#004F80" xlink:href="#d"/>
+    </g>
+    <g transform="translate(65.112 64.7)">
+      <use fill="#000" filter="url(#e)" xlink:href="#f"/>
+      <use fill="#00857C" xlink:href="#f"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,112 @@
+/**
+ * Font family names are aligned with their desktop font name for exports to work as expected in Illustrator
+ */
+
+/**
+ * BundesSans Web
+ *
+ * Weights:
+
+ *   Regular 500
+ *   Bold    500
+ *
+ */
+
+@font-face {
+  font-family: BundesSans-Regular;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Regular.eot),
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Regular.woff) format('woff'),
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Regular.ttf) format('truetype')
+  ;
+}
+
+@font-face {
+  font-family: BundesSans-Bold;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Bold.eot),
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Bold.woff) format('woff'),
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Bold.ttf) format('truetype')
+  ;
+}
+
+@font-face {
+  font-family: BundesSans-RegularItalic;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Italic.eot),
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Italic.woff) format('woff'),
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-Italic.ttf) format('truetype')
+  ;
+}
+
+@font-face {
+  font-family: BundesSans-BoldItalic;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-BoldItalic.eot),
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-BoldItalic.woff) format('woff'),
+    url(./fonts/BundesSansWeb_release_2013-04-25/BundesSansWeb-BoldItalic.ttf) format('truetype')
+  ;
+}
+
+/**
+ * BundesSerif Web
+ *
+ * Weights:
+
+ *   Regular 500
+ *   Bold    500
+ *
+ */
+
+@font-face {
+  font-family: BundesSerif-Regular;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Regular.eot),
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Regular.woff) format('woff'),
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Regular.ttf) format('truetype')
+  ;
+}
+
+@font-face {
+  font-family: BundesSerif-Bold;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Bold.eot),
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Bold.woff) format('woff'),
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Bold.ttf) format('truetype')
+  ;
+}
+
+@font-face {
+  font-family: BundesSerif-RegularItalic;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Italic.eot),
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Italic.woff) format('woff'),
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-Italic.ttf) format('truetype')
+  ;
+}
+
+@font-face {
+  font-family: BundesSerif-BoldItalic;
+  font-style: normal;
+  font-weight: 500;
+  src:
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-BoldItalic.eot),
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-BoldItalic.woff) format('woff'),
+    url(./fonts/BundesSerifWeb_release_2013-04-25/BundesSerifWeb-BoldItalic.ttf) format('truetype')
+  ;
+}
+

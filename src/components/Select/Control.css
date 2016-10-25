@@ -1,0 +1,257 @@
+/* Control */
+/* ------------------------------ */
+
+@value selectInputBg, selectInputBgDisabled, selectInputBorderColor, selectInputBorderHover, selectInputBorderRadius, selectInputBorderFocus, selectInputBorderActive, selectInputBorderWidth, selectInputHeight, selectInputInternalHeight, selectInputPlaceholder, selectTextColor, selectLinkHoverColor, selectPaddingVertical, selectPaddingHorizontal, selectClearSize, selectClearColor, selectClearHoverColor, selectClearWidth, selectArrowColor, selectArrowColorHover, selectArrowColorDisabled, selectArrowWidth, selectLoadingSize, selectLoadingColor, selectLoadingColorBg from "./variables.css";
+
+
+/* Animations */
+/* ------------------------------ */
+
+@keyframes :global(Select-animation-fadeIn) {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes :global(Select-animation-spin) {
+  to { transform: rotate(1turn); }
+}
+
+.wrap {
+  :global {
+    .Select {
+      position: relative;
+
+      /* preferred box model */
+      &,
+      & div,
+      & input,
+      & span {
+        box-sizing: border-box;
+      }
+
+      /* handle disabled state */
+      &.is-disabled > .Select-control {
+        background-color: selectInputBgDisabled;
+        &:hover {
+          box-shadow: none;
+        }
+      }
+      &.is-disabled .Select-arrow-zone {
+        cursor: default;
+        pointer-events: none;
+      }
+    }
+
+    /* base */
+
+    .Select-control {
+      background-color: selectInputBg;
+      border-radius: selectInputBorderRadius;
+      border: selectInputBorderWidth solid selectInputBorderColor;
+      color: selectTextColor;
+      cursor: default;
+      display: table;
+      border-spacing: 0;
+      border-collapse: separate;
+      height: selectInputHeight;
+      outline: none;
+      overflow: hidden;
+      position: relative;
+      width: 100%;
+    }
+    :not(.is-disabled) .Select-control:hover {
+      border-color: selectInputBorderHover;
+    }
+
+    .is-searchable {
+      &.is-open > .Select-control {
+        cursor: text;
+      }
+    }
+
+    .is-open > .Select-control {
+      border-bottom-right-radius: 0;
+      border-bottom-left-radius: 0;
+      background: selectInputBg;
+      border-color: selectInputBorderColor;
+
+      /* flip the arrow so its pointing up when the menu is open */
+      > .Select-arrow {
+        border-color: transparent transparent selectArrowColor;
+        border-width: 0 selectArrowWidth selectArrowWidth;
+      }
+    }
+
+    .is-searchable {
+      &.is-focused:not(.is-open) > .Select-control {
+        cursor: text;
+      }
+    }
+
+    .is-focused:not(.is-open) > .Select-control {
+      border-color: selectInputBorderFocus;
+    }
+    .is-focused.is-open > .Select-control {
+      border-color: selectInputBorderActive;
+    }
+
+    /* placeholder */
+
+    .Select-placeholder,
+    :not(.Select--multi) > .Select-control .Select-value {
+      bottom: 0;
+      color: selectTextColor;
+      left: 0;
+      line-height: selectInputInternalHeight;
+      padding-left: selectPaddingHorizontal;
+      padding-right: selectPaddingHorizontal;
+      position: absolute;
+      right: 0;
+      top: 0;
+
+      /* crop text */
+      max-width: 100%;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .is-focused:not(.is-pseudo-focused):not(.Select--multi) > .Select-control .Select-value {
+      color: selectInputPlaceholder;
+    }
+
+    .has-value:not(.Select--multi):not(.is-focused) > .Select-control > .Select-value,
+    .has-value.is-pseudo-focused:not(.Select--multi) > .Select-control > .Select-value {
+      .Select-value-label {
+        color: selectTextColor;
+      }
+      a.Select-value-label {
+        cursor: pointer;
+        text-decoration: none;
+
+        &:hover {
+          color: selectLinkHoverColor;
+          text-decoration: underline;
+        }
+      }
+    }
+
+
+    /* the <input> element users type in */
+
+    .Select-input {
+      /* inherits `display: inline-block` from "react-input-autosize" */
+      height: selectInputInternalHeight;
+      padding-left: selectPaddingHorizontal;
+      padding-right: selectPaddingHorizontal;
+      vertical-align: middle;
+
+      > input {
+        background: none transparent;
+        border: 0 none;
+        box-shadow: none;
+        cursor: default;
+        display: inline-block;
+        font-family: inherit;
+        font-size: inherit;
+        height: selectInputInternalHeight;
+        line-height: selectInputInternalHeight;
+        margin: 0;
+        outline: none;
+        padding: 0;
+        -webkit-appearance: none;
+        width: 100%;
+
+        .is-focused & {
+          cursor: text;
+        }
+      }
+
+    }
+
+    /* fake-hide the input when the control is pseudo-focused */
+    .has-value.is-pseudo-focused .Select-input {
+      opacity: 0;
+    }
+
+    /* fake input */
+    .Select-control:not(.is-searchable) > .Select-input {
+      outline: none;
+    }
+
+    /* loading indicator */
+    .Select-loading-zone {
+      cursor: pointer;
+      display: table-cell;
+      position: relative;
+      text-align: center;
+      vertical-align: middle;
+      width: calc(selectLoadingSize * 2);
+    }
+    .Select-loading {
+      animation: Select-animation-spin 400ms infinite linear;
+      width: selectLoadingSize;
+      height: selectLoadingSize;
+      box-sizing: border-box;
+      border-radius: 50%;
+      border: calc(selectLoadingSize / 8) solid selectLoadingColorBg;
+      border-right-color: selectLoadingColor;
+      display: inline-block;
+      position: relative;
+      vertical-align: middle;
+    }
+
+    /* the little cross that clears the field */
+
+    .Select-clear-zone {
+      animation: Select-animation-fadeIn 200ms;
+      color: selectClearColor;
+      cursor: pointer;
+      display: table-cell;
+      position: relative;
+      text-align: center;
+      vertical-align: middle;
+      width: selectClearWidth;
+
+      &:hover {
+        color: selectClearHoverColor;
+      }
+    }
+    .Select-clear {
+      display: inline-block;
+      font-size: selectClearSize;
+      line-height: 1;
+    }
+    .Select--multi .Select-clear-zone {
+      width: selectClearWidth;
+    }
+
+
+    /* arrow indicator */
+
+    .Select-arrow-zone {
+      cursor: pointer;
+      display: table-cell;
+      display: none;
+      position: relative;
+      text-align: center;
+      vertical-align: middle;
+      width: calc(selectArrowWidth * 5);
+      padding-right: selectArrowWidth;
+    }
+
+    .Select-arrow {
+      border-color: selectArrowColor transparent transparent;
+      border-style: solid;
+      border-width: selectArrowWidth selectArrowWidth calc(selectArrowWidth / 2);
+      display: inline-block;
+      height: 0;
+      width: 0;
+    }
+    .is-open .Select-arrow,
+    .Select-arrow-zone:hover > .Select-arrow {
+      border-top-color: selectArrowColorHover;
+    }
+    .is-disabled .Select-arrow {
+      border-top-color: selectArrowColorDisabled;
+    }
+  }
+}

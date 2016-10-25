@@ -1,0 +1,840 @@
+id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_label,source_url,source_annotation,footnote
+00-00-a,Dialogue Venues,PointMap,X2/event-points.csv,"{
+  ""ordinalAccessor"": ""type"",
+  ""colorRange"": [""#F2BF17"", ""#0778a5"", ""#8c1478""],
+  ""shape"": ""marker"",
+  ""legendTitle"": ""Veranstaltungstyp""
+}",The chart shows a map of Germany on which the venues throughout Germany are indicated by means of small pins.,plotted,FALSE,TRUE,,,,,
+01-00-a,Number of persons in need of care by type of care provision by end of year 2013,Bar,01/00/categories.csv,"{
+  ""column"": ""category"",
+  ""columnSort"": ""none"",
+  ""y"": ""description"",
+  ""color"": ""type"",
+  ""colorSort"": ""none"",
+  ""sort"": ""none"",
+  ""highlight"": ""datum.type == 'Total'""
+}",,"deprecated, replaced by static",FALSE,FALSE,,,,Statistisches Bundesamt (2015): Pflegestatistik 2013 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.,
+01-00-b,Number of persons in need of care by type of care provision by end of year 2013,Static,01/00/categories.csv,,"The chart shows that in 2013 of 2.6 million individuals needing care 1.8 million were cared for at home and 800,000 in residential care. Of those being cared for at home, 1.2 million were cared for exclusively by relatives, while 600,000 also received some professional care.",plotted,FALSE,TRUE,,,,Statistisches Bundesamt (2015): Pflegestatistik 2013 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.,
+01-01-a,Life expectancy at birth,Line,01/01/regions.csv,"{
+  ""filter"": ""datum.at_age == 0 && datum.region != 'Gesamt' && datum.gender != 'Total'"",
+  ""unit"": ""Jahre"",
+  ""numberFormat"": "".1f"",
+  ""zero"": false,
+  ""colorRange"": [""#F2BF18"", ""#F28502"", ""#C40046"", ""#890D48""],
+  ""category"": ""datum.gender + ' ' + datum.region""
+}","The chart shows the trend in life expectancy at birth between 1956 and 2013, differentiated by gender and by old and new federal states. Life expectancy rose significantly for all groups during the period. Women's life expectancy exceeded men's in 2013 and people in the old federal states had a higher life expectancy than those in the new federal states. In 2013, life expectancy for women was thus around 83 in both the old and new federal states, while it was 78.2 for men in the old and 77 in the new federal states. Since the late 1950s, life expectancy at birth has been increasing continuously by just under three months year on year.",plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and Max-Planck-Institut für demografische Forschung (Germany).",
+01-01-b,Increases in life expectancy at birth since German reunification by gender 1990 and 2013,Slope,01/01/regions.csv,"{
+  ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2013) && datum.region != 'Gesamt' && datum.gender != 'Total'"",
+  ""numberFormat"": "".1f"",
+  ""unit"": ""Jahre"",
+  ""column"": ""gender"",
+  ""color"": ""region"",
+  ""zero"": false
+}","The chart shows that life expectancy in the new and old federal states increased significantly between 1990 and 2013 for women and men. The rise in life expectancy overall was slightly greater in men. But men's life expectancy was still lower than women's in 2013. For women, life expectancy was around 83 in both the old and the new federal states. Since German reunification, women's life expectancy in the new federal states developed strongly and reached the same level as in the old federal states by 2013. Men's life expectancy in the new federal states underwent a similar development, but there still remaines a difference of 1.2 years. Men's life expectance in the old federal states was thus 73.2 in 2013, while it was 77 in the new federal states.",plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and Max-Planck-Institut für demografische Forschung (Germany).",
+01-01-c,Increases in life expectancy since German reunification 1990 and 2013,Slope,01/01/regions.csv,"{
+  ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2013) && datum.region == 'Gesamt' && datum.gender == 'Total'"",
+  ""numberFormat"": "".1f"",
+  ""unit"": ""Jahre"",
+  ""columns"": 1,
+  ""zero"": false
+}",The chart shows that life expectancy at birth rose from 75.3 in 1990 to 80.5 in 2013.,plotted,TRUE,FALSE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and Max-Planck-Institut für demografische Forschung (Germany).",
+01-02-a,Trends in obesity prevalence among adults by age group 1999 and 2013,Slope,01/02/age-groups.csv,"{
+  ""filter"": ""(datum.year == 1999 || datum.year == 2013) && datum.age_group != 'Zusammen' && datum.age_group != '65 und älter'"",
+  ""column"": ""gender"",
+  ""color"": ""age_group""
+}","The chart shows that the proportion of men and women with a BMI over 30 increased between 1999 and 2013 in all five shown age groups between 18 and 64, with the risk of becoming obese increasing with age. The proportion of men and women with a BMI of 30 and above is largest among those aged 55 to 64. Every fourth man and every fifth woman in this age group was obese in 2013. In the case of young adults (18 to 24) this only applies to every 20th person, but this group shows the largest percentage increases at 65 percent. This finding is also relevant in view of the increasing prevalence of obesity among children and adolescents.",plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microsensus, own calculations.",
+01-02-b,Trends in obesity prevalence among adults by federal states 1999 and 2013,Slope,01/02/states.csv,"{
+  ""column"": ""category"",
+  ""color"": ""state"",
+  ""filter"": ""datum.year == 1999 || datum.year == 2013"",
+  ""numberFormat"": "".1%"",
+  ""columnFilter"": [
+    {""title"": ""Höchster Anteil"", ""test"": ""indexof(['Brandenburg', 'Mecklenburg-Vorpommern', 'Rheinland-Pfalz', 'Sachsen-Anhalt', 'Thüringen', 'Deutschland'], datum.state) > -1""},
+    {""title"": ""Niedrigster Anteil"", ""test"": ""indexof(['Baden-Württemberg', 'Berlin', 'Bremen', 'Hamburg', 'Schleswig-Holstein', 'Deutschland'], datum.state) > -1""}
+  ]
+}","The chart shows that the proportion of obese adults incrased between 1999 and 2013 in Germany as well as in many individual federal states. The national average was 11.5 percent in 1999 and 15.7 percent in 2013. The figures for the federal states of Saxony-Anhalt, Thuringia, Mecklenburg-Vorpommern, Brandenburg and Rhineland-Palatinate were above this 2013 value, with adult obesity rates between 17.1 and 20.6 percent. The rates in the federal states of Baden-Württemberg, Berlin, Hamburg, Bremen, Schleswig-Holstein were below the national average, amounting to 11.1 and 14.6 percent.",plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microsensus, own calculations.",
+01-02-c,Trends in obesity prevalence 1999 and 2013,Slope,01/02/states.csv,"{
+  ""columns"": 1,
+  ""filter"": ""(datum.year == 1999 || datum.year == 2013) && datum.state == 'Deutschland'"",
+  ""numberFormat"": "".1%""
+}",,plotted,FALSE,FALSE,,,,"Statistisches Bundesamt, Microsensus, own calculations.",
+01-03-a,Number of persons per county looked after by one GP 2010 and 2015,KRegMap,01/03/density.csv,"{
+  ""filter"": ""datum.category == 'HAUS'"",
+  ""legendTitle"": ""Anzahl der Einwohner"",
+  ""column"": ""year"",
+  ""columns"": 2
+}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, special analysis.","Data status: doctor figures 31.12.2015, population 31.12.2013."
+01-03-b,Average car journey to nearest GP within a county in minutes 2015,KRegMap,01/03/distance.csv,"{
+  ""legendTitle"": ""Fahrtzeit in Minuten mit PKW"",
+  ""numberFormat"": "".2f""
+}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, special analysis.","Data status: doctor figures 31.12.2015, population 31.12.2013."
+01-03-bb,Shortest and longest journey to nearest GP in minutes 2015,Bar,01/03/distance.csv,"{
+  ""y"": ""name"",
+  ""category"": ""datum.value <= 2.78 ? 'Top 5' : (datum.value >= 9.61 ? 'Bottom 5' : '')"",
+  ""colorSort"": ""none"",
+  ""columns"": 2,
+  ""columnFilter"": [
+    {""title"": ""Kürzeste Fahrtzeit"", ""test"": ""datum.value <= 2.78""},
+    {""title"": ""Längste Fahrtzeit"", ""test"": ""datum.value >= 9.61""}
+  ],
+  ""numberFormat"": "".2f""
+}",,plotted,FALSE,TRUE,,,,"Kassenärztliche Bundesvereinigung, special analysis.","Data status: doctor figures 31.12.2015, population 31.12.2013."
+01-03-c,Number of persons per county looked after by one specialist physician 2015,KRegMap,01/03/density.csv,"{
+  ""legendTitle"": ""Anzahl der Einwohner"",
+  ""filter"": ""datum.category == 'ALLGFA'"",
+  ""column"": ""year"",
+  ""columns"": 2
+}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, special analysis.","Data status: doctor figures 31.12.2015, population 31.12.2013."
+01-05-a,"Proportion of persons assessing their health to be ""not that good"" or ""poor"" vs. ""good"" or ""very good"" by income groups 2013",Lollipop,01/05/quintile.csv,"{
+  ""numberFormat"": ""%"",
+  ""column"": ""quintile"",
+  ""y"": ""category"",
+  ""color"": ""category"",
+  ""sort"": ""none""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",Data includes persons in private households aged between 20 and 64.
+02-01-a,Average annual unemployment rate,Line,02/01/regions.csv,"{
+  ""color"": ""region"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
+02-01-b,Regional distribution of unemployment in Germany per county 2005 and 2015,KrsMap,02/01/districts.csv,"{
+  ""accessor"": ""value"",
+  ""filter"": ""datum.year == 2005 || datum.year == 2015"",
+  ""column"": ""year"",
+  ""columns"": 2,
+  ""krsYear"": 2015,
+  ""numberFormat"": "".1%"",
+  ""legendTitle"": ""Arbeitslosenquote""
+}",,plotted,TRUE,TRUE,,,,"Laufende Raumbeobachtung by the BBSR, Bundesagentur für Arbeit.",
+02-01-c,Long-term unemployment,Line,02/01/long-term.csv,"{
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
+02-01-d,Youth unemployment,Line,02/01/youth.csv,"{
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
+02-03-a,Employment rate of persons aged 20-64 by gender,Line,02/03/facets.csv,"{
+  ""filter"": ""datum.facet == ''"",
+  ""numberFormat"": "".1%"",
+  ""color"": ""gender"",
+  ""zero"": false
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+02-03-b,Employment rate of persons with migration background,Slope,02/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Migrationshintergrund' && (datum.year == 2005 || datum.year == 2014)"",
+  ""column"": ""gender"",
+  ""columnSort"": ""none"",
+  ""columns"": 3,
+  ""color"": ""facet_value"",
+  ""bandSize"": 80
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+02-03-c,Employment rate of persons with and without disability,Slope,02/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Behinderung'"",
+  ""columns"": 1,
+  ""endLabel"": true,
+  ""color"": ""facet_value""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",*degree of disability: 50 percent or higher
+02-04-aa,Non-standard employment as proportion of dependent employment,Line,02/04/percentages.csv,"{
+  ""filter"": ""datum.category == 'Insgesamt'"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+02-04-ab,Different forms of non-standard employment as proportion of dependent employment,Line,02/04/percentages.csv,"{
+  ""filter"": ""datum.category != 'Insgesamt'"",
+  ""column"": ""category"",
+  ""minInnerWidth"": 250,
+  ""columns"": 2,
+  ""columnSort"": ""none"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.","Note that the different types of non-standard employment are not totally distinct from each other. Some persons in non-standard employment may be counted twice, for instance if a person works part-time and is on a temporary contract."
+02-04-b,Numbers of persons in non-standard and standard employment 1991 to 2014,TimeBar,02/04/absolute.csv,"{
+  ""filter"": ""datum.gender == 'Insgesamt'"",
+  ""color"": ""category"",
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+02-04-c,Types of non-standard employment by gender 2014,Bar,02/04/absolute.csv,"{
+  ""filter"": ""datum.gender != 'Insgesamt' && datum.year == 2014"",
+  ""color"": ""gender"",
+  ""numberFormat"": ""s"",
+  ""y"": ""gender"",
+  ""column"": ""category"",
+  ""columns"": 2,
+  ""highlight"": ""datum.category == 'Atypisch Beschäftigte'""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+02-05-a,Net earnings and income per employee (adjusted for price changes),Line,02/05/years.csv,"{
+  ""numberFormat"": ""s"",
+  ""zero"": false,
+  ""height"": 120
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+02-05-b,Trends in coverage of employees by collective agreements,Line,02/05/collective-agreements.csv,"{
+  ""color"": ""region"",
+  ""numberFormat"": "".0%""
+}",,plotted,TRUE,TRUE,,,,IAB Betriebspanel 2015.,
+02-05-c,"Pay gap between men and women, unadjusted and adjusted",Slope,02/05/gender-gap.csv,"{
+  ""column"": ""category"",
+  ""columnSort"": ""none"",
+  ""color"": ""region"",
+  ""numberFormat"": "".0%""
+}",,plotted,TRUE,TRUE,,,,Statistisches Bundesamt.,The adjusted pay gap between men and women is only calculated every four years in the course of the Verdienststrukturerhebung (income structure survey). 2014 data has not been published yet.
+02-06-a,Job satisfaction by income group,Line,02/06/income.csv,"{
+  ""numberFormat"": "".2f"",
+  ""color"": ""category"",
+  ""confidence"": 95
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",Job satisfaction is measured on a scale from 0 (very dissatisfied) to 10 (highly satisfied).
+03-01-a,Proportion of persons with at least secondary school (II) graduation by age group and gender 2014,Bar,03/01/age-groups.csv,"{
+  ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Geschlecht'"",
+  ""color"": ""facet_value"",
+  ""colorSort"": ""none"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet_value"",
+  ""sort"": ""none"",
+  ""column"": ""age_group"",
+  ""columnSort"": ""none"",
+  ""columns"": 3
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+03-01-b,Proportion of persons with at least secondary school (II) graduation by age group and migration background 2014,Bar,03/01/age-groups.csv,"{
+  ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Migrationshintergrund'"",
+  ""color"": ""facet_value"",
+  ""colorSort"": ""none"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet_value"",
+  ""sort"": ""none"",
+  ""column"": ""age_group"",
+  ""columnSort"": ""none"",
+  ""columns"": 3
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+03-02-a,Early school leavers as proportion of age group 18 to 24 by gender,Line,03/02/facets.csv,"{
+  ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Geschlecht'"",
+  ""color"": ""facet_value"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+03-02-b,Early school leavers as proportion of age group 18 to 24 by migration background,Line,03/02/facets.csv,"{
+  ""filter"": ""year(datum.year) >= 2005 && (datum.facet == 'Insgesamt' || datum.facet == 'Migrationshintergrund')"",
+  ""color"": ""facet_value"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+03-03-a,Educational mobility between parents and children 2014,Bar,03/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Insgesamt'"",
+  ""y"": ""children"",
+  ""sort"": ""none"",
+  ""color"": ""children"",
+  ""colorSort"": ""none"",
+  ""column"": ""parents"",
+  ""columnSort"": ""none"",
+  ""columns"": 3,
+  ""numberFormat"": ""%""
+}",,"deprecated, replaced by static",FALSE,FALSE,,,,"Statistisches Bundesamt, Microcensus, special analysis.",
+03-03-a14,Educational mobility between parents and children 2014,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus, special analysis.",
+03-03-a95,Educational mobility between parents and children 1995,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus, special analysis.",
+03-03-b,Educational mobility between parents and children in families with migration background 2014,Bar,03/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Ledige Kinder in Familien mit Migrationshintergrund'"",
+  ""y"": ""children"",
+  ""sort"": ""none"",
+  ""color"": ""children"",
+  ""colorSort"": ""none"",
+  ""column"": ""parents"",
+  ""columnSort"": ""none"",
+  ""columns"": 3,
+  ""numberFormat"": ""%""
+}",,"deprecated, replaced by static",FALSE,FALSE,,,,"Statistisches Bundesamt, Microcensus, special analysis.",
+03-03-b14,Educational mobility between parents and children in families with migration background 2014,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus, special analysis.",
+03-04-a,Participation in further education by age group 2007 to 2014,Slope,03/04/age-groups.csv,"{
+  ""columns"": 3,
+  ""column"": ""age_group"",
+  ""columnSort"": ""none""
+}",,plotted,TRUE,TRUE,,,,Adult Education Survey 2007 and 2014.,Up to 2007: persons aged 19 to 64; from 2010: persons aged from 18 to 64.
+03-04-b,Types of further education by topic 2014,Bar,03/04/categories.csv,"{
+  ""color"": ""type"",
+  ""colorSort"": ""none"",
+  ""numberFormat"": ""%"",
+  ""sort"": ""none"",
+  ""column"": ""type"",
+  ""y"": ""category"",
+  ""columns"": 3,
+  ""minInnerWidth"": 250
+}",,plotted,TRUE,TRUE,,,,Adult Education Survey 2014.,
+04-01-a,"Desired, agreed and actual working hours of women and men 2000 to 2014",Slope,04/01/categories.csv,"{
+  ""xScale"": ""time"",
+  ""unit"": ""Wochenstunden"",
+  ""filter"": ""(datum.year == 2000 || datum.year == 2005 || datum.year == 2010 || datum.year == 2014) && datum.facet == 'gender'"",
+  ""column"": ""facet_value"",
+  ""color"": ""category"",
+  ""numberFormat"": "".1f"",
+  ""zero"": false,
+  ""confidence"": 95
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+04-01-b,"Desired, agreed and actual working hours in East and West German federal states 2014",Lollipop,04/01/categories.csv,"{
+  ""numberFormat"": "".2f"",
+  ""filter"": ""datum.year == 2014 && datum.facet == 'region'"",
+  ""y"": ""facet_value"",
+  ""column"": ""category"",
+  ""color"": ""facet_value""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+04-01-c,"Desired, agreed and actual working hours by type of household and gender",,,,,data missing,,,,,,,
+04-01-d,Actual working hours of men and women 2014,Lollipop,04/01/categories.csv,"{
+  ""unit"": ""Wochenstunden"",
+  ""filter"": ""datum.year == 2014 && datum.facet == 'gender' && datum.category == 'Tatsächliche Arbeitszeit'"",
+  ""y"": ""facet_value"",
+  ""column"": ""category"",
+  ""color"": ""facet_value"",
+  ""numberFormat"": "".2f""
+}",,plotted,FALSE,FALSE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+04-02-a,Full-time childcare participation ratios,Line,04/02/preschool.csv,"{
+  ""numberFormat"": "".1%"",
+  ""color"": ""group""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Statistics of child and youth welfare.",
+04-02-b,Full-time childcare participation ratios for children aged under three and those aged three to five per county 2015,KrsMap,04/02/districts.csv,"{
+  ""column"": ""group"",
+  ""columns"": 2,
+  ""numberFormat"": "".1%"",
+  ""filter"": ""datum.krs !== 'DE'"",
+  ""legendTitle"": ""Ganztagsquote""
+}",,"plotted, needs additional year facet, needs data update from Input/160704/Anfrage BKAmt.xlsx",TRUE,TRUE,,,,"Statistical offices of the State and of the Länder, Statistics of child and youth welfare.",
+04-02-c,Primary school age children in all-day schools,Line,04/02/primary-school.csv,"{
+  ""numberFormat"": "".1%"",
+  ""xScale"": ""ordinal"",
+  ""filter"": ""datum.group == 'Anteil der Kinder in Ganztagsgrundschulen'""
+}",,plotted,TRUE,TRUE,,,,"Sekretariat der Ständigen Konferenz der Kultusminister der Länder, Zusammenstellung Forschungsverbund DJI/TU Dortmund, 2016.",
+04-02-d,Primary school age children in childcare facilities,Line,04/02/primary-school.csv,"{
+  ""filter"": ""datum.group == 'Anteil der Kinder im Grundschulalter in Horten'"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Statistics of child and youth welfare.",Data include schoolchildren under age eleven.
+04-03-a,Part-time employment due to childcare and other care responsbilities 2006 to 2014,TimeBar,04/03/reasons.csv,"{
+  ""filter"": ""datum.category == 'Einschränkung der Erwerbstätigkeit'"",
+  ""color"": ""reason"",
+  ""numberFormat"": ""%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Labour force survey.","Proportion of people working part-time who state their responsibility for looking after persons in need of care, disabled persons or children as the reason for their part-time work."
+04-03-b,Non-employment due to childcare and other care responsibilities 2006 to 2014,TimeBar,04/03/reasons.csv,"{
+  ""filter"": ""datum.category == 'Aufgabe der Erwerbstätigkeit'"",
+  ""color"": ""reason"",
+  ""numberFormat"": ""%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Labour force survey.","Proportion of non-employed persons who state their responsibility for looking after persons in need of care, disabled persons or children as the reason for having given up their last job."
+04-04-aa,Persons employed commuting more than 30 minutes,Line,04/04/germany.csv,"{
+  ""filter"": ""datum.region == 'Deutschland' && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger'""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+04-04-ab,Persons employed communting more than 30 minutes by type of location,Line,04/04/germany.csv,"{
+  ""filter"": ""datum.region != 'Deutschland' && datum.year >= 2000 && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger'"",
+  ""column"": ""region"",
+  ""columnSort"": ""none"",
+  ""columns"": 2
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+04-04-b,Types of transport used by commuters 2000 and 2012,Slope,04/04/germany.csv,"{
+  ""filter"": ""(datum.year == 2000 || datum.year == 2012) && datum.facet == 'Verkehrsmittel' && (datum.facet_value == 'Pkw' || datum.facet_value == 'Öffentliches Verkehrsmittel' || datum.facet_value == 'Fahrrad')"",
+  ""column"": ""region"",
+  ""columnSort"": ""none"",
+  ""color"": ""facet_value"",
+  ""columns"": 3
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.","Conurbations: ""very central"", catchment areas of large cities: ""central"", rural areas: ""peripheral and very peripheral"""
+04-04-c,Types of transport used by long-distance commuters 2000 to 2012,Slope,04/04/germany.csv,"{
+  ""filter"": ""(datum.year == 2000 || datum.year == 2012) && datum.facet == 'Fernpendler'"",
+  ""column"": ""region"",
+  ""columnSort"": ""none"",
+  ""color"": ""facet_value"",
+  ""bandSize"": 65
+}",,plotted,TRUE,TRUE,,,,Statistisches Bundesamt.,
+05-01-a,Net household income,Line,05/01/region.csv,"{
+  ""confidence"": 95,
+  ""category"": ""datum.region"",
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",Net household income in 2010 prices.
+05-02-a,Gini coefficient of household income 1991 to 2013,Line,05/02/germany.csv,"{
+  ""confidence"": 95,
+  ""category"": ""datum.category"",
+  ""numberFormat"": "".2f"",
+  ""filter"": ""datum.category == 'Gini nach Steuern und Transfers'""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+05-02-b,Gini coefficient of household income in an OECD comparison 2012,Bar,05/02/oecd.csv,"{
+  ""y"": ""country"",
+  ""numberFormat"": "".3f"",
+  ""category"": ""datum.country_code == 'DEU' ? '1' : '0'""
+}",,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/inequality/income-inequality.htm,Income Inequality Indicator,"There is no data available yet for Canada, Chile and Japan according to the new OECD income definition of 2012."
+05-02-c,Gini coefficient of net household income before and after taxes and transfers 1991 to 2013,Line,05/02/germany.csv,"{
+  ""confidence"": 95,
+  ""category"": ""datum.category"",
+  ""numberFormat"": "".2f""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+05-02-d,Tax ratio in an international comparison in percent of GDP 2014,Bar,05/02/contribution-ratio.csv,"{
+  ""numberFormat"": "".0%"",
+  ""y"": ""country"",
+  ""category"": ""datum.country == 'Deutschland' ? '1' : '0'""
+}",,plotted,TRUE,TRUE,,,,OECD 2015. Revenue Statistics 1965-2014. Bundesministerium der Finanzen 2016. Die wichtigsten Steuern im internationalen Vergleich 2015.,"* Data for the Netherlands, Japan and Poland for 2013."
+05-03-a,Gini coefficient of wealth in EU-15,Bar,05/03/euro15.csv,"{
+  ""y"": ""country"",
+  ""numberFormat"": "".2f"",
+  ""category"": ""datum.country_code == 'DE' ? '1' : '0'"",
+  ""sort"": ""descending""
+}",,plotted,TRUE,TRUE,,,,Sierminska and Medgyesi 2013. The Distribution of Wealth Between Households. European Commission Research Note 11/2013.,"The data was collected in a household survey harmonised for the Euro region, the Eurosystem Household Finance and Consumption Survey. The survey was held in the relevant countries in different years between 2008 and 2011."
+05-04-a,Risk-of-poverty rate,Line,05/04/groups.csv,"{
+  ""confidence"": 95,
+  ""numberFormat"": "".1%"",
+  ""filter"": ""datum.facet == 'Alle'""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+05-04-b,Risk-of-poverty rate for selected groups 2013,Lollipop,05/04/groups.csv,"{
+  ""numberFormat"": ""%"",
+  ""filter"": ""datum.year == '2013' && ((datum.facet == 'Haushaltstyp' && (datum.facet_value == 'Alleinerziehend 1 Kind' || datum.facet_value == 'Alleinerziehend 2+ Kinder' || datum.facet_value == 'Paar 3+ Kinder')) || datum.facet == 'Herkunftsland' || datum.facet == 'Region' || datum.facet == 'Alle')"",
+  ""color"": ""facet"",
+  ""y"": ""facet_value"",
+  ""column"": ""facet"",
+  ""highlight"": ""datum.facet == 'Alle'""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+05-04-c,Risk-of-poverty rate by age group 2013,Lollipop,05/04/groups.csv,"{
+  ""y"": ""facet_value"",
+  ""sort"": ""none"",
+  ""numberFormat"": ""%"",
+  ""filter"": ""datum.year == '2013' && datum.facet == 'Altersgruppen'""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+05-04-d,Risk-of-poverty rate before and after taxes and transfers 1991 to 2013,Line,05/04/groups.csv,"{
+  ""confidence"": 95,
+  ""numberFormat"": "".0%"",
+  ""filter"": ""datum.facet == 'Alle' || datum.facet == 'Umverteilung'"",
+  ""category"": ""datum.facet == 'Umverteilung' ? datum.facet_value : 'Nach Steuern und Transfers'""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+05-05-a,Old age dependency ratio up to 2013 and forecast up to 2060,Line,05/05/scenario.csv,"{
+  ""numberFormat"": "".1f"",
+  ""color"": ""scenario"",
+  ""category"": ""datum.scenario + datum.type"",
+  ""stroke"": ""datum.type == 'Prognose'"",
+  ""labelFilter"": ""datum.type == 'Prognose'""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Bevölkerungsfortschreibung and 13. koordinierte Bevölkerungsvorausrechnung.",
+06-01-a,Fear of crime 2012,Bar,06/01/facets.csv,"{
+  ""filter"": ""datum.facet == ''"",
+  ""numberFormat"": ""%"",
+  ""color"": ""concern"",
+  ""colorRange"": ""diverging2"",
+  ""colorLegend"": true,
+  ""y"": ""category"",
+  ""domain"": [0, 1],
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""highlight"": ""datum.category == 'Allgemein'""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Proportion of respondents with general and offense-specific fear of crime, N = 35,405 (general fear of crime), 11,584 (bodily harm), 11,608 (burglary), 11,601 (theft), 11,604 (sexual harassment)."
+06-01-b,Fear of crime by gender 2012,Bar,06/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Geschlecht'"",
+  ""numberFormat"": ""%"",
+  ""color"": ""concern"",
+  ""colorRange"": ""diverging2"",
+  ""y"": ""facet_value"",
+  ""domain"": [0, 1],
+  ""column"": ""category"",
+  ""columns"": 2,
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""highlight"": ""datum.category == 'Allgemein'""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Proportion of respondents with general and offense-specific fear of crime, N = 35,405 (general fear of crime), 11,584 (bodily harm), 11,608 (burglary), 11,601 (theft), 11,604 (sexual harassment)."
+06-01-c,Fear of crime by age group 2012,Bar,06/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Alter'"",
+  ""numberFormat"": ""%"",
+  ""color"": ""concern"",
+  ""colorRange"": ""diverging2"",
+  ""y"": ""category"",
+  ""domain"": [0, 1],
+  ""column"": ""facet_value"",
+  ""columns"": 3,
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""highlight"": ""datum.category == 'Allgemein'""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Proportion of respondents with general and offense-specific fear of crime, N = 35,405 (general fear of crime), 11,584 (bodily harm), 11,608 (burglary), 11,601 (theft), 11,604 (sexual harassment)."
+06-01-d,Persons with a general fear of crime (fairly and greatly afraid) by federal states 2012,StatesMap,06/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Bundesland'"",
+  ""featureId"": ""datum.facet_value"",
+  ""numberFormat"": "".1%"",
+  ""legendTitle"": ""Ziemlich und sehr stark""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,
+06-02-a,Recorded and solved cases of violent crime 1993 to 2015,Line,06/02/categories.csv,"{
+  ""filter"": ""datum.category == 'Gewaltkriminalität' && datum.type != 'Aufklärungsquoten'"",
+  ""numberFormat"": ""s"",
+  ""color"": ""type""
+}",,plotted,TRUE,TRUE,,,,PKS.,Data for the Federal Republic of Germany (East and West German federal states) only available from 1993.
+06-02-b,Recorded and solved cases of property crime 1993 to 2015,Line,06/02/categories.csv,"{
+  ""filter"": ""datum.category == 'Diebstahlkriminalität' && datum.type != 'Aufklärungsquoten'"",
+  ""numberFormat"": ""s"",
+  ""color"": ""type""
+}",,plotted,TRUE,TRUE,,,,PKS.,Data for the Federal Republic of Germany (East and West German federal states) only available from 1993
+06-02-c,Violent crime by federal state 2015,StatesMap,06/02/states.csv,"{
+  ""filter"": ""datum.year == 2015 && datum.category == 'Gewaltkriminalität'"",
+  ""numberFormat"": ""d"",
+  ""legendTitle"": ""Fälle pro 100.000 Einwohner""
+}",,plotted,TRUE,TRUE,,,,PKS 2015.,
+06-02-d,Property crime by federal state 2015,StatesMap,06/02/states.csv,"{
+  ""filter"": ""datum.year == 2015 && datum.category == 'Diebstahlkriminalität'"",
+  ""numberFormat"": ""d"",
+  ""legendTitle"": ""Fälle pro 100.000 Einwohner""
+}",,plotted,TRUE,TRUE,,,,PKS 2015.,
+06-03-a,Assessment of local policing overall 2012,Bar,06/03/facets.csv,"{
+  ""filter"": ""datum.facet == ''"",
+  ""numberFormat"": ""%"",
+  ""color"": ""rating"",
+  ""colorRange"": ""diverging2"",
+  ""y"": ""facet"",
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""barStyle"": ""large"",
+  ""highlight"": ""true""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"N = 1,899"
+06-03-b,Assessment of local policing 2012,Bar,06/03/facets.csv,"{
+  ""filter"": ""datum.facet != ''"",
+  ""numberFormat"": ""%"",
+  ""color"": ""rating"",
+  ""colorRange"": ""diverging1"",
+  ""y"": ""facet"",
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""barStyle"": ""large""
+}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"N = 1,059 (no experience as a victim of crime), 814 (experience as a victim of crime), 447 (satisfied with last contact with police), 100 (good neighbourhood relations), 1,161 (poor neighbourhood relations)"
+06-04-a,"Hate crime, total and xenophobic 2001 to 2015",Line,06/04/categories.csv,"{
+  ""filter"": ""datum.category != 'Gewalttätig'"",
+  ""column"": ""category"",
+  ""columnSort"": ""none"",
+  ""color"": ""category"",
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"Statistics on politically motivated crime (PMK), BMI.",
+07-00-a,Population density by county at end of 2014,KrsMap,07/00/density.csv,"{
+  ""legendTitle"": ""Bevölkerung je km²"",
+  ""thresholds"": [100, 200, 400, 600, 800]
+}",,plotted,FALSE,TRUE,,,,"Statistisches Bundesamt, Gemeindeverzeichnis.","Independent (""kreisfrei"") cities and county by area, population and population density on 31.12.2014."
+07-00-b,Population development by county 2012 to 2035,KrsMap,07/00/districts.csv,"{
+  ""legendTitle"": ""Bevölkerungsentwicklung in Prozent"",
+  ""numberFormat"": "".0%""
+}",,plotted,FALSE,TRUE,,,,BBSR population forecast: calculations: BIB.,
+07-01-a,Renting cost as proportion of net household income 1991 to 2013,Line,07/01/facets.csv,"{
+  ""confidence"": 95,
+  ""filter"": ""datum.facet == 'Gesamt'""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.","Since 2013, the SOEP survey has been asking about ancillary costs in greater detail. The change in data from 2012 to 2013 may be due to this methodological adjustment."
+07-01-b,Renting cost as proportion of net household income by income groups 2013,Lollipop,07/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Einkommensposition' && datum.year == '2013'"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet_value"",
+  ""sort"": ""none""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+07-01-c,Housing cost as proportion of net household income by household types 2013,Lollipop,07/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Haushaltstyp' && datum.year == '2013'"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet_value""
+}",,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv31.1.",
+07-02-a,"Travel time to locations classed as ""Mittelzentrum"" or ""Oberzentrum"" 2012, motorised private transport",PointMap,07/02/center-points.csv,"{
+  ""geotiff"": ""07-02-miv"",
+  ""accessor"": ""center"",
+  ""ordinalAccessor"": ""center"",
+  ""shape"": ""square"",
+  ""legendTitle"": ""Zentralörtliche Einstufung"",
+  ""sizes"": [5, 10],
+  ""height"": 350,
+  ""colorRange"": [""#FE5072"", ""#810019""],
+  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegend"": [
+    {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
+    {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
+    {""color"": ""rgb(99,180,228)"", ""label"": ""20 - 30""},
+    {""color"": ""rgb(67,153,200)"", ""label"": ""30 - 40""},
+    {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
+    {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
+  ]
+}",,deprecated,FALSE,FALSE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (status: 31 December 2012)","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, medical specialists, hotel, old people's residential home, theatre, museum, youth recreation centre, further education college, library, sizable sports facility, railway station.
+An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the following facilities: specialist shops, larger banks and financial institutions, institution of higher education, specialist hospital, academic library, sports stadium, major railway station."
+07-02-b,"Travel time to locations classed as ""Mittelzentrum"" or ""Oberzentrum"" 2012, public transport",PointMap,07/02/center-points.csv,"{
+  ""geotiff"": ""07-02-oev"",
+  ""accessor"": ""center"",
+  ""ordinalAccessor"": ""center"",
+  ""shape"": ""square"",
+  ""legendTitle"": ""Zentralörtliche Einstufung"",
+  ""sizes"": [5, 10],
+  ""height"": 350,
+  ""colorRange"": [""#FE5072"", ""#810019""],
+  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegend"": [
+    {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
+    {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
+    {""color"": ""rgb(99,180,228)"", ""label"": ""20 - 30""},
+    {""color"": ""rgb(67,153,200)"", ""label"": ""30 - 40""},
+    {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
+    {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
+  ]
+}",,deprecated,FALSE,FALSE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (status: 31 December 2012)","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, medical specialists, hotel, old people's residential home, theatre, museum, youth recreation centre, further education college, library, sizable sports facility, railway station.
+An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the following facilities: specialist shops, larger banks and financial institutions, institution of higher education, specialist hospital, academic library, sports stadium, major railway station."
+07-02-c,"Travel time to locations classed as ""Mittelzentrum"" or ""Oberzentrum"" 2012",PointMap,07/02/center-points.csv,"{
+  ""accessor"": ""center"",
+  ""ordinalAccessor"": ""center"",
+  ""shape"": ""square"",
+  ""legendTitle"": ""Zentralörtliche Einstufung"",
+  ""sizes"": [5, 10],
+  ""height"": 350,
+  ""colorRange"": [""#FE5072"", ""#810019""],
+  ""columns"": 2,
+  ""columnFilter"": [
+    {
+      ""title"": ""Motorisierter Individualverkehr"",
+      ""test"": ""true"",
+      ""geotiff"": ""07-02-miv""
+    },
+    {
+      ""title"": ""Öffentlicher Verkehr"",
+      ""test"": ""true"",
+      ""geotiff"": ""07-02-oev""
+    }
+  ],
+  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegend"": [
+    {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
+    {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
+    {""color"": ""rgb(99,180,228)"", ""label"": ""20 - 30""},
+    {""color"": ""rgb(67,153,200)"", ""label"": ""30 - 40""},
+    {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
+    {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
+  ]
+}",,plotted,TRUE,TRUE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (status: 31 December 2012)","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, medical specialists, hotel, old people's residential home, theatre, museum, youth recreation centre, further education college, library, sizable sports facility, railway station.
+An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the following facilities: specialist shops, larger banks and financial institutions, institution of higher education, specialist hospital, academic library, sports stadium, major railway station."
+07-03-a,Availability of internet access of at least 50 Mbit/s per municipality,GemMap,07/03/municipalities.csv,"{
+  ""filter"": ""datum.year == '2010' || datum.year == '2015'"",
+  ""column"": ""year"",
+  ""columns"": 2,
+  ""numberFormat"": "".0%"",
+  ""legendTitle"": ""Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s""
+}",,"deprecated, print only",FALSE,FALSE,"© BMVI, TÜV Rheinland",,,"BMVI, TÜV Rheinland.",Grey areas are uninhabited communities in Germany.
+07-03-b,Availability of internet access of at least 50 Mbit/s in Germany per county,KrsMap,07/03/districts.csv,"{
+  ""filter"": ""datum.year == '2010' || datum.year == '2015'"",
+  ""column"": ""year"",
+  ""columns"": 2,
+  ""numberFormat"": "".0%"",
+  ""legendTitle"": ""Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s""
+}",,plotted,TRUE,TRUE,"© BMVI, TÜV Rheinland",,,"BMVI, TÜV Rheinland.",
+08-01-a,Family forms 1996 and 2014,Slope,08/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Erwachsene'"",
+  ""columns"": 1,
+  ""numberFormat"": "".1%"",
+  ""color"": ""category""
+}",,"plotted, new data available",TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.","The law about registered civil partnership (""eingetragene Lebenspartnerschaft"") did not come into force until 2001, which is why same-sex partnerships were included exclusively for 1996."
+08-01-b,Proportion of single children within households by family form 1996 and 2014,Slope,08/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Kinder'"",
+  ""column"": ""region"",
+  ""columnSort"": ""none"",
+  ""bandSize"": ""70"",
+  ""color"": ""category""
+}",,"plotted, new data available",TRUE,TRUE,,,,"Statistisches Bundesamt, Microcensus.",
+08-01-c,Family forms in Germany 2014,Bar,08/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Erwachsene' && datum.year ==  '2014'"",
+  ""numberFormat"": ""%"",
+  ""y"": ""facet"",
+  ""color"": ""category"",
+  ""colorLegend"": true
+}",,"plotted, new data available",FALSE,FALSE,,,,"Statistisches Bundesamt, Microcensus.",
+08-02-a,Persons stating that they can expect help from others 2013,Bar,08/02/facets.csv,"{
+  ""numberFormat"": ""%"",
+  ""y"": ""facet"",
+  ""domain"": [0, 1],
+  ""sort"": ""none"",
+  ""color"": ""response"",
+  ""colorSort"": ""none"",
+  ""colorRange"": ""diverging1n"",
+  ""columns"": 3,
+  ""column"": ""category"",
+  ""colorLegend"": true,
+  ""highlight"": ""datum.facet == 'Insgesamt'""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, EU-SILC.",
+08-03-a,Volonteers in total and by age group,Line,08/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Alter'"",
+  ""numberFormat"": "".1%"",
+  ""highlight"": ""datum.facet_value == 'Insgesamt'"",
+  ""color"": ""facet_value"",
+  ""columnSort"": ""none"",
+  ""columnFilter"": [
+    {""title"": ""Insgesamt"", ""test"": ""datum.facet_value == 'Insgesamt'""},
+    {""title"": ""Nach Altersgruppen"", ""test"": ""datum.facet_value != 'Insgesamt'""}
+  ],
+  ""endLabel"": true
+}",,plotted,TRUE,TRUE,,,,Freiwilligensurveys 1999 to 2014.,
+08-03-b,Civic engagement by area 2014,Bar,08/03/facets.csv,"{
+  ""filter"": ""datum.facet == 'Einzelbereichen' && (datum.year == '2014' || datum.year == '1999')"",
+  ""column"": ""facet_value"",
+  ""columns"": 2,
+  ""y"": ""year"",
+  ""sort"": ""none"",
+  ""color"": ""year"",
+  ""minInnerWidth"": 270,
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,Freiwilligensurvey 2014.,
+08-03-c,Volonteers by type of migration background 2014,Bar,08/03/migration-background.csv,"{
+  ""color"": ""citizenship"",
+  ""numberFormat"": ""%"",
+  ""y"": ""category"",
+  ""column"": ""citizenship""
+}",,plotted,TRUE,TRUE,,,,Freiwilligensurvey 2014.,
+08-04-a,Members of sports clubs by age group and region 2015,Bar,08/04/regions.csv,"{
+  ""color"": ""region"",
+  ""numberFormat"": ""%"",
+  ""y"": ""region"",
+  ""sort"": ""none"",
+  ""column"": ""age"",
+  ""columnSort"": ""none"",
+  ""columns"": 3,
+  ""highlight"": ""datum.age == 'Insgesamt'""
+}",,plotted,TRUE,TRUE,,,,"Deutscher Olympischer Sportbund, Bestandserhebung 2015.",The chart shows the proportion of members in sports clubs of the regional sports associations among the respective age group. Status: 1 January 2015.
+08-04-b,Members of sports clubs by age group 2015,Bar,08/04/regions.csv,"{
+  ""numberFormat"": ""%"",
+  ""filter"": ""datum.region == 'Deutschland'"",
+  ""y"": ""age"",
+  ""sort"": ""none"",
+  ""highlight"": ""datum.age == 'Insgesamt'""
+}",,plotted,FALSE,FALSE,,,,"Deutscher Olympischer Sportbund, Bestandserhebung 2015.",
+09-01-a,GDP per capita in Euros (adjusted for price changes),Line,09/01/years.csv,"{
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+09-02-a,Gross fixed capital formation as a percentage of GDP,Line,09/02/sectors.csv,"{
+  ""filter"": ""datum.sector == 'gesamt'"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+09-02-b,Gross fixed capital formation by state and private sector as a percentage of GDP,Line,09/02/sectors.csv,"{
+  ""filter"": ""datum.sector != 'gesamt'"",
+  ""numberFormat"": "".1%"",
+  ""color"": ""sector""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+09-03-a,National debt ratio,Line,09/03/years.csv,"{
+  ""yAnnotations"": [
+    {""value"": 0.6, ""label"": ""Maastricht-Referenzwert""}
+  ]
+}",,plotted,TRUE,TRUE,,Bundesbank 2016.,https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Oeffentliche_Finanzen_in_Deutschland/oeffentliche_finanzen_in_deutschland_details_value_node.html?tsId=BBK01.BJ9959&listId=www_v27_web011_21a,German national debt (as defined in the Maastricht Treaty) as a percentage of GDP,"Preliminary values for 2014 and 1015. 
+Status: 19.09.2016"
+09-04-a,Research and development spending as a percentage of GDP,Line,09/04/fue.csv,"{
+  ""color"": ""country"",
+  ""numberFormat"": "".2%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Bundesministerium für Bildung und Forschung, Stifterverband-Wissenschaftsstatistik.",
+09-04-b,Innovator ratio,Line,09/04/inno.csv,,,plotted,FALSE,TRUE,,,,"Mannheimer Innovationspanel 2015, ZEW.","With the introduction of the company register, the population for the sampling of companies has changed since 2006."
+09-05-a,Time it takes to start a business in days,Line,09/05/days.csv,"{
+  ""unit"": ""Tage"",
+  ""numberFormat"": "".1f""
+}",,plotted,TRUE,TRUE,,,,"EU Commission, DG Growth, SME Performance Review.",
+09-05-b,Costs to start a business in Euros,Line,09/05/costs.csv,"{
+  ""numberFormat"": ""s""
+}",,plotted,TRUE,TRUE,,,,"EU Commission, DG Growth, SME Performance Review.",
+10-01-a,Air pollutants combined (index),Line,10/01/categories.csv,"{
+  ""filter"": ""year(datum.year) >= 2000 && datum.category == 'Luftschadstoffe (+ PM<sub>2,5</sub>)'"",
+  ""numberFormat"": "".2f"",
+  ""yAnnotations"": [
+    {""value"": 100, ""formattedValue"": ""100"", ""label"": """", ""dy"": ""1.1em"", ""x"": ""2005""}
+  ]
+}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Base year (index=100) is 2005.
+10-01-b,Different air pollutants (index),Line,10/01/categories.csv,"{
+  ""filter"": ""year(datum.year) >= 2000 && datum.category != 'Luftschadstoffe (+ PM<sub>2,5</sub>)'"",
+  ""numberFormat"": "".2f"",
+  ""color"":  ""name"",
+  ""endLabel"": false,
+  ""column"": ""category"",
+  ""columns"": 3,
+  ""yAnnotations"": [
+    {""value"": 100, ""formattedValue"": ""100"", ""label"": """", ""dy"": ""1.1em"", ""x"": ""2005""}
+  ]
+}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Base year (index=100) is 2005.
+10-01-c,Average annual nitrogen dioxide pollution 2015,PointMap,10/01/no2-points.csv,"{
+  ""filter"": ""datum.value != '-999'"",
+  ""geotiff"": ""10-01-no2"",
+  ""legendTitle"": ""NO₂ Jahresmittelwert in Mikrogramm pro Kubikmeter (µg/m³)"",
+  ""thresholds"": [10, 20, 30, 40, 50, 60, 70, 80],
+  ""colorRange"": [""#95da3f"", ""#74b917"", ""#5ca200"", ""#3f8800"", ""#f2bf18"", ""#d4a500"", ""#b68b00"", ""#987200"", ""#7b5900""]
+}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Average annual values measured at the measuring stations of the air monitoring networks of the federal states and the Umweltbundesamt.
+10-01-d,Nitrogen dioxide levels exceeding or keeping within statutory limits 2015,DotPlot,10/01/no2-points.csv,,,"flagship, print export only",FALSE,TRUE,,,,Umweltbundesamt 2015.,Average annual values measured at the measuring stations of the air monitoring networks of the federal states and the Umweltbundesamt.
+10-01-e,Nitrogen dioxide (NO<sub>2</sub>) in an EU comparison 2013,BoxPlot,10/01/eu-categories.csv,"{
+  ""filter"": ""datum.category == 'NO2'"",
+  ""highlight"": ""datum.country == 'Deutschland'"",
+  ""label"": ""country""
+}",,plotted,TRUE,TRUE,,,,European Environment Agency.,
+10-01-f,Fine particulate matter (PM<sub>2.5</sub>) in an EU comparison 2013,BoxPlot,10/01/eu-categories.csv,"{
+  ""filter"": ""datum.category == 'PM2.5'"",
+  ""highlight"": ""datum.country == 'Deutschland'"",
+  ""label"": ""country""
+}",,plotted,TRUE,TRUE,,,,European Environment Agency.,
+10-02-a,"Biodiversity and environmental quality, aggregated",TimeBar,10/02/categories.csv,"{
+  ""filter"": ""datum.facet == 'Gesamtindikator'"",
+  ""numberFormat"": "".1f"",
+  ""padding"": 15,
+  ""domain"": [0, 120],
+  ""yAnnotations"": [
+    {""value"": 100, ""label"": ""Ziel""}
+  ],
+  ""xAnnotations"": [
+    {""x"": ""1970"", ""value"": 106.9329097153},
+    {""x"": ""1975"", ""value"": 101.3745362439},
+    {""x"": ""2013"", ""value"": 68.5}
+  ]
+}",,plotted,TRUE,TRUE,,,,Bundesamt für Naturschutz 2015.,The chart includes reconstructed historic data.
+10-02-b,"Biodiversity and environmental quality, aggregated and sub-indicators",Slope,10/02/categories.csv,"{
+  ""filter"": ""datum.year == 1990 || datum.year == 2013"",
+  ""color"": ""facet_value"",
+  ""column"": ""facet"",
+  ""numberFormat"": "".1f"",
+  ""endLabel"": true
+}",,plotted,TRUE,TRUE,,,,Bundesamt für Naturschutz 2015.,
+10-03-a,"Energy productivity (GDP per unit of primary energy consumption, adjusted for price changes)",Line,10/03/years.csv,"{
+  ""x"": ""year"",
+  ""y"": ""value"",
+  ""numberFormat"": "".2f""
+}",,plotted,TRUE,TRUE,,,,Arbeitsgemeinschaft Energiebilanzen e.V. and Statistisches Bundesamt.,Base year (index=100) is 1990.
+11-01-a,Turnout at Bundestag elections in percent of eligible electorate,Line,11/01/federation.csv,"{
+  ""color"": ""region"",
+  ""numberFormat"": "".1%""
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",Up to 1987 only for the West German federal states and West Berlin.
+11-01-b,Turnout during the respective last and last-but-one Landtag elections as a percentage of eligible electorate,Slope,11/01/states.csv,"{
+  ""column"": ""state"",
+  ""color"": ""state"",
+  ""x"": ""election"",
+  ""xSort"": ""none""
+}",,plotted,FALSE,FALSE,,,,"Statistisches Bundesamt, Wahlen. ",
+11-01-c,Turnout during European elections in Germany as a percentage of eligible electorate,Line,11/01/eu.csv,{},,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",
+11-01-d,Turnout during the respective last and last-but-one Landtag elections as a percentage of eligible electorate,Slope,11/01/states.csv,"{
+  ""xScale"": ""time"",
+  ""endLabel"": true,
+  ""startValue"": false,
+  ""columnSort"": ""none"",
+  ""color"": ""state"",
+  ""minWidth"": 120,
+  ""xTicks"": [""2006"", ""2011"", ""2016""],
+  ""columnFilter"": [
+    {""title"": ""Gestiegen"", ""test"": ""indexof(['Baden-Württemberg', 'Bayern', 'Hessen', 'Rheinland-Pfalz', 'Sachsen-Anhalt'], datum.state) > -1""},
+    {""title"": ""Stagniert"", ""test"": ""indexof(['Berlin', 'Hamburg', 'Nordrhein-Westfalen', 'Niedersachsen'], datum.state) > -1""},
+    {""title"": ""Gesunken"", ""test"": ""indexof(['Brandenburg', 'Bremen', 'Mecklenburg-Vorpommern', 'Saarland', 'Sachsen', 'Schleswig-Holstein', 'Thüringen'], datum.state) > -1""}
+  ]
+}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",
+11-02-a,Perceived opportunity for citizens to influence policy 2014,Bar,11/02/facets.csv,"{
+  ""numberFormat"": ""%"",
+  ""color"": ""answer"",
+  ""y"": ""facet"",
+  ""colorLegend"": true,
+  ""sort"": ""none"",
+  ""colorSort"": ""none"",
+  ""domain"": [0,1],
+  ""column"": ""category"",
+  ""columnSort"": ""none"",
+  ""highlight"": ""datum.facet == 'Insgesamt'""
+}",,plotted,TRUE,TRUE,,,,European Social Survey.,
+11-03-a,Eight selected freedom-related fundamental rights in Germany,Slope,11/03/categories.csv,"{
+  ""filter"": ""datum.year != '2014'"",
+  ""height"": 310,
+  ""color"": ""category"",
+  ""numberFormat"": "".2f"",
+  ""zero"": false,
+  ""endLabel"": true,
+  ""columns"": 1
+}",,plotted,TRUE,TRUE,,World Justice Project.,http://worldjusticeproject.org/historical-data,,
+12-01-a,Annual global greenhouse gas emissions in billions of tonnes of CO<sub>2eq</sub>,Slope,12/01/global.csv,"{
+  ""filter"": ""datum.category == 'GHG' && (datum.year == 1990 || datum.year == 2012)"",
+  ""numberFormat"": ""s"",
+  ""unit"": ""Tonnen"",
+  ""columns"": 1
+}",,plotted,TRUE,TRUE,,,,Edgar JRC/PBL and FAOSTAT.,
+12-01-b,Annual global CO<sub>2</sub> emissions in billions of tonnes,Line,12/01/global.csv,"{
+  ""filter"": ""datum.category == 'CO2'"",
+  ""numberFormat"": ""s"",
+  ""unit"": ""Tonnen""
+}",,plotted,TRUE,TRUE,,,,Edgar JRC/PBL.,The Edgar dataset on CO<sub>2</sub> emissions does not include emissions from CO<sub>2</sub>-neutral bio-energy and from land use change or from forest or bog fires etc.
+12-01-c,Annual greenhouse gas emissions in Germany (in millions of tonnes of CO<sub>2eq</sub>),TimeBar,12/01/germany.csv,"{
+  ""color"": ""gas"",
+  ""unit"": ""Tonnen"",
+  ""numberFormat"": "".3s"",
+  ""xAnnotations"": [
+    {""x1"": ""2008"", ""x2"": ""2012"", ""value"": 973619338.97, ""label"": ""Kyoto-Protokoll""},
+    {""x"": ""2020"", ""value"": 748700000, ""label"": ""Ziel 2020"", ""ghost"": true},
+    {""x"": ""2050"", ""value"": 249600000, ""label"": ""Ziel 2050"", ""valuePrefix"": ""max: "", ""ghost"": true}
+  ],
+  ""padding"": 55
+}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,"*excluding carbon dioxide from land use, changes in land use and forestry"
+12-02-a,Public expenditure for development cooperation as a percantage of gross national income (ODA ratio),Line,12/02/values.csv,"{
+  ""numberFormat"": "".2%""
+}",,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/oda/net-oda.htm,Net ODA indicator.,Data for 2015 is preliminary.

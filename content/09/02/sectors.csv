@@ -1,0 +1,76 @@
+sector,year,value
+Staat,1991,0.031
+Staat,1992,0.032
+Staat,1993,0.031
+Staat,1994,0.029
+Staat,1995,0.026
+Staat,1996,0.025
+Staat,1997,0.023
+Staat,1998,0.023
+Staat,1999,0.024
+Staat,2000,0.023
+Staat,2001,0.023
+Staat,2002,0.022
+Staat,2003,0.021
+Staat,2004,0.019
+Staat,2005,0.019
+Staat,2006,0.02
+Staat,2007,0.019
+Staat,2008,0.021
+Staat,2009,0.024
+Staat,2010,0.023
+Staat,2011,0.023
+Staat,2012,0.022
+Staat,2013,0.022
+Staat,2014,0.021
+Staat,2015,0.021
+privater Sektor,1991,0.217
+privater Sektor,1992,0.218
+privater Sektor,1993,0.209
+privater Sektor,1994,0.211
+privater Sektor,1995,0.208
+privater Sektor,1996,0.203
+privater Sektor,1997,0.202
+privater Sektor,1998,0.203
+privater Sektor,1999,0.205
+privater Sektor,2000,0.207
+privater Sektor,2001,0.194
+privater Sektor,2002,0.178
+privater Sektor,2003,0.174
+privater Sektor,2004,0.172
+privater Sektor,2005,0.172
+privater Sektor,2006,0.178
+privater Sektor,2007,0.182
+privater Sektor,2008,0.183
+privater Sektor,2009,0.168
+privater Sektor,2010,0.171
+privater Sektor,2011,0.18
+privater Sektor,2012,0.179
+privater Sektor,2013,0.176
+privater Sektor,2014,0.179
+privater Sektor,2015,0.178
+gesamt,1991,0.248
+gesamt,1992,0.25
+gesamt,1993,0.24
+gesamt,1994,0.24
+gesamt,1995,0.234
+gesamt,1996,0.228
+gesamt,1997,0.225
+gesamt,1998,0.226
+gesamt,1999,0.229
+gesamt,2000,0.23
+gesamt,2001,0.217
+gesamt,2002,0.2
+gesamt,2003,0.195
+gesamt,2004,0.191
+gesamt,2005,0.191
+gesamt,2006,0.198
+gesamt,2007,0.201
+gesamt,2008,0.204
+gesamt,2009,0.192
+gesamt,2010,0.194
+gesamt,2011,0.203
+gesamt,2012,0.201
+gesamt,2013,0.198
+gesamt,2014,0.2
+gesamt,2015,0.199

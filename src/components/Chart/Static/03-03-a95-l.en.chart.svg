@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="610px" height="720px" viewBox="0 0 610 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>03-03-a_l_chart-1995-english</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="3-l-dashboard-charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-03-a_l_chart-1995-english">
+            <text id="Parents’-education-l" font-family="BundesSans-Bold, BundesSans" font-size="14" font-weight="bold" fill="#666666">
+                <tspan x="125.056" y="24">Parents’ education level</tspan>
+            </text>
+            <text id="Children’s-education" font-family="BundesSans-Bold, BundesSans" font-size="14" font-weight="bold" fill="#666666">
+                <tspan x="345" y="24">Children’s education level</tspan>
+            </text>
+            <text id="100%-Secondary-schoo" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="181.604" y="415">100%</tspan>
+                <tspan x="64.376" y="427">Secondary school graduation</tspan>
+            </text>
+            <text id="100%-Vocational-scho" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="181.604" y="55">100%</tspan>
+                <tspan x="106.592" y="67">Vocational school or </tspan>
+                <tspan x="46.736" y="79">university entrance qualification</tspan>
+            </text>
+            <text id="18.7%-Vocational-sch" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="223">18.7%</tspan>
+                <tspan x="401" y="235" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Vocational school or </tspan>
+                <tspan x="401" y="247" font-family="BundesSans-Regular, BundesSans" font-weight="normal">university entrance qualification</tspan>
+            </text>
+            <text id="78.6%-Secondary-scho" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="415">78.6%</tspan>
+                <tspan x="401" y="427">Secondary school graduation</tspan>
+            </text>
+            <text id="2.7%-No-school-gradu" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="572">2.7%</tspan>
+                <tspan x="401" y="584" font-family="BundesSans-Regular, BundesSans" font-weight="normal">No school graduation</tspan>
+            </text>
+            <text id="62.0%-Vocational-sch" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="49">62.0%</tspan>
+                <tspan x="401" y="61">Vocational school or </tspan>
+                <tspan x="401" y="73">university entrance qualificatione</tspan>
+            </text>
+            <text id="35.2%-Secondary-scho" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="111">35.2%</tspan>
+                <tspan x="401" y="123" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Secondary school graduation</tspan>
+            </text>
+            <text id="2.9%-No-school-gradu" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="146">2.9%</tspan>
+                <tspan x="401" y="158" font-family="BundesSans-Regular, BundesSans" font-weight="normal">No school graduation</tspan>
+            </text>
+            <rect id="parents" fill="#FF8BA6" x="345" y="572" width="40" height="9"></rect>
+            <rect id="parents" fill="#FF8BA6" x="345" y="151" width="40" height="2"></rect>
+            <rect id="parents" fill="#C40046" x="225" y="225" width="40" height="332"></rect>
+            <path d="M265,225 C305.185153,225.182455 305.185154,201.186748 345,201 C345,201.186748 345,210 345,210 C311.094116,210.181919 305,234.177626 265,234 C305.185154,234.177626 305.185154,234.177626 345,234 C345,243.857324 345,495 345,495 C305.185154,495.037564 305.185154,495.037564 265,495 C305.185154,495.037564 305.185154,519.033271 345,519 C345,519.033271 345,581 345,581 C305.185154,581 305.185154,557.004293 265,557 C265,557.004293 265,225.182455 265,225 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 391.000000) scale(1, -1) translate(-305.000000, -391.000000) "></path>
+            <rect id="parents" fill="#C40046" x="345" y="287" width="40" height="261"></rect>
+            <rect id="parents" fill="#C40046" x="345" y="104" width="40" height="23"></rect>
+            <rect id="parents" fill="#810019" x="225" y="40" width="40" height="65"></rect>
+            <rect id="parents" fill="#810019" x="345" y="201" width="40" height="62"></rect>
+            <rect id="parents" fill="#810019" x="345" y="40" width="40" height="40"></rect>
+            <path d="M265,88 C305.185153,88.4856642 305,40.0033705 345,40 C345,40.0033705 345,42 345,42 C305,42 305,89.8988181 265,90 C305.185154,89.8988181 305.185154,65.6576712 345,66 L345,89 C305.185154,89.2765594 305.185153,113 265,113 L345,113 C345,113 345,153 345,153 C305.185154,153 305.185154,153 265,153 L265,88 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 96.500000) scale(1, -1) translate(-305.000000, -96.500000) "></path>
+            <rect id="parents" fill="#FF8BA6" x="225" y="685" width="40" height="14"></rect>
+            <rect id="parents" fill="#FF8BA6" x="345" y="696" width="40" height="3"></rect>
+            <rect id="parents" fill="#C40046" x="345" y="662" width="40" height="10"></rect>
+            <rect id="parents" fill="#810019" x="345" y="629" width="40" height="1"></rect>
+            <path d="M265,629 L345,629 L345,632 C345,632 265,632.271264 265,632 C305,632.271264 305,656.232184 345,656.232184 L345,666 C305,666.898851 305,641.871264 265,641.8 C305,641.871264 305,698.85977 345,697.933333 C345,697.933333 345,699 345,699 C303.171143,699 304.206055,642.080811 265,642.933333 L265,629 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 664.000000) scale(1, -1) translate(-305.000000, -664.000000) "></path>
+            <text id="100%-No-school-gradu" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="181.604" y="687">100%</tspan>
+                <tspan x="101.756" y="699">No school graduation</tspan>
+            </text>
+            <text id="7.8%-Vocational-scho" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="617">7.8%</tspan>
+                <tspan x="401" y="629" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Vocational school or </tspan>
+                <tspan x="401" y="641" font-family="BundesSans-Regular, BundesSans" font-weight="normal">university entrance qualification</tspan>
+            </text>
+            <text id="73.8%-Secondary-scho" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="662">73.8%</tspan>
+                <tspan x="401" y="674" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Secondary school graduation</tspan>
+            </text>
+            <text id="18.4%-No-school-grad" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="693">18.4%</tspan>
+                <tspan x="401" y="705">No school graduation</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

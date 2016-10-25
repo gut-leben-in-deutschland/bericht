@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="320px" viewBox="0 0 280 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>01-00-a_s_chart-english</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#A33C6D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="4-s-dashboard-charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-00-a_s_chart-english">
+            <g id="Group" transform="translate(42.000000, 30.000000)">
+                <polygon id="Rectangle-643" fill="#F2BF18" points="188 0 188 40 0 40 0 0"></polygon>
+                <polygon id="Rectangle-643" fill="#B68B00" points="133 104 133 144 2.84217094e-14 144 2.84217094e-14 104"></polygon>
+                <polygon id="Rectangle-643" fill="#7B5900" points="89 208 89 248 0 248 0 208"></polygon>
+                <polygon id="Rectangle-643" fill="#7B5900" points="141 208 141 248 97 248 97 208"></polygon>
+                <polygon id="Rectangle-643" fill="#B68B00" points="196 104 196 144 141 144 141 104"></polygon>
+                <path d="M196.000017,104 L63.0000173,104 C63.0000173,104 63.9996801,26.746331 64.0000173,40 C64.0008316,71.9999992 55.000182,72.1217142 55.0000173,104 C55.0000114,104 0.000634745142,104 1.73493469e-05,104 C-0.0136056067,71.9348091 8.00001717,72 8.00001735,40 L196.000017,40 L196.000017,104 Z" id="Rectangle-643" fill-opacity="0.1" fill="url(#linearGradient-1)" transform="translate(98.000009, 71.235368) scale(-1, 1) translate(-98.000009, -71.235368) "></path>
+                <path d="M141,208 L52,208 C52,208 53,144.000001 53,144 C53,175.999999 44,176.000121 44,208 C44,207.999879 2.82375157e-09,207.999999 9.11271059e-13,208 C-2.82193469e-09,176.000001 8,175.999999 8,144 C8,144.000001 141,144 141,144 L141,208 Z" id="Rectangle-643" fill-opacity="0.1" fill="url(#linearGradient-1)" transform="translate(70.500000, 176.000000) scale(-1, 1) translate(-70.500000, -176.000000) "></path>
+                <text id="2.6-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
+                    <tspan x="81.658" y="24">2.6m</tspan>
+                </text>
+                <text id="1.8-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
+                    <tspan x="53.658" y="128">1.8m</tspan>
+                </text>
+                <text id="1.2-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="31.658" y="232">1.2m</tspan>
+                </text>
+                <text id="0.6-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="106.658" y="232">0.6m</tspan>
+                </text>
+                <text id="0.8-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
+                    <tspan x="155.658" y="128">0.8m</tspan>
+                </text>
+            </g>
+            <text id="Together-with/by-out" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" line-spacing="16" fill="#454545">
+                <tspan x="139" y="291">Together with/by </tspan>
+                <tspan x="139" y="307">outpatient care services</tspan>
+            </text>
+            <text id="Overall" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" fill="#454545">
+                <tspan x="42" y="24">Overall</tspan>
+            </text>
+            <text id="Home-care" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" fill="#454545">
+                <tspan x="42" y="128">Home care</tspan>
+            </text>
+            <text id="Inpatient-care-in-ho" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" line-spacing="16" fill="#454545">
+                <tspan x="183" y="187">Inpatient care </tspan>
+                <tspan x="183" y="203">in homes</tspan>
+            </text>
+            <text id="Cared-for-by-relativ" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" line-spacing="16" fill="#454545">
+                <tspan x="42" y="291">Cared for by </tspan>
+                <tspan x="42" y="307">relatives alone</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

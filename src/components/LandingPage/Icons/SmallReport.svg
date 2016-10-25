@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="40px" viewBox="0 0 36 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>report</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,4.0042577 C0,1.79276724 1.79412025,0 3.99683887,0 L24.0031611,0 C26.2105543,0 28,1.78902751 28,4.0042577 L28,27.9957423 C28,30.2072328 26.2058797,32 24.0031611,32 L3.99683887,32 C1.78944571,32 0,30.2109725 0,27.9957423 L0,4.0042577 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="1-l-landing-page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1.8_l_landing-page-table-of-content" transform="translate(-199.000000, -120.000000)">
+            <g id="report" transform="translate(203.000000, 124.000000)">
+                <g id="card">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#454545" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="content" transform="translate(4.333333, 4.666667)" fill="#FFFFFF">
+                    <rect id="Rectangle-241" x="0.666666667" y="21.3333333" width="18" height="2"></rect>
+                    <rect id="Rectangle-241" x="0.666666667" y="17.3333333" width="18" height="2"></rect>
+                    <rect id="Rectangle-241" x="0.666666667" y="13.3333333" width="18" height="2"></rect>
+                    <rect id="Rectangle-241" x="0.666666667" y="0.333333333" width="18" height="6"></rect>
+                    <rect id="Rectangle-241" x="0.666666667" y="9.33333333" width="18" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

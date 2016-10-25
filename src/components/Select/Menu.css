@@ -1,0 +1,78 @@
+/* Select Menu */
+/* ------------------------------ */
+
+@value selectInputBg, selectInputBorderColor, selectInputBorderActive, selectInputBorderRadius, selectInputBorderFocus, selectInputBorderWidth, selectInputHeight, selectInputPlaceholder, selectPaddingVertical, selectPaddingHorizontal, selectMenuZindex, selectMenuMaxHeight, selectMenuBorderRadius, selectOptionColor, selectOptionBg, selectOptionFocusedColor, selectOptionFocusedBg, selectOptionDisabledColor, selectNoresultsColor from "./variables.css";
+
+.wrap {
+  :global {
+    /* wrapper around the menu */
+    .Select-menu-outer {
+      /* Unfortunately, having both border-radius and allows scrolling using overflow defined on the same */
+      /* element forces the browser to repaint on scroll.  However, if these definitions are split into an */
+      /* outer and an inner element, the browser is able to optimize the scrolling behavior and does not */
+      /* have to repaint on scroll. */
+
+      background-color: selectInputBg;
+      box-shadow: 0px 2px 12px 0px #DFDFD8;
+      box-sizing: border-box;
+      margin-top: 8px;
+      max-height: selectMenuMaxHeight;
+      position: absolute;
+      top: 100%;
+      width: 100%;
+      z-index: selectMenuZindex;
+      -webkit-overflow-scrolling: touch;
+      border-radius: selectMenuBorderRadius;
+    }
+
+
+    /* wrapper */
+
+    .Select-menu {
+      max-height: calc(selectMenuMaxHeight - 2px);
+      overflow-y: auto;
+    }
+
+
+    /* options */
+
+    .Select-option {
+      box-sizing: border-box;
+      background-color: selectOptionBg;
+      color: selectOptionColor;
+      cursor: pointer;
+      display: block;
+      padding: selectPaddingVertical selectPaddingHorizontal;
+      border-bottom: 1px solid #DDDDDD;
+
+      &:last-child {
+        border-bottom: none;
+      }
+
+      &.is-focused {
+        background-color: selectOptionFocusedBg;
+        color: selectOptionFocusedColor;
+      }
+
+      &.is-disabled {
+        color: selectOptionDisabledColor;
+        cursor: default;
+      }
+
+    }
+
+
+    /* no results */
+
+    .Select-noresults {
+      box-sizing: border-box;
+      color: selectNoresultsColor;
+      cursor: default;
+      display: block;
+      padding: selectPaddingVertical selectPaddingHorizontal;
+      height: 64px;
+      line-height: 64px;
+      color: #666666;
+    }
+  }
+}

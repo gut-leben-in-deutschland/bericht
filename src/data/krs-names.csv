@@ -1,0 +1,1201 @@
+ds,id,name
+mpidr-396,1001,Flensburg
+mpidr-396,1002,Kiel
+mpidr-396,1003,Lübeck
+mpidr-396,1004,Neumünster
+mpidr-396,1051,Dithmarschen
+mpidr-396,1053,Herzogtum Lauenburg
+mpidr-396,1054,Nordfriesland
+mpidr-396,1055,Ostholstein
+mpidr-396,1056,Pinneberg
+mpidr-396,1057,Plön
+mpidr-396,1058,Rendsburg-Eckernförde
+mpidr-396,1059,Schleswig-Flensburg
+mpidr-396,1060,Segeberg
+mpidr-396,1061,Steinburg
+mpidr-396,1062,Stormarn
+mpidr-396,2000,Hamburg
+mpidr-396,3101,Braunschweig
+mpidr-396,3102,Salzgitter
+mpidr-396,3103,Wolfsburg
+mpidr-396,3151,Gifhorn
+mpidr-396,3152,Göttingen
+mpidr-396,3153,Goslar
+mpidr-396,3154,Helmstedt
+mpidr-396,3155,Northeim
+mpidr-396,3156,Osterode am Harz
+mpidr-396,3157,Peine
+mpidr-396,3158,Wolfenbüttel
+mpidr-396,3241,Region Hannover
+mpidr-396,3251,Diepholz
+mpidr-396,3252,Hameln-Pyrmont
+mpidr-396,3254,Hildesheim
+mpidr-396,3255,Holzminden
+mpidr-396,3256,Nienburg
+mpidr-396,3257,Schaumburg
+mpidr-396,3351,Celle
+mpidr-396,3352,Cuxhaven
+mpidr-396,3353,Harburg
+mpidr-396,3354,Lüchow-Dannenberg
+mpidr-396,3355,Lüneburg
+mpidr-396,3356,Osterholz
+mpidr-396,3357,Rotenburg
+mpidr-396,3358,Soltau-Fallingbostel
+mpidr-396,3359,Stade
+mpidr-396,3360,Uelzen
+mpidr-396,3361,Verden
+mpidr-396,3401,Delmenhorst
+mpidr-396,3402,Emden
+mpidr-396,3403,Oldenburg (kreisfreie Stadt)
+mpidr-396,3404,Osnabrück (kreisfreie Stadt)
+mpidr-396,3405,Wilhelmshaven
+mpidr-396,3451,Ammerland
+mpidr-396,3452,Aurich
+mpidr-396,3453,Cloppenburg
+mpidr-396,3454,Emsland
+mpidr-396,3455,Friesland
+mpidr-396,3456,Grafschaft Bentheim
+mpidr-396,3457,Leer
+mpidr-396,3458,Oldenburg (Landkreis)
+mpidr-396,3459,Osnabrück (Landkreis)
+mpidr-396,3460,Vechta
+mpidr-396,3461,Wesermarsch
+mpidr-396,3462,Wittmund
+mpidr-396,4011,Bremen
+mpidr-396,4012,Bremerhaven
+mpidr-396,5111,Düsseldorf
+mpidr-396,5112,Duisburg
+mpidr-396,5113,Essen
+mpidr-396,5114,Krefeld
+mpidr-396,5116,Mönchengladbach
+mpidr-396,5117,Mülheim an der Ruhr
+mpidr-396,5119,Oberhausen
+mpidr-396,5120,Remscheid
+mpidr-396,5122,Solingen
+mpidr-396,5124,Wuppertal
+mpidr-396,5154,Kleve
+mpidr-396,5158,Mettmann
+mpidr-396,5162,Rhein-Kreis Neuss
+mpidr-396,5166,Viersen
+mpidr-396,5170,Wesel
+mpidr-396,5314,Bonn
+mpidr-396,5315,Köln
+mpidr-396,5316,Leverkusen
+mpidr-396,5334,Aachen
+mpidr-396,5358,Düren
+mpidr-396,5362,Rhein-Erft-Kreis
+mpidr-396,5366,Euskirchen
+mpidr-396,5370,Heinsberg
+mpidr-396,5374,Oberbergischer Kreis
+mpidr-396,5378,Rheinisch-Bergischer Kreis
+mpidr-396,5382,Rhein-Sieg-Kreis
+mpidr-396,5512,Bottrop
+mpidr-396,5513,Gelsenkirchen
+mpidr-396,5515,Münster
+mpidr-396,5554,Borken
+mpidr-396,5558,Coesfeld
+mpidr-396,5562,Recklinghausen
+mpidr-396,5566,Steinfurt
+mpidr-396,5570,Warendorf
+mpidr-396,5711,Bielefeld
+mpidr-396,5754,Gütersloh
+mpidr-396,5758,Herford
+mpidr-396,5762,Höxter
+mpidr-396,5766,Lippe
+mpidr-396,5770,Minden-Lübbecke
+mpidr-396,5774,Paderborn
+mpidr-396,5911,Bochum
+mpidr-396,5913,Dortmund
+mpidr-396,5914,Hagen
+mpidr-396,5915,Hamm
+mpidr-396,5916,Herne
+mpidr-396,5954,Ennepe-Ruhr-Kreis
+mpidr-396,5958,Hochsauerlandkreis
+mpidr-396,5962,Märkischer Kreis
+mpidr-396,5966,Olpe
+mpidr-396,5970,Siegen-Wittgenstein
+mpidr-396,5974,Soest
+mpidr-396,5978,Unna
+mpidr-396,6411,Darmstadt
+mpidr-396,6412,Frankfurt am Main
+mpidr-396,6413,Offenbach am Main
+mpidr-396,6414,Wiesbaden
+mpidr-396,6431,Bergstraße
+mpidr-396,6432,Darmstadt-Dieburg
+mpidr-396,6433,Groß-Gerau
+mpidr-396,6434,Hochtaunuskreis
+mpidr-396,6435,Main-Kinzig-Kreis
+mpidr-396,6436,Main-Taunus-Kreis
+mpidr-396,6437,Odenwaldkreis
+mpidr-396,6438,Offenbach
+mpidr-396,6439,Rheingau-Taunus-Kreis
+mpidr-396,6440,Wetteraukreis
+mpidr-396,6531,Gießen
+mpidr-396,6532,Lahn-Dill-Kreis
+mpidr-396,6533,Limburg-Weilburg
+mpidr-396,6534,Marburg-Biedenkopf
+mpidr-396,6535,Vogelsbergkreis
+mpidr-396,6611,Kassel (kreisfreie Stadt)
+mpidr-396,6631,Fulda
+mpidr-396,6632,Hersfeld-Rotenburg
+mpidr-396,6633,Kassel (Landkreis)
+mpidr-396,6634,Schwalm-Eder-Kreis
+mpidr-396,6635,Waldeck-Frankenberg
+mpidr-396,6636,Werra-Meißner-Kreis
+mpidr-396,7111,Koblenz
+mpidr-396,7131,Ahrweiler
+mpidr-396,7132,Altenkirchen
+mpidr-396,7133,Bad Kreuznach
+mpidr-396,7134,Birkenfeld
+mpidr-396,7135,Cochem-Zell
+mpidr-396,7137,Mayen-Koblenz
+mpidr-396,7138,Neuwied
+mpidr-396,7140,Rhein-Hunsrück-Kreis
+mpidr-396,7141,Rhein-Lahn-Kreis
+mpidr-396,7143,Westerwaldkreis
+mpidr-396,7211,Trier
+mpidr-396,7231,Bernkastel-Wittlich
+mpidr-396,7232,Bitburg-Prüm
+mpidr-396,7233,Daun
+mpidr-396,7311,Frankenthal
+mpidr-396,7312,Kaiserslautern (kreisfreie Stadt)
+mpidr-396,7313,Landau in der Pfalz
+mpidr-396,7314,Ludwigshafen am Rhein
+mpidr-396,7315,Mainz
+mpidr-396,7316,Neustadt an der Weinstraße
+mpidr-396,7317,Pirmasens
+mpidr-396,7318,Speyer
+mpidr-396,7319,Worms
+mpidr-396,7320,Zweibrücken
+mpidr-396,7331,Alzey-Worms
+mpidr-396,7333,Donnersbergkreis
+mpidr-396,7334,Germersheim
+mpidr-396,7335,Kaiserslautern (Landkreis)
+mpidr-396,7336,Kusel
+mpidr-396,7338,Rhein-Pfalz-Kreis
+mpidr-396,7339,Mainz-Bingen
+mpidr-396,8111,Stuttgart
+mpidr-396,8115,Böblingen
+mpidr-396,8116,Esslingen
+mpidr-396,8117,Göppingen
+mpidr-396,8118,Ludwigsburg
+mpidr-396,8119,Rems-Murr-Kreis
+mpidr-396,8121,Heilbronn (kreisfreie Stadt)
+mpidr-396,8126,Hohenlohekreis
+mpidr-396,8127,Schwäbisch Hall
+mpidr-396,8128,Main-Tauber-Kreis
+mpidr-396,8135,Heidenheim
+mpidr-396,8136,Ostalbkreis
+mpidr-396,8211,Baden-Baden
+mpidr-396,8212,Karlsruhe (kreisfreie Stadt)
+mpidr-396,8215,Karlsruhe (Landkreis)
+mpidr-396,8221,Heidelberg
+mpidr-396,8222,Mannheim
+mpidr-396,8225,Neckar-Odenwald-Kreis
+mpidr-396,8226,Rhein-Neckar-Kreis
+mpidr-396,8231,Pforzheim
+mpidr-396,8235,Calw
+mpidr-396,8236,Enzkreis
+mpidr-396,8237,Freudenstadt
+mpidr-396,8311,Freiburg im Breisgau
+mpidr-396,8315,Breisgau-Hochschwarzwald
+mpidr-396,8316,Emmendingen
+mpidr-396,8317,Ortenaukreis
+mpidr-396,8325,Rottweil
+mpidr-396,8326,Schwarzwald-Baar-Kreis
+mpidr-396,8327,Tuttlingen
+mpidr-396,8335,Konstanz
+mpidr-396,8336,Lörrach
+mpidr-396,8337,Waldshut
+mpidr-396,8415,Reutlingen
+mpidr-396,8416,Tübingen
+mpidr-396,8417,Zollernalbkreis
+mpidr-396,8421,Ulm
+mpidr-396,8425,Alb-Donau-Kreis
+mpidr-396,8426,Biberach
+mpidr-396,8435,Bodenseekreis
+mpidr-396,8436,Ravensburg
+mpidr-396,8437,Sigmaringen
+mpidr-396,9161,Ingolstadt
+mpidr-396,9162,München (kreisfreie Stadt)
+mpidr-396,9163,Rosenheim (kreisfreie Stadt)
+mpidr-396,9171,Altötting
+mpidr-396,9172,Berchtesgadener Land
+mpidr-396,9173,Bad Tölz-Wolfratshausen
+mpidr-396,9174,Dachau
+mpidr-396,9175,Ebersberg
+mpidr-396,9176,Eichstätt
+mpidr-396,9177,Erding
+mpidr-396,9178,Freising
+mpidr-396,9179,Fürstenfeldbruck
+mpidr-396,9180,Garmisch-Partenkirchen
+mpidr-396,9181,Landsberg am Lech
+mpidr-396,9182,Miesbach
+mpidr-396,9183,Mühldorf a.Inn
+mpidr-396,9184,München (Landkreis)
+mpidr-396,9185,Neuburg-Schrobenhausen
+mpidr-396,9186,Pfaffenhofen a.d.Ilm
+mpidr-396,9188,Starnberg
+mpidr-396,9189,Traunstein
+mpidr-396,9190,Weilheim-Schongau
+mpidr-396,9261,Landshut (kreisfreie Stadt)
+mpidr-396,9262,Passau (kreisfreie Stadt)
+mpidr-396,9263,Straubing
+mpidr-396,9271,Deggendorf
+mpidr-396,9272,Freyung-Grafenau
+mpidr-396,9273,Kelheim
+mpidr-396,9275,Passau (Landkreis)
+mpidr-396,9276,Regen
+mpidr-396,9277,Rottal-Inn
+mpidr-396,9279,Dingolfing-Landau
+mpidr-396,9361,Amberg
+mpidr-396,9362,Regensburg (kreisfreie Stadt)
+mpidr-396,9363,Weiden i.d.OPf.
+mpidr-396,9372,Cham
+mpidr-396,9373,Neumarkt i.d.OPf.
+mpidr-396,9376,Schwandorf
+mpidr-396,9377,Tirschenreuth
+mpidr-396,9461,Bamberg (kreisfreie Stadt)
+mpidr-396,9462,Bayreuth (kreisfreie Stadt)
+mpidr-396,9463,Coburg (kreisfreie Stadt)
+mpidr-396,9464,Hof (kreisfreie Stadt)
+mpidr-396,9474,Forchheim
+mpidr-396,9476,Kronach
+mpidr-396,9477,Kulmbach
+mpidr-396,9478,Lichtenfels
+mpidr-396,9479,Wunsiedel i.Fichtelgebirge
+mpidr-396,9561,Ansbach (kreisfreie Stadt)
+mpidr-396,9564,Nürnberg
+mpidr-396,9575,Neustadt a.d.Aisch-Bad Windsheim
+mpidr-396,9577,Weißenburg-Gunzenhausen
+mpidr-396,9661,Aschaffenburg (kreisfreie Stadt)
+mpidr-396,9662,Schweinfurt (kreisfreie Stadt)
+mpidr-396,9663,Würzburg (kreisfreie Stadt)
+mpidr-396,9671,Aschaffenburg (Landkreis)
+mpidr-396,9672,Bad Kissingen
+mpidr-396,9673,Rhön-Grabfeld
+mpidr-396,9674,Haßberge
+mpidr-396,9675,Kitzingen
+mpidr-396,9676,Miltenberg
+mpidr-396,9677,Main-Spessart
+mpidr-396,9761,Augsburg (kreisfreie Stadt)
+mpidr-396,9762,Kaufbeuren
+mpidr-396,9763,Kempten
+mpidr-396,9764,Memmingen
+mpidr-396,9771,Aichach-Friedberg
+mpidr-396,9772,Augsburg (Landkreis)
+mpidr-396,9773,Dillingen a.d.Donau
+mpidr-396,9774,Günzburg
+mpidr-396,9775,Neu-Ulm
+mpidr-396,9776,Lindau
+mpidr-396,9778,Unterallgäu
+mpidr-396,9779,Donau-Ries
+mpidr-396,10041,Stadtverband Saarbrücken
+mpidr-396,10042,Merzig-Wadern
+mpidr-396,10043,Neunkirchen
+mpidr-396,10044,Saarlouis
+mpidr-396,10045,Saarpfalz-Kreis
+mpidr-396,10046,St. Wendel
+mpidr-396,11000,Berlin
+mpidr-396,12051,Brandenburg an der Havel
+mpidr-396,12052,Cottbus
+mpidr-396,12053,Frankfurt
+mpidr-396,12054,Potsdam
+mpidr-396,12060,Barnim
+mpidr-396,12061,Dahme-Spreewald
+mpidr-396,12062,Elbe-Elster
+mpidr-396,12063,Havelland
+mpidr-396,12064,Märkisch-Oderland
+mpidr-396,12065,Oberhavel
+mpidr-396,12066,Oberspreewald-Lausitz
+mpidr-396,12067,Oder-Spree
+mpidr-396,12068,Ostprignitz-Ruppin
+mpidr-396,12069,Potsdam-Mittelmark
+mpidr-396,12070,Prignitz
+mpidr-396,12072,Teltow-Fläming
+mpidr-396,12073,Uckermark
+mpidr-396,13003,Rostock (kreisfreie Stadt)
+mpidr-396,13004,Schwerin
+mpidr-396,13072,Rostock (Landkreis)
+mpidr-396,13073,Vorpommern-Rügen
+mpidr-396,13074,Nordwestmecklenburg
+mpidr-396,13076,Ludwigslust-Parchim
+mpidr-396,13991,Mecklenburgische Seenplatte und Vorpommern-Greifswald
+mpidr-396,14511,Chemnitz
+mpidr-396,14521,Erzgebirgskreis
+mpidr-396,14522,Mittelsachsen
+mpidr-396,14523,Vogtlandkreis
+mpidr-396,14524,Zwickau
+mpidr-396,14612,Dresden
+mpidr-396,14625,Bautzen
+mpidr-396,14626,Görlitz
+mpidr-396,14627,Meißen
+mpidr-396,14628,Sächsische Schweiz-Osterzgebirge
+mpidr-396,14713,Leipzig (kreisfreie Stadt)
+mpidr-396,14729,Leipzig (Landkreis)
+mpidr-396,14730,Nordsachsen
+mpidr-396,15002,Halle
+mpidr-396,15003,Magdeburg
+mpidr-396,15081,Altmarkkreis Salzwedel
+mpidr-396,15083,Börde
+mpidr-396,15084,Burgenlandkreis
+mpidr-396,15087,Mansfeld-Südharz
+mpidr-396,15090,Stendal
+mpidr-396,15991,"Dessau-Roßlau, Anhalt-Bitterfeld, Jerichower Land und Wittenberg"
+mpidr-396,15992,Harz und Salzlandkreis
+mpidr-396,16051,Erfurt
+mpidr-396,16052,Gera
+mpidr-396,16053,Jena
+mpidr-396,16054,Suhl
+mpidr-396,16055,Weimar
+mpidr-396,16061,Eichsfeld
+mpidr-396,16062,Nordhausen
+mpidr-396,16063,Eisenach und Wartburgkreis
+mpidr-396,16064,Unstrut-Hainich-Kreis
+mpidr-396,16065,Kyffhäuserkreis
+mpidr-396,16066,Schmalkalden-Meiningen
+mpidr-396,16067,Gotha
+mpidr-396,16068,Sömmerda
+mpidr-396,16069,Hildburghausen
+mpidr-396,16070,Ilm-Kreis
+mpidr-396,16072,Sonneberg
+mpidr-396,16073,Saalfeld-Rudolstadt
+mpidr-396,16074,Saale-Holzland-Kreis
+mpidr-396,16075,Saale-Orla-Kreis
+mpidr-396,16076,Greiz
+mpidr-396,16077,Altenburger Land
+mpidr-396,7332,Bad Dürkheim
+mpidr-396,7337,Südliche Weinstraße
+mpidr-396,9562,Erlangen
+mpidr-396,9563,Fürth (kreisfreie Stadt)
+mpidr-396,9565,Schwabach
+mpidr-396,9572,Erlangen-Höchstadt
+mpidr-396,9573,Fürth (Landkreis)
+mpidr-396,9574,Nürnberger Land
+mpidr-396,9576,Roth
+mpidr-396,8216,Rastatt
+mpidr-396,9187,Rosenheim (Landkreis)
+mpidr-396,8125,Heilbronn (Landkreis)
+mpidr-396,7340,Südwestpfalz
+mpidr-396,7235,Trier-Saarburg
+mpidr-396,9679,Würzburg (Landkreis)
+mpidr-396,9274,Landshut (Landkreis)
+mpidr-396,9780,Oberallgäu
+mpidr-396,9777,Ostallgäu
+mpidr-396,9278,Straubing-Bogen
+mpidr-396,9374,Neustadt a.d.Waldnaab
+mpidr-396,9375,Regensburg (Landkreis)
+mpidr-396,12071,Spree-Neiße
+mpidr-396,15088,Saalekreis
+mpidr-396,16071,Weimarer Land
+mpidr-396,9475,Hof (Landkreis)
+mpidr-396,9472,Bayreuth (Landkreis)
+mpidr-396,9371,Amberg-Sulzbach
+mpidr-396,9571,Ansbach (Landkreis)
+mpidr-396,9473,Coburg (Landkreis)
+mpidr-396,9471,Bamberg (Landkreis)
+mpidr-396,9678,Schweinfurt (Landkreis)
+2015,13004,Schwerin
+2015,3154,Helmstedt
+2015,12070,Prignitz
+2015,7314,Ludwigshafen am Rhein
+2015,12073,Uckermark
+2015,8117,Göppingen
+2015,9676,Miltenberg
+2015,12068,Ostprignitz-Ruppin
+2015,14612,Dresden
+2015,5562,Recklinghausen
+2015,14524,Zwickau
+2015,12071,Spree-Neiße
+2015,5774,Paderborn
+2015,13072,Rostock (Landkreis)
+2015,12066,Oberspreewald-Lausitz
+2015,5314,Bonn
+2015,15085,Harz
+2015,3452,Aurich
+2015,5374,Oberbergischer Kreis
+2015,7132,Altenkirchen (Westerwald)
+2015,8316,Emmendingen
+2015,3354,Lüchow-Dannenberg
+2015,9176,Eichstätt
+2015,9188,Starnberg
+2015,8216,Rastatt
+2015,1057,Plön
+2015,8127,Schwäbisch Hall
+2015,7313,Landau in der Pfalz
+2015,9674,Haßberge
+2015,7340,Südwestpfalz
+2015,16054,Suhl
+2015,6434,Hochtaunuskreis
+2015,9762,Kaufbeuren
+2015,9577,Weißenburg-Gunzenhausen
+2015,6431,Bergstraße
+2015,6437,Odenwaldkreis
+2015,6533,Limburg-Weilburg
+2015,3254,Hildesheim
+2015,9179,Fürstenfeldbruck
+2015,8421,Ulm
+2015,7317,Pirmasens
+2015,12069,Potsdam-Mittelmark
+2015,14628,Sächsische Schweiz-Osterzgebirge
+2015,3241,Region Hannover
+2015,14522,Mittelsachsen
+2015,8215,Karlsruhe (Landkreis)
+2015,9776,Lindau (Bodensee)
+2015,5958,Hochsauerlandkreis
+2015,8119,Rems-Murr-Kreis
+2015,3255,Holzminden
+2015,8435,Bodenseekreis
+2015,8436,Ravensburg
+2015,9186,Pfaffenhofen a.d. Ilm
+2015,9178,Freising
+2015,8118,Ludwigsburg
+2015,1053,Herzogtum Lauenburg
+2015,7135,Cochem-Zell
+2015,8212,Karlsruhe (Stadtkreis)
+2015,3353,Harburg
+2015,5974,Soest
+2015,6611,Kassel (Kreisfreie Stadt)
+2015,5914,Hagen
+2015,8221,Heidelberg
+2015,9172,Berchtesgadener Land
+2015,9763,Kempten (Allgäu)
+2015,7235,Trier-Saarburg
+2015,3457,Leer
+2015,8226,Rhein-Neckar-Kreis
+2015,13076,Ludwigslust-Parchim
+2015,9475,Hof (Landkreis)
+2015,5962,Märkischer Kreis
+2015,13075,Vorpommern-Greifswald
+2015,7133,Bad Kreuznach
+2015,7316,Neustadt an der Weinstraße
+2015,8225,Neckar-Odenwald-Kreis
+2015,9778,Unterallgäu
+2015,7335,Kaiserslautern (Landkreis)
+2015,6532,Lahn-Dill-Kreis
+2015,3404,Osnabrück (Kreisfreie Stadt)
+2015,8135,Heidenheim
+2015,12067,Oder-Spree
+2015,13071,Mecklenburgische Seenplatte
+2015,9575,Neustadt a.d. Aisch-Bad Windsheim
+2015,9780,Oberallgäu
+2015,8437,Sigmaringen
+2015,7111,Koblenz
+2015,8337,Waldshut
+2015,5111,Düsseldorf
+2015,9478,Lichtenfels
+2015,16056,Eisenach
+2015,9663,Würzburg (Kreisfreie Stadt)
+2015,3403,Oldenburg (Oldb)
+2015,8336,Lörrach
+2015,9679,Würzburg (Landkreis)
+2015,9661,Aschaffenburg (Kreisfreie Stadt)
+2015,5911,Bochum
+2015,5913,Dortmund
+2015,5154,Kleve
+2015,6634,Schwalm-Eder-Kreis
+2015,9181,Landsberg am Lech
+2015,3103,Wolfsburg
+2015,5166,Viersen
+2015,6531,Gießen
+2015,6440,Wetteraukreis
+2015,3252,Hameln-Pyrmont
+2015,7320,Zweibrücken
+2015,3153,Goslar
+2015,9576,Roth
+2015,5766,Lippe
+2015,3156,Osterode am Harz
+2015,3458,Oldenburg
+2015,5116,Mönchengladbach
+2015,5762,Höxter
+2015,3251,Diepholz
+2015,12062,Elbe-Elster
+2015,15091,Wittenberg
+2015,9375,Regensburg (Landkreis)
+2015,9362,Regensburg (Kreisfreie Stadt)
+2015,5970,Siegen-Wittgenstein
+2015,5915,Hamm
+2015,15003,Magdeburg
+2015,8235,Calw
+2015,1059,Schleswig-Flensburg
+2015,9572,Erlangen-Höchstadt
+2015,9563,Fürth (Kreisfreie Stadt)
+2015,8425,Alb-Donau-Kreis
+2015,1003,Lübeck
+2015,8115,Böblingen
+2015,12054,Potsdam
+2015,2000,Hamburg
+2015,5170,Wesel
+2015,7334,Germersheim
+2015,13074,Nordwestmecklenburg
+2015,3460,Vechta
+2015,3459,Osnabrück (Landkreis)
+2015,5158,Mettmann
+2015,7333,Donnersbergkreis
+2015,5366,Euskirchen
+2015,6411,Darmstadt
+2015,14730,Nordsachsen
+2015,5114,Krefeld
+2015,5334,Städteregion Aachen
+2015,6435,Main-Kinzig-Kreis
+2015,12060,Barnim
+2015,6413,Offenbach am Main
+2015,7331,Alzey-Worms
+2015,7337,Südliche Weinstraße
+2015,16075,Saale-Orla-Kreis
+2015,5162,Rhein-Kreis Neuss
+2015,8222,Mannheim
+2015,10046,St. Wendel
+2015,14625,Bautzen
+2015,12051,Brandenburg an der Havel
+2015,14627,Meißen
+2015,5978,Unna
+2015,9677,Main-Spessart
+2015,5122,Solingen
+2015,5378,Rheinisch-Bergischer Kreis
+2015,5966,Olpe
+2015,5515,Münster
+2015,16077,Altenburger Land
+2015,5570,Warendorf
+2015,14729,Leipzig (Landkreis)
+2015,6632,Hersfeld-Rotenburg
+2015,15084,Burgenlandkreis
+2015,6636,Werra-Meißner-Kreis
+2015,16061,Eichsfeld
+2015,5315,Köln
+2015,5362,Rhein-Erft-Kreis
+2015,1062,Stormarn
+2015,9564,Nürnberg
+2015,14521,Erzgebirgskreis
+2015,5554,Borken
+2015,8121,Heilbronn (Stadtkreis)
+2015,16066,Schmalkalden-Meiningen
+2015,9463,Coburg (Kreisfreie Stadt)
+2015,9461,Bamberg (Kreisfreie Stadt)
+2015,7332,Bad Dürkheim
+2015,14626,Görlitz
+2015,6414,Wiesbaden
+2015,5558,Coesfeld
+2015,9565,Schwabach
+2015,5566,Steinfurt
+2015,5513,Gelsenkirchen
+2015,12052,Cottbus
+2015,10042,Merzig-Wadern
+2015,6432,Darmstadt-Dieburg
+2015,13073,Vorpommern-Rügen
+2015,3401,Delmenhorst
+2015,8136,Ostalbkreis
+2015,9261,Landshut (Kreisfreie Stadt)
+2015,6412,Frankfurt am Main
+2015,16051,Erfurt
+2015,10045,Saarpfalz-Kreis
+2015,6436,Main-Taunus-Kreis
+2015,8417,Zollernalbkreis
+2015,8335,Konstanz
+2015,16053,Jena
+2015,5916,Herne
+2015,7312,Kaiserslautern (Kreisfreie Stadt)
+2015,16068,Sömmerda
+2015,9374,Neustadt a.d. Waldnaab
+2015,9274,Landshut (Landkreis)
+2015,6433,Groß-Gerau
+2015,16071,Weimarer Land
+2015,3256,Nienburg (Weser)
+2015,16067,Gotha
+2015,16065,Kyffhäuserkreis
+2015,16062,Nordhausen
+2015,15002,Halle (Saale)
+2015,7336,Kusel
+2015,9562,Erlangen
+2015,9662,Schweinfurt (Kreisfreie Stadt)
+2015,9678,Schweinfurt (Landkreis)
+2015,5316,Leverkusen
+2015,8128,Main-Tauber-Kreis
+2015,8237,Freudenstadt
+2015,3351,Celle
+2015,7319,Worms
+2015,9377,Tirschenreuth
+2015,7211,Trier
+2015,3101,Braunschweig
+2015,9279,Dingolfing-Landau
+2015,8231,Pforzheim
+2015,8236,Enzkreis
+2015,16076,Greiz
+2015,7315,Mainz
+2015,9275,Passau (Landkreis)
+2015,7232,Eifelkreis Bitburg-Prüm
+2015,6535,Vogelsbergkreis
+2015,9277,Rottal-Inn
+2015,9476,Kronach
+2015,3158,Wolfenbüttel
+2015,9271,Deggendorf
+2015,3102,Salzgitter
+2015,12072,Teltow-Fläming
+2015,3157,Peine
+2015,16074,Saale-Holzland-Kreis
+2015,4012,Bremerhaven
+2015,3402,Emden
+2015,16052,Gera
+2015,3455,Friesland
+2015,9189,Traunstein
+2015,9187,Rosenheim (Landkreis)
+2015,9182,Miesbach
+2015,8327,Tuttlingen
+2015,9171,Altötting
+2015,3456,Grafschaft Bentheim
+2015,8111,Stuttgart
+2015,9764,Memmingen
+2015,7338,Rhein-Pfalz-Kreis
+2015,8126,Hohenlohekreis
+2015,3453,Cloppenburg
+2015,7318,Speyer
+2015,5382,Rhein-Sieg-Kreis
+2015,8426,Biberach
+2015,8125,Heilbronn (Landkreis)
+2015,6534,Marburg-Biedenkopf
+2015,6439,Rheingau-Taunus-Kreis
+2015,9672,Bad Kissingen
+2015,8116,Esslingen
+2015,7134,Birkenfeld
+2015,1051,Dithmarschen
+2015,9174,Dachau
+2015,9163,Rosenheim (Kreisfreie Stadt)
+2015,9361,Amberg
+2015,5124,Wuppertal
+2015,9779,Donau-Ries
+2015,1002,Kiel
+2015,9185,Neuburg-Schrobenhausen
+2015,9761,Augsburg (Kreisfreie Stadt)
+2015,15001,Dessau-Roßlau
+2015,15087,Mansfeld-Südharz
+2015,9263,Straubing
+2015,9771,Aichach-Friedberg
+2015,9373,Neumarkt i.d. OPf.
+2015,9175,Ebersberg
+2015,9477,Kulmbach
+2015,9772,Augsburg (Landkreis)
+2015,1061,Steinburg
+2015,9173,Bad Tölz-Wolfratshausen
+2015,9773,Dillingen a.d. Donau
+2015,9278,Straubing-Bogen
+2015,8317,Ortenaukreis
+2015,15090,Stendal
+2015,3152,Göttingen
+2015,6633,Kassel (Landkreis)
+2015,9464,Hof (Kreisfreie Stadt)
+2015,9479,Wunsiedel i. Fichtelgebirge
+2015,9673,Rhön-Grabfeld
+2015,5711,Bielefeld
+2015,3405,Wilhelmshaven
+2015,14713,Leipzig (Kreisfreie Stadt)
+2015,9777,Ostallgäu
+2015,8416,Tübingen
+2015,9774,Günzburg
+2015,12061,Dahme-Spreewald
+2015,9190,Weilheim-Schongau
+2015,8415,Reutlingen
+2015,9363,Weiden i.d. OPf.
+2015,10043,Neunkirchen
+2015,15086,Jerichower Land
+2015,5120,Remscheid
+2015,1001,Flensburg
+2015,5370,Heinsberg
+2015,1056,Pinneberg
+2015,1060,Segeberg
+2015,12053,Frankfurt (Oder)
+2015,5358,Düren
+2015,15081,Altmarkkreis Salzwedel
+2015,3360,Uelzen
+2015,9180,Garmisch-Partenkirchen
+2015,3359,Stade
+2015,9473,Coburg (Landkreis)
+2015,12065,Oberhavel
+2015,6438,Offenbach
+2015,9574,Nürnberger Land
+2015,11000,Berlin
+2015,8325,Rottweil
+2015,7311,Frankenthal (Pfalz)
+2015,8326,Schwarzwald-Baar-Kreis
+2015,9276,Regen
+2015,7141,Rhein-Lahn-Kreis
+2015,14523,Vogtlandkreis
+2015,7140,Rhein-Hunsrück-Kreis
+2015,16055,Weimar
+2015,9372,Cham
+2015,16063,Eisenach und Wartburgkreis
+2015,6631,Fulda
+2015,7339,Mainz-Bingen
+2015,12064,Märkisch-Oderland
+2015,16064,Unstrut-Hainich-Kreis
+2015,1004,Neumünster
+2015,9462,Bayreuth (Kreisfreie Stadt)
+2015,14511,Chemnitz
+2015,9561,Ansbach (Kreisfreie Stadt)
+2015,9272,Freyung-Grafenau
+2015,5512,Bottrop
+2015,9376,Schwandorf
+2015,13003,Rostock (Kreisfreie Stadt)
+2015,3454,Emsland
+2015,9675,Kitzingen
+2015,3155,Northeim
+2015,9262,Passau (Kreisfreie Stadt)
+2015,8315,Breisgau-Hochschwarzwald
+2015,7231,Bernkastel-Wittlich
+2015,5119,Oberhausen
+2015,5112,Duisburg
+2015,9671,Aschaffenburg (Landkreis)
+2015,5113,Essen
+2015,5758,Herford
+2015,5770,Minden-Lübbecke
+2015,15083,Börde
+2015,9184,München (Landkreis)
+2015,9471,Bamberg (Landkreis)
+2015,4011,Bremen
+2015,3361,Verden
+2015,9371,Amberg-Sulzbach
+2015,6635,Waldeck-Frankenberg
+2015,3357,Rotenburg (Wümme)
+2015,3352,Cuxhaven
+2015,3358,Heidekreis
+2015,3451,Ammerland
+2015,3461,Wesermarsch
+2015,3356,Osterholz
+2015,10044,Saarlouis
+2015,9161,Ingolstadt
+2015,9472,Bayreuth (Landkreis)
+2015,9474,Forchheim
+2015,7143,Westerwaldkreis
+2015,10041,Regionalverband Saarbrücken
+2015,1054,Nordfriesland
+2015,15088,Saalekreis
+2015,8311,Freiburg im Breisgau
+2015,12063,Havelland
+2015,9775,Neu-Ulm
+2015,16070,Ilm-Kreis
+2015,7233,Vulkaneifel
+2015,16073,Saalfeld-Rudolstadt
+2015,16072,Sonneberg
+2015,16069,Hildburghausen
+2015,7131,Ahrweiler
+2015,7138,Neuwied
+2015,3355,Lüneburg
+2015,15082,Anhalt-Bitterfeld
+2015,3462,Wittmund
+2015,3257,Schaumburg
+2015,9177,Erding
+2015,5754,Gütersloh
+2015,9573,Fürth (Landkreis)
+2015,8211,Baden-Baden
+2015,3151,Gifhorn
+2015,9162,München (Kreisfreie Stadt)
+2015,9571,Ansbach (Landkreis)
+2015,5117,Mülheim an der Ruhr
+2015,1058,Rendsburg-Eckernförde
+2015,15089,Salzlandkreis
+2015,1055,Ostholstein
+2015,9183,Mühldorf a. Inn
+2015,9273,Kelheim
+2015,7137,Mayen-Koblenz
+2015,5954,Ennepe-Ruhr-Kreis
+2014,3401,Delmenhorst
+2014,3458,Oldenburg
+2014,5913,Dortmund
+2014,5914,Hagen
+2014,6611,Kassel (Kreisfreie Stadt)
+2014,7232,Eifelkreis Bitburg-Prüm
+2014,9273,Kelheim
+2014,9574,Nürnberger Land
+2014,9477,Kulmbach
+2014,14625,Bautzen
+2014,8136,Ostalbkreis
+2014,8116,Esslingen
+2014,9371,Amberg-Sulzbach
+2014,9763,Kempten (Allgäu)
+2014,16063,Eisenach und Wartburgkreis
+2014,9188,Starnberg
+2014,7134,Birkenfeld
+2014,9163,Rosenheim (Kreisfreie Stadt)
+2014,15002,Halle (Saale)
+2014,9171,Altötting
+2014,9181,Landsberg am Lech
+2014,7339,Mainz-Bingen
+2014,7140,Rhein-Hunsrück-Kreis
+2014,8417,Zollernalbkreis
+2014,8437,Sigmaringen
+2014,9771,Aichach-Friedberg
+2014,9779,Donau-Ries
+2014,5362,Rhein-Erft-Kreis
+2014,6535,Vogelsbergkreis
+2014,7111,Koblenz
+2014,9565,Schwabach
+2014,8416,Tübingen
+2014,5111,Düsseldorf
+2014,6631,Fulda
+2014,3157,Peine
+2014,5711,Bielefeld
+2014,8231,Pforzheim
+2014,9675,Kitzingen
+2014,8325,Rottweil
+2014,1058,Rendsburg-Eckernförde
+2014,8236,Enzkreis
+2014,5758,Herford
+2014,5774,Paderborn
+2014,6439,Rheingau-Taunus-Kreis
+2014,5158,Mettmann
+2014,5562,Recklinghausen
+2014,5978,Unna
+2014,5119,Oberhausen
+2014,10043,Neunkirchen
+2014,7132,Altenkirchen (Westerwald)
+2014,6533,Limburg-Weilburg
+2014,3156,Osterode am Harz
+2014,9262,Passau (Kreisfreie Stadt)
+2014,10042,Merzig-Wadern
+2014,8212,Karlsruhe (Stadtkreis)
+2014,3254,Hildesheim
+2014,3403,Oldenburg (Oldb)
+2014,9673,Rhön-Grabfeld
+2014,5382,Rhein-Sieg-Kreis
+2014,9761,Augsburg (Kreisfreie Stadt)
+2014,9772,Augsburg (Landkreis)
+2014,9277,Rottal-Inn
+2014,1001,Flensburg
+2014,7143,Westerwaldkreis
+2014,3102,Salzgitter
+2014,3158,Wolfenbüttel
+2014,16053,Jena
+2014,9464,Hof (Kreisfreie Stadt)
+2014,7317,Pirmasens
+2014,8421,Ulm
+2014,3355,Lüneburg
+2014,9176,Eichstätt
+2014,8415,Reutlingen
+2014,5512,Bottrop
+2014,16069,Hildburghausen
+2014,5570,Warendorf
+2014,9571,Ansbach (Landkreis)
+2014,8127,Schwäbisch Hall
+2014,16062,Nordhausen
+2014,15001,Dessau-Roßlau
+2014,9476,Kronach
+2014,9473,Coburg (Landkreis)
+2014,9674,Haßberge
+2014,9762,Kaufbeuren
+2014,9462,Bayreuth (Kreisfreie Stadt)
+2014,8221,Heidelberg
+2014,16072,Sonneberg
+2014,6433,Groß-Gerau
+2014,16055,Weimar
+2014,5558,Coesfeld
+2014,9161,Ingolstadt
+2014,3461,Wesermarsch
+2014,9561,Ansbach (Kreisfreie Stadt)
+2014,7320,Zweibrücken
+2014,7318,Speyer
+2014,5515,Münster
+2014,3354,Lüchow-Dannenberg
+2014,5915,Hamm
+2014,9177,Erding
+2014,9185,Neuburg-Schrobenhausen
+2014,1061,Steinburg
+2014,3256,Nienburg (Weser)
+2014,5754,Gütersloh
+2014,3404,Osnabrück (Kreisfreie Stadt)
+2014,9474,Forchheim
+2014,9572,Erlangen-Höchstadt
+2014,9174,Dachau
+2014,9563,Fürth (Kreisfreie Stadt)
+2014,7316,Neustadt an der Weinstraße
+2014,9573,Fürth (Landkreis)
+2014,9190,Weilheim-Schongau
+2014,1057,Plön
+2014,9576,Roth
+2014,3101,Braunschweig
+2014,16052,Gera
+2014,16054,Suhl
+2014,16066,Schmalkalden-Meiningen
+2014,5154,Kleve
+2014,7319,Worms
+2014,5170,Wesel
+2014,6431,Bergstraße
+2014,5378,Rheinisch-Bergischer Kreis
+2014,5166,Viersen
+2014,8436,Ravensburg
+2014,7131,Ahrweiler
+2014,15086,Jerichower Land
+2014,8121,Heilbronn (Stadtkreis)
+2014,7135,Cochem-Zell
+2014,16056,Eisenach
+2014,5122,Solingen
+2014,5114,Krefeld
+2014,16067,Gotha
+2014,16064,Unstrut-Hainich-Kreis
+2014,5116,Mönchengladbach
+2014,15087,Mansfeld-Südharz
+2014,9764,Memmingen
+2014,9361,Amberg
+2014,9463,Coburg (Kreisfreie Stadt)
+2014,1002,Kiel
+2014,3451,Ammerland
+2014,8237,Freudenstadt
+2014,3455,Friesland
+2014,9184,München (Landkreis)
+2014,6634,Schwalm-Eder-Kreis
+2014,9179,Fürstenfeldbruck
+2014,7231,Bernkastel-Wittlich
+2014,5124,Wuppertal
+2014,9471,Bamberg (Landkreis)
+2014,6434,Hochtaunuskreis
+2014,5117,Mülheim an der Ruhr
+2014,8311,Freiburg im Breisgau
+2014,9478,Lichtenfels
+2014,3452,Aurich
+2014,3462,Wittmund
+2014,5766,Lippe
+2014,16077,Altenburger Land
+2014,16061,Eichsfeld
+2014,6636,Werra-Meißner-Kreis
+2014,1003,Lübeck
+2014,16074,Saale-Holzland-Kreis
+2014,15003,Magdeburg
+2014,15091,Wittenberg
+2014,3251,Diepholz
+2014,5974,Soest
+2014,5962,Märkischer Kreis
+2014,9178,Freising
+2014,5374,Oberbergischer Kreis
+2014,5112,Duisburg
+2014,6412,Frankfurt am Main
+2014,9577,Weißenburg-Gunzenhausen
+2014,5770,Minden-Lübbecke
+2014,9162,München (Kreisfreie Stadt)
+2014,7334,Germersheim
+2014,5970,Siegen-Wittgenstein
+2014,8226,Rhein-Neckar-Kreis
+2014,7233,Vulkaneifel
+2014,6534,Marburg-Biedenkopf
+2014,5366,Euskirchen
+2014,15084,Burgenlandkreis
+2014,9279,Dingolfing-Landau
+2014,5513,Gelsenkirchen
+2014,7313,Landau in der Pfalz
+2014,7314,Ludwigshafen am Rhein
+2014,6413,Offenbach am Main
+2014,6440,Wetteraukreis
+2014,7331,Alzey-Worms
+2014,5113,Essen
+2014,3151,Gifhorn
+2014,2000,Hamburg
+2014,7315,Mainz
+2014,1055,Ostholstein
+2014,16076,Greiz
+2014,8435,Bodenseekreis
+2014,9263,Straubing
+2014,9678,Schweinfurt (Landkreis)
+2014,7336,Kusel
+2014,9278,Straubing-Bogen
+2014,1062,Stormarn
+2014,5954,Ennepe-Ruhr-Kreis
+2014,3359,Stade
+2014,15083,Börde
+2014,15081,Altmarkkreis Salzwedel
+2014,10044,Saarlouis
+2014,9376,Schwandorf
+2014,14626,Görlitz
+2014,1054,Nordfriesland
+2014,9461,Bamberg (Kreisfreie Stadt)
+2014,12054,Potsdam
+2014,7235,Trier-Saarburg
+2014,6414,Wiesbaden
+2014,12052,Cottbus
+2014,5120,Remscheid
+2014,7141,Rhein-Lahn-Kreis
+2014,13071,Mecklenburgische Seenplatte
+2014,5911,Bochum
+2014,3241,Region Hannover
+2014,3257,Schaumburg
+2014,8117,Göppingen
+2014,8317,Ortenaukreis
+2014,1004,Neumünster
+2014,8222,Mannheim
+2014,12060,Barnim
+2014,13004,Schwerin
+2014,12062,Elbe-Elster
+2014,12051,Brandenburg an der Havel
+2014,9375,Regensburg (Landkreis)
+2014,6633,Kassel (Landkreis)
+2014,12067,Oder-Spree
+2014,12069,Potsdam-Mittelmark
+2014,5316,Leverkusen
+2014,3405,Wilhelmshaven
+2014,7211,Trier
+2014,16051,Erfurt
+2014,9671,Aschaffenburg (Landkreis)
+2014,6435,Main-Kinzig-Kreis
+2014,8225,Neckar-Odenwald-Kreis
+2014,16065,Kyffhäuserkreis
+2014,9778,Unterallgäu
+2014,9663,Würzburg (Kreisfreie Stadt)
+2014,14729,Leipzig (Landkreis)
+2014,5916,Herne
+2014,7312,Kaiserslautern (Kreisfreie Stadt)
+2014,14511,Chemnitz
+2014,14713,Leipzig (Kreisfreie Stadt)
+2014,6632,Hersfeld-Rotenburg
+2014,9175,Ebersberg
+2014,9374,Neustadt a.d. Waldnaab
+2014,8215,Karlsruhe (Landkreis)
+2014,4011,Bremen
+2014,9479,Wunsiedel i. Fichtelgebirge
+2014,3356,Osterholz
+2014,7333,Donnersbergkreis
+2014,7133,Bad Kreuznach
+2014,11000,Berlin
+2014,9575,Neustadt a.d. Aisch-Bad Windsheim
+2014,9373,Neumarkt i.d. OPf.
+2014,3360,Uelzen
+2014,5162,Rhein-Kreis Neuss
+2014,3456,Grafschaft Bentheim
+2014,9363,Weiden i.d. OPf.
+2014,8335,Konstanz
+2014,8336,Lörrach
+2014,13075,Vorpommern-Greifswald
+2014,14522,Mittelsachsen
+2014,8337,Waldshut
+2014,5314,Bonn
+2014,12053,Frankfurt (Oder)
+2014,13072,Rostock (Landkreis)
+2014,3153,Goslar
+2014,12071,Spree-Neiße
+2014,14730,Nordsachsen
+2014,13076,Ludwigslust-Parchim
+2014,3357,Rotenburg (Wümme)
+2014,5958,Hochsauerlandkreis
+2014,9472,Bayreuth (Landkreis)
+2014,9261,Landshut (Kreisfreie Stadt)
+2014,9661,Aschaffenburg (Kreisfreie Stadt)
+2014,9362,Regensburg (Kreisfreie Stadt)
+2014,5358,Düren
+2014,15085,Harz
+2014,1056,Pinneberg
+2014,9562,Erlangen
+2014,9564,Nürnberg
+2014,3353,Harburg
+2014,9662,Schweinfurt (Kreisfreie Stadt)
+2014,15089,Salzlandkreis
+2014,8128,Main-Tauber-Kreis
+2014,9679,Würzburg (Landkreis)
+2014,16068,Sömmerda
+2014,16073,Saalfeld-Rudolstadt
+2014,9274,Landshut (Landkreis)
+2014,12073,Uckermark
+2014,10046,St. Wendel
+2014,15082,Anhalt-Bitterfeld
+2014,5966,Olpe
+2014,3255,Holzminden
+2014,7138,Neuwied
+2014,8111,Stuttgart
+2014,6411,Darmstadt
+2014,9186,Pfaffenhofen a.d. Ilm
+2014,9183,Mühldorf a. Inn
+2014,8119,Rems-Murr-Kreis
+2014,3352,Cuxhaven
+2014,4012,Bremerhaven
+2014,3361,Verden
+2014,5315,Köln
+2014,6531,Gießen
+2014,9775,Neu-Ulm
+2014,13003,Rostock (Kreisfreie Stadt)
+2014,3358,Heidekreis
+2014,15090,Stendal
+2014,6438,Offenbach
+2014,3152,Göttingen
+2014,12070,Prignitz
+2014,9774,Günzburg
+2014,9776,Lindau (Bodensee)
+2014,7332,Bad Dürkheim
+2014,16071,Weimarer Land
+2014,16070,Ilm-Kreis
+2014,15088,Saalekreis
+2014,8211,Baden-Baden
+2014,1059,Schleswig-Flensburg
+2014,12072,Teltow-Fläming
+2014,9676,Miltenberg
+2014,7340,Südwestpfalz
+2014,9777,Ostallgäu
+2014,9672,Bad Kissingen
+2014,8125,Heilbronn (Landkreis)
+2014,12061,Dahme-Spreewald
+2014,9275,Passau (Landkreis)
+2014,6436,Main-Taunus-Kreis
+2014,9677,Main-Spessart
+2014,10045,Saarpfalz-Kreis
+2014,12068,Ostprignitz-Ruppin
+2014,8316,Emmendingen
+2014,9780,Oberallgäu
+2014,9187,Rosenheim (Landkreis)
+2014,14523,Vogtlandkreis
+2014,9372,Cham
+2014,1051,Dithmarschen
+2014,9276,Regen
+2014,9172,Berchtesgadener Land
+2014,8118,Ludwigsburg
+2014,12065,Oberhavel
+2014,5762,Höxter
+2014,9180,Garmisch-Partenkirchen
+2014,8115,Böblingen
+2014,7335,Kaiserslautern (Landkreis)
+2014,14612,Dresden
+2014,8315,Breisgau-Hochschwarzwald
+2014,3457,Leer
+2014,9182,Miesbach
+2014,8326,Schwarzwald-Baar-Kreis
+2014,3402,Emden
+2014,1060,Segeberg
+2014,7337,Südliche Weinstraße
+2014,5554,Borken
+2014,9189,Traunstein
+2014,9475,Hof (Landkreis)
+2014,5566,Steinfurt
+2014,3454,Emsland
+2014,16075,Saale-Orla-Kreis
+2014,8135,Heidenheim
+2014,6532,Lahn-Dill-Kreis
+2014,3460,Vechta
+2014,9773,Dillingen a.d. Donau
+2014,7311,Frankenthal (Pfalz)
+2014,8327,Tuttlingen
+2014,3453,Cloppenburg
+2014,3459,Osnabrück (Landkreis)
+2014,7338,Rhein-Pfalz-Kreis
+2014,12066,Oberspreewald-Lausitz
+2014,3154,Helmstedt
+2014,9377,Tirschenreuth
+2014,8126,Hohenlohekreis
+2014,5334,Städteregion Aachen
+2014,12063,Havelland
+2014,3252,Hameln-Pyrmont
+2014,3103,Wolfsburg
+2014,13074,Nordwestmecklenburg
+2014,3351,Celle
+2014,12064,Märkisch-Oderland
+2014,7137,Mayen-Koblenz
+2014,6635,Waldeck-Frankenberg
+2014,6432,Darmstadt-Dieburg
+2014,8425,Alb-Donau-Kreis
+2014,8426,Biberach
+2014,6437,Odenwaldkreis
+2014,5370,Heinsberg
+2014,8216,Rastatt
+2014,9173,Bad Tölz-Wolfratshausen
+2014,8235,Calw
+2014,10041,Regionalverband Saarbrücken
+2014,3155,Northeim
+2014,1053,Herzogtum Lauenburg
+2014,13073,Vorpommern-Rügen
+2014,14521,Erzgebirgskreis
+2014,14627,Meißen
+2014,14628,Sächsische Schweiz-Osterzgebirge
+2014,9272,Freyung-Grafenau
+2014,9271,Deggendorf
+2014,14524,Zwickau

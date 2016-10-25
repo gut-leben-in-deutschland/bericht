@@ -1,0 +1,13 @@
+id,title,group,key_fact_value,key_fact_unit,key_fact_text,keywords
+01,**Healthy** throughout life,Our life,3,Months,People in Germany are living three months longer every year.,KEYWORD 1
+02,Good **work** and equitable participation,Our life,4,Millions,Today 4 million more people have jobs than they did shortly after Germany’s reunification.,KEYWORD 1
+03,Equal **educational opportunities** for all,Our life,16,%,"Despite measurable progress, every sixth young person with an immigrant background leaves school too early.",KEYWORD 1
+04,Having **time** for family and work,Our life,6,%,"The rate of those in part-time work is approximately 70% for working mothers with minor children, but is only 6% for working fathers.",KEYWORD 1
+05,A secure **income**,Our life,13/31,,Germany ranks 13 of 31 OECD countries in terms of income inequality.,KEYWORD 1
+06,Living a life in **security** and **freedom**,Our environment,-17,%,Violent crime dropped by about 17% between 2007 and 2015.,KEYWORD 1
+07,**At home** in urban and rural areas,Our environment,1/3,,Nearly a third of people in Germany need more than half an hour to reach the nearest large city by public transport. When travelling by car this rate is only 1%.,KEYWORD 1
+08,**Standing together** in family and society,Our environment,+28,%,One in four Germans is involved in volunteer work. This represents a 28% increase from 1999.,KEYWORD 1
+09,"Strengthening the **economy**, investing in the **future**",Our country,+34,%,Economic performance per capita has increased 34% since 1991.,KEYWORD 1
+10,"Preserving **nature**, protecting the **environment**",Our country,-9,%,Energy consumption has dropped by some 9% since 1991.,KEYWORD 1
+11,Living **freely** and **equal before the law**,Our country,70,%,Voter turnout for Bundestag elections was more than 90% in the 1970s. The most recent voter turnout was just over 70%.,KEYWORD 1
+12,Acting with global **responsibility** and securing **peace**,Our country,+1/3,,Annual global greenhouse gas emissions have increased by around a third since 1990.,KEYWORD 1

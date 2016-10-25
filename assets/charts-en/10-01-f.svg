@@ -1,0 +1,272 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="996" style="height:996px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,16)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:38.34375px;fill:#666666;">
+            Sweden
+        </text>
+        <line y1="8" y2="8" x1="172.82" x2="242.09500000000003" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="185.04500000000002" width="19.559999999999974" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="193.195" x2="193.195" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,48)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:36.03125px;fill:#666666;">
+            Estonia
+        </text>
+        <line y1="8" y2="8" x1="191.565" x2="216.82999999999998" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="194.825" width="19.560000000000002" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="202.16" x2="202.16" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,80)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:36.375px;fill:#666666;">
+            Finland
+        </text>
+        <line y1="8" y2="8" x1="189.935" x2="219.27499999999998" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="200.53" width="6.52000000000001" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="204.605" x2="204.605" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,112)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.859375px;fill:#666666;">
+            Spain
+        </text>
+        <line y1="8" y2="8" x1="180.155" x2="297.515" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="206.235" width="27.70999999999998" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="216.82999999999998" x2="216.82999999999998" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,144)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.796875px;fill:#666666;">
+            Portugal
+        </text>
+        <line y1="8" y2="8" x1="172.82" x2="264.1" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="192.38" width="49.71500000000003" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="220.09" x2="220.09" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,176)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.84375px;fill:#666666;">
+            Greece
+        </text>
+        <line y1="8" y2="8" x1="231.5" x2="231.5" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="231.5" width="0" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="231.5" x2="231.5" y2="16" stroke-width="1px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,208)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:44.953125px;fill:#666666;">
+            Denmark
+        </text>
+        <line y1="8" y2="8" x1="217.64499999999998" x2="287.735" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="231.5" width="15.485000000000014" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="236.39" x2="236.39" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,240)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:34.953125px;fill:#666666;">
+            Ireland
+        </text>
+        <line y1="8" y2="8" x1="214.385" x2="272.25" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="229.87" width="10.594999999999999" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="239.64999999999998" x2="239.64999999999998" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,272)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:27.984375px;fill:#666666;">
+            Malta
+        </text>
+        <line y1="8" y2="8" x1="235.575" x2="295.07000000000005" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="238.835" width="30.155" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="242.91" x2="242.91" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,304)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:80.46875px;fill:#666666;">
+            United Kingdom
+        </text>
+        <line y1="8" y2="8" x1="199.715" x2="313.815" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="243.72500000000002" width="22.004999999999995" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="254.32" x2="254.32" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,336)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:28.9375px;fill:#666666;">
+            Latvia
+        </text>
+        <line y1="8" y2="8" x1="224.98" x2="299.96" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="242.09500000000003" width="48.08499999999998" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="267.36" x2="267.36" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,368)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:60.03125px;fill:#666666;">
+            Netherlands
+        </text>
+        <line y1="8" y2="8" x1="230.685" x2="292.625" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="261.655" width="14.670000000000073" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="268.175" x2="268.175" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,400)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:45.140625px;fill:#666666;">
+            Germany
+        </text>
+        <line y1="8" y2="8" x1="202.16" x2="319.52" stroke-width="3px" stroke="#454545" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#454545;stroke-width:3px;"/>
+        <rect x="257.58" width="22.005000000000052" height="16" fill="#8F8F8F" shape-rendering="crispEdges" style="fill:#8f8f8f;shape-rendering:crispedges;"/>
+        <line x1="268.99" x2="268.99" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,432)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:32.65625px;fill:#666666;">
+            France
+        </text>
+        <line y1="8" y2="8" x1="185.04500000000002" x2="392.87" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="255.95" width="33.41500000000002" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="270.62" x2="270.62" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,464)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:40.296875px;fill:#666666;">
+            Belgium
+        </text>
+        <line y1="8" y2="8" x1="224.16500000000002" x2="316.26" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="261.655" width="32.60000000000002" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="273.88" x2="273.88" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,496)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:61.40625px;fill:#666666;">
+            Luxembourg
+        </text>
+        <line y1="8" y2="8" x1="268.99" x2="283.65999999999997" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="274.695" width="8.150000000000034" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="279.58500000000004" x2="279.58500000000004" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,528)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:34.5px;fill:#666666;">
+            Austria
+        </text>
+        <line y1="8" y2="8" x1="224.98" x2="318.705" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="272.25" width="22.82000000000005" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="283.65999999999997" x2="283.65999999999997" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,560)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.359375px;fill:#666666;">
+            Cyprus
+        </text>
+        <line y1="8" y2="8" x1="254.32" x2="289.365" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="284.475" width="4.074999999999932" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="284.475" x2="284.475" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,592)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:42.828125px;fill:#666666;">
+            Romania
+        </text>
+        <line y1="8" y2="8" x1="213.57" x2="363.53" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="268.175" width="36.67500000000001" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="287.735" x2="287.735" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,624)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:21.96875px;fill:#666666;">
+            Italy
+        </text>
+        <line y1="8" y2="8" x1="195.64" x2="427.09999999999997" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="264.1" width="68.45999999999992" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="290.18" x2="290.18" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,656)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.84375px;fill:#666666;">
+            Hungary
+        </text>
+        <line y1="8" y2="8" x1="273.065" x2="292.625" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="284.475" width="8.149999999999977" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="290.18" x2="290.18" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,688)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:40.0625px;fill:#666666;">
+            Slovakia
+        </text>
+        <line y1="8" y2="8" x1="246.985" x2="355.38" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="278.77" width="40.75" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="301.59000000000003" x2="301.59000000000003" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,720)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:39.890625px;fill:#666666;">
+            Bulgaria
+        </text>
+        <line y1="8" y2="8" x1="193.195" x2="430.36" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="246.985" width="153.2199999999999" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="309.74" x2="309.74" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,752)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:40.8125px;fill:#666666;">
+            Slovenia
+        </text>
+        <line y1="8" y2="8" x1="236.39" x2="326.04" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="290.995" width="26.894999999999982" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="312.185" x2="312.185" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,784)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:45.203125px;fill:#666666;">
+            Lithuania
+        </text>
+        <line y1="8" y2="8" x1="255.95" x2="337.45000000000005" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="286.105" width="40.75" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="316.26" x2="316.26" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,816)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:74.734375px;fill:#666666;">
+            Czech Republic
+        </text>
+        <line y1="8" y2="8" x1="226.61" x2="441.7699999999999" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="287.735" width="40.75" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="316.26" x2="316.26" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,848)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:34.953125px;fill:#666666;">
+            Croatia
+        </text>
+        <line y1="8" y2="8" x1="326.855" x2="348.045" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="331.745" width="10.595000000000027" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="337.45000000000005" x2="337.45000000000005" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,880)" style="">
+        <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:34.15625px;fill:#666666;">
+            Poland
+        </text>
+        <line y1="8" y2="8" x1="246.985" x2="504.525" stroke-width="3px" stroke="#4d7a3b" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#4d7a3b;stroke-width:3px;"/>
+        <rect x="316.26" width="62.754999999999995" height="16" fill="#74b917" shape-rendering="crispEdges" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <line x1="348.045" x2="348.045" y2="16" stroke-width="1px" stroke="#F6F6F0" shape-rendering="crispEdges" style="shape-rendering:crispedges;stroke:#f6f6f0;stroke-width:1px;"/>
+    </g>
+    <g transform="translate(0,912)" style="">
+        <line x1="150" x2="640" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+        <g transform="translate(150,0)" style="">
+            <line y1="-16" y2="-896" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+            <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                0
+            </text>
+        </g>
+        <g transform="translate(394.5,0)" style="">
+            <line y1="-16" y2="-896" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+            <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                30
+            </text>
+        </g>
+        <g transform="translate(639,0)" style="">
+            <line y1="-16" y2="-896" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+            <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:end;">
+                60 
+            </text>
+        </g>
+    </g>
+    <foreignObject x="0" y="936" width="640" height="60" style="display:block;height:60px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
+            <div style="display:block;height:60px;width:640px;">
+                <div style="display:block;height:60px;width:640px;">
+                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  European Environment Agency.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Federal Government
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

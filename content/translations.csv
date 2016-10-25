@@ -1,0 +1,341 @@
+key,de,en
+title,Gut Leben in Deutschland,Wellbeing in Germany
+title-with-line-break,Gut Leben/in Deutschland,Wellbeing/in Germany
+imprint,Impressum,Imprint
+privacy,Datenschutz,Data Privacy
+,,
+header/logo/alt,Logo der Bundesregierung,Logo of the Federal Government
+header/campaign-logo/alt,"Logo ""Gut leben in Deutschland""","Logo ""Wellbeing in Germany"""
+header/contact,Kontakt,Contact
+header/de,German,Deutsch
+header/en,English,Englisch
+header/report,Interaktiver Bericht,Interactive report
+header/dashboard,Indikatoren,Indicators
+header/about,Über den Regierungsbericht,About the goverment report
+header/menu,Menü,Menu
+header/home-link-title,Zur Startseite,To the home page
+,,
+link/government/label,Zur Bundesregierung,To the Federal Government
+link/government/url,https://www.bundesregierung.de/Webs/Breg/DE/Startseite/startseite_node.html,https://www.bundesregierung.de/Webs/Breg/EN/Homepage/_node.html
+link/citizens-dialogue/label,Zum Bürgerdialog,To the National Dialogue
+link/citizens-dialogue/url,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/10234522,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/11452536
+link/sign-language/label,Ge­bär­den­spra­che,Sign Language
+link/sign-language/url,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/12744812,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/13525874
+link/simple-language/label,Leich­te Spra­che,Simple Language
+link/simple-language/url,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/14517485,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/15464125
+link/newsletter/label,Newsletter,Newsletter
+link/newsletter/url,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/16748472,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/17464255
+link/data-on-github/label,Daten auf GitHub,Data on GitHub
+link/data-on-github/url,https://github.com/gut-leben-in-deutschland/bericht,https://github.com/gut-leben-in-deutschland/bericht
+,,
+meta/keywords,"Bericht,Lebensqualität","Report,Wellbeing"
+meta/description,Lebensqualität in Deutschland wird in zwölf Dimensionen beschrieben. Entwicklung und Fortschritte in den Lebensbedingungen der Menschen wird mit  46 Indikatoren gemessen.,Description
+meta/author,Bundesregierung,Federal Government
+,,
+auth/login,Einloggen,Login
+auth/logout,Ausloggen,Logout
+loading,Inhalt lädt,Loading content
+dashboard/cards/n-indicators,Indikatoren,Indicators
+dashboard/cards/no-data-available,Für diesen Indikator gibt es zum jetzigen Zeitpunkt keine Daten,Currently there is no data for this indicator available
+dashboard/show-all-dimensions,Alle Dimensionen anzeigen,Show all dimensions
+,,
+indicator-header/more,mehr,more
+indicator-header/less,weniger,less
+,,
+chapter-nav/pdf-download,PDF herunterladen,Download PDF
+chapter-nav/title,Dimensionen,Dimensions
+bottom-nav-bar/back-to-dashboard,Zurück zu Indikatoren,Back to indicators
+bottom-nav-bar/dimension,Dimension,Dimension
+bottom-nav-bar/extra-chapter,Zusatzkapitel,Extra Chapter
+bottom-nav-bar/back-to-overview,Zurück zur Übersichtsseite,Back to overview
+,,
+extra-chapter-X1/title,Zum Hintergrund von „Gut leben in Deutschland – was uns wichtig ist“,To background information on “Wellbeing in Germany - what matters to us”
+extra-chapter-X1/short-title,Hintergrund zu „Gut leben in Deutschland“,Background information on “Wellbeing in Germany”
+extra-chapter-X2/title,Der Bürgerdialog und seine wissenschaftliche Auswertung,The national dialogue and its scientific evaluation
+extra-chapter-X2/short-title,Bürgerdialog und Auswertung,/indicators/s
+extra-chapter-X3/title,Lebensqualität als Maßstab für Politik,Wellbeing as a benchmark for policy
+extra-chapter-X3/short-title,Lebensqualität als Maßstab für Politik,Wellbeing as a benchmark for policy
+,,
+,,
+route/index,/,/en
+route/404,*,*
+,,
+route/impressum,/impressum,/imprint
+route/datenschutz,/datenschutz,/privacy
+route/contact,/kontakt,/contact
+route/about,/ueber-den-bericht,/about
+route/coming-soon,/coming-soon,/en/coming-soon
+,,
+route/report-01,/bericht/gesundheit,/report/health
+route/report-02,/bericht/arbeit,/report/work
+route/report-03,/bericht/bildung,/report/education
+route/report-04,/bericht/work-life-balance,/report/work-life-balance
+route/report-05,/bericht/einkommen,/report/income
+route/report-06,/bericht/sicherheit,/report/security
+route/report-07,/bericht/wohnen-infrastruktur,/report/life-infrastructure
+route/report-08,/bericht/zusammenhalt,/report/social-cohesion
+route/report-09,/bericht/wirtschaft,/report/economy
+route/report-10,/bericht/umwelt,/report/environment
+route/report-11,/bericht/demokratie-und-freiheit,/report/democracy-and-freedom
+route/report-12,/bericht/globale-verantwortung,/report/global-responsibility
+,,
+route/extra-chapter-X1,/bericht/hintergrund,/report/background
+route/extra-chapter-X2,/bericht/buergerdialog,/report/national-dialogue
+route/extra-chapter-X3,/bericht/massstab-fuer-politik,/report/benchmark-for-policy
+,,
+route/dashboard,/indikatoren,/indicators
+route/dashboard-search,/indikatoren/suche,/indicators/search
+,,
+route/dimension-01,/indikatoren/gesundheit,/indicators/health
+route/dimension-02,/indikatoren/arbeit,/indicators/work
+route/dimension-03,/indikatoren/bildung,/indicators/education
+route/dimension-04,/indikatoren/work-life-balance,/indicators/work-life-balance
+route/dimension-05,/indikatoren/einkommen,/indicators/income
+route/dimension-06,/indikatoren/sicherheit,/indicators/security
+route/dimension-07,/indikatoren/wohnen-infrastruktur,/indicators/life-infrastructure
+route/dimension-08,/indikatoren/zusammenhalt,/indicators/social-cohesion
+route/dimension-09,/indikatoren/wirtschaft,/indicators/economy
+route/dimension-10,/indikatoren/umwelt,/indicators/environment
+route/dimension-11,/indikatoren/demokratie-und-freiheit,/indicators/democracy-and-freedom
+route/dimension-12,/indikatoren/globale-verantwortung,/indicators/global-responsibility
+,,
+route/indicator-01-01,/indikatoren/gesundheit/lebenserwartung,/indicators/health/life-expectancy
+route/indicator-01-02,/indikatoren/gesundheit/fettleibigkeit,/indicators/health/obesity
+route/indicator-01-03,/indikatoren/gesundheit/aerzte,/indicators/health/doctors
+route/indicator-01-04,/indikatoren/gesundheit/pflege,/indicators/health/care
+route/indicator-01-05,/indikatoren/gesundheit/gerechtigkeit,/indicators/health/justice
+,,
+route/indicator-02-01,/indikatoren/arbeit/arbeitslosenquote,/indicators/work/unemployment-rate
+route/indicator-02-03,/indikatoren/arbeit/erwerbstaetigenquote,/indicators/work/employment-rate
+route/indicator-02-04,/indikatoren/arbeit/atypisch,/indicators/work/atypical
+route/indicator-02-05,/indikatoren/arbeit/reale-nettoloehne,/indicators/work/real-net-wages
+route/indicator-02-06,/indikatoren/arbeit/zufriedenheit,/indicators/work/satisfaction
+,,
+route/indicator-03-01,/indikatoren/bildung/abgeschlossen,/indicators/education/school-leavers
+route/indicator-03-02,/indikatoren/bildung/fruehe-schulabgaenger,/indicators/education/early-school-leavers
+route/indicator-03-03,/indikatoren/bildung/bildungsmobilitaet,/indicators/education/educational-mobility
+route/indicator-03-04,/indikatoren/bildung/weiterbildung,/indicators/education/further-education
+,,
+route/indicator-04-01,/indikatoren/work-life-balance/arbeitszeit,/indicators/work-life-balance/working-hours
+route/indicator-04-02,/indikatoren/work-life-balance/kinderbetreuungsquote,/indicators/work-life-balance/childcare-participation-rate
+route/indicator-04-03,/indikatoren/work-life-balance/betreuungspflichten,/indicators/work-life-balance/care-responsibilities
+route/indicator-04-04,/indikatoren/work-life-balance/pendeldauer,/indicators/work-life-balance/length-of-commute
+,,
+route/indicator-05-01,/indikatoren/einkommen/haushaltsnettoeinkommen,/indicators/income/net-household-income
+route/indicator-05-02,/indikatoren/einkommen/gini-koeffizient-einkommen,/indicators/income/gini-coefficient-income
+route/indicator-05-03,/indikatoren/einkommen/gini-koeffizient-vermoegen,/indicators/income/gini-coefficient-wealth
+route/indicator-05-04,/indikatoren/einkommen/armutsrisikoquote,/indicators/income/risk-of-poverty-rate
+route/indicator-05-05,/indikatoren/einkommen/altenquotient,/indicators/income/old-age-dependency-ratio
+,,
+route/indicator-06-01,/indikatoren/sicherheit/kriminalitaetsfurcht,/indicators/security/fear-of-crime
+route/indicator-06-02,/indikatoren/sicherheit/kriminalitaet,/indicators/security/crime
+route/indicator-06-03,/indikatoren/sicherheit/polizeiarbeit,/indicators/security/policing
+route/indicator-06-04,/indikatoren/sicherheit/hasskriminalitaet,/indicators/security/hate-crime
+,,
+route/indicator-07-01,/indikatoren/wohnen-infrastruktur/kosten,/indicators/life-infrastructure/costs
+route/indicator-07-02,/indikatoren/wohnen-infrastruktur/entfernung,/indicators/life-infrastructure/distance
+route/indicator-07-03,/indikatoren/wohnen-infrastruktur/breitbandversorgung,/indicators/life-infrastructure/broadband-access
+,,
+route/indicator-08-01,/indikatoren/zusammenhalt/lebensformen,/indicators/social-cohesion/forms-of-living
+route/indicator-08-02,/indikatoren/zusammenhalt/hilfe,/indicators/social-cohesion/assistance
+route/indicator-08-03,/indikatoren/zusammenhalt/ehrenamt,/indicators/social-cohesion/volunteering
+route/indicator-08-04,/indikatoren/zusammenhalt/sport,/indicators/social-cohesion/sport
+,,
+route/indicator-09-01,/indikatoren/wirtschaft/bip,/indicators/economy/gdp
+route/indicator-09-02,/indikatoren/wirtschaft/investitionsquote,/indicators/economy/investment-rate
+route/indicator-09-03,/indikatoren/wirtschaft/schuldenstandsquote,/indicators/economy/debt-ratio
+route/indicator-09-04,/indikatoren/wirtschaft/fue,/indicators/economy/r-and-d
+route/indicator-09-05,/indikatoren/wirtschaft/unternehmensgruendung,/indicators/economy/business-creation
+,,
+route/indicator-10-01,/indikatoren/umwelt/luftschadstoffe,/indicators/environment/air-pollution
+route/indicator-10-02,/indikatoren/umwelt/landschaftsqualitaet-artenvielfalt,/indicators/environment/countryside-quality-species-diversity
+route/indicator-10-03,/indikatoren/umwelt/energieproduktivitaet,/indicators/environment/energy-productivity
+,,
+route/indicator-11-01,/indikatoren/demokratie-und-freiheit/wahlbeteiligung,/indicators/democracy-and-freedom/voter-turnout
+route/indicator-11-02,/indikatoren/demokratie-und-freiheit/einfluss,/indicators/democracy-and-freedom/influence
+route/indicator-11-03,/indikatoren/demokratie-und-freiheit/grundrechten,/indicators/democracy-and-freedom/fundamental-rights
+,,
+route/indicator-12-01,/indikatoren/globale-verantwortung/treibhausgas,/indicators/global-responsibility/greenhouse-gas
+route/indicator-12-02,/indikatoren/globale-verantwortung/entwicklungszusammenarbeit,/indicators/global-responsibility/development-cooperation
+route/indicator-12-03,/indikatoren/globale-verantwortung/unternehmen,/indicators/global-responsibility/companies
+,,
+share/facebook/sub-label,Teilen via,Share on
+share/facebook/title,Teilen Sie diese Seite auf Facebook,Share this page on Facebook
+share/twitter/sub-label,Teilen via,Share on
+share/twitter/text,Gut Leben in Deutschland,Wellbeing in Germany
+share/twitter/title,Teilen Sie diese Seite auf Twitter,Share this page on Twitter
+share/email/sub-label,Versenden via,Share per
+share/email/label,E-Mail,Email
+share/email/subject,Gut Leben in Deutschland,Wellbeing in Germany
+share/email/body,{url},{url}
+share/email/title,Teilen Sie diese Seite in einer E-Mail,Share this page in an email
+share/csv/sub-label,Download Daten via,Download Data via
+share/csv/label,GitHub Repository,GitHub Repository
+share/csv/title,Sehen Sie die Daten auf GitHub,View the data on GitHub
+share/report/sub-label,Download,Download
+share/report/label,Bericht als PDF,Report as PDF
+share/report/href,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/18795112,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/19335258
+share/report/title,Laden Sie den Regierungsbericht als barrierefreies PDF herunter,Download the government report as an accessible PDF
+,,
+footer/copyright-owner,Bundesregierung soweit nicht anders gekennzeichnet,Federal Government unless stated otherwise
+footer/copyright-year,2016,2016
+,,
+indicator/indicator-in-report,Indikator im interaktiven Bericht,Indicator in the interactive report
+,,
+footnotes/title,Fussnoten,Footnotes
+footnotes/back-to-content,Zurück zum Inhalt,Back to content
+,,
+quotes/opening,„,“
+quotes/closing,“,”
+,,
+report/government-measures-title,Was tut die Bundesregierung?,What Does the Government Do?
+report/indicators-of-this-chapter,Indikatoren dieses Kapitels,Indicators of this chapter
+report/intro/scroll-down-to-content,Runterscrollen zum Inhalt dieses Kapitels,Scroll down to the content of this chapter
+,,
+landing-page/table-of-contents/heading,Inhaltsübersicht,Heading
+landing-page/table-of-contents/dimensions,Dimensionen,Dimensions
+landing-page/table-of-contents/report,Interaktiver Bericht,Interactive report
+landing-page/table-of-contents/indicators,Indikatoren,Indicators
+,,
+landing-page/indicator-bar/label,Indikatoren,Indicators
+,,
+landing-page/detail-view/read-report,Interaktiver Bericht,Interactive report
+landing-page/detail-view/view-indicators,Indikatoren,Indicators
+,,
+landing-page/mobile/menu/report/paragraph, , 
+landing-page/mobile/menu/report/button-label,Lesen,Read
+,,
+landing-page/mobile/menu/indicators/paragraph, , 
+landing-page/mobile/menu/indicators/button-label,Anzeigen,Show
+,,
+landing-page/mobile/menu/read,Lesen,Read
+landing-page/mobile/menu/view,Ansehen,View
+,,
+format/pow6/suffix, Mio.,m
+format/pow9/suffix, Mrd.,b
+,,
+charts/y-cut,Achse gekürzt,Abbreviated axis
+charts/source,Quelle:,Source:
+charts/geo-base,Geometrische Grundlage:,Geometrische Grundlage:
+charts/copyright,CC BY 4.0 Bundesregierung,CC BY 4.0 Federal Government
+charts/confidence95-legend,95-Prozent-Konfidenzintervall,95-per-cent-confidence-interval
+charts/license/label,Datenlizenz:,Data license
+charts/github/url,https://github.com/gut-leben-in-deutschland/bericht/tree/master/content/{dataFile},https://github.com/gut-leben-in-deutschland/bericht/tree/master/content/{dataFile}
+charts/github/label,Daten auf GitHub ansehen,View the data on GitHub
+charts/image/label,Grafik herunterladen,Download chart
+charts/image/byline,Regierungsstrategie zur Lebensqualität in Deutschland,Government strategy on wellbeing in Germany
+charts/static/03-03-a/label-1,Insgesamt,Overall
+charts/static/03-03-a/label-2,zu Hause versorgt,Home care
+charts/static/03-03-a/label-3,Vollstationär in Heimen,Inpatient care in homes
+charts/static/03-03-a/label-4,Allein durch Angehörige,Cared for by relatives alone
+charts/static/03-03-a/label-5,Zusammen mit/durch amulante Pflegedienste,Together with/by outpatient care services
+charts/static/03-03-a/label-6,Schulabschluss der Eltern,Parents’ education level
+charts/static/03-03-a/label-7,Schulabschluss der Kinder,Children’s education level
+charts/static/03-03-a/label-8,Fachhochschul- oder Hochschulreife,Vocational school or university entrance qualification
+charts/static/03-03-a/label-9,Haupt- oder Realschulabschluss,Secondary school graduation
+charts/static/03-03-a/label-10,Kein Schulabschluss,No school graduation
+,,
+flagship/01/source_url,http://www.demogr.mpg.de/de/news_presse/news/press/von_der_ost_west_kluft_zum_flickenteppich_4281.htm,http://www.demogr.mpg.de/en/news_press/news/press/from_east_west_divide_to_patchwork_quilt_4281.htm
+flagship/01/source_label,Max-Planck-Institut für demografische Forschung,Max Planck Institute for Demographic Research
+flagship/01/source_annotation,,
+flagship/02/source_url,,
+flagship/02/source_label,,
+flagship/02/source_annotation,"Laufende Raumbeobachtung des BBSR, Statistik der Bundesagentur für Arbeit.","Ongoing spatial observation by the BSSR, statistics by the German Federal Employment Agency."
+flagship/04/source_url,,
+flagship/04/source_label,,
+flagship/04/source_annotation,"Berechnungen des DIW Berlin, SOEPv31.1.","Calculations by DIW Berlin, SOEPv31.1."
+flagship/05/source_url,,
+flagship/05/source_label,,
+flagship/05/source_annotation,"Berechnungen des DIW Berlin, SOEPv31.1.","Calculations by DIW Berlin, SOEPv31.1."
+flagship/07/source_url,,
+flagship/07/source_label,,
+flagship/07/source_annotation,"BMVI, TÜV Rheinland.","BMVI, TÜV Rheinland."
+flagship/08/source_url,,
+flagship/08/source_label,,
+flagship/08/source_annotation,Freiwilligensurvey 2014,Freiwilligensurvey 2014.
+flagship/10/source_url,,
+flagship/10/source_label,,
+flagship/10/source_annotation,Umweltbundesamt 2015.,German Environment Agency 2015.
+flagship/11/source_url,,
+flagship/11/source_label,,
+flagship/11/source_annotation,"Allgemeine Bundestagswahlstatistik des Bundes und der Länder, Laufende Raumbeobachtung des BBSR","General Bundestag election statistics by the federal and state governments, ongoing spatial observation by the BSSR."
+,,
+flagship/location-select/no-result,Keine Gemeinde gefunden,No municipality found
+flagship/location-select/minimum-input,Min. drei Buchstaben,At least three letters
+flagship/location-select/loading,Lädt,Loading
+flagship/location-select/title,Gemeinde,municipality
+flagship/annual-income/label,Jahreseinkommen aller Personen,Annual income of all persons
+flagship/annual-income/placeholder,Jahreseinkommen in €,Annual income in €
+flagship/family-size/adults,Erwachsene,Adults
+flagship/family-size/children,Kinder,Children
+flagship/map-dots/threshold,Grenzwert,Threshold
+flagship/map-dots/legendTitle,NO<sub>2</sub> Jahresmittelwert in Mikrogramm pro Kubikmeter (µg/m<sup>3</sup>),NO<sub>2</sub> Annual average in microgrammes per cubic metre (µg/m<sup>3</sup>)
+flagship/leisure-time/label,Monatlicher Umfang des Engagements in Minuten,Monthly engagement level in minutes
+flagship/leisure-time/placeholder, , 
+flagship/leisure-time/minutes,Minuten,Minutes
+flagship/working-hours/placeholder,Arbeitszeit,Working hours
+flagship/working-hours/unit,Stunden,Hours
+flagship/working-hours/desired/label,Gewünschte Arbeitszeit,Desired working hours
+flagship/working-hours/actual/label,Tatsächliche Arbeitszeit,Actual working hours
+flagship/working-hours/over,über,over
+flagship/working-hours/under,unter,under
+,,
+flagship/percentiles/percentile-label,{percentile}. Perzentilgrenze,{percentile}th percentile
+,,
+flagship/difference-bars/01/legend-title,Lebenserwartung in Jahren,Life expectancy in years
+flagship/difference-bars/01/x-axis/left,Kreise mit geringerer Lebenserwartung,Districts with lower life expectancy
+flagship/difference-bars/01/x-axis/right,Kreise mit höherer Lebenserwartung,Districts with higher life expectancy
+flagship/difference-bars/02/legend-title,Arbeitslosenquote,Unemployment rate
+flagship/difference-bars/02/x-axis/left,Kreise mit geringerer Arbeitslosenquote,Districts with lower unemployment rate
+flagship/difference-bars/02/x-axis/right,Kreise mit höherer Arbeitslosenquote,Districts with higher unemployment rate
+flagship/difference-bars/07/legend-title,Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s,Share of households with availability of 50 Mbit/s
+flagship/difference-bars/07/x-axis/left,Kreise mit geringerer Verfügbarkeit,Districts with less availability
+flagship/difference-bars/07/x-axis/right,Kreise mit höherer Verfügbarkeit,Districts with higher availability
+flagship/difference-bars/11/legend-title,Wahlbeiligung bei Bundestagswahlen,Voter turnout at Bundestag elections
+flagship/difference-bars/11/x-axis/left,Kreise mit geringerer Wahlbeiligung,Districts with lower voter turnout
+flagship/difference-bars/11/x-axis/right,Kreise mit höherer Wahlbeiligung,Districts with higher voter turnout
+,,
+search-bar/search,Suche,Search
+search-bar/title,Indikatorensuche,Indicator search
+search-bar/sub-label/dimension,Dimension,Dimension
+search-bar/sub-label/indicator,Indikator,Indicator
+search-bar/no-indicator-found,Kein Indikator gefunden,No indicator found
+search-bar/result-count/singular,Ein Ergebnis,One result
+search-bar/result-count/plural,{count} Ergebnisse,{count} results
+,,
+flagship/percentiles/05/center-text,100 Personen,100 people
+flagship/percentiles/05/our-label,Unser Einkommen,Our income
+flagship/percentiles/05/lower-label,haben ein **geringeres** Einkommen,have a **lower** income
+flagship/percentiles/05/higher-label,haben ein **größeres** Einkommen,have a **higher** income
+flagship/percentiles/05/left-axis-label,geringe Einkommen,low
+flagship/percentiles/05/right-axis-label,große Einkommen,high
+flagship/percentiles/05/unit,€,€
+,,
+flagship/percentiles/08/center-text,100 Personen,100 people
+flagship/percentiles/08/our-label,Mein Engagement,My engagement
+flagship/percentiles/08/lower-label,engagieren sich weniger,less engaged
+flagship/percentiles/08/higher-label,engagieren sich mehr,more engaged
+flagship/percentiles/08/left-axis-label,kleiner Umfang,small amount
+flagship/percentiles/08/right-axis-label,grosser Umfang,large amount
+flagship/percentiles/08/unit,Minuten,Minutes
+,,
+flagship/multiple-percentiles/desired-working-hours,Gewünschte Arbeitszeit,Desired working hours
+flagship/multiple-percentiles/actual-working-hours,Tatsächliche Arbeitszeit,Actual working hours
+flagship/multiple-percentiles/male,Männer,Men
+flagship/multiple-percentiles/female,Frauen,Women
+flagship/multiple-percentiles/wish-less,wünschen sich **weniger**,wish **less**
+flagship/multiple-percentiles/wish-more,wünschen sich **mehr**,wish **more**
+flagship/multiple-percentiles/work-less,arbeiten **weniger**,work **less**
+flagship/multiple-percentiles/work-more,arbeiten **mehr**,work **more**
+flagship/multiple-percentiles/your-desired-working-hours,Ihre gewünschte Arbeitszeit,Your desired working hours
+flagship/multiple-percentiles/your-actual-working-hours,Ihre tatsächliche Arbeitszeit,Your actual working hours
+,,
+link-title/external,Link zu externer Seite,Link to an external website
+link-title/target-blank,Link öffnet ein neues Fenster,Link opens a new window
+link-title/email,Link öffnet Ihr E-Mail-Programm,Link opens your email client
+,,
+landing-page/cover/read-report,Interaktiver Bericht,Interactive Report
+landing-page/cover/view-indicators,Indikatoren,Indicators
+landing-page/cover/pdf,Regierungsbericht als PDF herunterladen,Download the government report as PDF
+,,
+landing-page/table-of-contents/report-short,Bericht,Report

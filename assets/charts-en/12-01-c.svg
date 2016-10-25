@@ -1,0 +1,381 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,24)" style="">
+        <g transform="translate(0,241)" style="">
+            <line x1="0" x2="482" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <line x1="482" x2="510" stroke-dasharray="2 2" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-dasharray:2px, 2px;stroke-width:1px;"/>
+            <line x1="510" x2="530" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <line x1="530" x2="558" stroke-dasharray="2 2" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-dasharray:2px, 2px;stroke-width:1px;"/>
+            <line x1="558" x2="640" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(72,0)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    1990
+                </text>
+            </g>
+            <g transform="translate(472,0)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2015
+                </text>
+            </g>
+            <g transform="translate(520,0)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2020
+                </text>
+            </g>
+            <g transform="translate(568,0)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2050
+                </text>
+            </g>
+        </g>
+        <rect x="514" y="120.208" width="12" height="119.792" shape-rendering="crispEdges" fill="#DDDDDD" style="fill:#dddddd;shape-rendering:crispedges;"/>
+        <rect x="562" y="200.064" width="12" height="39.93600000000001" shape-rendering="crispEdges" fill="#DDDDDD" style="fill:#dddddd;shape-rendering:crispedges;"/>
+        <g transform="translate(66,0)" style="">
+            <rect y="71.84655803550402" width="12" height="168.15344196449598" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="52.89572845759997" width="12" height="18.950829577904045" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="42.45748002985599" width="12" height="10.438248427743986" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="41.536513006815994" width="12" height="0.9209670230399922" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="40.828033305727985" width="12" height="0.7084797010880095" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="40.338396265727994" width="12" height="0.489637039999991" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="40.337295465728005" width="12" height="0.0011007999999890217" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(82,0)" style="">
+            <rect y="77.907701781664" width="12" height="162.092298218336" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="59.849883109344034" width="12" height="18.057818672319968" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="49.79800993998401" width="12" height="10.051873169360022" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="48.95278668777604" width="12" height="0.8452232522079726" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="48.19344608468805" width="12" height="0.7593406030879919" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="47.768706324688026" width="12" height="0.42473976000002267" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="47.76760552468804" width="12" height="0.0011007999999890217" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(98,0)" style="">
+            <rect y="85.608772011936" width="12" height="154.391227988064" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="68.10055790028801" width="12" height="17.508214111647987" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="57.886986678591995" width="12" height="10.213571221696014" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="57.00543242433602" width="12" height="0.881554254255974" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="56.16738328331198" width="12" height="0.8380491410240438" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="55.782244283312" width="12" height="0.385138999999981" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="55.78114348331201" width="12" height="0.0011007999999890217" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(162,0)" style="">
+            <rect y="86.677275643072" width="12" height="153.322724356928" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="70.46624743147197" width="12" height="16.211028211600023" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="60.45681975057599" width="12" height="10.009427680895982" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="59.22200390601597" width="12" height="1.2348158445600177" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="58.23600510339196" width="12" height="0.9859988026240103" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="57.909415153103936" width="12" height="0.3265899502880245" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="57.90825977177593" width="12" height="0.0011553813280045233" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(114,0)" style="">
+            <rect y="87.137236853296" width="12" height="152.862763146704" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="69.54236337319998" width="12" height="17.594873480096027" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="59.771640885503984" width="12" height="9.770722487695991" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="58.53828200606401" width="12" height="1.233358879439976" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="57.58250738614399" width="12" height="0.955774619920021" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="57.22148501393599" width="12" height="0.36102237220799793" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="57.220384213936" width="12" height="0.0011007999999890217" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(130,0)" style="">
+            <rect y="89.74412919775997" width="12" height="150.25587080224003" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="72.76442304724802" width="12" height="16.97970615051196" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="62.8530031752" width="12" height="9.911419872048015" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="61.54572584897602" width="12" height="1.307277326223982" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="60.54584938998403" width="12" height="0.9998764589919915" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="60.23884529416" width="12" height="0.307004095824027" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="60.23774449416001" width="12" height="0.0011007999999890217" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(146,0)" style="">
+            <rect y="89.912458128288" width="12" height="150.087541871712" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="73.28328648003202" width="12" height="16.629171648255976" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="63.47666879190399" width="12" height="9.806617688128028" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="62.135977534095986" width="12" height="1.340691257808004" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="61.10123361020797" width="12" height="1.0347439238880156" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="60.76751827390396" width="12" height="0.3337153363040102" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="60.76667191923195" width="12" height="0.0008463546720065551" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(178,0)" style="">
+            <rect y="91.09322393049601" width="12" height="148.906776069504" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="75.555419772672" width="12" height="15.537804157824013" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="66.00451134119999" width="12" height="9.55090843147201" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="64.66966278678399" width="12" height="1.3348485544159985" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="63.69224772785597" width="12" height="0.9774150589280168" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="63.427690288159994" width="12" height="0.26455743969597734" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="63.426434000159986" width="12" height="0.0012562880000075438" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(194,0)" style="">
+            <rect y="92.37187043580798" width="12" height="147.62812956419202" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="77.66581553452801" width="12" height="14.70605490127997" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="70.17754896864" width="12" height="7.488266565888011" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="68.74622211574399" width="12" height="1.4313268528960066" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="67.80399573702397" width="12" height="0.9422263787200222" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="67.51890923436798" width="12" height="0.2850865026559859" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="67.51769583169596" width="12" height="0.0012134026720218571" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(242,0)" style="">
+            <rect y="93.51128242392" width="12" height="146.48871757608" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="80.16005811187199" width="12" height="13.351224312048004" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="72.996908026624" width="12" height="7.163150085247992" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="71.53392686184" width="12" height="1.4629811647839972" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="70.93364227236802" width="12" height="0.6002845894719826" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="70.794506054896" width="12" height="0.13913621747201432" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="70.793254812224" width="12" height="0.001251242671997943" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(274,0)" style="">
+            <rect y="95.95153595657601" width="12" height="144.048464043424" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="83.75395457350402" width="12" height="12.197581383071991" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="76.777945342592" width="12" height="6.9760092309120125" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="75.3181976384" width="12" height="1.4597477041920115" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="74.83273240835197" width="12" height="0.4854652300480211" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="74.67024755588798" width="12" height="0.16248485246399014" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="74.66714719855997" width="12" height="0.0031003573280088403" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(226,0)" style="">
+            <rect y="96.12731727467198" width="12" height="143.87268272532802" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="82.19782121710398" width="12" height="13.929496057568002" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="75.256183396528" width="12" height="6.941637820575977" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="73.96821604072002" width="12" height="1.2879673558079787" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="73.31661639536" width="12" height="0.6515996453600224" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="73.163604405472" width="12" height="0.15301198988800024" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="73.16217783747203" width="12" height="0.0014265679999709846" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(258,0)" style="">
+            <rect y="96.148360580544" width="12" height="143.851639419456" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="83.41508889606399" width="12" height="12.733271684480002" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="76.38066000161601" width="12" height="7.034428894447984" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="74.81015184284797" width="12" height="1.5705081587680354" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="74.316225398016" width="12" height="0.49392644483197046" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="74.164921774336" width="12" height="0.1513036236800076" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="74.162966707664" width="12" height="0.0019550666719965193" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(210,0)" style="">
+            <rect y="96.76085682486399" width="12" height="143.239143175136" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="82.149336892304" width="12" height="14.611519932559986" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="75.211028765056" width="12" height="6.938308127248007" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="73.75369398659203" width="12" height="1.4573347784639736" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="73.06733363630403" width="12" height="0.6863603502879982" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="72.829770592128" width="12" height="0.23756304417602792" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="72.828700981456" width="12" height="0.0010696106720047283" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(290,0)" style="">
+            <rect y="98.193743906928" width="12" height="141.806256093072" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="86.795317732256" width="12" height="11.39842617467201" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="79.47542482817602" width="12" height="7.319892904079978" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="77.96711401550402" width="12" height="1.5083108126719935" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="77.44814581622398" width="12" height="0.5189681992800388" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="77.291761788928" width="12" height="0.1563840272959851" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="77.28811149025597" width="12" height="0.0036502986720279296" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(322,0)" style="">
+            <rect y="99.619542160576" width="12" height="140.380457839424" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="89.35962757571198" width="12" height="10.25991458486402" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="82.40729045644798" width="12" height="6.952337119264001" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="80.825440580688" width="12" height="1.5818498757599855" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="80.30680044291199" width="12" height="0.5186401377760035" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="80.199845492848" width="12" height="0.10695495006399369" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="80.19539110564801" width="12" height="0.004454387199984922" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(306,0)" style="">
+            <rect y="101.45407761972797" width="12" height="138.54592238027203" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="90.56960800059201" width="12" height="10.884469619135956" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="83.57194320313602" width="12" height="6.997664797455997" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="82.025759911216" width="12" height="1.5461832919200162" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="81.494581256544" width="12" height="0.5311786546720043" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="81.36069822560003" width="12" height="0.13388303094396292" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="81.35517991520001" width="12" height="0.0055183104000207095" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(354,0)" style="">
+            <rect y="103.488978391648" width="12" height="136.511021608352" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="93.72972804190402" width="12" height="9.75925034974398" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="86.39065584569602" width="12" height="7.339072196208008" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="84.76342562273604" width="12" height="1.6272302229599802" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="84.28803157156801" width="12" height="0.47539405116802413" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="84.197471623024" width="12" height="0.09055994854401206" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="84.19273628414399" width="12" height="0.004735338880010431" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(338,0)" style="">
+            <rect y="103.88004944945601" width="12" height="136.119950550544" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="93.972753812176" width="12" height="9.907295637280015" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="86.71144033799999" width="12" height="7.261313474176006" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="85.113308532416" width="12" height="1.5981318055839893" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="84.60441360665601" width="12" height="0.5088949257599893" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="84.51043966518401" width="12" height="0.09397394147200089" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="84.50851601718401" width="12" height="0.0019236480000017764" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(434,0)" style="">
+            <rect y="106.28070386123198" width="12" height="133.71929613876802" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="97.164219563856" width="12" height="9.11648429737599" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="91.051392441024" width="12" height="6.1128271228319875" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="89.329338330816" width="12" height="1.7220541102080063" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="88.807546065488" width="12" height="0.5217922653280027" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="88.766227268656" width="12" height="0.04131879683200168" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="88.763662404656" width="12" height="0.0025648639999928946" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(386,0)" style="">
+            <rect y="106.84486173648" width="12" height="133.15513826352" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="97.56631821264" width="12" height="9.27854352384" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="91.62977775121601" width="12" height="5.936540461423988" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="89.98482433054397" width="12" height="1.6449534206720386" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="89.497298397136" width="12" height="0.4875259334079658" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="89.442038452416" width="12" height="0.055259944720006615" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="89.43220906574402" width="12" height="0.00982938667198141" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(418,0)" style="">
+            <rect y="109.28161131721598" width="12" height="130.71838868278402" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="100.063680173856" width="12" height="9.217931143359976" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="94.04124642787198" width="12" height="6.022433745984017" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="92.324491614464" width="12" height="1.716754813407988" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="91.819708420544" width="12" height="0.5047831939199909" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="91.78095717281599" width="12" height="0.038751247728015414" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="91.77532405281599" width="12" height="0.005633119999998826" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(402,0)" style="">
+            <rect y="110.009678899152" width="12" height="129.990321100848" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="100.90305180988798" width="12" height="9.106627089264009" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="94.75090819665601" width="12" height="6.152143613231971" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="93.06611841310402" width="12" height="1.6847897835519916" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="92.56002641814399" width="12" height="0.5060919949600304" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="92.51546431278402" width="12" height="0.04456210535997229" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="92.505671246112" width="12" height="0.009793066672017403" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(466,0)" style="">
+            <rect y="112.222917954" width="12" height="127.777082046" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="103.37995162675199" width="12" height="8.842966327248007" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="97.04629074199997" width="12" height="6.333660884752021" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="95.28629074199998" width="12" height="1.759999999999991" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="94.726290742" width="12" height="0.5599999999999739" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="94.689490742" width="12" height="0.0367999999999995" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="94.68624613399999" width="12" height="0.003244608000017024" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(450,0)" style="">
+            <rect y="113.14262791606399" width="12" height="126.85737208393601" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="104.243840613424" width="12" height="8.898787302639988" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="98.02219290904" width="12" height="6.221647704383997" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="96.277822224944" width="12" height="1.7443706840959976" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="95.734434763216" width="12" height="0.5433874617280026" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="95.696957942752" width="12" height="0.03747682046400769" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="95.693713334752" width="12" height="0.0032446079999886024" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(370,0)" style="">
+            <rect y="113.85964746020798" width="12" height="126.14035253979202" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="104.450661170704" width="12" height="9.408986289503986" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="97.236708335424" width="12" height="7.213952835279997" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="95.52092132748803" width="12" height="1.7157870079359725" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="95.05308467532802" width="12" height="0.4678366521600026" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="94.98814096414401" width="12" height="0.06494371118401432" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="94.983487950816" width="12" height="0.004653013328010047" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(0,240)" style="">
+            <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
+                0
+            </text>
+        </g>
+        <g transform="translate(0,120)" style="">
+            <line x2="640" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+            <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:18px;fill:#666666;">
+                750
+            </text>
+        </g>
+        <g transform="translate(0,0)" style="">
+            <line x2="640" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+            <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:60.359375px;fill:#666666;">
+                1.500m tons
+            </text>
+        </g>
+        <g transform="translate(0,84.2209057648)" style="">
+            <line x1="354" x2="430" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
+            <circle r="3.5" cx="354" style="fill:#f6f6f0;stroke:#454545;"/>
+            <circle r="3.5" cx="430" style="fill:#f6f6f0;stroke:#454545;"/>
+            <text x="392" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:73.28125px;fill:#454545;text-anchor:middle;">
+                Kyoto Protocol
+            </text>
+            <text x="392" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:27.71875px;fill:#454545;text-anchor:middle;">
+                974m
+            </text>
+        </g>
+        <g transform="translate(0,120.208)" style="">
+            <line x1="514" x2="526" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
+            <circle r="3.5" cx="514" style="fill:#f6f6f0;stroke:#454545;"/>
+            <text x="520" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:55.90625px;fill:#454545;text-anchor:middle;">
+                2020 target
+            </text>
+            <text x="520" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:27.71875px;fill:#454545;text-anchor:middle;">
+                749m
+            </text>
+        </g>
+        <g transform="translate(0,200.064)" style="">
+            <line x1="562" x2="574" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
+            <circle r="3.5" cx="562" style="fill:#f6f6f0;stroke:#454545;"/>
+            <text x="568" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:55.90625px;fill:#454545;text-anchor:middle;">
+                2050 target
+            </text>
+            <text x="568" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:54.21875px;fill:#454545;text-anchor:middle;">
+                max: 250m
+            </text>
+        </g>
+    </g>
+    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:80px;width:640px;">
+            <div style="display:block;height:80px;width:640px;">
+                <div style="display:block;height:20px;line-height:12px;width:640px;">
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:91.15625px;">
+                        <div style="background-color:rgb(35, 97, 78);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        Carbon dioxide* 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:55.390625px;">
+                        <div style="background-color:rgb(121, 184, 161);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        Methane 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:77.203125px;">
+                        <div style="background-color:rgb(152, 114, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        Nitrous oxide 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:40.796875px;">
+                        <div style="background-color:rgb(242, 191, 24);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        HCFC 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:113.828125px;">
+                        <div style="background-color:rgb(160, 66, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        Sulphur hexafluoride 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:32.375px;">
+                        <div style="background-color:rgb(242, 133, 2);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        CFC 
+                    </div>
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:107.0625px;">
+                        <div style="background-color:rgb(196, 0, 70);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
+                        </div>
+                        Nitrogen trifluoride 
+                    </div>
+                </div>
+                <div style="display:block;height:60px;width:640px;">
+                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Umweltbundesamt 2015.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Federal Government
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                *excluding carbon dioxide from land use, changes in land use and forestry
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

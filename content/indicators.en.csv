@@ -1,0 +1,381 @@
+dimension_id,id,title,placeholder,data,filter,mini_config,keywords
+01,01-01,Life expectancy at birth,,01/01/regions.csv,datum.at_age == 0 && (datum.year == 1990 || datum.year == 2013) && datum.region == 'Gesamt' && datum.gender == 'Total',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/01-01.csv"",
+ ""numberFormat"": "".1f"",
+ ""unit"": ""Jahre"",
+ ""columns"": 1,
+ ""zero"": false
+}","KEYWORD 1,KEYWORD 2"
+01,01-02,Prevalence of obesity,,01/02/states.csv,(datum.year == 1999 || datum.year == 2013) && datum.state == 'Deutschland',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/01-02.csv"",
+ ""color"": ""state"",
+ ""columns"": 1,
+ ""numberFormat"": "".1%""
+}","KEYWORD 1,KEYWORD 2"
+01,01-03,Healthcare by general practitioners and specialists,,01/03/density.csv,datum.category == 'HAUS' && datum.year == '2015',"{
+ ""type"": ""KRegMap"",
+ ""data"": ""static/dashboard/data/01-03.csv"",
+ ""legendTitle"": ""Anzahl der Einwohner"",
+ ""column"": """",
+ ""columns"": 1
+}","KEYWORD 1,KEYWORD 2"
+01,01-04,Quality of care (placeholder),TRUE,,,,"KEYWORD 1,KEYWORD 2"
+01,01-05,Ratio of self-reported health and income,,01/05/quintile.csv,datum.category == 'weniger gut oder schlecht' && (datum.quintile == '1. Quintil (unterste Einkommen)' || datum.quintile == '5. Quintil (oberste Einkommen)'),"{
+ ""type"": ""Lollipop"",
+ ""data"": ""static/dashboard/data/01-05.csv"",
+ ""numberFormat"": ""%"",
+ ""column"": """",
+ ""y"": ""quintile"",
+ ""color"": ""category"",
+ ""sort"": ""none""
+}","KEYWORD 1,KEYWORD 2"
+02,02-01,Unemployment rate,,02/01/regions.csv,datum.region == 'Deutschland',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-01.csv"",
+ ""color"": ""region"",
+ ""numberFormat"": "".1%"",
+ ""endDy"": ""1.9em""
+}","KEYWORD 1,KEYWORD 2"
+02,02-03,Employment rate,,02/03/facets.csv,datum.facet == '' && datum.gender == 'Insgesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-03.csv"",
+ ""numberFormat"": "".1%"",
+ ""color"": ""gender"",
+ ""zero"": false
+}","KEYWORD 1,KEYWORD 2"
+02,02-04,Standard and non-standard employment,,02/04/percentages.csv,datum.category == 'Insgesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-04.csv"",
+ ""minInnerWidth"": 250,
+ ""endDy"": ""1.9em""
+}","KEYWORD 1,KEYWORD 2"
+02,02-05,Real net earnings and income,,02/05/years.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-05.csv"",
+ ""numberFormat"": ""s"",
+ ""zero"": false,
+ ""height"": 120
+}","KEYWORD 1,KEYWORD 2"
+02,02-06,Job satisfaction,,02/06/income.csv,datum.category == 'Gesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/02-06.csv"",
+ ""numberFormat"": "".2f"",
+ ""color"": ""category"",
+ ""confidence"": 95
+}","KEYWORD 1,KEYWORD 2"
+03,03-01,Persons who have completed at least vocational training or university entrance qualification,,03/01/age-groups.csv,datum.facet == 'Migrationshintergrund' && datum.age_group == 'Insgesamt',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/03-01.csv"",
+ ""color"": ""facet_value"",
+ ""colorSort"": ""none"",
+ ""numberFormat"": ""%"",
+ ""y"": ""facet_value"",
+ ""sort"": ""none"",
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""columns"": 1
+}","KEYWORD 1,KEYWORD 2"
+03,03-02,Early school leavers,,03/02/facets.csv,year(datum.year) >= 2005 && datum.facet == 'Insgesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/03-02.csv"",
+ ""color"": ""facet_value"",
+ ""numberFormat"": "".1%"",
+ ""endDy"": ""1.9em""
+}","KEYWORD 1,KEYWORD 2"
+03,03-03,Educational mobility between parents and children,,03/03/facets.csv,,"{
+ ""type"": ""Static"",
+ ""data"": ""static/dashboard/data/03-03.csv""
+}","KEYWORD 1,KEYWORD 2"
+03,03-04,Participation in further education,,03/04/age-groups.csv,datum.age_group == 'Insgesamt',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/03-04.csv"",
+ ""columns"": 1,
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""color"": ""age_group"",
+ ""highlight"": ""false""
+}","KEYWORD 1,KEYWORD 2"
+04,04-01,Comparison of actual and desired working hours,,04/01/categories.csv,datum.year == 2014 && datum.facet == 'gender' && datum.category == 'Tatsächliche Arbeitszeit',"{
+ ""type"": ""Lollipop"",
+ ""data"": ""static/dashboard/data/04-01.csv"",
+ ""unit"": ""Wochenstunden"",
+ ""y"": ""facet_value"",
+ ""column"": ""category"",
+ ""color"": ""facet_value"",
+ ""numberFormat"": "".2f""
+}","KEYWORD 1,KEYWORD 2"
+04,04-02,Childcare participation rate,,04/02/preschool.csv,datum.group == 'Unter-3-Jährige',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/04-02.csv"",
+ ""numberFormat"": "".1%"",
+ ""color"": ""group""
+}","KEYWORD 1,KEYWORD 2"
+04,04-03,Reduced working hours for care responsibilities,,04/03/reasons.csv,datum.category == 'Einschränkung der Erwerbstätigkeit',"{
+ ""type"": ""TimeBar"",
+ ""data"": ""static/dashboard/data/04-03.csv"",
+ ""color"": ""category"",
+ ""numberFormat"": ""%"",
+ ""padding"": 20
+}","KEYWORD 1,KEYWORD 2"
+04,04-04,Commuting time,,04/04/germany.csv,datum.region == 'Deutschland' && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/04-04.csv""
+}","KEYWORD 1,KEYWORD 2"
+05,05-01,Net household income,,05/01/region.csv,datum.region == 'Deutschland',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/05-01.csv"",
+ ""confidence"": 95,
+ ""category"": ""datum.region"",
+ ""numberFormat"": ""s"",
+ ""endLabel"": false,
+ ""colorLegend"": false
+}","KEYWORD 1,KEYWORD 2"
+05,05-02,Gini coefficient of income,,05/02/germany.csv,datum.category == 'Gini nach Steuern und Transfers',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/05-02.csv"",
+ ""confidence"": 95,
+ ""category"": ""datum.category"",
+ ""numberFormat"": "".3f""
+}","KEYWORD 1,KEYWORD 2"
+05,05-03,Gini coefficient of wealth,,05/03/euro15.csv,"indexof(['DE', 'FR', 'NL'], datum.country_code) !== -1","{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/05-03.csv"",
+ ""y"": ""country"",
+ ""numberFormat"": "".2f"",
+ ""category"": ""datum.country_code == 'DE' ? '1' : '0'"",
+ ""sort"": ""descending""
+}","KEYWORD 1,KEYWORD 2"
+05,05-04,Risk-of-poverty rate,,05/04/groups.csv,datum.facet == 'Alle',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/05-04.csv"",
+ ""confidence"": 95,
+ ""numberFormat"": "".1%""
+}","KEYWORD 1,KEYWORD 2"
+05,05-05,Old-age-dependency ratio,,05/05/scenario.csv,datum.scenario == 'Standard-Szenario',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/05-05.csv"",
+ ""numberFormat"": "".1f"",
+ ""color"": ""scenario"",
+ ""category"": ""datum.scenario + datum.type"",
+ ""stroke"": ""datum.type == 'Prognose'"",
+ ""labelFilter"": ""datum.type == 'Prognose'""
+}","KEYWORD 1,KEYWORD 2"
+06,06-01,Fear of crime,,06/01/facets.csv,"datum.facet == '' && indexof(['Allgemein', 'Körperverletzung', 'Sexuelle Belästigung'], datum.category) !== -1","{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/06-01.csv"",
+ ""numberFormat"": ""%"",
+ ""color"": ""concern"",
+ ""colorRange"": ""diverging2"",
+ ""colorLegend"": true,
+ ""y"": ""category"",
+ ""domain"": [
+ 0,
+ 1
+ ],
+ ""sort"": ""none"",
+ ""colorSort"": ""none"",
+ ""highlight"": ""datum.category == 'Allgemein'""
+}","KEYWORD 1,KEYWORD 2"
+06,06-02,Actual crime,,06/02/categories.csv,datum.category == 'Gewaltkriminalität' && datum.type == 'erfasste Fälle',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/06-02.csv"",
+ ""numberFormat"": ""s"",
+ ""color"": ""type"",
+ ""endDy"": ""1.9em""
+}","KEYWORD 1,KEYWORD 2"
+06,06-04,Hate crime and politically motivated crime,,06/04/categories.csv,datum.category == 'Hasskriminalität',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/06-04.csv"",
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""color"": ""category"",
+ ""numberFormat"": ""s""
+}","KEYWORD 1,KEYWORD 2"
+06,06-03,People’s confidence in local policing,,06/03/facets.csv,datum.facet == '',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/06-03.csv"",
+ ""numberFormat"": ""%"",
+ ""color"": ""rating"",
+ ""colorRange"": ""diverging2"",
+ ""y"": ""facet"",
+ ""colorLegend"": true,
+ ""sort"": ""none"",
+ ""colorSort"": ""none"",
+ ""barStyle"": ""large"",
+ ""highlight"": ""true""
+}","KEYWORD 1,KEYWORD 2"
+07,07-01,Ratio of rental costs to net houshold income,,07/01/facets.csv,datum.facet == 'Gesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/07-01.csv"",
+ ""confidence"": 95,
+ ""endDy"": ""1.9em""
+}","KEYWORD 1,KEYWORD 2"
+07,07-02,"Travel time to educational, care and cultural facilities",,07/02/center-points.csv,false,"{
+ ""type"": ""PointMap"",
+ ""data"": ""static/dashboard/data/07-02.csv"",
+ ""geotiff"": ""07-02-oev"",
+ ""accessor"": ""center"",
+ ""ordinalAccessor"": ""center"",
+ ""shape"": ""square"",
+ ""legendTitle"": """",
+ ""sizes"": [5,10],
+ ""height"": 350,
+ ""colorRange"": [""#FE5072"",""#810019""],
+ ""geotiffLegendTitle"": ""Fahrzeit im ÖV zum nächsten Zentrum in Minuten"",
+ ""geotiffLegend"": [
+   {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
+   {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
+   {""color"": ""rgb(99,180,228)"", ""label"": ""20 - 30""},
+   {""color"": ""rgb(67,153,200)"", ""label"": ""30 - 40""},
+   {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
+   {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
+ ]
+}","KEYWORD 1,KEYWORD 2"
+07,07-03,Broadband access,,07/03/districts.csv,datum.year == '2015',"{
+ ""type"": ""KrsMap"",
+ ""data"": ""static/dashboard/data/07-03.csv"",
+ ""column"": """",
+ ""columns"": 1,
+ ""numberFormat"": "".0%"",
+ ""legendTitle"": ""Verfügbarkeit von 50 Mbit/s""
+}","KEYWORD 1,KEYWORD 2"
+08,08-01,Family forms,,08/01/facets.csv,datum.facet == 'Erwachsene' && datum.year == '2014',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/08-01.csv"",
+ ""numberFormat"": ""%"",
+ ""y"": ""facet"",
+ ""color"": ""category"",
+ ""colorLegend"": true
+}","KEYWORD 1,KEYWORD 2"
+08,08-02,Help from others,,08/02/facets.csv,"indexof(['Erwerbstätige', 'Arbeitslose', 'Rentner'], datum.facet) !== -1","{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/08-02.csv"",
+ ""numberFormat"": ""%"",
+ ""y"": ""facet"",
+ ""domain"": [
+ 0,
+ 1
+ ],
+ ""sort"": ""none"",
+ ""color"": ""response"",
+ ""colorSort"": ""none"",
+ ""colorRange"": ""diverging1n"",
+ ""columns"": 3,
+ ""column"": ""category"",
+ ""colorLegend"": true,
+ ""highlight"": ""datum.facet == 'Insgesamt'""
+}","KEYWORD 1,KEYWORD 2"
+08,08-03,Civic engagement,,08/03/facets.csv,datum.facet == 'Alter' && datum.facet_value == 'Insgesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/08-03.csv"",
+ ""numberFormat"": "".1%"",
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""columns"": 1
+}","KEYWORD 1,KEYWORD 2"
+08,08-04,Membership in sport clubs,,08/04/regions.csv,datum.age == 'Insgesamt',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/08-04.csv"",
+ ""color"": ""region"",
+ ""numberFormat"": ""%"",
+ ""y"": ""region"",
+ ""sort"": ""none"",
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""columns"": 1,
+ ""highlight"": ""false""
+}","KEYWORD 1,KEYWORD 2"
+09,09-01,Real gross domestic product per capita,,09/01/years.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-01.csv"",
+ ""numberFormat"": ""s""
+}","KEYWORD 1,KEYWORD 2"
+09,09-02,Investment rate,,09/02/sectors.csv,datum.sector == 'gesamt',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-02.csv""
+}","KEYWORD 1,KEYWORD 2"
+09,09-03,National debt ratio,,09/03/years.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-03.csv"",
+ ""endDy"": ""1.9em""
+}","KEYWORD 1,KEYWORD 2"
+09,09-04,Public and private expenditure on research and development as a percentage of GDP,,09/04/fue.csv,datum.country == 'Deutschland',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-04.csv"",
+ ""color"": ""country"",
+ ""numberFormat"": "".2%""
+}","KEYWORD 1,KEYWORD 2"
+09,09-05,Time it takes to start a business,,09/05/days.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/09-05.csv"",
+ ""numberFormat"": "".1f"",
+ ""unit"": ""Tage""
+}","KEYWORD 1,KEYWORD 2"
+10,10-01,Air quality,,10/01/categories.csv,"year(datum.year) >= 2000 && datum.category == 'Luftschadstoffe (+ PM<sub>2,5</sub>)'","{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/10-01.csv"",
+ ""numberFormat"": "".2f"",
+ ""endDy"": ""1.9em""
+}","KEYWORD 1,KEYWORD 2"
+10,10-02,Biodiversity and environmental quality,,10/02/categories.csv,(datum.year == 1990 || datum.year == 2013) && datum.facet == 'Gesamtindikator',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/10-02.csv"",
+ ""color"": ""facet_value"",
+ ""column"": """",
+ ""numberFormat"": "".1f"",
+ ""columns"": 1
+}","KEYWORD 1,KEYWORD 2"
+10,10-03,Energy productivity,,10/03/years.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/10-03.csv"",
+ ""x"": ""year"",
+ ""y"": ""value"",
+ ""numberFormat"": "".2f""
+}","KEYWORD 1,KEYWORD 2"
+11,11-01,Voter turnout,,11/01/federation.csv,datum.region == 'Deutschland',"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/11-01.csv"",
+ ""color"": ""region"",
+ ""numberFormat"": "".1%"",
+ ""endDy"": ""1.9em""
+}","KEYWORD 1,KEYWORD 2"
+11,11-02,Opportunity to influence policy,,11/02/facets.csv,datum.facet == 'Insgesamt',"{
+ ""type"": ""Bar"",
+ ""data"": ""static/dashboard/data/11-02.csv"",
+ ""numberFormat"": ""%"",
+ ""color"": ""answer"",
+ ""y"": ""facet"",
+ ""colorLegend"": true,
+ ""sort"": ""none"",
+ ""colorSort"": ""none"",
+ ""domain"": [0,1],
+ ""column"": """",
+ ""columnSort"": ""none"",
+ ""highlight"": ""datum.facet == 'Insgesamt'""
+}","KEYWORD 1,KEYWORD 2"
+11,11-03,Guarantee of eight selected fundamental rights,,11/03/categories.csv,datum.category == 'Grundrechte Insgesamt' && datum.year != '2014',"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/11-03.csv"",
+ ""height"": 310,
+ ""color"": ""category"",
+ ""numberFormat"": "".2f"",
+ ""zero"": false,
+ ""endLabel"": false,
+ ""columns"": 1,
+ ""paddingRight"": 50
+}","KEYWORD 1,KEYWORD 2"
+12,12-01,Global and national greenhouse gas emissions,,12/01/global.csv,datum.category == 'GHG' && (datum.year == 1990 || datum.year == 2012),"{
+ ""type"": ""Slope"",
+ ""data"": ""static/dashboard/data/12-01.csv"",
+ ""numberFormat"": ""s"",
+ ""unit"": ""Tonnen"",
+ ""columns"": 1
+}","KEYWORD 1,KEYWORD 2"
+12,12-02,Public expenditure on development cooperation as a percentage of gross national income,,12/02/values.csv,,"{
+ ""type"": ""Line"",
+ ""data"": ""static/dashboard/data/12-02.csv"",
+ ""numberFormat"": "".2%""
+}","KEYWORD 1,KEYWORD 2"
+12,12-03,Global corporate responsibility (placeholder),TRUE,,,,"KEYWORD 1,KEYWORD 2"

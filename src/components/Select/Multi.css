@@ -1,0 +1,102 @@
+/* Multi-Select */
+/* ------------------------------ */
+
+@value selectItemFontSize, selectPaddingHorizontal, selectItemBorderRadius, selectItemGutter, selectItemPaddingVertical, selectItemPaddingHorizontal, selectItemFont-size, selectItemColor, selectItemBg, selectItemBorderColor, selectItemHoverColor, selectItemHoverBg, selectItemDisabledColor, selectItemDisabledBg, selectItemDisabledBorderColor from "./variables.css";
+
+.wrap {
+  :global {
+    /* Base */
+    .Select--multi {
+
+      /* add margin to the input element */
+      .Select-input {
+        vertical-align: middle;
+        /* border: 1px solid transparent; */
+        margin-left: selectPaddingHorizontal;
+        padding: 0;
+      }
+
+      /* reduce margin once there is value */
+      &.has-value .Select-input {
+        margin-left: selectItemGutter;
+      }
+
+      /* Items */
+      .Select-value {
+        background-color: selectItemBg;
+        border-radius: selectItemBorderRadius;
+        border: 1px solid selectItemBorderColor;
+        color: selectItemColor;
+        display: inline-block;
+        font-size: selectItemFontSize;
+        margin-left: selectItemGutter;
+        margin-top: selectItemGutter;
+        vertical-align: top;
+      }
+
+      /* common */
+      .Select-value-icon,
+      .Select-value-label {
+        display: inline-block;
+        vertical-align: middle;
+      }
+
+      /* label */
+      .Select-value-label {
+        border-bottom-right-radius: selectItemBorderRadius;
+        border-top-right-radius: selectItemBorderRadius;
+        cursor: default;
+        padding: selectItemPaddingVertical selectItemPaddingHorizontal;
+      }
+      a.Select-value-label {
+        color: selectItemColor;
+        cursor: pointer;
+        text-decoration: none;
+
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+
+      /* icon */
+      .Select-value-icon {
+        cursor: pointer;
+        border-bottom-left-radius: selectItemBorderRadius;
+        border-top-left-radius: selectItemBorderRadius;
+        float: right;
+
+        font-size: calc(1em + 2px);
+        padding: calc(selectItemPaddingVertical - 1px) selectItemPaddingHorizontal calc(selectItemPaddingVertical - 1px) 0;
+
+        &:hover,
+        &:focus {
+          background-color: selectItemHoverBg;
+          color: selectItemHoverColor;
+        }
+        &:active {
+          background-color: selectItemBorderColor;
+        }
+      }
+
+    }
+
+    .Select--multi.is-disabled {
+      .Select-value {
+        background-color: selectItemDisabledBg;
+        border: 1px solid selectItemDisabledBorderColor;
+        color: selectItemDisabledColor;
+      }
+      /* icon */
+      .Select-value-icon {
+        cursor: not-allowed;
+        border-right: 1px solid selectItemDisabledBorderColor;
+
+        &:hover,
+        &:focus,
+        &:active {
+          background-color: selectItemDisabledBg;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="311" style="height:311px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:81.765625px;fill:#666666;">
+            Shortest drive
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:46.15625px;fill:#666666;">
+                München
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#f2bf18" width="73" height="16" style="fill:#f2bf18;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:100.390625px;fill:#666666;">
+                Freiburg im Breisgau
+            </text>
+            <g transform="translate(0,85)" style="">
+                <rect x="0" fill="#f2bf18" width="83" height="16" style="fill:#f2bf18;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="110" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:25.84375px;fill:#666666;">
+                Bonn
+            </text>
+            <g transform="translate(0,125)" style="">
+                <rect x="0" fill="#f2bf18" width="85" height="16" style="fill:#f2bf18;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="150" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:96.609375px;fill:#666666;">
+                Offenbach am Main
+            </text>
+            <g transform="translate(0,165)" style="">
+                <rect x="0" fill="#f2bf18" width="87" height="16" style="fill:#f2bf18;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="190" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:51.8125px;fill:#666666;">
+                Darmstadt
+            </text>
+            <g transform="translate(0,205)" style="">
+                <rect x="0" fill="#f2bf18" width="87" height="16" style="fill:#f2bf18;"/>
+            </g>
+        </g>
+        <g transform="translate(0,229)" style="">
+            <line x2="309" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-184" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(154.5,0)" style="">
+                <line y1="-184" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;text-anchor:middle;">
+                    5
+                </text>
+            </g>
+            <g transform="translate(309,0)" style="">
+                <line y1="-184" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:end;">
+                    10 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(329,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:78.65625px;fill:#666666;">
+            Longest drive
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:54.546875px;fill:#666666;">
+                Vulkaneifel
+            </text>
+            <g transform="translate(0,45)" style="">
+                <rect x="0" fill="#b68b00" width="298" height="16" style="fill:#b68b00;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:53.5px;fill:#666666;">
+                Uckermark
+            </text>
+            <g transform="translate(0,85)" style="">
+                <rect x="0" fill="#b68b00" width="300" height="16" style="fill:#b68b00;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="110" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:63.0625px;fill:#666666;">
+                Cochem-Zell
+            </text>
+            <g transform="translate(0,125)" style="">
+                <rect x="0" fill="#b68b00" width="306" height="16" style="fill:#b68b00;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="150" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:94.3125px;fill:#666666;">
+                Ostprignitz-Ruppin
+            </text>
+            <g transform="translate(0,165)" style="">
+                <rect x="0" fill="#b68b00" width="306" height="16" style="fill:#b68b00;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="190" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:115.03125px;fill:#666666;">
+                Eifelkreis Bitburg-Prüm
+            </text>
+            <g transform="translate(0,205)" style="">
+                <rect x="0" fill="#b68b00" width="306" height="16" style="fill:#b68b00;"/>
+            </g>
+        </g>
+        <g transform="translate(0,229)" style="">
+            <line x2="309" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-184" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(154.5,0)" style="">
+                <line y1="-184" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;text-anchor:middle;">
+                    5
+                </text>
+            </g>
+            <g transform="translate(309,0)" style="">
+                <line y1="-184" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:end;">
+                    10 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="251" width="640" height="60" style="display:block;height:60px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
+            <div style="display:block;height:60px;width:640px;">
+                <div style="display:block;height:60px;width:640px;">
+                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Kassenärztliche Bundesvereinigung, special analysis.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Federal Government
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:42px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                Data status: doctor figures 31.12.2015, population 31.12.2013.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

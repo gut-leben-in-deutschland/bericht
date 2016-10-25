@@ -1,0 +1,227 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="533" style="height:533px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:16.671875px;fill:#666666;">
+            All
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#666666;"/>
+            <g transform="translate(0,49)" style="">
+                <rect x="0" fill="#8c1478" width="164" height="6" style="fill:#8c1478;"/>
+                <rect rx="7" ry="7" x="152.51023649999996" y="-4" width="20.42925600000001" height="14" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="164" cy="3" r="6" fill="#F6F6F0" stroke="#8c1478" stroke-width="4" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:4px;"/>
+            </g>
+        </g>
+        <g transform="translate(0,63)" style="">
+            <line x2="639" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-14" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(319.5,0)" style="">
+                <line y1="-14" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    30
+                </text>
+            </g>
+            <g transform="translate(639,0)" style="">
+                <line y1="-14" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.65625px;fill:#666666;text-anchor:end;">
+                    60% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,85)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:107.359375px;fill:#666666;">
+            Type of household
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:91.6875px;fill:#666666;">
+                Couple 3+ children
+            </text>
+            <g transform="translate(0,49)" style="">
+                <rect x="0" fill="#da66c0" width="251" height="3" style="fill:#da66c0;"/>
+                <rect rx="6.5" ry="6.5" x="208.82530649999995" y="-5" width="80.88185099999998" height="13" fill="#da66c0" fill-opacity="0.3" style="fill:#da66c0;fill-opacity:0.30000001192092896;"/>
+                <circle cx="251" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#da66c0" stroke-width="3" style="fill:#f6f6f0;stroke:#da66c0;stroke-width:3px;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="61" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:99.421875px;fill:#666666;">
+                Single parent 1 child
+            </text>
+            <g transform="translate(0,80)" style="">
+                <rect x="0" fill="#da66c0" width="339" height="3" style="fill:#da66c0;"/>
+                <rect rx="6.5" ry="6.5" x="291.9038265" y="-5" width="91.1447235" height="13" fill="#da66c0" fill-opacity="0.3" style="fill:#da66c0;fill-opacity:0.30000001192092896;"/>
+                <circle cx="339" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#da66c0" stroke-width="3" style="fill:#f6f6f0;stroke:#da66c0;stroke-width:3px;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="92" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:121.359375px;fill:#666666;">
+                Single parent 2+ children
+            </text>
+            <g transform="translate(0,111)" style="">
+                <rect x="0" fill="#da66c0" width="468" height="3" style="fill:#da66c0;"/>
+                <rect rx="6.5" ry="6.5" x="445.58524349999993" y="-5" width="42.30488849999995" height="13" fill="#da66c0" fill-opacity="0.3" style="fill:#da66c0;fill-opacity:0.30000001192092896;"/>
+                <circle cx="468" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#da66c0" stroke-width="3" style="fill:#f6f6f0;stroke:#da66c0;stroke-width:3px;"/>
+            </g>
+        </g>
+        <g transform="translate(0,122)" style="">
+            <line x2="639" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-73" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(319.5,0)" style="">
+                <line y1="-73" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    30
+                </text>
+            </g>
+            <g transform="translate(639,0)" style="">
+                <line y1="-73" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.65625px;fill:#666666;text-anchor:end;">
+                    60% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,229)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:99.359375px;fill:#666666;">
+            Country of origin
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:44.15625px;fill:#666666;">
+                Germany
+            </text>
+            <g transform="translate(0,49)" style="">
+                <rect x="0" fill="#004f80" width="147" height="3" style="fill:#004f80;"/>
+                <rect rx="6.5" ry="6.5" x="135.45979949999997" y="-5" width="19.225273499999986" height="13" fill="#004f80" fill-opacity="0.3" style="fill:#004f80;fill-opacity:0.30000001192092896;"/>
+                <circle cx="147" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#004f80" stroke-width="3" style="fill:#f6f6f0;stroke:#004f80;stroke-width:3px;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="61" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:28.703125px;fill:#666666;">
+                Other
+            </text>
+            <g transform="translate(0,80)" style="">
+                <rect x="0" fill="#004f80" width="273" height="3" style="fill:#004f80;"/>
+                <rect rx="6.5" ry="6.5" x="242.1529905" y="-5" width="58.653809999999964" height="13" fill="#004f80" fill-opacity="0.3" style="fill:#004f80;fill-opacity:0.30000001192092896;"/>
+                <circle cx="273" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#004f80" stroke-width="3" style="fill:#f6f6f0;stroke:#004f80;stroke-width:3px;"/>
+            </g>
+        </g>
+        <g transform="translate(0,91)" style="">
+            <line x2="639" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-42" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(319.5,0)" style="">
+                <line y1="-42" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    30
+                </text>
+            </g>
+            <g transform="translate(639,0)" style="">
+                <line y1="-42" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.65625px;fill:#666666;text-anchor:end;">
+                    60% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,342)" style="">
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:40.53125px;fill:#666666;">
+            Region
+        </text>
+        <g style="">
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:134.625px;fill:#666666;">
+                West German federal states
+            </text>
+            <g transform="translate(0,49)" style="">
+                <rect x="0" fill="#6394cb" width="151" height="3" style="fill:#6394cb;"/>
+                <rect rx="6.5" ry="6.5" x="140.44591649999998" y="-5" width="18.851139000000018" height="13" fill="#6394cb" fill-opacity="0.3" style="fill:#6394cb;fill-opacity:0.30000001192092896;"/>
+                <circle cx="151" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#6394cb" stroke-width="3" style="fill:#f6f6f0;stroke:#6394cb;stroke-width:3px;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="61" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:130.328125px;fill:#666666;">
+                East German federal states
+            </text>
+            <g transform="translate(0,80)" style="">
+                <rect x="0" fill="#6394cb" width="225" height="3" style="fill:#6394cb;"/>
+                <rect rx="6.5" ry="6.5" x="200.05119749999997" y="-5" width="46.055925" height="13" fill="#6394cb" fill-opacity="0.3" style="fill:#6394cb;fill-opacity:0.30000001192092896;"/>
+                <circle cx="225" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#6394cb" stroke-width="3" style="fill:#f6f6f0;stroke:#6394cb;stroke-width:3px;"/>
+            </g>
+        </g>
+        <g transform="translate(0,91)" style="">
+            <line x2="639" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(0,0)" style="">
+                <line y1="-42" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(319.5,0)" style="">
+                <line y1="-42" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
+                    30
+                </text>
+            </g>
+            <g transform="translate(639,0)" style="">
+                <line y1="-42" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.65625px;fill:#666666;text-anchor:end;">
+                    60% 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="455" width="640" height="78" style="display:block;height:78px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:80px;width:640px;">
+            <div style="display:block;height:80px;width:640px;">
+                <div style="display:block;height:20px;line-height:12px;width:640px;">
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);width:185.234375px;">
+                        <span style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(69, 69, 69);white-space:nowrap;">
+                            <span style="background-color:rgb(221, 221, 221);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:4px;border-top-right-radius:4px;color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:8px;outline-color:rgb(69, 69, 69);white-space:nowrap;width:24px;">
+                            </span>
+                             95-per-cent-confidence-interval
+                        </span>
+                    </div>
+                </div>
+                <div style="display:block;height:60px;width:640px;">
+                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Calculations by DIW Berlin, SOEPv31.1.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Federal Government
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

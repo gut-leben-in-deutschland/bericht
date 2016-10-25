@@ -1,0 +1,79 @@
+/* Variables */
+/* ------------------------------ */
+
+@value white #ffffff;
+@value bright-white #f2f2f2;
+
+@value ixt-red #FF5555;
+
+@value ixt-blue #003B5C;
+@value ixt-50-blue #e3f1fc;
+@value ixt-400-blue #5f8fb4;
+
+@value light-grey #DFDFD8;
+@value mid-grey #666666;
+@value dark-grey #454545;
+@value beige #DFDFD8;
+
+/* control options */
+@value selectInputBg:                  white;
+@value selectInputBgDisabled:          bright-white;
+@value selectInputBorderColor:         light-grey;
+@value selectInputBorderRadius:        2px;
+@value selectInputBorderHover:         dark-grey;
+@value selectInputBorderFocus:         dark-grey;
+@value selectInputBorderActive:        dark-grey;
+@value selectInputBorderWidth:         1px;
+@value selectInputHeight:              48px;
+@value selectInputInternalHeight:      46px; /* selectInputHeight - selectInputBorderWidth * 2 */
+@value selectInputPlaceholder:         light-grey;
+@value selectTextColor:                dark-grey;
+@value selectLinkHoverColor:           selectInputBorderFocus;
+
+@value selectPaddingVertical:          0px;
+@value selectPaddingHorizontal:        40px;
+
+/* menu options */
+@value selectMenuZindex:               1000;
+@value selectMenuMaxHeight:            400px;
+@value selectMenuBorderRadius:         2px;
+
+@value selectOptionColor:              dark-grey;
+@value selectOptionBg:                 selectInputBg;
+@value selectOptionFocusedColor:       selectTextColor;
+@value selectOptionFocusedBg:          beige;
+@value selectOptionDisabledColor:      light-grey;
+
+@value selectNoresultsColor:           dark-grey;
+
+/* clear "x" button */
+@value selectClearSize:                40px; /* selectInputHeight / 2 */
+@value selectClearColor:               dark-grey;
+@value selectClearHoverColor:          ixt-red;
+@value selectClearWidth:               40px; /* selectInputInternalHeight / 2 */
+
+/* arrow indicator */
+@value selectArrowColor:               dark-grey;
+@value selectArrowColorHover:          dark-grey;
+@value selectArrowColorDisabled:       light-grey;
+@value selectArrowWidth:               6px;
+
+/* loading indicator */
+@value selectLoadingSize:              16px;
+@value selectLoadingColor:             selectTextColor;
+@value selectLoadingColorBg:           selectInputBorderColor;
+
+/* multi-select item */
+@value selectItemBorderRadius:         2px;
+@value selectItemGutter:               7px;
+@value selectItemPaddingVertical:      4px;
+@value selectItemPaddingHorizontal:    7px;
+@value selectItemFontSize:             0.75em;
+@value selectItemColor:                white;
+@value selectItemBg:                   ixt-400-blue;
+@value selectItemBorderColor:          transparent;
+@value selectItemHoverColor:           white;
+@value selectItemHoverBg:              ixt-600-blue;
+@value selectItemDisabledColor:        white;
+@value selectItemDisabledBg:           light-grey;
+@value selectItemDisabledBorderColor:  transparent;

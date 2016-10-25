@@ -1,0 +1,142 @@
+facet,facet_value,gender,year,value
+,,Insgesamt,1991,0.704
+,,Insgesamt,1992,0.691
+,,Insgesamt,1993,0.677
+,,Insgesamt,1994,0.674
+,,Insgesamt,1995,0.676
+,,Insgesamt,1996,0.674
+,,Insgesamt,1997,0.669
+,,Insgesamt,1998,0.671
+,,Insgesamt,1999,0.681
+,,Insgesamt,2000,0.686
+,,Insgesamt,2001,0.691
+,,Insgesamt,2002,0.688
+,,Insgesamt,2003,0.684
+,,Insgesamt,2004,0.679
+,,Insgesamt,2005,0.693
+,,Insgesamt,2006,0.710
+,,Insgesamt,2007,0.728
+,,Insgesamt,2008,0.739
+,,Insgesamt,2009,0.740
+,,Insgesamt,2010,0.748
+,,Insgesamt,2011,0.763
+,,Insgesamt,2012,0.767
+,,Insgesamt,2013,0.771
+,,Insgesamt,2014,0.775
+,,Männer,1991,0.816
+,,Männer,1992,0.801
+,,Männer,1993,0.782
+,,Männer,1994,0.774
+,,Männer,1995,0.775
+,,Männer,1996,0.764
+,,Männer,1997,0.756
+,,Männer,1998,0.755
+,,Männer,1999,0.761
+,,Männer,2000,0.765
+,,Männer,2001,0.765
+,,Männer,2002,0.757
+,,Männer,2003,0.747
+,,Männer,2004,0.74
+,,Männer,2005,0.755
+,,Männer,2006,0.77
+,,Männer,2007,0.79
+,,Männer,2008,0.8
+,,Männer,2009,0.794
+,,Männer,2010,0.799
+,,Männer,2011,0.814
+,,Männer,2012,0.818
+,,Männer,2013,0.818
+,,Männer,2014,0.82
+,,Frauen,1991,0.589
+,,Frauen,1992,0.578
+,,Frauen,1993,0.568
+,,Frauen,1994,0.571
+,,Frauen,1995,0.575
+,,Frauen,1996,0.581
+,,Frauen,1997,0.58
+,,Frauen,1998,0.584
+,,Frauen,1999,0.598
+,,Frauen,2000,0.606
+,,Frauen,2001,0.616
+,,Frauen,2002,0.618
+,,Frauen,2003,0.619
+,,Frauen,2004,0.617
+,,Frauen,2005,0.63
+,,Frauen,2006,0.649
+,,Frauen,2007,0.666
+,,Frauen,2008,0.677
+,,Frauen,2009,0.686
+,,Frauen,2010,0.695
+,,Frauen,2011,0.711
+,,Frauen,2012,0.715
+,,Frauen,2013,0.723
+,,Frauen,2014,0.73
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2005,0.713
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2006,0.732
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2007,0.749
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2008,0.76
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2009,0.763
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2010,0.769
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2011,0.781
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2012,0.785
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2013,0.79
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2014,0.795
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2005,0.604
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2006,0.617
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2007,0.639
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2008,0.651
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2009,0.647
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2010,0.658
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2011,0.685
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2012,0.691
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2013,0.694
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2014,0.696
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2005,0.77
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2006,0.786
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2007,0.804
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2008,0.813
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2009,0.81
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2010,0.813
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2011,0.824
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2012,0.827
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2013,0.828
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2014,0.831
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2005,0.689
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2006,0.704
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2007,0.727
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2008,0.745
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2009,0.73
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2010,0.741
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2011,0.771
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2012,0.776
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2013,0.778
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2014,0.776
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2005,0.656
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2006,0.677
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2007,0.693
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2008,0.706
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2009,0.716
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2010,0.725
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2011,0.737
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2012,0.741
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2013,0.751
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2014,0.76
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2005,0.515
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2006,0.527
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2007,0.548
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2008,0.557
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2009,0.564
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2010,0.576
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2011,0.6
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2012,0.608
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2013,0.612
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2014,0.616
+Behinderung,Menschen ohne Behinderung,Insgesamt,2005,0.717
+Behinderung,Menschen ohne Behinderung,Insgesamt,2009,0.767
+Behinderung,Menschen ohne Behinderung,Insgesamt,2013,0.801
+Behinderung,Menschen mit Behinderung,Insgesamt,2005,0.43
+Behinderung,Menschen mit Behinderung,Insgesamt,2009,0.478
+Behinderung,Menschen mit Behinderung,Insgesamt,2013,0.503
+Behinderung,davon mit Schwerbehinderung*,Insgesamt,2005,0.364
+Behinderung,davon mit Schwerbehinderung*,Insgesamt,2009,0.403
+Behinderung,davon mit Schwerbehinderung*,Insgesamt,2013,0.428

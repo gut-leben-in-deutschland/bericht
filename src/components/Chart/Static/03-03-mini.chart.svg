@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300px" height="152px" viewBox="0 0 300 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>03-03-a_xs_chart-2014</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="4-s-dashboard-charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-03-a_xs_chart-2014">
+            <path d="M213.5,124 L213.5,132" id="Shape" stroke="#FF8BA6"></path>
+            <polyline id="Shape" stroke="#FF8BA6" points="217 129 213.5 132.403361 210 129"></polyline>
+            <path d="M213.5,18 L213.5,26" id="Shape" stroke="#810019"></path>
+            <polyline id="Shape" stroke="#810019" transform="translate(213.500000, 19.701681) rotate(180.000000) translate(-213.500000, -19.701681) " points="217 18 213.5 21.4033613 210 18"></polyline>
+            <text id="23.0%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
+                <tspan x="223.083" y="29">23.0</tspan>
+                <tspan x="261.253" y="29" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal">%</tspan>
+            </text>
+            <text id="65.2%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
+                <tspan x="223.083" y="83">65.2</tspan>
+                <tspan x="261.253" y="83" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal">%</tspan>
+            </text>
+            <text id="100%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
+                <tspan x="30.336" y="79">100</tspan>
+                <tspan x="63.336" y="79" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal">%</tspan>
+            </text>
+            <text id="11.8%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
+                <tspan x="223.083" y="135">11.8</tspan>
+                <tspan x="261.253" y="135" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal">%</tspan>
+            </text>
+            <rect id="parents" fill="#454545" x="79" y="37" width="40" height="71"></rect>
+            <rect id="parents" fill="#FF8BA6" x="159" y="124" width="40" height="8"></rect>
+            <rect id="parents" fill="#C40046" x="159" y="54" width="40" height="46"></rect>
+            <rect id="parents" fill="#810019" x="159" y="14" width="40" height="16"></rect>
+            <path d="M119,38 C137.578125,38.1824551 139.092577,14.1867484 159,14 C159,14.1867484 159,22 159,22 C142.047058,22.1819187 139,46.1776256 119,46 C139.092577,46.1776256 139.092577,46.1776256 159,46 L159,92 C139.092577,92.0375643 140,93.0375671 119,93 C140,93.0375671 140,116.033272 159,116 C159,116.033271 159,132 159,132 C139.092577,132 136.535156,109.004295 119,109 C119,109.004293 119,38.1824553 119,38 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(139.000000, 73.000000) scale(1, -1) translate(-139.000000, -73.000000) "></path>
+        </g>
+    </g>
+</svg>

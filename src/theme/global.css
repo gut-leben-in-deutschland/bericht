@@ -1,0 +1,33 @@
+/**
+ * Global styles (a.k.a the 'reset')
+ *
+ * Import normalize, fonts, set style resets here.
+ *
+ */
+
+@import 'normalize.css/normalize.css';
+@import './fonts.css';
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+img {
+  display: block;
+}
+
+::selection {
+  background: rgba(0, 0, 0, 1);
+  opacity: 1;
+  color: white;
+}
+

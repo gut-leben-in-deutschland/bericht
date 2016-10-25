@@ -1,0 +1,74 @@
+data,label,url
+X2/event-points.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+01/00/categories.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+01/01/regions.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+01/02/age-groups.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+01/02/states.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+01/03/density.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+01/03/distance.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+01/05/quintile.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/01/regions.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/01/districts.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/01/long-term.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/01/youth.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/03/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/04/percentages.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/04/absolute.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/05/years.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/05/collective-agreements.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/05/gender-gap.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+02/06/income.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+03/01/age-groups.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+03/02/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+03/03/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+03/04/age-groups.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+03/04/categories.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+04/01/categories.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+04/02/preschool.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+04/02/districts.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+04/02/primary-school.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+04/03/reasons.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+04/04/germany.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+05/01/region.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+05/02/germany.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+05/02/oecd.csv,OECD terms and conditions,http://www.oecd.org/termsandconditions/
+05/02/contribution-ratio.csv,OECD terms and conditions,http://www.oecd.org/termsandconditions/
+05/03/euro15.csv,EZB Haftungsausschluss und Urheberrecht,http://www.ecb.europa.eu/home/disclaimer/html/index.de.html
+05/04/groups.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+05/05/scenario.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+06/01/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+06/02/categories.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+06/02/states.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+06/03/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+06/04/categories.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+07/00/density.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+07/00/districts.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+07/01/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+07/02/center-points.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+07/03/municipalities.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+07/03/districts.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+08/01/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+08/02/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+08/03/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+08/03/migration-background.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+08/04/regions.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+09/01/years.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+09/02/sectors.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+09/03/years.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+09/04/fue.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+09/04/inno.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+09/05/days.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+09/05/costs.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+10/01/categories.csv,CC BY-NC-ND 4.0,https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+10/01/no2-points.csv,CC BY-NC-ND 4.0,https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+10/01/eu-categories.csv,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.de
+10/02/categories.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+10/03/years.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+11/01/federation.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+11/01/states.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+11/01/eu.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+11/02/facets.csv,dl-de/by-2-0,https://www.govdata.de/dl-de/by-2-0
+11/03/categories.csv,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/deed.de
+12/01/global.csv,European Commission Reuse and Copyright Notice,http://data.jrc.ec.europa.eu/licence/com_reuse
+12/01/germany.csv,CC BY-NC-ND 4.0,https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de
+12/02/values.csv,OECD terms and conditions,http://www.oecd.org/termsandconditions/

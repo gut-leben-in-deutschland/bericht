@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
+    <desc style=""/>
+    <g transform="translate(0,0)" style="">
+        <g style="">
+            <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
+            <g transform="translate(0,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
+                    1991
+                </text>
+            </g>
+            <g transform="translate(145.41426082628175,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    1998
+                </text>
+            </g>
+            <g transform="translate(311.58573917371825,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2006
+                </text>
+            </g>
+            <g transform="translate(457,264)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
+                    2013
+                </text>
+            </g>
+            <g style="">
+                <path fill="#8c1478" fill-opacity="0.2" d="M0,116.39623999999998L20.757217521154804,113.27344000000002L41.57130413140866,113.38992000000002L62.32852165256346,117.36087999999998L83.08573917371827,117.16776000000002L103.84295669487308,114.88216L124.65704330512692,114.93936L145.41426082628175,112.44152L166.17147834743653,106.64464000000001L186.92869586859135,106.48248000000001L207.74278247884519,109.05872L228.5,106.19127999999998L249.2572175211548,106.69807999999998L270.01443504230963,106.78592000000003L290.8285216525635,109.37055999999998L311.58573917371825,110.09855999999999L332.34295669487307,105.38167999999999L353.1001742160279,105.96848000000003L373.91426082628175,101.64264000000003L394.6714783474365,100.91432L415.4286958685913,104.68167999999997L436.18591338974613,103.59039999999999L457,104.32704000000001L457,110.12135999999998L436.18591338974613,108.10864000000001L415.4286958685913,109.22504L394.6714783474365,107.85368L373.91426082628175,106.57311999999999L353.1001742160279,112.36824000000001L332.34295669487307,110.83448000000001L311.58573917371825,113.75944000000001L290.8285216525635,113.60896L270.01443504230963,112.45952L249.2572175211548,111.17095999999998L228.5,110.0136L207.74278247884519,112.98400000000001L186.92869586859135,110.09528L166.17147834743653,111.68704000000002L145.41426082628175,115.86984000000001L124.65704330512692,120.20872L103.84295669487308,119.48367999999999L83.08573917371827,120.47695999999999L62.32852165256346,121.75608L41.57130413140866,119.26375999999999L20.757217521154804,118.08232000000001L0,120.93119999999999Z" style="fill:#8c1478;fill-opacity:0.20000000298023224;"/>
+                <path fill="none" stroke="#8c1478" stroke-width="3" stroke-dasharray="none" d="M0,118.66376000000002L20.757217521154804,115.67784L41.57130413140866,116.32688000000002L62.32852165256346,119.55848L83.08573917371827,118.82232000000002L103.84295669487308,117.18295999999998L124.65704330512692,117.57399999999998L145.41426082628175,114.15567999999999L166.17147834743653,109.16584L186.92869586859135,108.28888L207.74278247884519,111.02135999999999L228.5,108.10248000000001L249.2572175211548,108.93448000000001L270.01443504230963,109.62272000000002L290.8285216525635,111.48976000000002L311.58573917371825,111.92895999999999L332.34295669487307,108.10808L353.1001742160279,109.16832000000002L373.91426082628175,104.10784000000001L394.6714783474365,104.38399999999999L415.4286958685913,106.95335999999998L436.18591338974613,105.84951999999998L457,107.22423999999998" style="fill:none;stroke:#8c1478;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="461" x2="467" y1="113.68023999999997" y2="113.68023999999997" stroke="#8c1478" stroke-width="3" style="stroke:#8c1478;stroke-width:3px;"/>
+                    <text dy="0.3em" x="471" y="113.68023999999997" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:79.671875px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            19.597
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             Germany
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <path fill="#bd4aa5" fill-opacity="0.2" d="M0,142.9732L20.757217521154804,138.80648L41.57130413140866,137.1076L62.32852165256346,136.37920000000003L83.08573917371827,135.17088L103.84295669487308,133.16760000000002L124.65704330512692,130.774L145.41426082628175,129.296L166.17147834743653,124.69999999999999L186.92869586859135,125.42488L207.74278247884519,126.03832L228.5,123.89520000000002L249.2572175211548,125.80488L270.01443504230963,126.52607999999998L290.8285216525635,130.33688L311.58573917371825,129.30496L332.34295669487307,125.14423999999997L353.1001742160279,126.60648L373.91426082628175,123.08111999999997L394.6714783474365,119.03072L415.4286958685913,123.87904L436.18591338974613,123.80768L457,124.72456L457,130.11303999999998L436.18591338974613,130.55792000000002L415.4286958685913,129.47256L394.6714783474365,128.78792L373.91426082628175,131.62823999999998L353.1001742160279,133.71L332.34295669487307,136.9216L311.58573917371825,134.20944L290.8285216525635,137.56944L270.01443504230963,134.69583999999998L249.2572175211548,130.88264L228.5,128.3572L207.74278247884519,128.81448000000003L186.92869586859135,128.036L166.17147834743653,128.39832L145.41426082628175,133.42095999999998L124.65704330512692,134.70184L103.84295669487308,135.17391999999998L83.08573917371827,138.1592L62.32852165256346,140.13439999999997L41.57130413140866,141.14968L20.757217521154804,142.61239999999998L0,148.608Z" style="fill:#bd4aa5;fill-opacity:0.20000000298023224;"/>
+                <path fill="none" stroke="#bd4aa5" stroke-width="3" stroke-dasharray="none" d="M0,145.79064L20.757217521154804,140.70944L41.57130413140866,139.12864L62.32852165256346,138.2568L83.08573917371827,136.66503999999998L103.84295669487308,134.17072L124.65704330512692,132.73792000000003L145.41426082628175,131.35848000000001L166.17147834743653,126.54911999999999L186.92869586859135,126.73048L207.74278247884519,127.4264L228.5,126.12616L249.2572175211548,128.34376L270.01443504230963,130.61096L290.8285216525635,133.95311999999998L311.58573917371825,131.7572L332.34295669487307,131.03296L353.1001742160279,130.15824L373.91426082628175,127.35464000000002L394.6714783474365,123.90935999999999L415.4286958685913,126.67584L436.18591338974613,127.18279999999999L457,127.41879999999998" style="fill:none;stroke:#bd4aa5;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="461" x2="467" y1="127.41879999999998" y2="127.41879999999998" stroke="#bd4aa5" stroke-width="3" style="stroke:#bd4aa5;stroke-width:3px;"/>
+                    <text dy="0.3em" x="471" y="127.41879999999998" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:165.84375px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            17.073
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             East German federal states
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g style="">
+                <path fill="#f781dc" fill-opacity="0.2" d="M0,107.08376000000001L20.757217521154804,105.73687999999999L41.57130413140866,103.81799999999998L62.32852165256346,110.28816L83.08573917371827,112.02688L103.84295669487308,109.85496L124.65704330512692,107.87264000000002L145.41426082628175,104.61912000000001L166.17147834743653,98.28247999999999L186.92869586859135,100.68896000000001L207.74278247884519,103.65616000000003L228.5,100.1756L249.2572175211548,101.34120000000001L270.01443504230963,100.87928000000002L290.8285216525635,103.90824L311.58573917371825,103.89168000000001L332.34295669487307,99.02496L353.1001742160279,99.54656L373.91426082628175,96.24351999999999L394.6714783474365,95.65487999999999L415.4286958685913,97.61408L436.18591338974613,98.76704000000001L457,99.44344000000001L457,103.91704000000001L436.18591338974613,104.37367999999998L415.4286958685913,103.32616000000002L394.6714783474365,102.15848L373.91426082628175,101.58232000000001L353.1001742160279,106.38448L332.34295669487307,104.56295999999998L311.58573917371825,108.12960000000001L290.8285216525635,109.00424000000001L270.01443504230963,107.41376000000002L249.2572175211548,106.99264L228.5,105.77223999999998L207.74278247884519,108.66767999999999L186.92869586859135,104.94928000000002L166.17147834743653,105.96816000000001L145.41426082628175,111.70760000000001L124.65704330512692,115.0684L103.84295669487308,115.56288L83.08573917371827,116.37896L62.32852165256346,116.66807999999997L41.57130413140866,111.25751999999997L20.757217521154804,110.09495999999999L0,114.31160000000003Z" style="fill:#f781dc;fill-opacity:0.20000000298023224;"/>
+                <path fill="none" stroke="#f781dc" stroke-width="3" stroke-dasharray="none" d="M0,110.69767999999999L20.757217521154804,107.91592000000003L41.57130413140866,107.53775999999999L62.32852165256346,113.47816L83.08573917371827,114.20288L103.84295669487308,112.70895999999999L124.65704330512692,111.47048000000001L145.41426082628175,108.16335999999998L166.17147834743653,102.12535999999997L186.92869586859135,102.81912L207.74278247884519,106.16192000000001L228.5,102.97392000000002L249.2572175211548,104.16696000000002L270.01443504230963,104.14648000000003L290.8285216525635,106.45623999999998L311.58573917371825,106.01064000000002L332.34295669487307,101.79392000000001L353.1001742160279,102.96552L373.91426082628175,98.91296L394.6714783474365,98.90664000000001L415.4286958685913,100.47016000000002L436.18591338974613,101.5704L457,101.68023999999997" style="fill:none;stroke:#f781dc;stroke-width:3px;"/>
+                <g style="">
+                    <line x1="461" x2="467" y1="101.68023999999997" y2="101.68023999999997" stroke="#f781dc" stroke-width="3" style="stroke:#f781dc;stroke-width:3px;"/>
+                    <text dy="0.3em" x="471" y="101.68023999999997" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:170.140625px;fill:#666666;">
+                        <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
+                            20.290
+                        </tspan>
+                        <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
+                             West German federal states
+                        </tspan>
+                    </text>
+                </g>
+            </g>
+            <g transform="translate(0,264)" style="">
+                <line x2="457" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
+                    0
+                </text>
+            </g>
+            <g transform="translate(0,144)" style="">
+                <line x2="457" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:32.59375px;fill:#666666;">
+                    15.000
+                </text>
+            </g>
+            <g transform="translate(0,24)" style="">
+                <line x2="457" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:32.59375px;fill:#666666;">
+                    30.000 
+                </text>
+            </g>
+        </g>
+    </g>
+    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:80px;width:640px;">
+            <div style="display:block;height:80px;width:640px;">
+                <div style="display:block;height:20px;padding-right:182px;width:640px;">
+                    <div style="display:block;height:20px;line-height:12px;width:458px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);width:185.234375px;">
+                            <span style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(69, 69, 69);white-space:nowrap;">
+                                <span style="background-color:rgb(69, 69, 69);border-bottom-color:rgb(221, 221, 221);border-bottom-style:solid;border-bottom-width:4px;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(221, 221, 221);border-top-style:solid;border-top-width:4px;color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:11px;margin-bottom:-1px;outline-color:rgb(69, 69, 69);white-space:nowrap;width:24px;">
+                                </span>
+                                 95-per-cent-confidence-interval
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <div style="display:block;height:60px;width:640px;">
+                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Calculations by DIW Berlin, SOEPv31.1.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
+                                    <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
+                                    CC BY 4.0 Federal Government
+                                </span>
+                            </p>
+                        </div>
+                        <div style="display:block;float:left;height:42px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                Net household income in 2010 prices.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </body>
+    </foreignObject>
+</svg>

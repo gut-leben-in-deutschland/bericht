@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_arrow-left_flagship" stroke="#454545">
+            <polyline id="Shape" transform="translate(4.500000, 8.000392) scale(-1, 1) rotate(-90.000000) translate(-4.500000, -8.000392) " points="9.50039205 5.50039205 4.5 10.5003921 -0.500392054 5.50039205"></polyline>
+            <path d="M14,8 L3,8" id="Line" stroke-linecap="square" transform="translate(8.500000, 8.000000) scale(-1, 1) translate(-8.500000, -8.000000) "></path>
+        </g>
+    </g>
+</svg>

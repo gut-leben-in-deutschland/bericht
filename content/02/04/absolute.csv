@@ -1,0 +1,289 @@
+gender,category,year,value
+Insgesamt,Normalarbeitnehmer/-innen,1991,26593000
+Insgesamt,Normalarbeitnehmer/-innen,1992,26096000
+Insgesamt,Normalarbeitnehmer/-innen,1993,25722000
+Insgesamt,Normalarbeitnehmer/-innen,1994,25351000
+Insgesamt,Normalarbeitnehmer/-innen,1995,25014000
+Insgesamt,Normalarbeitnehmer/-innen,1996,24609000
+Insgesamt,Normalarbeitnehmer/-innen,1997,24006000
+Insgesamt,Normalarbeitnehmer/-innen,1998,23681000
+Insgesamt,Normalarbeitnehmer/-innen,1999,23613000
+Insgesamt,Normalarbeitnehmer/-innen,2000,23728000
+Insgesamt,Normalarbeitnehmer/-innen,2001,23714000
+Insgesamt,Normalarbeitnehmer/-innen,2002,23516000
+Insgesamt,Normalarbeitnehmer/-innen,2003,22815000
+Insgesamt,Normalarbeitnehmer/-innen,2004,22364000
+Insgesamt,Normalarbeitnehmer/-innen,2005,22081000
+Insgesamt,Normalarbeitnehmer/-innen,2006,22103000
+Insgesamt,Normalarbeitnehmer/-innen,2007,22484000
+Insgesamt,Normalarbeitnehmer/-innen,2008,22908000
+Insgesamt,Normalarbeitnehmer/-innen,2009,22993000
+Insgesamt,Normalarbeitnehmer/-innen,2010,23075000
+Insgesamt,Normalarbeitnehmer/-innen,2011,23132000
+Insgesamt,Normalarbeitnehmer/-innen,2012,23631000
+Insgesamt,Normalarbeitnehmer/-innen,2013,24011000
+Insgesamt,Normalarbeitnehmer/-innen,2014,24469000
+Insgesamt,Atypisch Beschäftigte insgesamt,1991,4356000
+Insgesamt,Atypisch Beschäftigte insgesamt,1992,4511000
+Insgesamt,Atypisch Beschäftigte insgesamt,1993,4380000
+Insgesamt,Atypisch Beschäftigte insgesamt,1994,4498000
+Insgesamt,Atypisch Beschäftigte insgesamt,1995,4791000
+Insgesamt,Atypisch Beschäftigte insgesamt,1996,4926000
+Insgesamt,Atypisch Beschäftigte insgesamt,1997,5160000
+Insgesamt,Atypisch Beschäftigte insgesamt,1998,5352000
+Insgesamt,Atypisch Beschäftigte insgesamt,1999,5866000
+Insgesamt,Atypisch Beschäftigte insgesamt,2000,5931000
+Insgesamt,Atypisch Beschäftigte insgesamt,2001,6036000
+Insgesamt,Atypisch Beschäftigte insgesamt,2002,5976000
+Insgesamt,Atypisch Beschäftigte insgesamt,2003,6149000
+Insgesamt,Atypisch Beschäftigte insgesamt,2004,6109000
+Insgesamt,Atypisch Beschäftigte insgesamt,2005,6765000
+Insgesamt,Atypisch Beschäftigte insgesamt,2006,7459000
+Insgesamt,Atypisch Beschäftigte insgesamt,2007,7686000
+Insgesamt,Atypisch Beschäftigte insgesamt,2008,7744000
+Insgesamt,Atypisch Beschäftigte insgesamt,2009,7616000
+Insgesamt,Atypisch Beschäftigte insgesamt,2010,7852000
+Insgesamt,Atypisch Beschäftigte insgesamt,2011,7768000
+Insgesamt,Atypisch Beschäftigte insgesamt,2012,7644000
+Insgesamt,Atypisch Beschäftigte insgesamt,2013,7577000
+Insgesamt,Atypisch Beschäftigte insgesamt,2014,7453000
+Männer,Atypisch Beschäftigte insgesamt,1991,1185000
+Männer,Atypisch Beschäftigte insgesamt,1992,1214000
+Männer,Atypisch Beschäftigte insgesamt,1993,1129000
+Männer,Atypisch Beschäftigte insgesamt,1994,1135000
+Männer,Atypisch Beschäftigte insgesamt,1995,1247000
+Männer,Atypisch Beschäftigte insgesamt,1996,1272000
+Männer,Atypisch Beschäftigte insgesamt,1997,1347000
+Männer,Atypisch Beschäftigte insgesamt,1998,1418000
+Männer,Atypisch Beschäftigte insgesamt,1999,1532000
+Männer,Atypisch Beschäftigte insgesamt,2000,1526000
+Männer,Atypisch Beschäftigte insgesamt,2001,1517000
+Männer,Atypisch Beschäftigte insgesamt,2002,1446000
+Männer,Atypisch Beschäftigte insgesamt,2003,1510000
+Männer,Atypisch Beschäftigte insgesamt,2004,1528000
+Männer,Atypisch Beschäftigte insgesamt,2005,1805000
+Männer,Atypisch Beschäftigte insgesamt,2006,2197000
+Männer,Atypisch Beschäftigte insgesamt,2007,2278000
+Männer,Atypisch Beschäftigte insgesamt,2008,2313000
+Männer,Atypisch Beschäftigte insgesamt,2009,2190000
+Männer,Atypisch Beschäftigte insgesamt,2010,2355000
+Männer,Atypisch Beschäftigte insgesamt,2011,2288000
+Männer,Atypisch Beschäftigte insgesamt,2012,2268000
+Männer,Atypisch Beschäftigte insgesamt,2013,2202000
+Männer,Atypisch Beschäftigte insgesamt,2014,2183000
+Männer,Befristet Beschäftigte,1991,1006000
+Männer,Befristet Beschäftigte,1992,1038000
+Männer,Befristet Beschäftigte,1993,952000
+Männer,Befristet Beschäftigte,1994,947000
+Männer,Befristet Beschäftigte,1995,1022000
+Männer,Befristet Beschäftigte,1996,1003000
+Männer,Befristet Beschäftigte,1997,1029000
+Männer,Befristet Beschäftigte,1998,1078000
+Männer,Befristet Beschäftigte,1999,1189000
+Männer,Befristet Beschäftigte,2000,1164000
+Männer,Befristet Beschäftigte,2001,1142000
+Männer,Befristet Beschäftigte,2002,1051000
+Männer,Befristet Beschäftigte,2003,1070000
+Männer,Befristet Beschäftigte,2004,1076000
+Männer,Befristet Beschäftigte,2005,1291000
+Männer,Befristet Beschäftigte,2006,1399000
+Männer,Befristet Beschäftigte,2007,1396000
+Männer,Befristet Beschäftigte,2008,1406000
+Männer,Befristet Beschäftigte,2009,1310000
+Männer,Befristet Beschäftigte,2010,1375000
+Männer,Befristet Beschäftigte,2011,1349000
+Männer,Befristet Beschäftigte,2012,1289000
+Männer,Befristet Beschäftigte,2013,1219000
+Männer,Befristet Beschäftigte,2014,1187000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1991,152000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1992,165000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1993,175000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden.,1994,193000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1995,235000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1996,263000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1997,320000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1998,351000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1999,369000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2000,383000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2001,404000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2002,427000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2003,485000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2004,506000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2005,582000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2006,632000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2007,643000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2008,636000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2009,640000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2010,659000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2011,671000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2012,683000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2013,699000
+Männer,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2014,700000
+Männer,Geringfügig Beschäftigte,1991,100000
+Männer,Geringfügig Beschäftigte,1992,91000
+Männer,Geringfügig Beschäftigte,1993,94000
+Männer,Geringfügig Beschäftigte,1994,93000
+Männer,Geringfügig Beschäftigte,1995,123000
+Männer,Geringfügig Beschäftigte,1996,167000
+Männer,Geringfügig Beschäftigte,1997,222000
+Männer,Geringfügig Beschäftigte,1998,242000
+Männer,Geringfügig Beschäftigte,1999,245000
+Männer,Geringfügig Beschäftigte,2000,249000
+Männer,Geringfügig Beschäftigte,2001,251000
+Männer,Geringfügig Beschäftigte,2002,270000
+Männer,Geringfügig Beschäftigte,2003,302000
+Männer,Geringfügig Beschäftigte,2004,311000
+Männer,Geringfügig Beschäftigte,2005,437000
+Männer,Geringfügig Beschäftigte,2006,554000
+Männer,Geringfügig Beschäftigte,2007,578000
+Männer,Geringfügig Beschäftigte,2008,554000
+Männer,Geringfügig Beschäftigte,2009,577000
+Männer,Geringfügig Beschäftigte,2010,562000
+Männer,Geringfügig Beschäftigte,2011,556000
+Männer,Geringfügig Beschäftigte,2012,535000
+Männer,Geringfügig Beschäftigte,2013,539000
+Männer,Geringfügig Beschäftigte,2014,526000
+Männer,Zeitarbeitnehmer/-innen,1991,
+Männer,Zeitarbeitnehmer/-innen,1992,
+Männer,Zeitarbeitnehmer/-innen,1993,
+Männer,Zeitarbeitnehmer/-innen,1994,
+Männer,Zeitarbeitnehmer/-innen,1995,
+Männer,Zeitarbeitnehmer/-innen,1996,
+Männer,Zeitarbeitnehmer/-innen,1997,
+Männer,Zeitarbeitnehmer/-innen,1998,
+Männer,Zeitarbeitnehmer/-innen,1999,
+Männer,Zeitarbeitnehmer/-innen,2000,
+Männer,Zeitarbeitnehmer/-innen,2001,
+Männer,Zeitarbeitnehmer/-innen,2002,
+Männer,Zeitarbeitnehmer/-innen,2003,
+Männer,Zeitarbeitnehmer/-innen,2004,
+Männer,Zeitarbeitnehmer/-innen,2005,
+Männer,Zeitarbeitnehmer/-innen,2006,371000
+Männer,Zeitarbeitnehmer/-innen,2007,407000
+Männer,Zeitarbeitnehmer/-innen,2008,433000
+Männer,Zeitarbeitnehmer/-innen,2009,374000
+Männer,Zeitarbeitnehmer/-innen,2010,499000
+Männer,Zeitarbeitnehmer/-innen,2011,489000
+Männer,Zeitarbeitnehmer/-innen,2012,489000
+Männer,Zeitarbeitnehmer/-innen,2013,457000
+Männer,Zeitarbeitnehmer/-innen,2014,448000
+Frauen,Atypisch Beschäftigte insgesamt,1991,3171000
+Frauen,Atypisch Beschäftigte insgesamt,1992,3297000
+Frauen,Atypisch Beschäftigte insgesamt,1993,3251000
+Frauen,Atypisch Beschäftigte insgesamt,1994,3363000
+Frauen,Atypisch Beschäftigte insgesamt,1995,3544000
+Frauen,Atypisch Beschäftigte insgesamt,1996,3654000
+Frauen,Atypisch Beschäftigte insgesamt,1997,3813000
+Frauen,Atypisch Beschäftigte insgesamt,1998,3934000
+Frauen,Atypisch Beschäftigte insgesamt,1999,4334000
+Frauen,Atypisch Beschäftigte insgesamt,2000,4405000
+Frauen,Atypisch Beschäftigte insgesamt,2001,4519000
+Frauen,Atypisch Beschäftigte insgesamt,2002,4530000
+Frauen,Atypisch Beschäftigte insgesamt,2003,4640000
+Frauen,Atypisch Beschäftigte insgesamt,2004,4581000
+Frauen,Atypisch Beschäftigte insgesamt,2005,4960000
+Frauen,Atypisch Beschäftigte insgesamt,2006,5262000
+Frauen,Atypisch Beschäftigte insgesamt,2007,5408000
+Frauen,Atypisch Beschäftigte insgesamt,2008,5431000
+Frauen,Atypisch Beschäftigte insgesamt,2009,5426000
+Frauen,Atypisch Beschäftigte insgesamt,2010,5497000
+Frauen,Atypisch Beschäftigte insgesamt,2011,5481000
+Frauen,Atypisch Beschäftigte insgesamt,2012,5376000
+Frauen,Atypisch Beschäftigte insgesamt,2013,5375000
+Frauen,Atypisch Beschäftigte insgesamt,2014,5271000
+Frauen,Befristet Beschäftigte,1991,886000
+Frauen,Befristet Beschäftigte,1992,895000
+Frauen,Befristet Beschäftigte,1993,792000
+Frauen,Befristet Beschäftigte,1994,851000
+Frauen,Befristet Beschäftigte,1995,908000
+Frauen,Befristet Beschäftigte,1996,844000
+Frauen,Befristet Beschäftigte,1997,866000
+Frauen,Befristet Beschäftigte,1998,881000
+Frauen,Befristet Beschäftigte,1999,1041000
+Frauen,Befristet Beschäftigte,2000,1035000
+Frauen,Befristet Beschäftigte,2001,1007000
+Frauen,Befristet Beschäftigte,2002,942000
+Frauen,Befristet Beschäftigte,2003,938000
+Frauen,Befristet Beschäftigte,2004,922000
+Frauen,Befristet Beschäftigte,2005,1138000
+Frauen,Befristet Beschäftigte,2006,1237000
+Frauen,Befristet Beschäftigte,2007,1282000
+Frauen,Befristet Beschäftigte,2008,1349000
+Frauen,Befristet Beschäftigte,2009,1361000
+Frauen,Befristet Beschäftigte,2010,1411000
+Frauen,Befristet Beschäftigte,2011,1394000
+Frauen,Befristet Beschäftigte,2012,1307000
+Frauen,Befristet Beschäftigte,2013,1264000
+Frauen,Befristet Beschäftigte,2014,1241000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1991,2396000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1992,2514000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1993,2582000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1994,2655000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1995,2782000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1996,2914000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1997,3056000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1998,3167000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,1999,3447000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2000,3541000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2001,3701000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2002,3774000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2003,3897000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2004,3850000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2005,4066000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2006,4198000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2007,4275000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2008,4250000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2009,4249000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2010,4256000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2011,4272000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2012,4230000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2013,4246000
+Frauen,Teilzeitbeschäftigte bis zu 20 Wochenstunden,2014,4149000
+Frauen,Geringfügig Beschäftigte,1991,550000
+Frauen,Geringfügig Beschäftigte,1992,577000
+Frauen,Geringfügig Beschäftigte,1993,551000
+Frauen,Geringfügig Beschäftigte,1994,550000
+Frauen,Geringfügig Beschäftigte,1995,622000
+Frauen,Geringfügig Beschäftigte,1996,925000
+Frauen,Geringfügig Beschäftigte,1997,1079000
+Frauen,Geringfügig Beschäftigte,1998,1253000
+Frauen,Geringfügig Beschäftigte,1999,1486000
+Frauen,Geringfügig Beschäftigte,2000,1487000
+Frauen,Geringfügig Beschäftigte,2001,1551000
+Frauen,Geringfügig Beschäftigte,2002,1568000
+Frauen,Geringfügig Beschäftigte,2003,1622000
+Frauen,Geringfügig Beschäftigte,2004,1645000
+Frauen,Geringfügig Beschäftigte,2005,1951000
+Frauen,Geringfügig Beschäftigte,2006,2074000
+Frauen,Geringfügig Beschäftigte,2007,2154000
+Frauen,Geringfügig Beschäftigte,2008,1989000
+Frauen,Geringfügig Beschäftigte,2009,1967000
+Frauen,Geringfügig Beschäftigte,2010,1924000
+Frauen,Geringfügig Beschäftigte,2011,2028000
+Frauen,Geringfügig Beschäftigte,2012,1930000
+Frauen,Geringfügig Beschäftigte,2013,1882000
+Frauen,Geringfügig Beschäftigte,2014,1789000
+Frauen,Zeitarbeitnehmer/-innen,1991,
+Frauen,Zeitarbeitnehmer/-innen,1992,
+Frauen,Zeitarbeitnehmer/-innen,1993,
+Frauen,Zeitarbeitnehmer/-innen,1994,
+Frauen,Zeitarbeitnehmer/-innen,1995,
+Frauen,Zeitarbeitnehmer/-innen,1996,
+Frauen,Zeitarbeitnehmer/-innen,1997,
+Frauen,Zeitarbeitnehmer/-innen,1998,
+Frauen,Zeitarbeitnehmer/-innen,1999,
+Frauen,Zeitarbeitnehmer/-innen,2000,
+Frauen,Zeitarbeitnehmer/-innen,2001,
+Frauen,Zeitarbeitnehmer/-innen,2002,
+Frauen,Zeitarbeitnehmer/-innen,2003,
+Frauen,Zeitarbeitnehmer/-innen,2004,
+Frauen,Zeitarbeitnehmer/-innen,2005,
+Frauen,Zeitarbeitnehmer/-innen,2006,184000
+Frauen,Zeitarbeitnehmer/-innen,2007,204000
+Frauen,Zeitarbeitnehmer/-innen,2008,192000
+Frauen,Zeitarbeitnehmer/-innen,2009,185000
+Frauen,Zeitarbeitnehmer/-innen,2010,237000
+Frauen,Zeitarbeitnehmer/-innen,2011,249000
+Frauen,Zeitarbeitnehmer/-innen,2012,222000
+Frauen,Zeitarbeitnehmer/-innen,2013,218000
+Frauen,Zeitarbeitnehmer/-innen,2014,213000

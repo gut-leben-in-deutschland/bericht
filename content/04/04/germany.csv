@@ -1,0 +1,320 @@
+region,facet,facet_value,year,value
+Deutschland,Zeitaufwand,kein Pendler 2),1991,0.035
+Deutschland,Zeitaufwand,kein Pendler 2),1994,0.039
+Deutschland,Zeitaufwand,kein Pendler 2),1996,0.041
+Deutschland,Zeitaufwand,kein Pendler 2),2000,0.039
+Deutschland,Zeitaufwand,kein Pendler 2),2004,0.035
+Deutschland,Zeitaufwand,kein Pendler 2),2008,0.037
+Deutschland,Zeitaufwand,kein Pendler 2),2012,0.048
+Deutschland,Zeitaufwand,unter 10 Minuten,1991,0.234
+Deutschland,Zeitaufwand,unter 10 Minuten,1994,0.256
+Deutschland,Zeitaufwand,unter 10 Minuten,1996,0.264
+Deutschland,Zeitaufwand,unter 10 Minuten,2000,0.262
+Deutschland,Zeitaufwand,unter 10 Minuten,2004,0.266
+Deutschland,Zeitaufwand,unter 10 Minuten,2008,0.26
+Deutschland,Zeitaufwand,unter 10 Minuten,2012,0.224
+Deutschland,Zeitaufwand,10 bis unter 30 Minuten,1991,0.512
+Deutschland,Zeitaufwand,10 bis unter 30 Minuten,1994,0.483
+Deutschland,Zeitaufwand,10 bis unter 30 Minuten,1996,0.48
+Deutschland,Zeitaufwand,10 bis unter 30 Minuten,2000,0.474
+Deutschland,Zeitaufwand,10 bis unter 30 Minuten,2004,0.475
+Deutschland,Zeitaufwand,10 bis unter 30 Minuten,2008,0.468
+Deutschland,Zeitaufwand,10 bis unter 30 Minuten,2012,0.469
+Deutschland,Zeitaufwand,30 bis unter 60 Minuten,1991,0.175
+Deutschland,Zeitaufwand,30 bis unter 60 Minuten,1994,0.179
+Deutschland,Zeitaufwand,30 bis unter 60 Minuten,1996,0.166
+Deutschland,Zeitaufwand,30 bis unter 60 Minuten,2000,0.174
+Deutschland,Zeitaufwand,30 bis unter 60 Minuten,2004,0.174
+Deutschland,Zeitaufwand,30 bis unter 60 Minuten,2008,0.188
+Deutschland,Zeitaufwand,30 bis unter 60 Minuten,2012,0.212
+Deutschland,Zeitaufwand,60 Minuten oder länger,1991,0.044
+Deutschland,Zeitaufwand,60 Minuten oder länger,1994,0.042
+Deutschland,Zeitaufwand,60 Minuten oder länger,1996,0.048
+Deutschland,Zeitaufwand,60 Minuten oder länger,2000,0.051
+Deutschland,Zeitaufwand,60 Minuten oder länger,2004,0.05
+Deutschland,Zeitaufwand,60 Minuten oder länger,2008,0.047
+Deutschland,Zeitaufwand,60 Minuten oder länger,2012,0.047
+Deutschland,Zeitaufwand,30 Minuten oder länger,1991,0.219
+Deutschland,Zeitaufwand,30 Minuten oder länger,1994,0.221
+Deutschland,Zeitaufwand,30 Minuten oder länger,1996,0.214
+Deutschland,Zeitaufwand,30 Minuten oder länger,2000,0.225
+Deutschland,Zeitaufwand,30 Minuten oder länger,2004,0.224
+Deutschland,Zeitaufwand,30 Minuten oder länger,2008,0.235
+Deutschland,Zeitaufwand,30 Minuten oder länger,2012,0.259
+sehr zentral,Zeitaufwand,kein Pendler 2),2000,0.032
+sehr zentral,Zeitaufwand,kein Pendler 2),2004,0.028
+sehr zentral,Zeitaufwand,kein Pendler 2),2008,0.031
+sehr zentral,Zeitaufwand,kein Pendler 2),2012,0.041
+sehr zentral,Zeitaufwand,unter 10 Minuten,2000,0.213
+sehr zentral,Zeitaufwand,unter 10 Minuten,2004,0.22
+sehr zentral,Zeitaufwand,unter 10 Minuten,2008,0.207
+sehr zentral,Zeitaufwand,unter 10 Minuten,2012,0.183
+sehr zentral,Zeitaufwand,10 bis unter 30 Minuten,2000,0.495
+sehr zentral,Zeitaufwand,10 bis unter 30 Minuten,2004,0.495
+sehr zentral,Zeitaufwand,10 bis unter 30 Minuten,2008,0.488
+sehr zentral,Zeitaufwand,10 bis unter 30 Minuten,2012,0.474
+sehr zentral,Zeitaufwand,30 bis unter 60 Minuten,2000,0.214
+sehr zentral,Zeitaufwand,30 bis unter 60 Minuten,2004,0.211
+sehr zentral,Zeitaufwand,30 bis unter 60 Minuten,2008,0.226
+sehr zentral,Zeitaufwand,30 bis unter 60 Minuten,2012,0.253
+sehr zentral,Zeitaufwand,60 Minuten oder länger,2000,0.047
+sehr zentral,Zeitaufwand,60 Minuten oder länger,2004,0.046
+sehr zentral,Zeitaufwand,60 Minuten oder länger,2008,0.048
+sehr zentral,Zeitaufwand,60 Minuten oder länger,2012,0.048
+sehr zentral,Zeitaufwand,30 Minuten oder länger,2000,0.261
+sehr zentral,Zeitaufwand,30 Minuten oder länger,2004,0.257
+sehr zentral,Zeitaufwand,30 Minuten oder länger,2008,0.274
+sehr zentral,Zeitaufwand,30 Minuten oder länger,2012,0.301
+zentral,Zeitaufwand,kein Pendler 2),2000,0.041
+zentral,Zeitaufwand,kein Pendler 2),2004,0.035
+zentral,Zeitaufwand,kein Pendler 2),2008,0.04
+zentral,Zeitaufwand,kein Pendler 2),2012,0.049
+zentral,Zeitaufwand,unter 10 Minuten,2000,0.287
+zentral,Zeitaufwand,unter 10 Minuten,2004,0.295
+zentral,Zeitaufwand,unter 10 Minuten,2008,0.288
+zentral,Zeitaufwand,unter 10 Minuten,2012,0.241
+zentral,Zeitaufwand,10 bis unter 30 Minuten,2000,0.471
+zentral,Zeitaufwand,10 bis unter 30 Minuten,2004,0.47
+zentral,Zeitaufwand,10 bis unter 30 Minuten,2008,0.465
+zentral,Zeitaufwand,10 bis unter 30 Minuten,2012,0.477
+zentral,Zeitaufwand,30 bis unter 60 Minuten,2000,0.151
+zentral,Zeitaufwand,30 bis unter 60 Minuten,2004,0.152
+zentral,Zeitaufwand,30 bis unter 60 Minuten,2008,0.164
+zentral,Zeitaufwand,30 bis unter 60 Minuten,2012,0.188
+zentral,Zeitaufwand,60 Minuten oder länger,2000,0.05
+zentral,Zeitaufwand,60 Minuten oder länger,2004,0.048
+zentral,Zeitaufwand,60 Minuten oder länger,2008,0.043
+zentral,Zeitaufwand,60 Minuten oder länger,2012,0.044
+zentral,Zeitaufwand,30 Minuten oder länger,2000,0.201
+zentral,Zeitaufwand,30 Minuten oder länger,2004,0.2
+zentral,Zeitaufwand,30 Minuten oder länger,2008,0.207
+zentral,Zeitaufwand,30 Minuten oder länger,2012,0.232
+peripher,Zeitaufwand,kein Pendler 2),2000,0.05
+peripher,Zeitaufwand,kein Pendler 2),2004,0.049
+peripher,Zeitaufwand,kein Pendler 2),2008,0.043
+peripher,Zeitaufwand,kein Pendler 2),2012,0.061
+peripher,Zeitaufwand,unter 10 Minuten,2000,0.316
+peripher,Zeitaufwand,unter 10 Minuten,2004,0.315
+peripher,Zeitaufwand,unter 10 Minuten,2008,0.321
+peripher,Zeitaufwand,unter 10 Minuten,2012,0.274
+peripher,Zeitaufwand,10 bis unter 30 Minuten,2000,0.446
+peripher,Zeitaufwand,10 bis unter 30 Minuten,2004,0.447
+peripher,Zeitaufwand,10 bis unter 30 Minuten,2008,0.44
+peripher,Zeitaufwand,10 bis unter 30 Minuten,2012,0.454
+peripher,Zeitaufwand,30 bis unter 60 Minuten,2000,0.132
+peripher,Zeitaufwand,30 bis unter 60 Minuten,2004,0.133
+peripher,Zeitaufwand,30 bis unter 60 Minuten,2008,0.149
+peripher,Zeitaufwand,30 bis unter 60 Minuten,2012,0.166
+peripher,Zeitaufwand,60 Minuten oder länger,2000,0.057
+peripher,Zeitaufwand,60 Minuten oder länger,2004,0.056
+peripher,Zeitaufwand,60 Minuten oder länger,2008,0.047
+peripher,Zeitaufwand,60 Minuten oder länger,2012,0.045
+peripher,Zeitaufwand,30 Minuten oder länger,2000,0.189
+peripher,Zeitaufwand,30 Minuten oder länger,2004,0.189
+peripher,Zeitaufwand,30 Minuten oder länger,2008,0.196
+peripher,Zeitaufwand,30 Minuten oder länger,2012,0.211
+sehr peripher,Zeitaufwand,kein Pendler 2),2000,0.035
+sehr peripher,Zeitaufwand,kein Pendler 2),2004,0.034
+sehr peripher,Zeitaufwand,kein Pendler 2),2008,0.038
+sehr peripher,Zeitaufwand,kein Pendler 2),2012,0.047
+sehr peripher,Zeitaufwand,unter 10 Minuten,2000,0.316
+sehr peripher,Zeitaufwand,unter 10 Minuten,2004,0.312
+sehr peripher,Zeitaufwand,unter 10 Minuten,2008,0.337
+sehr peripher,Zeitaufwand,unter 10 Minuten,2012,0.3
+sehr peripher,Zeitaufwand,10 bis unter 30 Minuten,2000,0.432
+sehr peripher,Zeitaufwand,10 bis unter 30 Minuten,2004,0.428
+sehr peripher,Zeitaufwand,10 bis unter 30 Minuten,2008,0.403
+sehr peripher,Zeitaufwand,10 bis unter 30 Minuten,2012,0.42
+sehr peripher,Zeitaufwand,30 bis unter 60 Minuten,2000,0.135
+sehr peripher,Zeitaufwand,30 bis unter 60 Minuten,2004,0.146
+sehr peripher,Zeitaufwand,30 bis unter 60 Minuten,2008,0.152
+sehr peripher,Zeitaufwand,30 bis unter 60 Minuten,2012,0.172
+sehr peripher,Zeitaufwand,60 Minuten oder länger,2000,0.082
+sehr peripher,Zeitaufwand,60 Minuten oder länger,2004,0.079
+sehr peripher,Zeitaufwand,60 Minuten oder länger,2008,0.071
+sehr peripher,Zeitaufwand,60 Minuten oder länger,2012,0.061
+sehr peripher,Zeitaufwand,30 Minuten oder länger,2000,0.217
+sehr peripher,Zeitaufwand,30 Minuten oder länger,2004,0.225
+sehr peripher,Zeitaufwand,30 Minuten oder länger,2008,0.223
+sehr peripher,Zeitaufwand,30 Minuten oder länger,2012,0.233
+Deutschland,Verkehrsmittel,kein Pendler 2),1991,0.035
+Deutschland,Verkehrsmittel,kein Pendler 2),1994,0.039
+Deutschland,Verkehrsmittel,kein Pendler 2),1996,0.041
+Deutschland,Verkehrsmittel,kein Pendler 2),2000,0.039
+Deutschland,Verkehrsmittel,kein Pendler 2),2004,0.035
+Deutschland,Verkehrsmittel,kein Pendler 2),2008,0.037
+Deutschland,Verkehrsmittel,kein Pendler 2),2012,0.048
+Deutschland,Verkehrsmittel,Öffentliches Verkehrsmittel,1991,0.174
+Deutschland,Verkehrsmittel,Öffentliches Verkehrsmittel,1994,0.148
+Deutschland,Verkehrsmittel,Öffentliches Verkehrsmittel,1996,0.135
+Deutschland,Verkehrsmittel,Öffentliches Verkehrsmittel,2000,0.126
+Deutschland,Verkehrsmittel,Öffentliches Verkehrsmittel,2004,0.126
+Deutschland,Verkehrsmittel,Öffentliches Verkehrsmittel,2008,0.137
+Deutschland,Verkehrsmittel,Öffentliches Verkehrsmittel,2012,0.134
+Deutschland,Verkehrsmittel,Pkw,1991,0.57
+Deutschland,Verkehrsmittel,Pkw,1994,0.598
+Deutschland,Verkehrsmittel,Pkw,1996,0.62
+Deutschland,Verkehrsmittel,Pkw,2000,0.64
+Deutschland,Verkehrsmittel,Pkw,2004,0.65
+Deutschland,Verkehrsmittel,Pkw,2008,0.62
+Deutschland,Verkehrsmittel,Pkw,2012,0.629
+Deutschland,Verkehrsmittel,"Motorrad, Moped, Mofa",1991,0.018
+Deutschland,Verkehrsmittel,"Motorrad, Moped, Mofa",1994,0.011
+Deutschland,Verkehrsmittel,"Motorrad, Moped, Mofa",1996,0.012
+Deutschland,Verkehrsmittel,"Motorrad, Moped, Mofa",2000,0.012
+Deutschland,Verkehrsmittel,"Motorrad, Moped, Mofa",2004,0.011
+Deutschland,Verkehrsmittel,"Motorrad, Moped, Mofa",2008,0.012
+Deutschland,Verkehrsmittel,"Motorrad, Moped, Mofa",2012,0.01
+Deutschland,Verkehrsmittel,Fahrrad,1991,0.093
+Deutschland,Verkehrsmittel,Fahrrad,1994,0.085
+Deutschland,Verkehrsmittel,Fahrrad,1996,0.076
+Deutschland,Verkehrsmittel,Fahrrad,2000,0.077
+Deutschland,Verkehrsmittel,Fahrrad,2004,0.074
+Deutschland,Verkehrsmittel,Fahrrad,2008,0.088
+Deutschland,Verkehrsmittel,Fahrrad,2012,0.087
+Deutschland,Verkehrsmittel,zu Fuß,1991,0.107
+Deutschland,Verkehrsmittel,zu Fuß,1994,0.112
+Deutschland,Verkehrsmittel,zu Fuß,1996,0.11
+Deutschland,Verkehrsmittel,zu Fuß,2000,0.101
+Deutschland,Verkehrsmittel,zu Fuß,2004,0.098
+Deutschland,Verkehrsmittel,zu Fuß,2008,0.101
+Deutschland,Verkehrsmittel,zu Fuß,2012,0.088
+Deutschland,Verkehrsmittel,Sonstiges,1991,0.004
+Deutschland,Verkehrsmittel,Sonstiges,1994,0.007
+Deutschland,Verkehrsmittel,Sonstiges,1996,0.006
+Deutschland,Verkehrsmittel,Sonstiges,2000,0.005
+Deutschland,Verkehrsmittel,Sonstiges,2004,0.006
+Deutschland,Verkehrsmittel,Sonstiges,2008,0.004
+Deutschland,Verkehrsmittel,Sonstiges,2012,0.004
+sehr zentral,Verkehrsmittel,kein Pendler 2),2000,0.032
+sehr zentral,Verkehrsmittel,kein Pendler 2),2004,0.028
+sehr zentral,Verkehrsmittel,kein Pendler 2),2008,0.031
+sehr zentral,Verkehrsmittel,kein Pendler 2),2012,0.041
+sehr zentral,Verkehrsmittel,Öffentliches Verkehrsmittel,2000,0.193
+sehr zentral,Verkehrsmittel,Öffentliches Verkehrsmittel,2004,0.196
+sehr zentral,Verkehrsmittel,Öffentliches Verkehrsmittel,2008,0.215
+sehr zentral,Verkehrsmittel,Öffentliches Verkehrsmittel,2012,0.214
+sehr zentral,Verkehrsmittel,Pkw,2000,0.6
+sehr zentral,Verkehrsmittel,Pkw,2004,0.6
+sehr zentral,Verkehrsmittel,Pkw,2008,0.56
+sehr zentral,Verkehrsmittel,Pkw,2012,0.56
+sehr zentral,Verkehrsmittel,"Motorrad, Moped, Mofa",2000,0.012
+sehr zentral,Verkehrsmittel,"Motorrad, Moped, Mofa",2004,0.01
+sehr zentral,Verkehrsmittel,"Motorrad, Moped, Mofa",2008,0.012
+sehr zentral,Verkehrsmittel,"Motorrad, Moped, Mofa",2012,0.009
+sehr zentral,Verkehrsmittel,Fahrrad,2000,0.071
+sehr zentral,Verkehrsmittel,Fahrrad,2004,0.071
+sehr zentral,Verkehrsmittel,Fahrrad,2008,0.089
+sehr zentral,Verkehrsmittel,Fahrrad,2012,0.089
+sehr zentral,Verkehrsmittel,zu Fuß,2000,0.088
+sehr zentral,Verkehrsmittel,zu Fuß,2004,0.089
+sehr zentral,Verkehrsmittel,zu Fuß,2008,0.09
+sehr zentral,Verkehrsmittel,zu Fuß,2012,0.083
+sehr zentral,Verkehrsmittel,Sonstiges,2000,0.004
+sehr zentral,Verkehrsmittel,Sonstiges,2004,0.005
+sehr zentral,Verkehrsmittel,Sonstiges,2008,0.003
+sehr zentral,Verkehrsmittel,Sonstiges,2012,0.003
+zentral,Verkehrsmittel,kein Pendler 2),2000,0.041
+zentral,Verkehrsmittel,kein Pendler 2),2004,0.035
+zentral,Verkehrsmittel,kein Pendler 2),2008,0.04
+zentral,Verkehrsmittel,kein Pendler 2),2012,0.049
+zentral,Verkehrsmittel,Öffentliches Verkehrsmittel,2000,0.086
+zentral,Verkehrsmittel,Öffentliches Verkehrsmittel,2004,0.082
+zentral,Verkehrsmittel,Öffentliches Verkehrsmittel,2008,0.091
+zentral,Verkehrsmittel,Öffentliches Verkehrsmittel,2012,0.085
+zentral,Verkehrsmittel,Pkw,2000,0.679
+zentral,Verkehrsmittel,Pkw,2004,0.693
+zentral,Verkehrsmittel,Pkw,2008,0.664
+zentral,Verkehrsmittel,Pkw,2012,0.681
+zentral,Verkehrsmittel,"Motorrad, Moped, Mofa",2000,0.014
+zentral,Verkehrsmittel,"Motorrad, Moped, Mofa",2004,0.012
+zentral,Verkehrsmittel,"Motorrad, Moped, Mofa",2008,0.013
+zentral,Verkehrsmittel,"Motorrad, Moped, Mofa",2012,0.01
+zentral,Verkehrsmittel,Fahrrad,2000,0.074
+zentral,Verkehrsmittel,Fahrrad,2004,0.071
+zentral,Verkehrsmittel,Fahrrad,2008,0.083
+zentral,Verkehrsmittel,Fahrrad,2012,0.082
+zentral,Verkehrsmittel,zu Fuß,2000,0.102
+zentral,Verkehrsmittel,zu Fuß,2004,0.101
+zentral,Verkehrsmittel,zu Fuß,2008,0.105
+zentral,Verkehrsmittel,zu Fuß,2012,0.089
+zentral,Verkehrsmittel,Sonstiges,2000,0.005
+zentral,Verkehrsmittel,Sonstiges,2004,0.006
+zentral,Verkehrsmittel,Sonstiges,2008,0.003
+zentral,Verkehrsmittel,Sonstiges,2012,0.004
+peripher,Verkehrsmittel,kein Pendler 2),2000,0.05
+peripher,Verkehrsmittel,kein Pendler 2),2004,0.049
+peripher,Verkehrsmittel,kein Pendler 2),2008,0.043
+peripher,Verkehrsmittel,kein Pendler 2),2012,0.061
+peripher,Verkehrsmittel,Öffentliches Verkehrsmittel,2000,0.06
+peripher,Verkehrsmittel,Öffentliches Verkehrsmittel,2004,0.056
+peripher,Verkehrsmittel,Öffentliches Verkehrsmittel,2008,0.054
+peripher,Verkehrsmittel,Öffentliches Verkehrsmittel,2012,0.05
+peripher,Verkehrsmittel,Pkw,2000,0.666
+peripher,Verkehrsmittel,Pkw,2004,0.691
+peripher,Verkehrsmittel,Pkw,2008,0.679
+peripher,Verkehrsmittel,Pkw,2012,0.696
+peripher,Verkehrsmittel,"Motorrad, Moped, Mofa",2000,0.012
+peripher,Verkehrsmittel,"Motorrad, Moped, Mofa",2004,0.01
+peripher,Verkehrsmittel,"Motorrad, Moped, Mofa",2008,0.012
+peripher,Verkehrsmittel,"Motorrad, Moped, Mofa",2012,0.01
+peripher,Verkehrsmittel,Fahrrad,2000,0.084
+peripher,Verkehrsmittel,Fahrrad,2004,0.074
+peripher,Verkehrsmittel,Fahrrad,2008,0.087
+peripher,Verkehrsmittel,Fahrrad,2012,0.082
+peripher,Verkehrsmittel,zu Fuß,2000,0.121
+peripher,Verkehrsmittel,zu Fuß,2004,0.113
+peripher,Verkehrsmittel,zu Fuß,2008,0.119
+peripher,Verkehrsmittel,zu Fuß,2012,0.096
+peripher,Verkehrsmittel,Sonstiges,2000,0.007
+peripher,Verkehrsmittel,Sonstiges,2004,0.007
+peripher,Verkehrsmittel,Sonstiges,2008,0.005
+peripher,Verkehrsmittel,Sonstiges,2012,0.005
+sehr peripher,Verkehrsmittel,kein Pendler 2),2000,0.035
+sehr peripher,Verkehrsmittel,kein Pendler 2),2004,0.034
+sehr peripher,Verkehrsmittel,kein Pendler 2),2008,0.038
+sehr peripher,Verkehrsmittel,kein Pendler 2),2012,0.047
+sehr peripher,Verkehrsmittel,Öffentliches Verkehrsmittel,2000,0.046
+sehr peripher,Verkehrsmittel,Öffentliches Verkehrsmittel,2004,0.046
+sehr peripher,Verkehrsmittel,Öffentliches Verkehrsmittel,2008,0.048
+sehr peripher,Verkehrsmittel,Öffentliches Verkehrsmittel,2012,0.04
+sehr peripher,Verkehrsmittel,Pkw,2000,0.632
+sehr peripher,Verkehrsmittel,Pkw,2004,0.653
+sehr peripher,Verkehrsmittel,Pkw,2008,0.648
+sehr peripher,Verkehrsmittel,Pkw,2012,0.673
+sehr peripher,Verkehrsmittel,"Motorrad, Moped, Mofa",2000,0.014
+sehr peripher,Verkehrsmittel,"Motorrad, Moped, Mofa",2004,0.01
+sehr peripher,Verkehrsmittel,"Motorrad, Moped, Mofa",2008,0.013
+sehr peripher,Verkehrsmittel,"Motorrad, Moped, Mofa",2012,0.01
+sehr peripher,Verkehrsmittel,Fahrrad,2000,0.144
+sehr peripher,Verkehrsmittel,Fahrrad,2004,0.14
+sehr peripher,Verkehrsmittel,Fahrrad,2008,0.144
+sehr peripher,Verkehrsmittel,Fahrrad,2012,0.131
+sehr peripher,Verkehrsmittel,zu Fuß,2000,0.117
+sehr peripher,Verkehrsmittel,zu Fuß,2004,0.109
+sehr peripher,Verkehrsmittel,zu Fuß,2008,0.103
+sehr peripher,Verkehrsmittel,zu Fuß,2012,0.094
+sehr peripher,Verkehrsmittel,Sonstiges,2000,0.011
+sehr peripher,Verkehrsmittel,Sonstiges,2004,0.008
+sehr peripher,Verkehrsmittel,Sonstiges,2008,0.007
+sehr peripher,Verkehrsmittel,Sonstiges,2012,
+Deutschland,Fernpendler,Öffentliches Verkehrsmittel,2000,0.286
+Deutschland,Fernpendler,Pkw,2000,0.688
+sehr zentral,Fernpendler,Öffentliches Verkehrsmittel,2000,0.397
+sehr zentral,Fernpendler,Pkw,2000,0.58
+zentral,Fernpendler,Öffentliches Verkehrsmittel,2000,0.251
+zentral,Fernpendler,Pkw,2000,0.723
+peripher,Fernpendler,Öffentliches Verkehrsmittel,2000,0.176
+peripher,Fernpendler,Pkw,2000,0.795
+sehr peripher,Fernpendler,Öffentliches Verkehrsmittel,2000,0.137
+sehr peripher,Fernpendler,Pkw,2000,0.823
+Deutschland,Fernpendler,Öffentliches Verkehrsmittel,2012,0.401
+Deutschland,Fernpendler,Pkw,2012,0.578
+sehr zentral,Fernpendler,Öffentliches Verkehrsmittel,2012,0.525
+sehr zentral,Fernpendler,Pkw,2012,0.456
+zentral,Fernpendler,Öffentliches Verkehrsmittel,2012,0.334
+zentral,Fernpendler,Pkw,2012,0.646
+peripher,Fernpendler,Öffentliches Verkehrsmittel,2012,0.25
+peripher,Fernpendler,Pkw,2012,0.724
+sehr peripher,Fernpendler,Öffentliches Verkehrsmittel,2012,0.193
+sehr peripher,Fernpendler,Pkw,2012,0.793
