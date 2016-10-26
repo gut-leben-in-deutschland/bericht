@@ -1,4 +1,4 @@
-# Gut Leben in Deutschland – interaktiver Bericht und Indikatoren
+# Gut leben in Deutschland – interaktiver Bericht und Indikatoren
 
 > Mit der Regierungsstrategie „Gut leben in Deutschland – was uns wichtig ist“ rückt die Bundesregierung die Lebensqualität in den Fokus ihres Regierungshandelns. Sie soll Maßstab für eine erfolgreiche Politik werden. Was aber verstehen die Menschen konkret unter einem „guten Leben“? Dies zeigte sich im Bürgerdialog der Bundesregierung. Sichtbar wurde ein breites und facettenreiches Verständnis der Bürgerinnen und Bürger von Lebensqualität. Auf dieser Grundlage und unter Einbeziehung weiterer nationaler und internationaler Erkenntnisse und Diskussionen wählte die Bundesregierung zwölf Dimensionen und 46 Indikatoren aus, um Stand und Entwicklung der Lebensqualität in Deutschland zu beschreiben und messbar zu machen.
 
@@ -22,8 +22,7 @@ E-Mail: internetpost@bundesregierung.de
 Bundeskanzleramt, Stab Politische Planung, Grundsatzfragen und Sonderaufgaben und Bundesministerium für Wirtschaft und Energie, Leitungs- und Planungsabteilung
 
 ### Datenlizenzen
-Siehe Indikatoren und  
-[Liste aller Datenlizenzen auf GitHub](https://github.com/gut-leben-in-deutschland/bericht/blob/master/content/licenses.de.csv)
+Siehe Indikatoren und [Liste aller Datenlizenzen](https://github.com/gut-leben-in-deutschland/bericht/blob/master/content/licenses.de.csv).
 
 ### Quellcode-Lizenz
 

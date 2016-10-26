@@ -1,6 +1,6 @@
 key,de,en
-title,Gut Leben in Deutschland,Wellbeing in Germany
-title-with-line-break,Gut Leben/in Deutschland,Wellbeing/in Germany
+title,Gut leben in Deutschland,Wellbeing in Germany
+title-with-line-break,Gut leben/in Deutschland,Wellbeing/in Germany
 imprint,Impressum,Imprint
 privacy,Datenschutz,Data Privacy
 ,,
@@ -162,11 +162,11 @@ route/indicator-12-03,/indikatoren/globale-verantwortung/unternehmen,/indicators
 share/facebook/sub-label,Teilen via,Share on
 share/facebook/title,Teilen Sie diese Seite auf Facebook,Share this page on Facebook
 share/twitter/sub-label,Teilen via,Share on
-share/twitter/text,Gut Leben in Deutschland,Wellbeing in Germany
+share/twitter/text,Gut leben in Deutschland,Wellbeing in Germany
 share/twitter/title,Teilen Sie diese Seite auf Twitter,Share this page on Twitter
 share/email/sub-label,Versenden via,Share per
 share/email/label,E-Mail,Email
-share/email/subject,Gut Leben in Deutschland,Wellbeing in Germany
+share/email/subject,Gut leben in Deutschland,Wellbeing in Germany
 share/email/body,{url},{url}
 share/email/title,Teilen Sie diese Seite in einer E-Mail,Share this page in an email
 share/csv/sub-label,Download Daten via,Download Data via
@@ -234,6 +234,22 @@ charts/static/03-03-a/label-7,Schulabschluss der Kinder,Children’s education l
 charts/static/03-03-a/label-8,Fachhochschul- oder Hochschulreife,Vocational school or university entrance qualification
 charts/static/03-03-a/label-9,Haupt- oder Realschulabschluss,Secondary school graduation
 charts/static/03-03-a/label-10,Kein Schulabschluss,No school graduation
+,,
+sharing-images/titles/landing,Regierungsbericht zu den 12 Dimensionen von Lebensqualität in Deutschland,
+sharing-images/titles/01,Lebenserwartung bei Geburt auf Kreisebene,
+sharing-images/titles/02,Arbeitslosigkeit auf Kreisebene,
+sharing-images/titles/03,Bildungsmobilität zwischen Eltern und Kinder 2014,
+sharing-images/titles/04,Gewünschte und tatsächliche Arbeitszeit von Frauen und Männer,
+sharing-images/titles/05,Verteilung der Haushaltsnettoeinkommen 2013,
+sharing-images/titles/06,Gewaltkriminalität nach Bundesländern 2015,
+sharing-images/legends/06,Fälle pro 100.000 Einwohner,
+sharing-images/titles/07,Breitbandversorgung auf Kreisebene,
+sharing-images/titles/08,Ehrenamtliches Engagement,
+sharing-images/titles/09,Entwicklung des Bruttoinlandsproduktes pro Kop in Euro,
+sharing-images/titles/10,Jahresmittelwerte der Stickstoffdioxidbelastung 2015,
+sharing-images/titles/11,Wahlbeteiligung bei Bundestagswahl 2013,
+sharing-images/titles/12,Entwicklung der Treibhausgas-Emissionen in Deutschland,
+sharing-images/subtitle,Regierungsbericht zur Lebensqualität in Deutschland,
 ,,
 flagship/01/source_url,http://www.demogr.mpg.de/de/news_presse/news/press/von_der_ost_west_kluft_zum_flickenteppich_4281.htm,http://www.demogr.mpg.de/en/news_press/news/press/from_east_west_divide_to_patchwork_quilt_4281.htm
 flagship/01/source_label,Max-Planck-Institut für demografische Forschung,Max Planck Institute for Demographic Research

@@ -13,7 +13,7 @@ Sich im eigenen Umfeld sicher fühlen, zu jeder Tages- und Nachtzeit ohne Sorge 
 
 <!-- Prologue end -->
 
-<!-- Quote text='Ich möchte ein Leben ohne Angst. Ohne Angst vor Gewalt in der Öffentlichkeit.' source='aus dem Bürgerdialog des Schwulen- und Lesbenverband Deutschland in Berlin am 5. Mai 2015' -->
+<!-- Quote text='Ich möchte ein Leben ohne Angst. Ohne Angst vor Gewalt in der Öffentlichkeit.' source='aus dem Bürgerdialog des Lesben- und Schwulenverband Deutschland in Berlin am 5. Mai 2015' -->
 
 ## Positives Sicherheitsgefühl, spezifische Ängste
 

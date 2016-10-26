@@ -16,7 +16,7 @@ Gute Bildung - nicht nur wichtig für jeden Einzelnen, sondern Grundlage der Wis
 
 ## Bildung - Schlüssel für ein gutes Leben
 
-<!-- Quote text='Schulförderalismus ist überflüssig. Wir müssen die Kleinstaaterei abschaffen, ich sehe nicht ein, warum wir unterschiedliche Abiture haben.' source='aus dem Bürgerdialog des BMWi in Magdeburg am 7. Juli 2015' -->
+<!-- Quote text='Schulföderalismus ist überflüssig. Wir müssen die Kleinstaaterei abschaffen, ich sehe nicht ein, warum wir unterschiedliche Abiture haben.' source='aus dem Bürgerdialog des BMWi in Magdeburg am 7. Juli 2015' -->
 
 Bildung fördert die Orientierung und das Urteilsvermögen der Menschen. Bildung ist aber auch Voraussetzung für eine wettbewerbsfähige Wirtschaft, für gute Arbeit und ein sicheres Einkommen.
 
