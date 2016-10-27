@@ -60,7 +60,7 @@ Um ihr eigenes Haushaltseinkommen mit dem Rest der Bevölkerung zu vergleichen, 
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=bars-->
+<!--ScrollBlock start stage=bars tooltips='user'-->
 
 Achten Sie bei den Angaben darauf, sämtliche verfügbaren Einkommen aller Haushaltsmitglieder zu berücksichtigen.
 
@@ -70,7 +70,7 @@ Achten Sie bei den Angaben darauf, sämtliche verfügbaren Einkommen aller Haush
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=bars-->
+<!--ScrollBlock start stage=bars skipMobileVisualization-->
 
 Vergleichen Sie Ihr Einkommen mit dem anderer Haushalte in Deutschland. Der schwarze Kreis markiert Ihr Einkommen und vergleicht dieses mit der gesamten Einkommensverteilung.
 
@@ -233,7 +233,7 @@ Armut droht **bestimmten Risikogruppen**: Frauen sind häufiger armutsgefährdet
 <!-- ColumnLeft start -->
 
 ```chart
-05-04-b
+05-04-c
 ```
 
 <!-- ColumnLeft end -->

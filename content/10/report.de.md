@@ -171,15 +171,11 @@ Das Bild, das dieser Indikator zeichnet, ist alles andere als positiv: Die **Art
 Der Zielwert, den sich die **Bundesregierung in der Nachhaltigkeitsstrategie** und in der **Nationalen Strategie zu biologischen Vielfalt** gesetzt hat, wurde 2013 um fast ein Drittel verfehlt. Besonders kritisch sind der Zustand der **landwirtschaftlichen Flächen**, der **Küsten und der Meere**. Deutlich besser sieht es bei der Artenvielfalt und **Landschaftsqualität der Wälder** aus: 2013 wurden 87 Prozent des Zielwerts erreicht.
 
 
-```chart
-10-02-b
-```
-
 <!-- GovernmentMeasures start -->
 
 Die Bundesregierung will die biologische Vielfalt verbessern. Sie setzt sich für die Verbesserung der Agrarstruktur und des Küstenschutzes ein. Auf europäischer und internationaler Ebene setzt sie sich für eine nachhaltige Landnutzung ein. Im Rahmen der Biodiversitätskonvention der Vereinten Nationen (CBD) macht sich die Bundesregierung für den Naturschutz weltweit stark.
 
-- [Biologische Vielfalt erhalten](http://www.bmub.bund.de/themen/natur-arten-tourismussport/naturschutz-biologische-vielfalt/nationale-strategie/)
+- [Biologische Vielfalt erhalten](http://www.bmub.bund.de/themen/natur-arten-tourismussport/naturschutz-biologische-vielfalt/)
 - [Gemeinschaftsaufgabe Agrarstruktur und Küstenschutz](http://www.bmel.de/DE/Landwirtschaft/Foerderung-Agrarsozialpolitik/GAK/gak_node.html)
 - [Biodiversität - Grundlage für nachhaltige Entwicklung](https://www.bmz.de/de/themen/biodiversitaet/index.html)
 

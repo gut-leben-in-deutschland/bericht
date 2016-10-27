@@ -156,7 +156,7 @@ Die Daten zeigen, wie viele Minuten ehrenamtlich Engagierte im Monat aktiv sind,
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=bars-->
+<!--ScrollBlock start stage=bars tooltips='user' skipMobileVisualization-->
 
 Vergleichen Sie Ihr Engagement mit dem anderer Menschen in Deutschland. Der schwarze Kreis markiert Ihr Engagement. Sie sehen den Anteil ehrenamtlich Aktiver mit mehr unter weniger Engagement im Monat.
 

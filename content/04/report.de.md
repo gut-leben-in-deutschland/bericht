@@ -62,7 +62,7 @@ Geben Sie ein, wie viele Stunden Sie tatsächlich pro Woche arbeiten und wie vie
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=bars-->
+<!--ScrollBlock start stage=bars skipMobileVisualization-->
 
 Die **schwarzen Kreise** markieren **Ihre Angaben** zu tatsächlicher und gewünschter Arbeitszeit und **vergleicht diese mit den Angaben zu tatsächlicher und gewünschter Arbeitszeit aller Erwerbstätigen in Deutschland**.  
 
