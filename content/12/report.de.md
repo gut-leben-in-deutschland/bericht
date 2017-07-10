@@ -23,7 +23,7 @@ Wissenschaftliche Studien zeigen: Der **Klimawandel** hat schon jetzt negative A
 
 <!-- Quote text='[Klimaschutz] das reicht ja nicht nur in Deutschland, das [...] ist doch ein weltweites Problem.' source='aus dem Bürgerdialog der Caritas in Frankfurt am Main am 3. Juni 2015' -->
 
-Der Treiber des Klimawandels sind die **Emissionen von Treibhausgasen**, die bei der Verbrennung von Öl, Kohle und Gas, aber auch in der Landwirtschaft und durch Entwaldung entstehen. Zu diesen Gasen gehören neben Kohlendioxid (CO2) z.B. auch Methan und Lachgas.
+Der Treiber des Klimawandels sind die **Emissionen von Treibhausgasen**, die bei der Verbrennung von Öl, Kohle und Gas, aber auch in der Landwirtschaft und durch Entwaldung entstehen. Zu diesen Gasen gehören neben Kohlendioxid (CO<sub>2</sub>) z.B. auch Methan und Lachgas.
 
 Der Indikator **globale und nationale Treibhausgas-Emissionen** misst den Ausstoß von Treibhausgasen weltweit und in Deutschland. Er dokumentiert damit Veränderungen im Bereich des Klimaschutzes.
 
@@ -31,9 +31,9 @@ Der Indikator **globale und nationale Treibhausgas-Emissionen** misst den Aussto
 
 <!-- ColumnLeft start -->
 
-Die Menschheit hat seit Beginn der Industrialisierung mehr als zwei Drittel ihres „Kohlenstoffbudgets“ zur Einhaltung der zwei Grad Celsius Obergrenze aufgebraucht – also der Menge an CO2-Äquivalenten bzw. an Treibhausgasen, die die Atmosphäre zusätzlich aufnehmen kann, bevor der Klimawandel abrupte und potentiell katastrophale Folgen haben kann.
+Die Menschheit hat seit Beginn der Industrialisierung mehr als zwei Drittel ihres „Kohlenstoffbudgets“ zur Einhaltung der zwei Grad Celsius Obergrenze aufgebraucht – also der Menge an CO<sub>2</sub>-Äquivalenten (CO<sub>2eq</sub>) bzw. an Treibhausgasen, die die Atmosphäre zusätzlich aufnehmen kann, bevor der Klimawandel abrupte und potentiell katastrophale Folgen haben kann.
 
-Dieses Budget wurde bis heute in zunehmendem Tempo aufgezehrt: Die **jährlichen globalen Treibhausgas-Emissionen** sind von 1990 bis 2012 um rund ein Drittel gestiegen.
+Dieses Budget wurde bis heute in zunehmendem Tempo aufgezehrt: Die **jährlichen globalen Treibhausgas-Emissionen** sind von 1990 bis 2012 um 36 Prozent gestiegen.
 
 <!-- ColumnLeft end -->
 
@@ -53,9 +53,9 @@ Wie wichtig **Deutschlands Beitrag zum globalen Klimaschutz** ist, war den Bürg
 
 <!-- ColumnLeft start -->
 
-Neue Daten zu **CO2-Emissionen** deuten darauf hin, dass die jährlichen globalen Emissionen 2014 zum **ersten Mal trotz einer wachsenden Weltwirtschaft nicht gestiegen sind**.
+Neue Daten zu **CO<sub>2</sub>-Emissionen** deuten darauf hin, dass die jährlichen globalen Emissionen 2015 zum **ersten Mal trotz einer wachsenden Weltwirtschaft nicht gestiegen sind**.
 
-Das im Pariser Klimaabkommen vereinbarte **Ziel der Treibhausneutralität** in der zweiten Hälfte des 21. Jahrhunderts erfordert aber, dass diese Kurve abflacht, fällt und sich möglichst schnell dem Wert Null annähert. Auch weil das ausgestoßene CO2 noch lange in der Atmosphäre verweilt.
+Das im Pariser Klimaabkommen vereinbarte **Ziel der Treibhausneutralität** in der zweiten Hälfte des 21. Jahrhunderts erfordert aber, dass diese Kurve abflacht, fällt und sich möglichst schnell dem Wert Null annähert. Auch weil das ausgestoßene CO<sub>2</sub> noch lange in der Atmosphäre verweilt.
 
 <!-- ColumnLeft end -->
 
@@ -69,7 +69,7 @@ Das im Pariser Klimaabkommen vereinbarte **Ziel der Treibhausneutralität** in d
 
 <!-- ColumnContainer end -->
 
-In **Deutschland** sind die jährlichen Treibhausgas-Emissionen seit 1990 um rund 27 Prozent gesunken. Projektionen zeigen, dass die bisherigen Anstrengungen nicht ausreichen werden, um die Emissionen bis 2020 um mindestens 40 Prozent gegenüber 1990 zu reduzieren. Aus diesem Grund hat die Bundesregierung 2015 zusätzliche Maßnahmen beschlossen, zu denen die Abschaltung und Überführung von Kohlekraftwerken in eine Reserve und eine stärkere Förderung der Energieeffizienz gehören.
+In **Deutschland** sind die jährlichen Treibhausgas-Emissionen seit 1990 um knapp 28 Prozent gesunken. Projektionen zeigen, dass die bisherigen Anstrengungen nicht ausreichen werden, um die Emissionen bis 2020 um mindestens 40 Prozent gegenüber 1990 zu reduzieren. Aus diesem Grund hat die Bundesregierung 2015 zusätzliche Maßnahmen beschlossen, zu denen die Abschaltung und Überführung von Kohlekraftwerken in eine Reserve und eine stärkere Förderung der Energieeffizienz gehören.
 
 ```chart
 12-01-c
@@ -101,9 +101,9 @@ Der **Anteil der öffentlichen Ausgaben für Entwicklungszusammenarbeit am Brutt
 
 Deutschland hat sich im Rahmen der EU dazu verpflichtet, seine öffentlichen Ausgaben für Entwicklungszusammenarbeit auf **0,7 Prozent der Wirtschaftsleistung** zu steigern.
 
-Das 0,7-Prozent-Ziel wurde noch **nicht erreicht**. 2015 lag die ODA-Quote erstmals seit Beginn der deutschen Entwicklungszusammenarbeit über 0,5 Prozent. Das liegt auch daran, dass Mittel für die Versorgung von Flüchtlingen stärker als bisher angerechnet werden – wie es Gebernationen wie Schweden, Finnland oder Norwegen schon länger tun.
+Das 0,7-Prozent-Ziel wurde im Jahr 2016 **erstmals erreicht**. Damit ist der Anteil der öffentlichen Ausgaben für Entwicklungszusammenarbeit am Bruttonationaleinkommen gegenüber dem Vorjahr nochmal deutlich gestiegen. Das liegt auch daran, dass Mittel für die Versorgung von Flüchtlingen stärker als bisher angerechnet werden – wie es Gebernationen wie Schweden, Finnland oder Norwegen schon länger tun.
 
-Mit insgesamt rund 16 Milliarden Euro war Deutschland **2015** nach den USA und Großbritannien der **drittgrößte Geber weltweit**.
+Zusammen haben Bund, Länder und Kommunen über 22 Milliarden in die Entwicklungszusammenarbeit investiert. Ein Plus von 36 Prozent im Vergleich zum Vorjahr. Deutschland ist damit **2016** hinter den USA der [**zweitgrößte Geber weltweit**](http://www.oecd.org/dac/financing-sustainable-development/development-finance-data/ODA-2016-complete-data-tables.pdf).
 
 <!-- ColumnLeft end -->
 

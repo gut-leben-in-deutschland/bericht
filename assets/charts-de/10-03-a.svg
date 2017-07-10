@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der Energieproduktivität im Zeitraum von 1990 bis 2016. Im Vergleich zum Basisjahr 1990, in dem der Indikator einen Wert von 100 annimmt, hat sich die Energieproduktivität deutlich erhöht und erreichte 2016 einen Wert von rund 163.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1990
                 </text>
             </g>
-            <g transform="translate(189.44518672653598,264)" style="">
+            <g transform="translate(204.9182813816344,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    1998
+                    1999
                 </text>
             </g>
-            <g transform="translate(402.554813273464,264)" style="">
+            <g transform="translate(387.08171861836564,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2007
@@ -24,16 +26,16 @@
             <g transform="translate(592,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#74b917" stroke-width="3" stroke-dasharray="none" d="M0,144L23.66443982039207,135.32399999999998L47.32887964078414,130.188L71.05815354287591,131.364L94.72259336326799,126.92399999999998L118.38703318366007,125.364L142.05147300405213,128.748L165.78074690614392,125.00400000000002L189.44518672653598,121.332L213.10962654692807,116.49599999999998L236.77406636732013,112.95599999999999L260.5033402694119,113.292L284.16778008980395,110.66399999999999L307.83221991019605,113.55599999999998L331.49665973058814,111.70800000000003L355.22593363267987,110.28L378.89037345307196,107.59199999999998L402.554813273464,95.208L426.21925309385614,95.54400000000001L449.9485269959479,95.03999999999999L473.61296681633996,96.636L497.277406636732,82.632L520.9418464571241,79.83600000000001L544.6711203592158,84.28800000000001L568.3355601796079,72.51600000000002L592,71.148" style="fill:none;stroke:#74b917;stroke-width:3px;"/>
+                <path fill="none" stroke="#74b917" stroke-width="3" stroke-dasharray="none" d="M0,144L22.754844144903117,135.32399999999998L45.509688289806235,130.188L68.32687447346251,131.364L91.08171861836563,126.92399999999998L113.83656276326874,125.364L136.59140690817188,128.748L159.40859309182815,125.00400000000002L182.16343723673126,121.332L204.9182813816344,116.49599999999998L227.6731255265375,112.95599999999999L250.49031171019377,113.292L273.24515585509687,110.66399999999999L296,113.55599999999998L318.75484414490313,111.70800000000003L341.5720303285594,110.28L364.3268744734625,107.59199999999998L387.08171861836564,95.208L409.8365627632688,95.54400000000001L432.653748946925,95.03999999999999L455.40859309182815,96.636L478.1634372367312,82.632L500.91828138163436,79.66799999999998L523.7354675652906,83.78399999999999L546.4903117101937,72L569.2451558550969,69.852L592,68.08800000000002" style="fill:none;stroke:#74b917;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="596" x2="602" y1="71.148" y2="71.148" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
-                    <text dy="0.3em" x="606" y="71.148" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:32.890625px;fill:#666666;">
+                    <line x1="596" x2="602" y1="68.08800000000002" y2="68.08800000000002" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
+                    <text dy="0.3em" x="606" y="68.08800000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:32.890625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            160,71
+                            163,26
                         </tspan>
                     </text>
                 </g>
@@ -58,16 +60,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
                 <div style="display:block;height:0px;padding-right:47px;width:640px;">
                 </div>
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle:  Arbeitsgemeinschaft Energiebilanzen e.V. und Statistisches Bundesamt.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

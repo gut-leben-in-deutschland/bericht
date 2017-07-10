@@ -1,91 +1,103 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="height:420px;width:640px;">
+    <desc style="">
+        The chart shows the proportion of people employed part-time due to childcare and other care responsibilities in the period 2006 to 2015. In this period, the rate increased from 17 to more than 24 percent.
+    </desc>
     <g transform="translate(0,24)" style="">
         <g transform="translate(0,241)" style="">
             <line x1="0" x2="640" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-            <g transform="translate(88,0)" style="">
+            <g transform="translate(87,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2006
                 </text>
             </g>
-            <g transform="translate(146,0)" style="">
+            <g transform="translate(139,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2007
                 </text>
             </g>
-            <g transform="translate(204,0)" style="">
+            <g transform="translate(191,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2008
                 </text>
             </g>
-            <g transform="translate(262,0)" style="">
+            <g transform="translate(243,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2009
                 </text>
             </g>
-            <g transform="translate(320,0)" style="">
+            <g transform="translate(295,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2010
                 </text>
             </g>
-            <g transform="translate(378,0)" style="">
+            <g transform="translate(347,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2011
                 </text>
             </g>
-            <g transform="translate(436,0)" style="">
+            <g transform="translate(399,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2012
                 </text>
             </g>
-            <g transform="translate(494,0)" style="">
+            <g transform="translate(451,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2013
                 </text>
             </g>
-            <g transform="translate(552,0)" style="">
+            <g transform="translate(503,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2014
                 </text>
             </g>
+            <g transform="translate(555,0)" style="">
+                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
+                    2015
+                </text>
+            </g>
         </g>
-        <g transform="translate(298,0)" style="">
-            <rect y="46.400000000000034" width="44" height="193.59999999999997" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(275,0)" style="">
+            <rect y="46.400000000000034" width="39" height="193.59999999999997" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(356,0)" style="">
-            <rect y="53.60000000000002" width="44" height="186.39999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(327,0)" style="">
+            <rect y="53.60000000000002" width="39" height="186.39999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(414,0)" style="">
-            <rect y="56" width="44" height="184" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(379,0)" style="">
+            <rect y="56" width="39" height="184" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(240,0)" style="">
-            <rect y="56" width="44" height="184" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(223,0)" style="">
+            <rect y="56" width="39" height="184" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(182,0)" style="">
-            <rect y="62.400000000000034" width="44" height="177.59999999999997" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(535,0)" style="">
+            <rect y="60.00000000000003" width="39" height="179.99999999999997" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
+            <rect y="47.04000000000005" width="39" height="12.95999999999998" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(530,0)" style="">
-            <rect y="64" width="44" height="176" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
-            <rect y="50.400000000000034" width="44" height="13.599999999999966" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
+        <g transform="translate(171,0)" style="">
+            <rect y="62.400000000000034" width="39" height="177.59999999999997" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(472,0)" style="">
-            <rect y="72.80000000000004" width="44" height="167.19999999999996" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
-            <rect y="52.00000000000003" width="44" height="20.80000000000001" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
+        <g transform="translate(483,0)" style="">
+            <rect y="64" width="39" height="176" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
+            <rect y="50.08000000000004" width="39" height="13.919999999999959" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(124,0)" style="">
-            <rect y="89.60000000000002" width="44" height="150.39999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(431,0)" style="">
+            <rect y="72.80000000000004" width="39" height="167.19999999999996" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
+            <rect y="52.00000000000003" width="39" height="20.80000000000001" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(66,0)" style="">
-            <rect y="103.20000000000002" width="44" height="136.79999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(119,0)" style="">
+            <rect y="89.60000000000002" width="39" height="150.39999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(67,0)" style="">
+            <rect y="103.20000000000002" width="39" height="136.79999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
         <g transform="translate(0,240)" style="">
             <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
@@ -105,9 +117,9 @@
             </text>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:98px;width:640px;">
-            <div style="display:block;height:98px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="132" style="display:block;height:132px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:134px;width:640px;">
+            <div style="display:block;height:134px;width:640px;">
                 <div style="display:block;height:20px;line-height:12px;width:640px;">
                     <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:130.75px;">
                         <div style="background-color:rgb(137, 13, 72);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
@@ -125,11 +137,16 @@
                         Care 
                     </div>
                 </div>
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt, Labour force survey.
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  German Federal Statistical Office, EU Labour Force Survey. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
@@ -138,7 +155,7 @@
                         </div>
                         <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                Proportion of people working part-time who state their responsibility for looking after persons in need of care, disabled persons or children as the reason for their part-time work.
+                                Proportion of the part-time employed who cite caring for elderly or disabled relatives, or children, as the main reason for working part-time.
                             </p>
                         </div>
                     </div>

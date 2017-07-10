@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="530" style="height:530px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="512" style="height:512px;width:640px;">
+    <desc style="">
+        The chart shows fear of crime by gender in 2012. In concrete terms, it shows the percentage of those interviewed who fear crime in general and fear specific offences. Women were generally more afraid of crime than men and more afraid of being a victim of robbery, burglary, bodily harm or sexual harassment.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:45.609375px;fill:#666666;">
             General
@@ -190,8 +192,8 @@
         </g>
     </g>
     <g transform="translate(329,154)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:32.4375px;fill:#666666;">
-            Theft
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:48.859375px;fill:#666666;">
+            Robbery
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.296875px;fill:#666666;">
@@ -315,9 +317,9 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="416" width="640" height="114" style="display:block;height:114px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
-            <div style="display:block;height:116px;width:640px;">
+    <foreignObject x="0" y="416" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:98px;width:640px;">
+            <div style="display:block;height:98px;width:640px;">
                 <div style="display:block;height:20px;line-height:12px;width:640px;">
                     <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:55.140625px;">
                         <div style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
@@ -334,14 +336,14 @@
                         </div>
                         fairly 
                     </div>
-                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:45.453125px;">
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:32.390625px;">
                         <div style="background-color:rgb(160, 0, 45);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                         </div>
-                        greatly 
+                        very 
                     </div>
                 </div>
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                <div style="display:block;height:78px;width:640px;">
+                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Source:  Deutscher Viktimisierungssurvey 2012.
@@ -351,9 +353,9 @@
                                 </span>
                             </p>
                         </div>
-                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                Proportion of respondents with general and offense-specific fear of crime, N = 35,405 (general fear of crime), 11,584 (bodily harm), 11,608 (burglary), 11,601 (theft), 11,604 (sexual harassment).
+                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                Share of respondents with general and offence-specific fear of crime, N = 35,405 (general fear of crime); 11,584 (bodily harm); 11,608 (burglary); 11,601 (robbery); 11,604 (sexual harassment).
                             </p>
                         </div>
                     </div>

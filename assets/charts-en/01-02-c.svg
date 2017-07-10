@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows obesity prevalence in 1990 and 2013. In 1990, the proportion was 11.5 percent. In 2013, it was 15.7 percent.
+    </desc>
     <g transform="translate(45,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -18,16 +20,16 @@
             <g style="">
                 <g style="">
                     <line x1="-4" x2="-10" y1="125.47703064000001" y2="125.47703064000001" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="-14" y="125.47703064000001" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;text-anchor:end;">
-                        11,5%
+                    <text dy="0.3em" x="-14" y="125.47703064000001" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:30.203125px;fill:#666666;text-anchor:end;">
+                        11.5%
                     </text>
                 </g>
                 <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,125.47703064000001L549,75.60000000000002" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
                 <g style="">
                     <line x1="553" x2="559" y1="75.60000000000002" y2="75.60000000000002" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="563" y="75.60000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
+                    <text dy="0.3em" x="563" y="75.60000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.203125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            15,7%
+                            15.7%
                         </tspan>
                     </text>
                 </g>
@@ -61,7 +63,7 @@
                     <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt, Microsensus, own calculations.
+                                Source:  German Federal Statistical Office, Microcensus, own calculations.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

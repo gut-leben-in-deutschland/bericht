@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="height:420px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der Ganztagsquoten im Zeitraum von 2006 bis 2016. Sowohl für Kinder unter drei Jahren als auch für Kinder im Alter von drei bis unter sechs Jahren zeichnet sich seit 2006 eine positive Entwicklung ab. So ist die Ganztagsquote der Unter-3-Jährigen von 6,5 Prozent im Jahr 2006 auf 18,3 Prozent im Jahr 2016 gestiegen. Die Ganztagsquote der 3- bis Unter-6-Jährigen hat sich im gleichen Zeitraum von 22,1 auf 44,8 Prozent erhöht.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,31 +11,31 @@
                     2006
                 </text>
             </g>
-            <g transform="translate(161.71585031944022,264)" style="">
+            <g transform="translate(145.55312157721795,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2009
                 </text>
             </g>
-            <g transform="translate(323.2841496805598,264)" style="">
+            <g transform="translate(339.57968236582695,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2012
+                    2013
                 </text>
             </g>
             <g transform="translate(485,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#c44d79" stroke-width="3" stroke-dasharray="none" d="M0,238L53.85609978703986,234.8L107.71219957407972,230.8L161.71585031944022,224.4L215.57195010648007,217.60000000000002L269.4280498935199,212.4L323.2841496805598,205.60000000000002L377.2878004259203,200.8L431.14390021296015,194L485,191.60000000000002" style="fill:none;stroke:#c44d79;stroke-width:3px;"/>
+                <path fill="none" stroke="#c44d79" stroke-width="3" stroke-dasharray="none" d="M0,238L48.47343921139102,234.8L96.94687842278204,230.8L145.55312157721795,224.4L194.026560788609,217.60000000000002L242.5,212.4L290.97343921139105,205.60000000000002L339.57968236582695,200.8L388.053121577218,194L436.52656078860895,191.60000000000002L485,190.8" style="fill:none;stroke:#c44d79;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="489" x2="495" y1="191.60000000000002" y2="191.60000000000002" stroke="#c44d79" stroke-width="3" style="stroke:#c44d79;stroke-width:3px;"/>
-                    <text dy="0.3em" x="499" y="191.60000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:110.40625px;fill:#666666;">
+                    <line x1="489" x2="495" y1="190.8" y2="190.8" stroke="#c44d79" stroke-width="3" style="stroke:#c44d79;stroke-width:3px;"/>
+                    <text dy="0.3em" x="499" y="190.8" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:110.40625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            18,1%
+                            18,3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Unter-3-Jährige
@@ -42,12 +44,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#890d48" stroke-width="3" stroke-dasharray="none" d="M0,175.60000000000002L53.85609978703986,166.8L107.71219957407972,155.60000000000002L161.71585031944022,144.40000000000003L215.57195010648007,134.80000000000004L269.4280498935199,124.40000000000003L323.2841496805598,115.60000000000002L377.2878004259203,106.80000000000001L431.14390021296015,97.20000000000005L485,88.40000000000003" style="fill:none;stroke:#890d48;stroke-width:3px;"/>
+                <path fill="none" stroke="#890d48" stroke-width="3" stroke-dasharray="none" d="M0,175.60000000000002L48.47343921139102,166.8L96.94687842278204,155.60000000000002L145.55312157721795,144.40000000000003L194.026560788609,134.80000000000004L242.5,124.40000000000003L290.97343921139105,115.60000000000002L339.57968236582695,106.80000000000001L388.053121577218,97.20000000000005L436.52656078860895,88.40000000000003L485,84.80000000000001" style="fill:none;stroke:#890d48;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="489" x2="495" y1="88.40000000000003" y2="88.40000000000003" stroke="#890d48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
-                    <text dy="0.3em" x="499" y="88.40000000000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:140.125px;fill:#666666;">
+                    <line x1="489" x2="495" y1="84.80000000000001" y2="84.80000000000001" stroke="#890d48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
+                    <text dy="0.3em" x="499" y="84.80000000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:140.125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            43,9%
+                            44,8%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              3- bis Unter-6-Jährige
@@ -75,16 +77,22 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="132" style="display:block;height:132px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
+            <div style="display:block;height:132px;width:640px;">
                 <div style="display:block;height:0px;padding-right:154px;width:640px;">
                 </div>
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Statistiken der Kinder- und Jugendhilfe.
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Statistik der Kinder und tätigen Personen in Tageseinrichtungen und in öffentlich geförderter Kindertagespflege.
+
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

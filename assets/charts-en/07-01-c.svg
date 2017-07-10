@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="378" style="height:378px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="414" style="height:414px;width:640px;">
+    <desc style="">
+        The chart shows costs for rent and utilities as a share of net household income by household type in 2014. For 1-person households aged under 35 and 60 and over, costs for rent and utilities made up the biggest share of available income, more specifically more than a third. For single parents, the share was just under one third. Couples with and without children spent the smallest share of their available income on accommodation.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
         <g style="">
@@ -7,9 +9,9 @@
                 Couple 1 child
             </text>
             <g transform="translate(0,19)" style="">
-                <rect x="0" fill="#0778a5" width="362" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="343.98520199999996" y="-5" width="32.50640925000005" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="362" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+                <rect x="0" fill="#0778a5" width="347" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="330.21203625" y="-5" width="30.33380925" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="347" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -17,9 +19,9 @@
                 Couple 2 children
             </text>
             <g transform="translate(0,50)" style="">
-                <rect x="0" fill="#0778a5" width="370" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="356.8824585" y="-5" width="22.724117999999976" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="370" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+                <rect x="0" fill="#0778a5" width="365" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="350.1128925" y="-5" width="26.380316249999964" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="365" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -27,9 +29,9 @@
                 Childless couple
             </text>
             <g transform="translate(0,81)" style="">
-                <rect x="0" fill="#0778a5" width="378" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="366.76411425" y="-5" width="20.231698499999993" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="378" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+                <rect x="0" fill="#0778a5" width="374" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="362.10628349999996" y="-5" width="20.139203250000037" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="374" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -37,9 +39,9 @@
                 Couple 3+ children
             </text>
             <g transform="translate(0,112)" style="">
-                <rect x="0" fill="#0778a5" width="404" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="388.7378865" y="-5" width="27.969189749999998" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="404" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+                <rect x="0" fill="#0778a5" width="392" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="377.04099149999996" y="-5" width="26.135739" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="392" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -47,9 +49,9 @@
                 1-person household, aged 35-59
             </text>
             <g transform="translate(0,143)" style="">
-                <rect x="0" fill="#0778a5" width="471" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="453.83968574999994" y="-5" width="31.88210625000005" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="471" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+                <rect x="0" fill="#0778a5" width="460" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="439.01840024999996" y="-5" width="39.38125050000002" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="460" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -57,9 +59,9 @@
                 Single parent 1 child
             </text>
             <g transform="translate(0,174)" style="">
-                <rect x="0" fill="#0778a5" width="500" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="475.82671724999994" y="-5" width="45.15221924999997" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="500" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+                <rect x="0" fill="#0778a5" width="489" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="469.24757325" y="-5" width="35.94343049999992" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="489" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -67,29 +69,29 @@
                 Single parent 2+ children
             </text>
             <g transform="translate(0,205)" style="">
-                <rect x="0" fill="#0778a5" width="505" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="488.9145554999999" y="-5" width="28.567773000000102" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="505" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+                <rect x="0" fill="#0778a5" width="493" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="475.5294225" y="-5" width="31.615803000000028" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="493" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
-            <text y="217" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:170.375px;fill:#666666;">
-                1-person household aged under 35
-            </text>
-            <g transform="translate(0,236)" style="">
-                <rect x="0" fill="#0778a5" width="549" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="529.00429725" y="-5" width="36.59552999999994" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="549" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="248" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:183.828125px;fill:#666666;">
+            <text y="217" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:183.828125px;fill:#666666;">
                 1-person household aged 60 and over
             </text>
+            <g transform="translate(0,236)" style="">
+                <rect x="0" fill="#0778a5" width="546" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="523.386369" y="-5" width="42.07990725000002" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="546" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="248" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:170.375px;fill:#666666;">
+                1-person household aged under 35
+            </text>
             <g transform="translate(0,267)" style="">
-                <rect x="0" fill="#0778a5" width="563" height="3" style="fill:#0778a5;"/>
-                <rect rx="6.5" ry="6.5" x="542.65110075" y="-5" width="37.40753925000001" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
-                <circle cx="563" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
+                <rect x="0" fill="#0778a5" width="547" height="3" style="fill:#0778a5;"/>
+                <rect rx="6.5" ry="6.5" x="528.7253737499999" y="-5" width="33.541749000000095" height="13" fill="#0778a5" fill-opacity="0.3" style="fill:#0778a5;fill-opacity:0.30000001192092896;"/>
+                <circle cx="547" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#0778a5" stroke-width="3" style="fill:#f6f6f0;stroke:#0778a5;stroke-width:3px;"/>
             </g>
         </g>
         <g transform="translate(0,278)" style="">
@@ -117,9 +119,9 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="300" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:80px;width:640px;">
-            <div style="display:block;height:80px;width:640px;">
+    <foreignObject x="0" y="300" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
+            <div style="display:block;height:116px;width:640px;">
                 <div style="display:block;height:20px;line-height:12px;width:640px;">
                     <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);width:185.234375px;">
                         <span style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(69, 69, 69);white-space:nowrap;">
@@ -129,11 +131,16 @@
                         </span>
                     </div>
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Calculations by DIW Berlin, SOEPv31.1.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Calculations by DIW Berlin, SOEPv32.1.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

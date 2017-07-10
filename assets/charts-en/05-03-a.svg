@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="717" style="height:717px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows the Gini coefficient of wealth in the 15 countries in the euro area. With a Gini coefficient of 0.76, Germany ranks 14th.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
         <g style="">
@@ -127,22 +129,22 @@
             <g transform="translate(0,0)" style="">
                 <line y1="-584" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:14.6875px;fill:#666666;">
-                    0,0
+                <text y="8" dy="0.6em" text-anchor="start" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:14.59375px;fill:#666666;">
+                    0.0
                 </text>
             </g>
             <g transform="translate(319.5,0)" style="">
                 <line y1="-584" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:14.6875px;fill:#666666;text-anchor:middle;">
-                    0,4
+                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:14.59375px;fill:#666666;text-anchor:middle;">
+                    0.4
                 </text>
             </g>
             <g transform="translate(639,0)" style="">
                 <line y1="-584" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:14.6875px;fill:#666666;text-anchor:end;">
-                    0,8 
+                <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:14.59375px;fill:#666666;text-anchor:end;">
+                    0.8 
                 </text>
             </g>
         </g>
@@ -163,7 +165,7 @@
                         </div>
                         <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                The data was collected in a household survey harmonised for the Euro region, the Eurosystem Household Finance and Consumption Survey. The survey was held in the relevant countries in different years between 2008 and 2011.
+                                The data was collected in a household survey harmonized for the Eurozone, the Eurosystem Household Finance and Consumption Survey. The survey was conducted in the various countries in different years during the period 2008-2011.
                             </p>
                         </div>
                     </div>

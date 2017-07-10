@@ -1,34 +1,23 @@
 category,facet,response,value
-Alter,Insgesamt,ja,0.935
-Alter,Insgesamt,weiß nicht,0.027
-Alter,Insgesamt,nein,0.039
-Alter,18–24 Jahre,ja,0.959
-Alter,18–24 Jahre,weiß nicht,0.027
-Alter,18–24 Jahre,nein,0.014
-Alter,25–49 Jahre,ja,0.932
-Alter,25–49 Jahre,weiß nicht,0.026
-Alter,25–49 Jahre,nein,0.041
-Alter,50–64 Jahre,ja,0.92
-Alter,50–64 Jahre,weiß nicht,0.027
-Alter,50–64 Jahre,nein,0.053
-Alter,65 Jahre und älter,ja,0.947
-Alter,65 Jahre und älter,weiß nicht,0.026
-Alter,65 Jahre und älter,nein,0.027
-Geschlecht,Männlich,ja,0.927
-Geschlecht,Männlich,weiß nicht,0.03
-Geschlecht,Männlich,nein,0.043
-Geschlecht,Weiblich,ja,0.941
-Geschlecht,Weiblich,weiß nicht,0.024
-Geschlecht,Weiblich,nein,0.035
-Erwerbsstatus,Erwerbstätige,ja,0.946
-Erwerbsstatus,Erwerbstätige,weiß nicht,0.02
-Erwerbsstatus,Erwerbstätige,nein,0.033
-Erwerbsstatus,Arbeitslose,ja,0.808
-Erwerbsstatus,Arbeitslose,weiß nicht,0.065
-Erwerbsstatus,Arbeitslose,nein,0.127
-Erwerbsstatus,Rentner,ja,0.943
-Erwerbsstatus,Rentner,weiß nicht,0.027
-Erwerbsstatus,Rentner,nein,0.03
-Erwerbsstatus,Sonstige Nichterwerbstätige,ja,0.913
-Erwerbsstatus,Sonstige Nichterwerbstätige,weiß nicht,0.041
-Erwerbsstatus,Sonstige Nichterwerbstätige,nein,0.045
+Alter,Insgesamt,ja,0.967
+Alter,Insgesamt,nein,0.03
+Alter,18–24 Jahre,ja,0.976
+Alter,18–24 Jahre,nein,0.024
+Alter,25–49 Jahre,ja,0.964
+Alter,25–49 Jahre,nein,0.036
+Alter,50–64 Jahre,ja,0.962
+Alter,50–64 Jahre,nein,0.038
+Alter,65 Jahre und älter,ja,0.974
+Alter,65 Jahre und älter,nein,0.026
+Geschlecht,Männlich,ja,0.964
+Geschlecht,Männlich,nein,0.036
+Geschlecht,Weiblich,ja,0.97
+Geschlecht,Weiblich,nein,0.03
+Erwerbsstatus,Erwerbstätige,ja,0.975
+Erwerbsstatus,Erwerbstätige,nein,0.025
+Erwerbsstatus,Arbeitslose,ja,0.855
+Erwerbsstatus,Arbeitslose,nein,0.145
+Erwerbsstatus,Rentner,ja,0.973
+Erwerbsstatus,Rentner,nein,0.027
+Erwerbsstatus,Sonstige Nichterwerbstätige,ja,0.966
+Erwerbsstatus,Sonstige Nichterwerbstätige,nein,0.034

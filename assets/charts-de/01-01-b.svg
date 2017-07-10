@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="466" style="height:466px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="502" style="height:502px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt, dass sich die Lebenserwartung von Frauen und Männer in den neuen und alten Bundesländern zwischen 1990 und 2013 deutlich erhöht hat. Der Anstieg der Lebenserwartung fiel bei den Männern insgesamt sträker aus. Die Lebenserwartung von Männer war 2013 aber nach wie vor niedriger als die von Frauen. Für Frauen lag die Lebenserwartung 2013 sowohl in den alten als auch den neuen Bundesländern bei rund 83 Jahren. DIe Lebenserwartung der Frauen in den neuen Bundesländern hat sich seit der Deutschen Einheit stark der von Frauen in den alten Bundesländern angenähert und lag 2013 auf dem gleichen Niveau. Auch die Lebenserwartung der Männer in den neuen Bundesländern hat sich der von Männern in den alten Bundesländern angenähert, hier gib es aber noch ein Differenz von 1,2 Jahren. So betrug die Lebenserwartung von Männern in den alten Bundesländer im Jahr 2013 73,2 Jahre und in den neuen Bundesländern 77 Jahre.
+        Die Abbildung zeigt die Zugewinne in der Lebenserwartung bei Geburt seit der Deutschen Wiedervereinigung differenziert nach Geschlecht. 1990 lag die Lebenserwartung von Männer in Ostdeutschland bei rund 69 Jahren, 2015 bei 77 Jahren. In Westdeutschland lag die Lebenserwartung von Männer 1990 bei rund 73 Jahren, 2015 bei 78,4 Jahren. Die Lebenserwartung der Frauen in den ostdeutschen Bundesländern hat sich seit 1990 stark der von Frauen in den westdeutschen Bundesländern angenähert und lag 2015 auf dem gleichen Niveau bei rund 83 Jahren.
     </desc>
     <g transform="translate(50,0)" style="">
         <g style="">
@@ -19,7 +19,7 @@
             <g transform="translate(219,328)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2015
                 </text>
             </g>
             <g style="">
@@ -29,12 +29,12 @@
                         76,3
                     </text>
                 </g>
-                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,152.87999999999994L219,74.16000000000008" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,152.87999999999994L219,71.63999999999999" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="223" x2="229" y1="85.55999999999995" y2="85.55999999999995" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="233" y="85.55999999999995" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="223" x2="229" y1="71.63999999999999" y2="71.63999999999999" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="233" y="71.63999999999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            82,8
+                            83,0
                         </tspan>
                     </text>
                 </g>
@@ -46,12 +46,12 @@
                         79,0
                     </text>
                 </g>
-                <path fill="none" stroke="#b68b00" stroke-width="3" stroke-dasharray="none" d="M0,119.87999999999994L219,73.55999999999995" style="fill:none;stroke:#b68b00;stroke-width:3px;"/>
+                <path fill="none" stroke="#b68b00" stroke-width="3" stroke-dasharray="none" d="M0,119.87999999999994L219,72.48000000000008" style="fill:none;stroke:#b68b00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="223" x2="229" y1="73.55999999999995" y2="73.55999999999995" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="233" y="73.55999999999995" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="223" x2="229" y1="83.63999999999999" y2="83.63999999999999" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="233" y="83.63999999999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            82,9
+                            83,0
                         </tspan>
                     </text>
                 </g>
@@ -93,7 +93,7 @@
             <g transform="translate(219,328)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2015
                 </text>
             </g>
             <g style="">
@@ -103,10 +103,10 @@
                         69,2
                     </text>
                 </g>
-                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,237.48000000000008L219,144.23999999999995" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,237.48000000000008L219,143.40000000000003" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="223" x2="229" y1="144.23999999999995" y2="144.23999999999995" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="233" y="144.23999999999995" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="223" x2="229" y1="143.40000000000003" y2="143.40000000000003" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="233" y="143.40000000000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             77,0
                         </tspan>
@@ -120,12 +120,12 @@
                         72,6
                     </text>
                 </g>
-                <path fill="none" stroke="#b68b00" stroke-width="3" stroke-dasharray="none" d="M0,196.68L219,129.36" style="fill:none;stroke:#b68b00;stroke-width:3px;"/>
+                <path fill="none" stroke="#b68b00" stroke-width="3" stroke-dasharray="none" d="M0,196.68L219,127.44000000000005" style="fill:none;stroke:#b68b00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="223" x2="229" y1="129.36" y2="129.36" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="233" y="129.36" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="223" x2="229" y1="127.44000000000005" y2="127.44000000000005" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="233" y="127.44000000000005" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            78,2
+                            78,4
                         </tspan>
                     </text>
                 </g>
@@ -150,9 +150,9 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="352" width="640" height="114" style="display:block;height:114px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
-            <div style="display:block;height:116px;width:640px;">
+    <foreignObject x="0" y="352" width="640" height="150" style="display:block;height:150px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:152px;width:640px;">
+            <div style="display:block;height:152px;width:640px;">
                 <div style="display:block;height:20px;padding-left:50px;padding-right:50px;width:640px;">
                     <div style="display:block;height:20px;line-height:12px;width:540px;">
                         <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:143.5625px;">
@@ -167,15 +167,20 @@
                         </div>
                     </div>
                 </div>
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle: 
                                 <a rel="external" title=" (Link zu externer Seite)" href="http://www.humanmortality.de/" style="border-bottom-color:rgb(0, 79, 128);border-left-color:rgb(0, 79, 128);border-right-color:rgb(0, 79, 128);border-top-color:rgb(0, 79, 128);color:rgb(0, 79, 128);cursor:pointer;font-family:BundesSans-Regular;font-size:12px;line-height:normal;outline-color:rgb(0, 79, 128);text-align:left;">
                                     Human Mortality Database.
                                 </a>
                                  University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

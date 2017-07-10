@@ -1,7 +1,8 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import {Router, applyRouterMiddleware, useRouterHistory} from 'react-router';
 import {createHistory} from 'history';
-import useScroll from 'react-router-scroll';
+import useScroll from 'react-router-scroll/lib/useScroll';
 import {withCabinet, Cabinet} from 'cabinet';
 import getRoutes from '../routes';
 import LoadingIndicator from 'components/LoadingIndicator/LoadingIndicator';

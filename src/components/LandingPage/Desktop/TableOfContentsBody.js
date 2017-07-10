@@ -1,10 +1,11 @@
+import PropTypes from 'prop-types';
 /* eslint-disable react/no-multi-comp */
 
-import React, {Component, PropTypes} from 'react';
+import React, { Component } from 'react';
 import {StyleSheet, css} from 'aphrodite';
 import {Link} from 'react-router';
 
-import * as BS from 'components/ButtonLink/Styles';
+import BS from 'components/ButtonLink/Styles';
 import {ChevronRightIcon12, ChevronLeftIcon12} from 'components/Icons/Icons';
 
 import {sansRegular16, sansBold16} from 'theme/typeface';

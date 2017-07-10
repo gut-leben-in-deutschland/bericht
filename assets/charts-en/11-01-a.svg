@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows voter turnout in Bundestag elections in the period 1949 to 2013. Following high turnout levels right through to the 1980s, voter turnout has dropped since the Bundestag election in 1987. Its lowest-ever level was 70.8 percent, recorded in 2009. At the 2013 Bundestag election, turnout was 71.5 as a whole, breaking down into 72.4 percent in West German federal states and 67.6 percent in East German federal states.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -31,9 +33,9 @@
                 <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,75.6L28.6875,57.599999999999994L57.375,53.28L86.0625,53.52000000000001L114.75,55.68000000000001L143.4375,55.920000000000016L164.93839835728951,45.359999999999985L193.62589835728951,46.31999999999999L222.31339835728951,51.359999999999985L243.83393223819303,50.16L272.52143223819303,61.68000000000001L294.0419661190965,77.37422911200002L322.7294661190965,74.475781536L351.4169661190965,66.719582592L380.1044661190965,74.201557896L401.625,77.63407704L430.3125,94.117505352L459,92.33068322399998" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
                 <g style="">
                     <line x1="463" x2="469" y1="102.124619328" y2="102.124619328" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="473" y="102.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:77.140625px;fill:#666666;">
+                    <text dy="0.3em" x="473" y="102.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:77.0625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            71,5%
+                            71.5%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Germany
@@ -45,9 +47,9 @@
                 <path fill="none" stroke="#235114" stroke-width="3" stroke-dasharray="none" d="M294.0419661190965,75.36054264L322.7294661190965,70.716080232L351.4169661190965,65.379063936L380.1044661190965,70.488819912L401.625,75.644568168L430.3125,90.62204448L459,90.124619328" style="fill:none;stroke:#235114;stroke-width:3px;"/>
                 <g style="">
                     <line x1="463" x2="469" y1="90.124619328" y2="90.124619328" stroke="#235114" stroke-width="3" style="stroke:#235114;stroke-width:3px;"/>
-                    <text dy="0.3em" x="473" y="90.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:167.609375px;fill:#666666;">
+                    <text dy="0.3em" x="473" y="90.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:167.53125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            72,4%
+                            72.4%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              West German federal states
@@ -59,9 +61,9 @@
                 <path fill="none" stroke="#89b874" stroke-width="3" stroke-dasharray="none" d="M294.0419661190965,85.248290784L322.7294661190965,89.673258576L351.4169661190965,72.09347832L380.1044661190965,89.254480368L401.625,85.76217633599998L430.3125,108.68915052L459,101.87159412" style="fill:none;stroke:#89b874;stroke-width:3px;"/>
                 <g style="">
                     <line x1="463" x2="469" y1="114.124619328" y2="114.124619328" stroke="#89b874" stroke-width="3" style="stroke:#89b874;stroke-width:3px;"/>
-                    <text dy="0.3em" x="473" y="114.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:163.3125px;fill:#666666;">
+                    <text dy="0.3em" x="473" y="114.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:163.234375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            67,6%
+                            67.6%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              East German federal states
@@ -98,7 +100,7 @@
                     <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt, Wahlen. 
+                                Source:  German Federal Statistical Office, Election Statistics. 
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
@@ -107,7 +109,7 @@
                         </div>
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                Up to 1987 only for the West German federal states and West Berlin.
+                                Voter turnout only for the west German federal states and west Berlin until 1987.
                             </p>
                         </div>
                     </div>

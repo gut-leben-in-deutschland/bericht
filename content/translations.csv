@@ -24,7 +24,7 @@ link/sign-language/url,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/12
 link/simple-language/label,Leich­te Spra­che,Simple Language
 link/simple-language/url,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/14517485,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/15464125
 link/newsletter/label,Newsletter,Newsletter
-link/newsletter/url,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/16748472,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/17464255
+link/newsletter/url,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/16748472,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/16748472
 link/data-on-github/label,Daten auf GitHub,Data on GitHub
 link/data-on-github/url,https://github.com/gut-leben-in-deutschland/bericht,https://github.com/gut-leben-in-deutschland/bericht
 ,,
@@ -38,6 +38,7 @@ loading,Inhalt lädt,Loading content
 dashboard/cards/n-indicators,Indikatoren,Indicators
 dashboard/cards/no-data-available,Für diesen Indikator gibt es zum jetzigen Zeitpunkt keine Daten,Currently there is no data for this indicator available
 dashboard/show-all-dimensions,Alle Dimensionen anzeigen,Show all dimensions
+dashboard/new-data,Aktualisierte Daten,Updated data
 ,,
 indicator-header/more,mehr,more
 indicator-header/less,weniger,less
@@ -51,8 +52,8 @@ bottom-nav-bar/back-to-overview,Zurück zur Übersichtsseite,Back to overview
 ,,
 extra-chapter-X1/title,Zum Hintergrund von „Gut leben in Deutschland – was uns wichtig ist“,To background information on “Wellbeing in Germany - what matters to us”
 extra-chapter-X1/short-title,Hintergrund zu „Gut leben in Deutschland“,Background information on “Wellbeing in Germany”
-extra-chapter-X2/title,Der Bürgerdialog und seine wissenschaftliche Auswertung,The national dialogue and its scientific evaluation
-extra-chapter-X2/short-title,Bürgerdialog und Auswertung,/indicators/s
+extra-chapter-X2/title,Der Bürgerdialog und seine wissenschaftliche Auswertung,The national dialogue and its scientific analysis
+extra-chapter-X2/short-title,Bürgerdialog und Auswertung,National dialogue and its scientific analysis
 extra-chapter-X3/title,Lebensqualität als Maßstab für Politik,Wellbeing as a benchmark for policy
 extra-chapter-X3/short-title,Lebensqualität als Maßstab für Politik,Wellbeing as a benchmark for policy
 ,,
@@ -178,7 +179,7 @@ share/report/href,https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/1879511
 share/report/title,Laden Sie den Regierungsbericht als barrierefreies PDF herunter,Download the government report as an accessible PDF
 ,,
 footer/copyright-owner,Bundesregierung soweit nicht anders gekennzeichnet,Federal Government unless stated otherwise
-footer/copyright-year,2016,2016
+footer/copyright-year,2016 – 2017,2016 – 2017
 ,,
 indicator/indicator-in-report,Indikator im interaktiven Bericht,Indicator in the interactive report
 ,,
@@ -192,7 +193,7 @@ report/government-measures-title,Was tut die Bundesregierung?,What Does the Gove
 report/indicators-of-this-chapter,Indikatoren dieses Kapitels,Indicators of this chapter
 report/intro/scroll-down-to-content,Runterscrollen zum Inhalt dieses Kapitels,Scroll down to the content of this chapter
 ,,
-landing-page/table-of-contents/heading,Inhaltsübersicht,Heading
+landing-page/table-of-contents/heading,Inhaltsübersicht,Table of contents
 landing-page/table-of-contents/dimensions,Dimensionen,Dimensions
 landing-page/table-of-contents/report,Interaktiver Bericht,Interactive report
 landing-page/table-of-contents/indicators,Indikatoren,Indicators
@@ -213,10 +214,12 @@ landing-page/mobile/menu/view,Ansehen,View
 ,,
 format/pow6/suffix, Mio.,m
 format/pow9/suffix, Mrd.,b
+format/decimal,",",.
+format/thousands,.,","
 ,,
-charts/y-cut,Achse gekürzt,Abbreviated axis
+charts/y-cut,Achse gekürzt,Truncated axis
 charts/source,Quelle:,Source:
-charts/geo-base,Geometrische Grundlage:,Geometrische Grundlage:
+charts/geo-base,Geometrische Grundlage:,Geometry:
 charts/copyright,CC BY 4.0 Bundesregierung,CC BY 4.0 Federal Government
 charts/confidence95-legend,95-Prozent-Konfidenzintervall,95-per-cent-confidence-interval
 charts/license/label,Datenlizenz:,Data license
@@ -226,30 +229,30 @@ charts/image/label,Grafik herunterladen,Download chart
 charts/image/byline,Regierungsstrategie zur Lebensqualität in Deutschland,Government strategy on wellbeing in Germany
 charts/static/03-03-a/label-1,Insgesamt,Overall
 charts/static/03-03-a/label-2,zu Hause versorgt,Home care
-charts/static/03-03-a/label-3,Vollstationär in Heimen,Inpatient care in homes
+charts/static/03-03-a/label-3,Vollstationär in Heimen,Retirement or nursing homes
 charts/static/03-03-a/label-4,Allein durch Angehörige,Cared for by relatives alone
-charts/static/03-03-a/label-5,Zusammen mit/durch amulante Pflegedienste,Together with/by outpatient care services
+charts/static/03-03-a/label-5,Zusammen mit/durch amulante Pflegedienste,Together with assistance services
 charts/static/03-03-a/label-6,Schulabschluss der Eltern,Parents’ education level
 charts/static/03-03-a/label-7,Schulabschluss der Kinder,Children’s education level
 charts/static/03-03-a/label-8,Fachhochschul- oder Hochschulreife,Vocational school or university entrance qualification
 charts/static/03-03-a/label-9,Haupt- oder Realschulabschluss,Secondary school graduation
 charts/static/03-03-a/label-10,Kein Schulabschluss,No school graduation
 ,,
-sharing-images/titles/landing,Regierungsbericht zu den 12 Dimensionen von Lebensqualität in Deutschland,
-sharing-images/titles/01,Lebenserwartung bei Geburt auf Kreisebene,
-sharing-images/titles/02,Arbeitslosigkeit auf Kreisebene,
-sharing-images/titles/03,Bildungsmobilität zwischen Eltern und Kinder 2014,
-sharing-images/titles/04,Gewünschte und tatsächliche Arbeitszeit von Frauen und Männer,
-sharing-images/titles/05,Verteilung der Haushaltsnettoeinkommen 2013,
-sharing-images/titles/06,Gewaltkriminalität nach Bundesländern 2015,
-sharing-images/legends/06,Fälle pro 100.000 Einwohner,
-sharing-images/titles/07,Breitbandversorgung auf Kreisebene,
-sharing-images/titles/08,Ehrenamtliches Engagement,
-sharing-images/titles/09,Entwicklung des Bruttoinlandsproduktes pro Kop in Euro,
-sharing-images/titles/10,Jahresmittelwerte der Stickstoffdioxidbelastung 2015,
-sharing-images/titles/11,Wahlbeteiligung bei Bundestagswahl 2013,
-sharing-images/titles/12,Entwicklung der Treibhausgas-Emissionen in Deutschland,
-sharing-images/subtitle,Regierungsbericht zur Lebensqualität in Deutschland,
+sharing-images/titles/landing,Regierungsbericht zu den 12 Dimensionen von Lebensqualität in Deutschland,Government Report on 12 Dimensions of Wellbeing in Germany
+sharing-images/titles/01,Lebenserwartung bei Geburt auf Kreisebene,Life expectancy at birth across districts
+sharing-images/titles/02,Arbeitslosigkeit auf Kreisebene,Unemployment rates by district
+sharing-images/titles/03,Bildungsmobilität zwischen Eltern und Kinder 2014,Educational mobility between children and parents 2014
+sharing-images/titles/04,Gewünschte und tatsächliche Arbeitszeit von Frauen und Männer,Actual and preferred weekly work hours by gender
+sharing-images/titles/05,Verteilung der Haushaltsnettoeinkommen 2013,Distribution of net household income 2013
+sharing-images/titles/06,Gewaltkriminalität nach Bundesländern 2015,Violent crime by state 2015
+sharing-images/legends/06,Fälle pro 100.000 Einwohner,"Number of violent crimes per 100,000 population"
+sharing-images/titles/07,Breitbandversorgung auf Kreisebene,Access to high-speed internet by district
+sharing-images/titles/08,Ehrenamtliches Engagement,Voluntary activities of persons aged 14 and older
+sharing-images/titles/09,Entwicklung des Bruttoinlandsproduktes pro Kop in Euro,Gross domestic product per capita in Euro
+sharing-images/titles/10,Jahresmittelwerte der Stickstoffdioxidbelastung 2015,Annual average concentration of nitrogen dioxide in the air
+sharing-images/titles/11,Wahlbeteiligung bei Bundestagswahl 2013,Voter turnout in Bundestag election 2013
+sharing-images/titles/12,Entwicklung der Treibhausgas-Emissionen in Deutschland,Trends in greenhouse gas emissions in Germany
+sharing-images/subtitle,Regierungsbericht zur Lebensqualität in Deutschland,Government Report on Wellbeing in Germany
 ,,
 flagship/01/source_url,http://www.demogr.mpg.de/de/news_presse/news/press/von_der_ost_west_kluft_zum_flickenteppich_4281.htm,http://www.demogr.mpg.de/en/news_press/news/press/from_east_west_divide_to_patchwork_quilt_4281.htm
 flagship/01/source_label,Max-Planck-Institut für demografische Forschung,Max Planck Institute for Demographic Research
@@ -259,10 +262,10 @@ flagship/02/source_label,,
 flagship/02/source_annotation,"Laufende Raumbeobachtung des BBSR, Statistik der Bundesagentur für Arbeit.","Ongoing spatial observation by the BSSR, statistics by the German Federal Employment Agency."
 flagship/04/source_url,,
 flagship/04/source_label,,
-flagship/04/source_annotation,"Berechnungen des DIW Berlin, SOEPv31.1.","Calculations by DIW Berlin, SOEPv31.1."
+flagship/04/source_annotation,"Berechnungen des DIW Berlin, SOEPv32.1.","Calculations by DIW Berlin, SOEPv32.1."
 flagship/05/source_url,,
 flagship/05/source_label,,
-flagship/05/source_annotation,"Berechnungen des DIW Berlin, SOEPv31.1.","Calculations by DIW Berlin, SOEPv31.1."
+flagship/05/source_annotation,"Berechnungen des DIW Berlin, SOEPv32.1.","Calculations by DIW Berlin, SOEPv32.1."
 flagship/07/source_url,,
 flagship/07/source_label,,
 flagship/07/source_annotation,"BMVI, TÜV Rheinland.","BMVI, TÜV Rheinland."
@@ -286,12 +289,12 @@ flagship/family-size/adults,Erwachsene,Adults
 flagship/family-size/children,Kinder,Children
 flagship/map-dots/threshold,Grenzwert,Threshold
 flagship/map-dots/legendTitle,NO<sub>2</sub> Jahresmittelwert in Mikrogramm pro Kubikmeter (µg/m<sup>3</sup>),NO<sub>2</sub> Annual average in microgrammes per cubic metre (µg/m<sup>3</sup>)
-flagship/leisure-time/label,Monatlicher Umfang des Engagements in Minuten,Monthly engagement level in minutes
+flagship/leisure-time/label,Monatlicher Umfang des Engagements in Minuten,Monthly time in minutes
 flagship/leisure-time/placeholder, , 
 flagship/leisure-time/minutes,Minuten,Minutes
 flagship/working-hours/placeholder,Arbeitszeit,Working hours
 flagship/working-hours/unit,Stunden,Hours
-flagship/working-hours/desired/label,Gewünschte Arbeitszeit,Desired working hours
+flagship/working-hours/desired/label,Gewünschte Arbeitszeit,Preferred working hours
 flagship/working-hours/actual/label,Tatsächliche Arbeitszeit,Actual working hours
 flagship/working-hours/over,über,over
 flagship/working-hours/under,unter,under
@@ -335,7 +338,7 @@ flagship/percentiles/08/left-axis-label,kleiner Umfang,small amount
 flagship/percentiles/08/right-axis-label,grosser Umfang,large amount
 flagship/percentiles/08/unit,Minuten,Minutes
 ,,
-flagship/multiple-percentiles/desired-working-hours,Gewünschte Arbeitszeit,Desired working hours
+flagship/multiple-percentiles/desired-working-hours,Gewünschte Arbeitszeit,Preferred working hours
 flagship/multiple-percentiles/actual-working-hours,Tatsächliche Arbeitszeit,Actual working hours
 flagship/multiple-percentiles/male,Männer,Men
 flagship/multiple-percentiles/female,Frauen,Women
@@ -343,8 +346,12 @@ flagship/multiple-percentiles/wish-less,wünschen sich **weniger**,wish **less**
 flagship/multiple-percentiles/wish-more,wünschen sich **mehr**,wish **more**
 flagship/multiple-percentiles/work-less,arbeiten **weniger**,work **less**
 flagship/multiple-percentiles/work-more,arbeiten **mehr**,work **more**
-flagship/multiple-percentiles/your-desired-working-hours,Ihre gewünschte Arbeitszeit,Your desired working hours
+flagship/multiple-percentiles/your-desired-working-hours,Ihre gewünschte Arbeitszeit,Your preferred working hours
 flagship/multiple-percentiles/your-actual-working-hours,Ihre tatsächliche Arbeitszeit,Your actual working hours
+,,
+flagship/map-dots/background,Hintergrund,Background
+flagship/map-dots/industry,Industrie,Industry
+flagship/map-dots/traffic,Verkehr,Traffic
 ,,
 link-title/external,Link zu externer Seite,Link to an external website
 link-title/target-blank,Link öffnet ein neues Fenster,Link opens a new window

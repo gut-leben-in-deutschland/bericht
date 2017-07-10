@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="458" style="height:458px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows the assessment of local policing in 2012. In concrete terms, it depicts the proportion of those interviewed who consider local policing to be “very/rather good” or “rather/very poor”. The categories used are neighbourhood relations and the experience the interviewee has had to date with the police and crime. 90 percent of those interviewed who had no experience as a victim of crime considered police work to be very/rather good. For those who had had experience as a victim of crime, the figure was only 83 percent. 88 percent of those who were satisfied with their last contact with police considered police work to be very/rather good. For those who were dissatisfied with their last contact with the police, the figure was only 73 percent. 89 percent of those who considered neighbourhood relations to be close assessed police work to be very/rather good. For those who considered neighbourhood relations to be poor, the figure was only 76 percent.
+
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
         <g style="">
@@ -121,7 +124,7 @@
                         </div>
                         <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                N = 1,059 (no experience as a victim of crime), 814 (experience as a victim of crime), 447 (satisfied with last contact with police), 100 (good neighbourhood relations), 1,161 (poor neighbourhood relations)
+                                N = 1,059 (no experience as a victim of crime); 814 (experience as a victim of crime); 447 (satisfied with last police contact); 73 (dissatisfied with last police contact); 100 (good neighbourhood relations); 1161 (poor neighbourhood relations).
                             </p>
                         </div>
                     </div>

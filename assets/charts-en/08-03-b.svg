@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="977" style="height:977px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows civic engagement by field in 2014. The field “sports and exercise” chalked up the highest proportion of volunteers with 16.3 percent. Some 9 percent of volunteers were active in each of the fields “school and kindergarten”, “culture and music” and “social sector”. The remainder is shared between “justice or crime-related problems”, “representation of professional interests”, “health sector”, “accident and emergency services, volunteer fire service”, “environment, conservation or animal protection”, “politics and policy advocacy”, “youth work, adult education”, “leisure and social activities”, “church or religious communities” and “other sector”.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:232.9375px;fill:#666666;">
             Representation of professional interests
@@ -226,8 +228,8 @@
         </g>
     </g>
     <g transform="translate(329,262)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:150.015625px;fill:#666666;">
-            Church or religious sector
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:189.796875px;fill:#666666;">
+            Church or religious communities
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
@@ -316,8 +318,8 @@
         </g>
     </g>
     <g transform="translate(329,393)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:172.78125px;fill:#666666;">
-            Politics and political lobbying
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:162.34375px;fill:#666666;">
+            Politics and policy advocacy
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
@@ -361,8 +363,8 @@
         </g>
     </g>
     <g transform="translate(0,524)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:133.296875px;fill:#666666;">
-            School or kindergarten 
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:142.53125px;fill:#666666;">
+            School and kindergarten
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
@@ -496,8 +498,8 @@
         </g>
     </g>
     <g transform="translate(329,655)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:127.71875px;fill:#666666;">
-            Sports and movement
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:112.046875px;fill:#666666;">
+            Sports and exercise
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">
@@ -586,8 +588,8 @@
         </g>
     </g>
     <g transform="translate(329,786)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:320.140625px;fill:#666666;">
-            Accident and emergency services, volunteer fire service
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:255.40625px;fill:#666666;">
+            Accident, emergency, volunteer fire services
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;">

@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
+    <desc style="">
+        The chart shows public expenditure for development cooperation as a percentage of gross national income in the period 1960 to 2016. It increased from 0.31 to 0.7 percent.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1960
                 </text>
             </g>
-            <g transform="translate(194.41236497585743,264)" style="">
+            <g transform="translate(201.54297447931944,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    1978
+                    1979
                 </text>
             </g>
-            <g transform="translate(399.6172034446712,264)" style="">
+            <g transform="translate(392.4860662951012,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1997
@@ -24,54 +26,59 @@
             <g transform="translate(594,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,140L10.822041913484991,84.00000000000003L21.614515406441335,84.00000000000003L32.40698889939768,100L43.19946239235402,88L54.02150430583902,104L64.81397779879536,128L75.6064512917517,100L86.39892478470804,96L97.22096669819305,112L108.01344019114939,136L118.80591368410573,128L129.59838717706208,136L140.42042909054706,136L151.2129025835034,112L162.00537607645975,104L172.7978495694161,120L183.6198914829011,132.00000000000003L194.41236497585743,116L205.2048384688138,84.00000000000003L215.99731196177012,88L226.81935387525513,76L237.61182736821146,72.00000000000003L248.4043008611678,72.00000000000003L259.19677435412416,84.00000000000003L270.01881626760917,76L280.8112897605655,92L291.60376325352183,108.00000000000003L302.39623674647817,108.00000000000003L313.2182786599632,100L324.0107521529195,96L334.8032256458759,108.00000000000003L345.5956991388322,116L356.41774105231724,124L367.2102145452735,132.00000000000003L378.0026880382299,140L388.79516153118624,136L399.6172034446712,152L410.4096769376276,160L421.20215043058386,160L431.99462392354025,156L442.8166658370252,156L453.6091393299816,156L464.4016128229379,152L475.19408631589425,152L486.01612822937926,120L496.8086017223356,120L507.6010752152919,116L518.3935487082483,112L529.2155906217333,124L540.0080641146897,108.00000000000003L550.800537607646,108.00000000000003L561.5930111006023,116L572.4150530140873,112L583.2075265070437,96L594,56.00000000000003" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
+                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,171L10.628923437958345,129L21.22880610149604,129L31.828688765033736,141L42.42857142857142,132L53.05749486652978,144L63.65737753006747,162L74.25726019360516,141L84.85714285714285,138.00000000000003L95.4860662951012,150L106.0859489586389,168L116.68583162217658,162L127.28571428571428,168L137.91463772367263,168L148.51452038721033,150L159.11440305074802,144L169.7142857142857,156L180.34320915224404,165L190.94309181578177,153L201.54297447931944,129L212.14285714285714,132L222.7717805808155,123L233.37166324435316,120L243.97154590789089,120L254.57142857142856,129L265.20035200938696,123L275.8002346729246,135L286.4001173364623,147L297,147L307.62892343795835,141L318.22880610149605,138.00000000000003L328.82868876503375,147L339.4285714285714,153L350.0574948665298,159L360.65737753006744,165L371.25726019360513,171L381.8571428571429,168L392.4860662951012,180L403.0859489586389,186L413.68583162217664,186L424.2857142857143,183L434.9146377236726,183L445.5145203872103,183L456.114403050748,180L466.7142857142857,180L477.34320915224407,156L487.94309181578177,156L498.5429744793194,153L509.1428571428571,150L519.7717805808155,159L530.3716632443532,147L540.9715459078908,147L551.5714285714286,153L562.2003520093868,150L572.8002346729246,138.00000000000003L583.4001173364624,108.00000000000003L594,54" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="598" x2="604" y1="56.00000000000003" y2="56.00000000000003" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="608" y="56.00000000000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
+                    <line x1="598" x2="604" y1="54" y2="54" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="608" y="54" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.203125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,52%
+                            0.70%
                         </tspan>
                     </text>
                 </g>
             </g>
             <g transform="translate(0,264)" style="">
                 <line x2="594" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:14.6875px;fill:#666666;">
-                    0,0
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:14.59375px;fill:#666666;">
+                    0.0
                 </text>
             </g>
             <g transform="translate(0,144)" style="">
                 <line x2="594" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
-                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:14.6875px;fill:#666666;">
-                    0,3
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:14.59375px;fill:#666666;">
+                    0.4
                 </text>
             </g>
             <g transform="translate(0,24)" style="">
                 <line x2="594" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
-                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:23.34375px;fill:#666666;">
-                    0,6% 
+                <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:23.25px;fill:#666666;">
+                    0.8% 
                 </text>
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-right:45px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Source: 
                                 <a rel="external" title=" (Link to an external website)" href="https://data.oecd.org/oda/net-oda.htm" style="border-bottom-color:rgb(0, 79, 128);border-left-color:rgb(0, 79, 128);border-right-color:rgb(0, 79, 128);border-top-color:rgb(0, 79, 128);color:rgb(0, 79, 128);cursor:pointer;font-family:BundesSans-Regular;font-size:12px;line-height:normal;outline-color:rgb(0, 79, 128);text-align:left;">
                                     OECD.
                                 </a>
                                  Net ODA indicator.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
@@ -80,7 +87,7 @@
                         </div>
                         <div style="display:block;float:left;height:42px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                Data for 2015 is preliminary.
+                                Preliminary data for 2016.
                             </p>
                         </div>
                     </div>

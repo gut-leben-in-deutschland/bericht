@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der Artenvielfalt und Landschaftsqualität im Zeitraum von 1970 bis 2013. Ziel ist es, einen Wert von 100 zu erreichen. Der Indikator ist in diesem Zeitraum von 106,9 auf 68,5 gesunken.
+    </desc>
     <g transform="translate(0,24)" style="">
         <g transform="translate(0,241)" style="">
             <line x1="0" x2="43" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>

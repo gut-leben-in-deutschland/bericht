@@ -1,16 +1,28 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import {LinkInline as Link} from 'components/ButtonLink/Link';
 import {formatLocale, formatSpecifier, precisionFixed} from 'd3-format';
 
-const format = formatLocale({
-  decimal: ',',
-  thousands: '.',
-  grouping: [3],
-  currency: ['', '\u00a0€']
-}).format;
+const formatters = {
+  de: formatLocale({
+    decimal: ',',
+    thousands: '.',
+    grouping: [3],
+    currency: ['', '\u00a0€']
+  }).format,
+  en: formatLocale({
+    decimal: '.',
+    thousands: ',',
+    grouping: [3],
+    currency: ['', '\u00a0€']
+  }).format
+}
 
-const decimalFormat = format('.0f');
+const getFormatter = (t) =>
+  t ? formatters[t.localeString] : formatters.de;
+
 const formatPow = (t, baseValue) => {
+  const decimalFormat = getFormatter(t)('.0f');
   let [n] = decimalFormat(baseValue).split('.');
   let scale = value => value;
   let suffix = '';
@@ -28,9 +40,9 @@ const formatPow = (t, baseValue) => {
 };
 
 const sFormat = (t, precision = 4, pow, type = 'r') => {
-  const numberFormat = format(',d');
+  const numberFormat = getFormatter(t)(',d');
   // we only round suffixed values to precision
-  const numberFormatWithSuffix = format(`,.${precision}${type}`);
+  const numberFormatWithSuffix = getFormatter(t)(`,.${precision}${type}`);
   return value => {
     let fPow = pow || formatPow(t, value);
     if (fPow.suffix) {
@@ -49,13 +61,14 @@ export const getFormat = (numberFormat, t) => {
     }
     return sFormat(t, specifier.precision);
   }
-  return format(specifier);
+  return getFormatter(t)(specifier);
 };
 
 export const calculateAxis = (numberFormat, t, domain, unit = '') => {
   const [min, max] = domain;
   const step = (max - min) / 2;
   const ticks = [min, min + step, max];
+  const format = getFormatter(t);
 
   const specifier = formatSpecifier(numberFormat);
   let formatter = getFormat(numberFormat, t);

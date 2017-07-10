@@ -38,7 +38,7 @@ export const configureApi = (configuration) => {
 
           const resolveContentPath = (path) => {
             // Avoid double contentBase
-            const contentBaseCheck = new RegExp(`^${configuration.contentBase}\/.*$`);
+            const contentBaseCheck = new RegExp(`^${configuration.contentBase}/.*$`);
             return contentBaseCheck.test(path) ? path : join(configuration.contentBase, path);
           };
 

@@ -15,7 +15,7 @@ module.exports = (assets, content, css, head) => {
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <meta name="google-site-verification" content="2t9WEhPAySSVleY-mYTaBe-0maT6ALpmE0EMeMpKHZ8" />
+  <meta name="google-site-verification" content="WmM0lRi-kxiEMJ0agAvx8lIuYzS76DL--g9vzrIhOac" />
   ${head.title}
   ${head.meta}
   ${head.link}

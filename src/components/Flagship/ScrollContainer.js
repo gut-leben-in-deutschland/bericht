@@ -1,7 +1,8 @@
-import React, {PropTypes, Component} from 'react';
+import React, { Component } from 'react';
 import {StyleSheet, css} from 'aphrodite';
 import {Set} from 'immutable';
 import {extent} from 'd3-array';
+import PropTypes from 'prop-types';
 import raf from 'raf';
 import {LinkInline as Link} from 'components/ButtonLink/Link';
 import subsup from 'utils/subsup';

@@ -1,6 +1,6 @@
 type,category,description,value,percent
-Total,Total,Insgesamt,2626206,100
-Heim,In Heimen,Vollstationär in Heimen,764431,29.1
-Zuhause,Zu Hause,Pflegebedürftige zu Hause versorgt,1861775,70.9
-Zuhause,Davon,Zusammen mit/durch ambulante Pflegedienste,615846,23.5
-Zuhause,Davon,Allein durch Angehörige,1245929,47.4
+Total,Total,Insgesamt,2860293,100
+Heim,In Heimen,Vollstationär in Heimen,783416,27.4
+Zuhause,Zu Hause,Pflegebedürftige zu Hause versorgt,2076877,72.6
+Zuhause,Davon,Zusammen mit/durch ambulante Pflegedienste,692273,24.2
+Zuhause,Davon,Allein durch Angehörige,1384604,48.4

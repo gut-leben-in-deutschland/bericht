@@ -30,7 +30,7 @@ Es besteht Einigkeit in Wissenschaft und Statistik: Das **reale Bruttoinlandspro
 
 Das **Bruttoinlandsprodukt** ist dennoch ein zentraler und notwendiger Indikator, um die **Wirtschaftsleistung eines Landes** abzubilden. Zur besseren Vergleichbarkeit zwischen ländlichen und städtischen Regionen und bevölkerungsarmen und -reichen Ländern wird es **pro Kopf** angegeben.  
 
-Die Entwicklung des Bruttoinlandsprodukts pro Kopf bestätigt: Deutschland ist ein starkes Land. Zwischen den Jahren 1991 und 2015 **stieg das BIP pro Kopf um etwa ein Drittel** an.
+Die Entwicklung des Bruttoinlandsprodukts pro Kopf bestätigt: Deutschland ist ein starkes Land. Zwischen den Jahren 1991 und 2016 **stieg das BIP pro Kopf um mehr als ein Drittel** an.
 
 In den **ostdeutschen Ländern** hat sich die Summe der jährlich produzierten Güter und Dienstleistungen, die das BIP erfasst, seit der Wiedervereinigung sogar mehr als verdoppelt. 2015 erreichte das BIP je Einwohner in den ostdeutschen Ländern ein Niveau von 72,4 Prozent der westdeutschen Länder.  
 
@@ -46,7 +46,7 @@ In den **ostdeutschen Ländern** hat sich die Summe der jährlich produzierten G
 
 <!-- ColumnContainer end -->
 
-Im **internationalen Vergleich** weist Deutschland ein relativ hohes BIP pro Kopf auf. Im Jahr 2015 belegte die Bundesrepublik Rang 15 von rund 180 Ländern. Von den Folgen der **globalen Wirtschafts- und Finanzkrise** in 2008 hat sich die deutsche Wirtschaft schnell erholt. Dazu beigetragen haben zwei Konjunkturpakete der Bundesregierung, die Kurzarbeiterregelung und die Stabilisierung der Banken. So hatte das BIP pro Kopf bereits im Jahr 2011 das Vorkrisenniveau erreicht.
+Im [**internationalen Vergleich**](http://databank.worldbank.org/data/reports.aspx?source=2&series=NY.GDP.PCAP.PP.CD&country) weist Deutschland ein relativ hohes BIP pro Kopf auf. Im Jahr 2015 belegte die Bundesrepublik Rang 15 von rund 180 Ländern. Von den Folgen der **globalen Wirtschafts- und Finanzkrise** in 2008 hat sich die deutsche Wirtschaft schnell erholt. Dazu beigetragen haben zwei Konjunkturpakete der Bundesregierung, die Kurzarbeiterregelung und die Stabilisierung der Banken. So hatte das BIP pro Kopf bereits im Jahr 2011 das Vorkrisenniveau erreicht.
 
 <!-- GovernmentMeasures start -->
 
@@ -78,7 +78,7 @@ Die **Investitionsquote** gibt an, wie viel Prozent der Wirtschaftsleistung in p
 
 Die **Investitionsquote** hat sich in Deutschland seit 2002 auf einem Niveau von rund 20 Prozent stabilisiert. Sie liegt damit unterhalb des Niveaus zu Beginn der 1990er Jahre. Damals wurde infolge der deutschen Wiedervereinigung viel investiert.
 
-Im [**Vergleich mit anderen Industrieländern**](https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InvestitionenPDF_5811108.pdf?__blob=publicationFile) befindet sich Deutschland mit einer Gesamtinvestitionsquote von 19,9 Prozent knapp über dem EU-Durchschnitt von 19,6 Prozent.
+Im [**Vergleich mit Ländern der Europäischen Union**](https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InvestitionenPDF_5811108.pdf?__blob=publicationFile) liegt Deutschland 2016 mit einer Gesamtinvestitionsquote von 20,0 Prozent knapp über dem EU-Durchschnitt von 19,7 Prozent.
 
 <!-- ColumnRight end -->
 
@@ -144,7 +144,7 @@ Nach dem durch die **globale Finanzmarkt- und europäische Staatsschuldenkrise**
 
 <!-- GovernmentMeasures start -->
 
-Der Bund hat 2014 zum ersten Mal seit fast 50 Jahren einen Haushalt ohne neue Schulden abgeschlossen. 2015 wurde im Staatshaushalt insgesamt, das heißt bei Bund, Ländern, Gemeinden und Sozialversicherungen sogar ein leichter Haushaltsüberschuss von 0,7 Prozent des BIP erzielt. Allerdings überschreitet Deutschland immer noch die im **Stabilitäts- und Wachstumspaket der EU** festgelegte -Obergrenze für den Schuldenstand von 60 Prozent der Wirtschaftsleistung. Daher ist eine solide Haushaltspolitik weiter notwendig.
+Der Bund hat 2014 zum ersten Mal seit fast 50 Jahren einen Haushalt ohne neue Schulden abgeschlossen. 2016 wurde im Staatshaushalt insgesamt, das heißt bei Bund, Ländern, Gemeinden und Sozialversicherungen sogar ein leichter Haushaltsüberschuss von 0,6 Prozent des BIP erzielt. Allerdings überschreitet Deutschland immer noch die im Stabilitäts- und Wachstumspaket der EU festgelegte -Obergrenze für den Schuldenstand von 60 Prozent der Wirtschaftsleistung. Daher ist eine solide Haushaltspolitik weiter notwendig.
 
 - [Einnahmen und Ausgaben des Bundes](http://www.bundesfinanzministerium.de/Web/DE/Themen/Oeffentliche_Finanzen/Bundeshaushalt/bundeshaushalt.html)
 
@@ -166,9 +166,9 @@ Wirtschaftswissenschaftler sind sich einig: **Investitionen in Forschung und Ent
 
 Ein wichtiger, etablierter und international vergleichbarer **Indikator für die Innovationsfähigkeit** einer Volkswirtschaft sind die **Ausgaben für Forschung und Entwicklung** (FuE) in **Relation zur Wirtschaftsleistung**.
 
-Die FuE-Ausgaben sind von 1995 bis 2014 von 2,2 auf 2,9 Prozent gestiegen. Im Jahr 2014 wurden in Deutschland gut 84 Milliarden Euro für Forschung und Entwicklung ausgegeben, 44 Milliarden Euro mehr als zwanzig Jahre zuvor.
+Die FuE-Ausgaben sind von 1995 bis 2015 von 2,2 auf knapp 3 Prozent gestiegen. Im Jahr 2015 wurden in Deutschland mehr als 90 Milliarden Euro für Forschung und Entwicklung und damit sieben Prozent mehr als 2014 ausgegeben.
 
-Der Blick auf die [**EU-Mitgliedsstaaten**](http://ec.europa.eu/eurostat/documents/2995521/7092221/9-30112015-AP-DE.pdf/1ba135fc-b9bc-4dfc-9b0e-41aefdf17873) zeigt, wie gut Deutschland bei den Gesamtausgaben für FuE dasteht. 2014 lag die Bundesrepublik im EU-Vergleich auf Rang fünf. Allerdings wird im globalen Vergleich zum Teil deutlich mehr Geld für FuE ausgegeben, beispielsweise in Südkorea.
+Der Blick auf die [**EU-Mitgliedsstaaten**](http://ec.europa.eu/eurostat/documents/2995521/7752015/9-30112016-BP-DE.pdf/4a567899-61d5-4921-a0a0-ea7bdbba39aa) zeigt, wie gut Deutschland bei den Gesamtausgaben für FuE dasteht. 2015 lag die Bundesrepublik im EU-Vergleich auf Rang fünf. Allerdings wird im globalen Vergleich zum Teil deutlich mehr Geld für FuE ausgegeben, beispielsweise in Südkorea oder Japan.
 
 <!-- ColumnLeft end -->
 
@@ -224,9 +224,9 @@ Einen Hinweis auf Fortschritte in diesem Bereich kann der Indikator **Zeitdauer 
 
 <!-- ColumnContainer end -->
 
-2015 hat eine Unternehmensgründung in Deutschland durchschnittlich 6,9 Tage gedauert und 376 Euro gekostet. Bei der Dauer liegt Deutschland damit über dem EU-Durchschnitt von 3,4 Tagen, bei den Kosten nur leicht über dem EU-Durschnitt von 315 Euro.
-
- Auch wenn bei internationalen Vergleichen zu beachten ist, dass Deutschland für junge Unternehmer eine hohe Rechtssicherheit bietet, so braucht es eine deutliche **Verbesserung der Gründerkultur**. Die Bundesregierung will Gründerinnen und Gründer  motivieren und unterstützen. Schwerpunkt ist ein leichterer Zugang zu passenden Finanzierungsmöglichkeiten für neue Unternehmerinnen und Unternehmer.
+2016 hat eine Unternehmensgründung in Deutschland durchschnittlich 6,9 Tage gedauert und 383 Euro gekostet. Bei der Dauer liegt Deutschland damit über dem EU-Durchschnitt von 3,3 Tagen, bei den Kosten nur leicht über dem EU-Durschnitt von 320 Euro.
+ 
+Auch wenn bei internationalen Vergleichen zu beachten ist, dass Deutschland für junge Unternehmer eine hohe Rechtssicherheit bietet, so braucht es eine deutliche **Verbesserung der Gründerkultur**. Die Bundesregierung will Gründerinnen und Gründer  motivieren und unterstützen. Schwerpunkt ist ein leichterer Zugang zu passenden Finanzierungsmöglichkeiten für neue Unternehmerinnen und Unternehmer.
  
 <!-- GovernmentMeasures start -->
 

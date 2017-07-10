@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="453" style="height:453px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="507" style="height:507px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die unterschiedlichen Formen atypischer Beschäftigung differenziert nach Geschlecht im Jahr 2015. Insgesamt sind atypische Beschäftigungsformen bei Frauen deutlich verbreiteter als bei Männern. So waren 2015 5.264.000 Frauen, aber nur 2.210.000 Männer in einem atypischen Beschäftigungsverhältnis. Dies liegt vor allem an Teilzeit und geringfügiger Beschäftigung. 2015 haben 4.129.000 Frauen in Teilzeit gearbeitet und 1.790.000 Frauen waren geringfügig beschäftigt. Im Vergleich dazu gingen nur 687.000 Männer einer Teilzeitbeschäftigung nach und nur 525.000 Männer waren geringfügig beschäftigt. Bei befristeten Arbeitsverhältnissen gibt es kaum einen Unterschied zwischen Männern und Frauen. Männer sind im Vergleich zu Frauen häufiger als Leiharbeitnehmer tätig, 2015 waren es 452.000 Männer aber nur 210.000 Frauen.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:189.0625px;fill:#666666;">
             Atypisch Beschäftigte insgesamt
@@ -225,14 +227,19 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="393" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Mikrozensus.
+    <foreignObject x="0" y="393" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

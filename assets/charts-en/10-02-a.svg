@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows biodiversity and environmental quality in the period 1970 to 2013. The aim is to reach a target of 100. In this period, the indicator fell from 106.9 to 68.5.
+    </desc>
     <g transform="translate(0,24)" style="">
         <g transform="translate(0,241)" style="">
             <line x1="0" x2="43" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
@@ -130,32 +132,32 @@
         <g transform="translate(0,40)" style="">
             <line x1="0" x2="640" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
             <circle r="3.5" cx="4" style="fill:#f6f6f0;stroke:#454545;"/>
-            <text x="640" text-anchor="end" dy="-0.4em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:60.265625px;fill:#454545;text-anchor:end;">
-                Target 100,0
+            <text x="640" text-anchor="end" dy="-0.4em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:60.171875px;fill:#454545;text-anchor:end;">
+                Target 100.0
             </text>
         </g>
         <g transform="translate(0,26.1341805694)" style="">
             <line x1="23" x2="38" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
             <circle r="3.5" cx="23" style="fill:#f6f6f0;stroke:#454545;"/>
             <text x="30.5" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
-            <text x="30.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:26.90625px;fill:#454545;text-anchor:middle;">
-                106,9
+            <text x="30.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:26.8125px;fill:#454545;text-anchor:middle;">
+                106.9
             </text>
         </g>
         <g transform="translate(0,37.25092751220001)" style="">
             <line x1="83" x2="98" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
             <circle r="3.5" cx="83" style="fill:#f6f6f0;stroke:#454545;"/>
             <text x="90.5" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
-            <text x="90.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:26.90625px;fill:#454545;text-anchor:middle;">
-                101,4
+            <text x="90.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:26.8125px;fill:#454545;text-anchor:middle;">
+                101.4
             </text>
         </g>
         <g transform="translate(0,103)" style="">
             <line x1="603" x2="618" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
             <circle r="3.5" cx="603" style="fill:#f6f6f0;stroke:#454545;"/>
             <text x="610.5" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
-            <text x="610.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:20.90625px;fill:#454545;text-anchor:middle;">
-                68,5
+            <text x="610.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:20.8125px;fill:#454545;text-anchor:middle;">
+                68.5
             </text>
         </g>
     </g>
@@ -166,7 +168,7 @@
                     <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Bundesamt für Naturschutz 2015.
+                                Source:  German Federal Agency for Nature Conservation 2015. 
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
@@ -175,7 +177,7 @@
                         </div>
                         <div style="display:block;float:left;height:42px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                The chart includes reconstructed historic data.
+                                Chart also includes reconstructed historical values.
                             </p>
                         </div>
                     </div>

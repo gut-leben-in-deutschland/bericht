@@ -94,7 +94,7 @@ Die Vereinbarkeit von Familie und Beruf fordert die Menschen – insbesondere da
 
 Die **Kinderbetreuungsquote** setzt die Zahl der in Kindertageseinrichtungen oder durch Tagesmütter betreuten Kinder ins Verhältnis zur Gesamtzahl aller Kinder einer Altersgruppe. Die **Ganztagsquote** misst den Anteil der Kinder, die an Wochentagen mindestens sieben Stunden betreut werden, wobei die Betreuung durch Kindertageseinrichtungen, die öffentlich geförderte Kindertagespflege, Horte oder Ganztagsschulen erfolgen kann. Die Kinderbetreuung ist entscheidend für die Erwerbstätigkeit von Eltern, insbesondere der von Müttern.
 
-**Seit 2006 zeichnet sich eine positive Entwicklung ab**. Die **Ganztagsquote der Unter-3-Jährigen** ist bis zum Jahr 2015 deutlich angestiegen. Auch die **Ganztagsquote der 3- bis Unter-6-Jährigen** hat sich im gleichen Zeitraum klar erhöht. Letztere lag mit rund 44 Prozent mehr als doppelt so hoch wie bei den Unter-3-Jährigen.
+**Seit 2006 zeichnet sich eine positive Entwicklung ab**. Die **Ganztagsquote der Unter-3-Jährigen** ist bis zum Jahr 2016 deutlich angestiegen. Auch die **Ganztagsquote der 3- bis Unter-6-Jährigen** hat sich im gleichen Zeitraum klar erhöht. Letztere lag mit knapp 45 Prozent zweieinhalb mal so hoch wie bei den Unter-3-Jährigen.
 
 <!-- ColumnLeft end -->
 
@@ -112,15 +112,13 @@ Die **Kinderbetreuungsquote** setzt die Zahl der in Kindertageseinrichtungen ode
 ```chart
 04-02-b
 ```
+**Regional zeigen sich starke Unterschiede**: Die Ganztagsquoten in den **ostdeutschen Bundesländern** lagen im Jahr 2016 deutlich höher als in den **westdeutschen Bundesländern**.
 
-**Regional zeigen sich starke Unterschiede**: Die Ganztagsquoten in den **ostdeutschen Bundesländern** lagen im Jahr 2015 bei Kindern unter drei Jahren und bei älteren Kindern deutlich höher als in den **westdeutschen Bundesländern**.
+Die Ganztagsquote von Kindern unter drei Jahren lag in den ostdeutschen Bundesländern mit knapp 40 Prozent drei Mal höher als in den westdeutschen Bundesländern mit 13 Prozent. Bei Kindern zwischen drei und sechs Jahren war die Ganztagsquote in den ostdeutschen Ländern mit knapp 74 Prozent annähernd doppelt so hoch wie in den westdeutschen Ländern mit knapp 38 Prozent.
 
-Während die Ganztagsquoten in den ostdeutschen Bundesländern 2015 bei 39,6 Prozent (Kinder unter drei Jahren) und 74,2 Prozent (Kinder im Alter von drei bis unter 6 Jahren) lagen, betrugen sie in den westdeutschen Bundesländern nur 12,8 bzw. 36,5 Prozent.
-
-Zwischen 2009 und 2013 ist auch die **frühkindliche Betreuung von Kindern mit Migrationshintergrund gestiegen**. 2013 lag sie aber immer noch unter der Betreuungsquote von Kindern ohne Migrationshintergrund. **Besonders deutlich ist der Unterschied bei den Unter-3-Jährigen**: Nur 17 Prozent der Kinder mit Migrationshintergrund wurden in Kindertageseinrichtungen oder durch Tagesmütter betreut; bei Kindern ohne Migrationshintergrund waren es 35 Prozent.[^3]
+Zwischen 2009 und 2015 ist auch die **frühkindliche Betreuung von Kindern mit Migrationshintergrund gestiegen**. 2015 lag sie aber immer noch unter der Betreuungsquote von Kindern ohne Migrationshintergrund. **Besonders deutlich ist der Unterschied bei den Unter-3-Jährigen**: Nur 22 Prozent der Kinder mit Migrationshintergrund wurden in [Kindertageseinrichtungen oder durch Tagesmütter](http://www.bildungsbericht.de/de/bildungsberichte-seit-2006/bildungsbericht-2016/pdf-bildungsbericht-2016/bildungsbericht-2016) betreut; bei Kindern ohne Migrationshintergrund waren es hingegen 38 Prozent. Bei den drei bis unter Sechsjährigen liegt die Differenz bei sieben Prozentpunkten (97 gegenüber 90 Prozent).[^3]
 
 Der Betreuungsbedarf hört nach dem Kindergartenalter nicht auf – im Gegenteil. Die Betreuung der Grundschulkinder findet nachmittags in offenen und gebundenen Ganztagsschulen oder im Hort statt.
-
 
 <!-- ColumnContainer start -->
 
@@ -140,7 +138,7 @@ Der Betreuungsbedarf hört nach dem Kindergartenalter nicht auf – im Gegenteil
 
 <!-- ColumnContainer end -->
 
-Zwischen den Schuljahren 2005/2006 und 2014/2015 hat sich der **Anteil der Kinder in Ganztagsgrundschulen stark erhöht**. Gleichzeitig ist auch die **Nachmittagsbetreuung in Horten gestiegen**. Insgesamt hat die Ganztagsbetreuung in allen Altersgruppen erheblich zugenommen.
+Zwischen den Schuljahren 2005/2006 und 2015/2016 hat sich der **Anteil der Kinder in Ganztagsgrundschulen stark erhöht**. Im Schuljahr 2015/2016 geht knapp jedes Dritte Schulkind in eine Ganztagsgrundschule. In den westdeutschen Bundesländern ist der Anteil im vergangenen Jahr um einen Prozentpunkt auf 27,5 Prozent gestiegen. In den ostdeutschen Bundesländern ist der Anteil leicht rückläufig, liegt mit knapp 55 Prozent aber doppelt so hoch, wie in den westdeutschen Bundesländern. Gleichzeitig ist auch die **Nachmittagsbetreuung in Horten gestiegen**. Insgesamt hat die Ganztagsbetreuung in allen Altersgruppen erheblich zugenommen.
 
 <!-- GovernmentMeasures start -->
 
@@ -172,7 +170,7 @@ Der Indikator misst zumindest annäherungsweise den **Betreuungsbedarf**. Um zuk
 
 <!-- ColumnRight start -->
 
-**Immer mehr Menschen schränken ihre Erwerbstätigkeit aufgrund von Betreuungsaufgaben ein**. Der Anteil ist zwischen 2006 und 2014 von 17 auf 23,7 Prozent gestiegen. Der überwiegende Anteil der Befragten nennt als Hauptgrund für die Einschränkung der Erwerbstätigkeit die **Betreuung von Kindern**.
+**Immer mehr Menschen schränken ihre Erwerbstätigkeit aufgrund von Betreuungsaufgaben ein**. Der Anteil ist zwischen 2006 und 2015 von 17 auf mehr als 24 Prozent gestiegen. Der überwiegende Anteil der Befragten nennt als Hauptgrund für die Einschränkung der Erwerbstätigkeit die **Betreuung von Kindern**.
 
 
 <!-- ColumnRight end -->
@@ -190,7 +188,7 @@ Der Indikator misst zumindest annäherungsweise den **Betreuungsbedarf**. Um zuk
 
 <!-- ColumnRight start -->
 
-Erhöht hat sich auch der Anteil der Personen, die ihre **Erwerbstätigkeit wegen Kinderbetreuung und Pflege ganz aufgeben**.
+Erhöht hat sich auch der Anteil der Personen, die ihre **Erwerbstätigkeit wegen Kinderbetreuung und Pflege ganz aufgeben**. Im Jahr 2006 gaben noch 8 von 100 Befragten an, dass sie ihre Erwerbstätigkeit wegen Betreuungsaufgaben ganz aufgegeben haben. 2015 waren das 12 von 100 Befragten.
 
 Vorwiegend **Frauen übernehmen diese Betreuungsaufgaben**. Der **demografische Wandel** wird die Situation zukünftig verschärfen. Mehr Menschen stehen vor der Herausforderung, Erwerbstätigkeit und die Pflege von Angehörigen zu vereinbaren.  
 
@@ -256,4 +254,4 @@ Mit dem Bundesverkehrswegeplan 2030 investiert und modernisiert die Bundesregier
 
 [^1]: Klenner, C. und Lillemeier, S. (2015): Gender News: Große Unterschiede in den Arbeitszeiten von Männern und Frauen. *WSI Report* 22/2015.
 [^2]: In der Statistik wird zwischen der **Grundgesamtheit** und der **Stichprobe** unterschieden. Bezogen auf die deutsche Wohnbevölkerung umfasst die Grundgesamtheit alle Personen, die zu einem bestimmten Stichtag in Deutschland wohnen. Von einer Stichprobe spricht man, wenn beispielsweise für den Zweck einer Umfrage aus der Grundgesamtheit Personen ausgewählt werden. Dieser Auswahlprozess erfolgt nach dem Zufallsprinzip, das heißt es steht nicht im vorhinein fest, welche Personen an der Befragung teilnimmt. Eines der zentralen statistischen Gesetze stellt sicher, dass auf Basis von ausreichend großen Stichproben Rückschlüsse auf die Grundgesamtheit gezogen werden können.
-[^3]: Autorengruppe Bildungsberichterstattung (2014): Bildung in Deutschland 2014. Ein indikatorengestützter Bericht mit einer Analyse zur Bildung von Menschen mit Behinderungen. Bertelsmann: Bielefeld.
+[^3]: Autorengruppe Bildungsberichterstattung (2016): Bildung in Deutschland 2016. Ein indikatorengestützter Bericht mit einer Analyse zu Bildung und Migration.  Bertelsmann: Bielefeld. Für die Daten zur Bildungsbeteiligung von unter Sechsjährigen in Tageseinrichtungen und Tagespflege vgl. S. 170 f.

@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import {StyleSheet, css} from 'aphrodite';
 import {midGrey} from 'theme/constants';
 import {sansRegular14} from 'theme/typeface';
@@ -36,7 +37,7 @@ const styles = StyleSheet.create({
 
 const LoadingAnimation = () => (
   <div className={css(styles.animation)}>
-    <svg width='38px' height='38px' viewBox='0 0 38 38' aria-role='presentation'>
+    <svg width='38px' height='38px' viewBox='0 0 38 38' role='presentation'>
       <g transform=''>
         <rect fill='#F2BF18' x='17' y='0' width='4' height='12' rx='2'></rect>
         <rect fill='#0778A5' x='17' y='26' width='4' height='12' rx='2'></rect>

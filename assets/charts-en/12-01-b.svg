@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="height:420px;width:640px;">
+    <desc style="">
+        The chart shows global CO2 emissions in the period from 1990 to 2015. In this period, global CO2 emissions increased from 22.67 to 36.25 billion tonnes.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,31 +11,31 @@
                     1990
                 </text>
             </g>
-            <g transform="translate(197.33333333333331,264)" style="">
+            <g transform="translate(189.44518672653598,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1998
                 </text>
             </g>
-            <g transform="translate(394.66666666666663,264)" style="">
+            <g transform="translate(402.554813273464,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2006
+                    2007
                 </text>
             </g>
             <g transform="translate(592,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,128.611634259L24.649783253479352,127.86891118439999L49.299566506958705,128.3253996834L74.01688341318732,127.272611469L98.66666666666666,125.88396495660001L123.31644992014601,121.99304622719998L147.96623317362537,118.61610439860002L172.683550079854,117.00402167940001L197.33333333333331,116.308081359L221.98311658681268,115.0914687918L246.63289984029203,109.78165580699999L271.35021674652063,108.585556107L296,106.14204879000002L320.64978325347937,98.81405206080001L345.29956650695874,91.53515586420002L370.0168834131873,85.80044373479998L394.66666666666663,80.1189219174L419.316449920146,73.99650692520001L443.96623317362537,72.73272132720001L468.683550079854,75.63266253660001L493.33333333333337,65.45750406420001L517.9831165868127,60.3361552854L542.632899840292,58.308374521800005L567.3502167465207,55.176813974400034L592,55.258623273599994" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
+                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,127.97464064639999L23.66443982039207,127.142282316L47.32887964078414,127.73863427220002L71.05815354287591,126.84790003379999L94.72259336326799,125.3236878678L118.38703318366007,120.97756360140002L142.05147300405213,118.36623579899998L165.78074690614392,116.23522212359998L189.44518672653598,115.4838169242L213.10962654692807,114.35465777399997L236.77406636732013,109.04795526840002L260.5033402694119,107.4957531114L284.16778008980395,104.6208241692L307.83221991019605,97.54421386019999L331.49665973058814,90.05276599020002L355.22593363267987,83.88702898740002L378.89037345307196,77.9312846226L402.554813273464,71.03326534920001L426.21925309385614,69.86105355960001L449.9485269959479,71.8230608076L473.61296681633996,60.804576873599984L497.277406636732,54.46371765240002L520.9418464571241,53.00936132640001L544.6711203592158,48.80833608660001L568.3355601796079,46.358572751400004L592,46.51432608900001" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="596" x2="602" y1="55.258623273599994" y2="55.258623273599994" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="606" y="55.258623273599994" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:33.296875px;fill:#666666;">
+                    <line x1="596" x2="602" y1="46.51432608900001" y2="46.51432608900001" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="606" y="46.51432608900001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:33.21875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            34,79b
+                            36.25b
                         </tspan>
                     </text>
                 </g>
@@ -58,16 +60,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="132" style="display:block;height:132px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
+            <div style="display:block;height:132px;width:640px;">
                 <div style="display:block;height:0px;padding-right:47px;width:640px;">
                 </div>
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Edgar JRC/PBL.
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Olivier, J.G.J., G. Janssens-Maenhout, M. Muntean, and J.A.H.W. Peters (2016): Trends in global CO2 emissions: 2016 Report, JRC 103428, PBL2315.  
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

@@ -30,7 +30,7 @@ Siehe Indikatoren und
 
 Alle Angaben unseres Internetangebotes wurden sorgfältig geprüft. Wir bemühen uns, dieses Informationsangebot aktuell und inhaltlich richtig sowie vollständig anzubieten. Dennoch ist das Auftreten von Fehlern nicht völlig auszuschließen. Eine Garantie für die Vollständigkeit, Richtigkeit und letzte Aktualität kann daher nicht übernommen werden.
 
-Das Presse-und Informationsamt der Bundesregierung kann dieses Informationsangebot nach eigenem Ermessen jederzeit ohne Ankündigung verändern und / oder dessen Betrieb einstellen. Es ist nicht verpflichtet, Inhalte dieses Informationsangebotes zu aktualisieren.
+Der Zugang und die Benutzung dieses Informationsangebotes geschehen auf eigene Gefahr des Benutzers. Das Presse-und Informationsamt der Bundesregierung kann dieses Informationsangebot nach eigenem Ermessen jederzeit ohne Ankündigung verändern und / oder dessen Betrieb einstellen. Es ist nicht verpflichtet, Inhalte dieses Informationsangebotes zu aktualisieren.
 
 Das Internetangebot der Bundesregierung kann externe Links auf die Internetseiten Dritter enthalten. Auf den Inhalt dieser Seiten haben wir keinen Einfluss. Das Presse-und Informationsamt der Bundesregierung übernimmt keine Verantwortung für die Inhalte und die Verfügbarkeit von Internetseiten Dritter, die über externe Links dieses Informationsangebotes erreicht werden. Das Presse-und Informationsamt der Bundesregierung distanziert sich ausdrücklich von allen Inhalten, die möglicherweise straf- oder haftungsrechtlich relevant sind oder gegen die guten Sitten verstoßen.
 

@@ -1,8 +1,8 @@
 ---
-title: "[ENGLISH DIMENSION TITLE]"
-description: "[ENGLISH DIMENSION DESCRIPTION]"
+title: "Strengthening the economy, investing in the future"
+description: "Indicators for the dimension Strengthening the economy, investing in the future"
 keywords:
-  - KEYWORD 1
+  - Economy
 ---
 
-[ENGLISH DIMENSION DESCRIPTION INDICATOR DASHBOARD]
+Many people agreed that a booming economy makes a major contribution to wellbeing, along with the right conditions for competition, and a climate that encourages innovation and investment. However, some criticised the influence that corporate interests have on policy.

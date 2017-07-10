@@ -157,7 +157,7 @@ Auch wenn fast alle Menschen in Deutschland im Jahr 2014 Bushaltestellen und etw
 
 Der Bund unterstützt die Länder in Sachen öffentliche Verkehrsmittel – mit steigenden Fördermitteln und innovativen Pilotprojekten. Mit dem Nationalen Radverkehrsplan 2020 fördert die Bundesregierung den Radverkehr.
 
-- [Mobilität deutschlandweit](http://www.bmvi.de/DE/VerkehrUndMobilitaet/Verkehrsteilnehmer/OeffentlicherPersonenverkehr/oeffentlicher-personenverkehr_node.html)
+- [Mobilität deutschlandweit](http://www.bmvi.de/DE/Themen/Mobilitaet/Strasse/Oeffentlicher-Personenverkehr/oeffentlicher-personenverkehr.html)
 - [Nachhaltige Mobilität steigern, Radverkehr fördern](http://www.bmvi.de/SharedDocs/DE/Artikel/G/fahrradverkehr-nationaler-radverkehrsplan.html)
 
 <!-- GovernmentMeasures end -->
@@ -249,7 +249,7 @@ In diesen **40 kreisfreien Städten und Landkreisen hat sich in den vergangenen 
 Die Bundesregierung fördert im Rahmen der „Digitalen Agenda“ den Breitbandausbau gezielt auch dort, wo er sich für die Anbieter wirtschaftlich nicht rechnet.
 
 - [Digitale Agenda](https://www.digitale-agenda.de/Webs/DA/DE/Home/home_node.html)
-- [Zukunft Breitband](http://www.zukunft-breitband.de/Breitband/DE/Home/home_node.html)
+
 
 <!-- GovernmentMeasures end -->
 

@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="height:420px;width:640px;">
+    <desc style="">
+        The chart shows the innovator rate in the period 1992 to 2015. It fell from 53 to 35 percent.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1992
                 </text>
             </g>
-            <g transform="translate(191.87045793927328,264)" style="">
+            <g transform="translate(209.73288894179262,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    1999
+                    2000
                 </text>
             </g>
-            <g transform="translate(411.12954206072675,264)" style="">
+            <g transform="translate(393.2671110582074,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2007
@@ -24,16 +26,16 @@
             <g transform="translate(603,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,51.86227920000002L27.463663514186162,78.22682956000003L54.85228969636635,90.25723744000001L82.24091587854653,66.45565872000003L109.62954206072672,52.79131336000006L137.0932055749129,53.57910996000004L164.48183175709306,45.34884800000006L191.87045793927328,41.85088704000003L219.25908412145344,47.494715480000025L246.72274763563962,54.84765528L274.1113738178198,73.03236592000005L301.5,74.33313932000002L328.8886261821802,74.68822020000005L356.35228969636637,82.94607256000003L383.74091587854656,84.89928996L411.12954206072675,89.07393692000002L438.5181682429069,75.96468860000002L465.9818317570931,95.64077468000002L493.37045793927325,94.77240444000003L520.7590841214535,105.87050584000002L548.1477103036336,110.60251380000003L575.6113738178199,115.44988232000003L603,116.97470848000003" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,51.86227920000002L26.27044399476253,78.22682956000003L52.46911082014046,90.25723744000001L78.6677776455184,66.45565872000003L104.86644447089631,52.79131336000006L131.13688846565884,53.57910996000004L157.3355552910368,45.34884800000006L183.53422211641472,41.85088704000003L209.73288894179262,47.494715480000025L236.00333293655515,54.84765528L262.2019997619331,73.03236592000005L288.40066658731104,74.33313932000002L314.59933341268896,74.68822020000005L340.86977740745147,82.94607256000003L367.06844423282945,84.89928996L393.2671110582074,89.07393692000002L419.46577788358525,75.96468860000002L445.7362218783478,95.64077468000002L471.9348887037258,94.77240444000003L498.13355552910366,105.87050584000002L524.3322223544816,110.60251380000003L550.6026663492441,115.44988232000003L576.8013331746221,116.97470848000003L603,123.27192944000001" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="607" x2="613" y1="116.97470848000003" y2="116.97470848000003" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
-                    <text dy="0.3em" x="617" y="116.97470848000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="607" x2="613" y1="123.27192944000001" y2="123.27192944000001" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="617" y="123.27192944000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            37%
+                            35%
                         </tspan>
                     </text>
                 </g>
@@ -58,25 +60,31 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="132" style="display:block;height:132px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
+            <div style="display:block;height:132px;width:640px;">
                 <div style="display:block;height:0px;padding-right:36px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Mannheimer Innovationspanel 2015, ZEW.
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Innovationsverhalten der deutschen Wirtschaft, Indikatorenbericht zur Innovationserhebung 2016 (ZEW, infas, Fraunhofer ISI).
+
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
                                 </span>
                             </p>
                         </div>
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                With the introduction of the company register, the population for the sampling of companies has changed since 2006.
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                The application of the new classification of economic activities in the 2008, changes in the sampling which was then based on the business register, and improved imputation and weighting methods result in a break of the time series in 2006. Since 2006, the sample is drawn from the population of businesses in the business register. 
                             </p>
                         </div>
                     </div>

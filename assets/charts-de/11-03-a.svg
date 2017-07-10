@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="458" style="height:458px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="494" style="height:494px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt acht ausgewählte Grundrechte in den Jahren 2012/2013 und 2016. Die acht ausgewählten Grundrechte sind: Versammlungsfreiheit, Recht auf Leben und körperliche Unversehrtheit, Meinungsfreiheit, Grundprinzipien der Kernarbeitsnormen, Religions- und Glaubensfreiheit, Recht auf Privatsphäre, Sicherstellung rechtsstaatlicher Verfahren und Gleichbehandlung. Gemessen werden die Grundrechte auf einer Skala von 0 bis 1, wobei 1  den Optimal-Zustand darstellt. Sieben der Grundrechte und der Gesamtindex sind im Betrachtungszeitraum gestiegen und haben 2016 Werte zwischen 0,81 und 0,93 angenommen. Nur das Grundrecht auf Gleichbehandlung blieb zwischen 2012/2013 und 2016 nahezu unverändert.
+    </desc>
     <g transform="translate(35,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -15,7 +17,7 @@
             <g transform="translate(350,374)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
@@ -25,12 +27,12 @@
                         0,80
                     </text>
                 </g>
-                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,250.1865437200001L350,154.78047887500014" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
+                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,250.1865437200001L350,172.64255644050013" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="160.91495911" y2="160.91495911" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="160.91495911" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:138.65625px;fill:#666666;">
+                    <line x1="354" x2="360" y1="172.64255644050013" y2="172.64255644050013" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="172.64255644050013" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:138.65625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,87
+                            0,85
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Grundrechte Insgesamt
@@ -45,12 +47,12 @@
                         0,77
                     </text>
                 </g>
-                <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,303L350,320.92313204999994" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
+                <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,303L350,309.4919759180001" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="320.92313204999994" y2="320.92313204999994" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="320.92313204999994" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:112.4375px;fill:#666666;">
+                    <line x1="354" x2="360" y1="309.4919759180001" y2="309.4919759180001" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="309.4919759180001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:112.4375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,76
+                            0,77
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Gleichbehandlung
@@ -65,12 +67,12 @@
                         0,89
                     </text>
                 </g>
-                <path fill="none" stroke="#987200" stroke-width="3" stroke-dasharray="none" d="M0,117.00000000000006L350,72.05188216500005" style="fill:none;stroke:#987200;stroke-width:3px;"/>
+                <path fill="none" stroke="#987200" stroke-width="3" stroke-dasharray="none" d="M0,117.00000000000006L350,50.94080911350005" style="fill:none;stroke:#987200;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="72.05188216500005" y2="72.05188216500005" stroke="#987200" stroke-width="3" style="stroke:#987200;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="72.05188216500005" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:239.859375px;fill:#666666;">
+                    <line x1="354" x2="360" y1="50.94080911350005" y2="50.94080911350005" stroke="#987200" stroke-width="3" style="stroke:#987200;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="50.94080911350005" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:239.859375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,92
+                            0,93
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Recht auf Leben und körperl. Unversehrtheit
@@ -85,10 +87,10 @@
                         0,77
                     </text>
                 </g>
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,303L350,208.215337905" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,303L350,215.87219372400006" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="208.215337905" y2="208.215337905" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="208.215337905" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:204.9375px;fill:#666666;">
+                    <line x1="354" x2="360" y1="215.87219372400006" y2="215.87219372400006" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="215.87219372400006" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:204.9375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             0,83
                         </tspan>
@@ -105,12 +107,12 @@
                         0,80
                     </text>
                 </g>
-                <path fill="none" stroke="#79b8a1" stroke-width="3" stroke-dasharray="none" d="M0,256.5L350,81.60097909999999" style="fill:none;stroke:#79b8a1;stroke-width:3px;"/>
+                <path fill="none" stroke="#79b8a1" stroke-width="3" stroke-dasharray="none" d="M0,256.5L350,146.24291694650006" style="fill:none;stroke:#79b8a1;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="84.05188216500005" y2="84.05188216500005" stroke="#79b8a1" stroke-width="3" style="stroke:#79b8a1;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="84.05188216500005" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:106.5px;fill:#666666;">
+                    <line x1="354" x2="360" y1="146.24291694650006" y2="146.24291694650006" stroke="#79b8a1" stroke-width="3" style="stroke:#79b8a1;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="146.24291694650006" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:106.5px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,91
+                            0,87
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Meinungsfreiheit
@@ -125,12 +127,12 @@
                         0,81
                     </text>
                 </g>
-                <path fill="none" stroke="#a04200" stroke-width="3" stroke-dasharray="none" d="M0,240.99999999999994L350,162.61412478000014" style="fill:none;stroke:#a04200;stroke-width:3px;"/>
+                <path fill="none" stroke="#a04200" stroke-width="3" stroke-dasharray="none" d="M0,240.99999999999994L350,178.17999745500006" style="fill:none;stroke:#a04200;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="172.91495911" y2="172.91495911" stroke="#a04200" stroke-width="3" style="stroke:#a04200;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="172.91495911" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:177.265625px;fill:#666666;">
+                    <line x1="354" x2="360" y1="184.64255644050013" y2="184.64255644050013" stroke="#a04200" stroke-width="3" style="stroke:#a04200;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="184.64255644050013" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:177.265625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,86
+                            0,85
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Religions- und Glaubensfreiheit
@@ -145,12 +147,12 @@
                         0,78
                     </text>
                 </g>
-                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,287.5L350,191.84910273500012" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,287.5L350,234.74199292400004" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="191.84910273500012" y2="191.84910273500012" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="191.84910273500012" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:133.6875px;fill:#666666;">
+                    <line x1="354" x2="360" y1="234.74199292400004" y2="234.74199292400004" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="234.74199292400004" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:133.6875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,84
+                            0,81
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Recht auf Privatsphäre
@@ -165,12 +167,12 @@
                         0,81
                     </text>
                 </g>
-                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,240.99999999999994L350,52.0743131550002" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
+                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,240.99999999999994L350,89.04007899950005" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="52.0743131550002" y2="52.0743131550002" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="52.0743131550002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:130.875px;fill:#666666;">
+                    <line x1="354" x2="360" y1="89.04007899950005" y2="89.04007899950005" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="89.04007899950005" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:130.875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,93
+                            0,91
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Versammlungsfreiheit
@@ -185,12 +187,12 @@
                         0,79
                     </text>
                 </g>
-                <path fill="none" stroke="#a4d38e" stroke-width="3" stroke-dasharray="none" d="M0,271.99999999999994L350,148.91495911" style="fill:none;stroke:#a4d38e;stroke-width:3px;"/>
+                <path fill="none" stroke="#a4d38e" stroke-width="3" stroke-dasharray="none" d="M0,271.99999999999994L350,156.63048647450003" style="fill:none;stroke:#a4d38e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="354" x2="360" y1="148.91495911" y2="148.91495911" stroke="#a4d38e" stroke-width="3" style="stroke:#a4d38e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="364" y="148.91495911" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:218.296875px;fill:#666666;">
+                    <line x1="354" x2="360" y1="158.24291694650006" y2="158.24291694650006" stroke="#a4d38e" stroke-width="3" style="stroke:#a4d38e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="364" y="158.24291694650006" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:218.296875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            0,87
+                            0,86
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Grundprinzipien der Kernarbeitsnormen
@@ -218,19 +220,25 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="398" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="398" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-left:35px;padding-right:254px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle: 
                                 <a rel="external" title=" (Link zu externer Seite)" href="http://worldjusticeproject.org/historical-data" style="border-bottom-color:rgb(0, 79, 128);border-left-color:rgb(0, 79, 128);border-right-color:rgb(0, 79, 128);border-top-color:rgb(0, 79, 128);color:rgb(0, 79, 128);cursor:pointer;font-family:BundesSans-Regular;font-size:12px;line-height:normal;outline-color:rgb(0, 79, 128);text-align:left;">
                                     World Justice Project.
                                 </a>
+                                 Rule of Law Index 2016. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

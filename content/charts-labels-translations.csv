@@ -1,6 +1,6 @@
 de,en
-Begleitete Veranstaltung,Moderated event
-Selbstständig durchgeführte Veranstaltung,Independently hostet event
+Begleitete Veranstaltung,Supported events
+Selbstständig durchgeführte Veranstaltung,Independently hosted events
 Veranstaltungstyp,Type of event
 Frau,Woman
 Mann,Man
@@ -20,7 +20,7 @@ Niedrigster Anteil,Lowest proportion
 2015,2015
 2010,2010
 Anzahl der Einwohner,Number of inhabitants
-weniger gut oder schlecht,not that good or poor
+weniger gut oder schlecht,bad or poor
 gut oder sehr gut,good or very good
 2. Quintil,2nd quintile
 3. Quintil,3rd quintile
@@ -32,10 +32,10 @@ Männer,Men
 Frauen,Women
 Mit Migrationshintergrund,With migration background
 Ohne Migrationshintergrund,Without migration background
-Befristet Beschäftigte,Temporary employment
-Geringfügig Beschäftigte,Minimum hours employment
-Zeitarbeitnehmer/-innen,Part-time employed
-Normalarbeitnehmer/-innen,Standard employed
+Befristet Beschäftigte,Fixed-term employment
+Geringfügig Beschäftigte,Marginal employment 
+Zeitarbeitnehmer/-innen,Temp employment
+Normalarbeitnehmer/-innen,Standard employment
 Ostdeutsche Bundesländer,East German federal states
 Westdeutsche Bundesländer,West German federal states
 Unbereinigt,Unadjusted
@@ -57,11 +57,11 @@ Gesundheit und Sport,Health and sport
 "Wirtschaft, Arbeit, Recht","Economy, work, law"
 "Natur, Technik, Computer","Nature, technology, IT"
 nicht oder nur einstellig klassifizierbar,not classifiable or single-digit figure
-Gewünschte Arbeitszeit,Desired working hours
+Gewünschte Arbeitszeit,Preferred working hours
 Tatsächliche Arbeitszeit,Actual working hours
 Unter-3-Jährige,Children aged under 3
-3- bis Unter-6-Jährige,Children aged 3 to 5
-Ganztagsquote,Full-time childcare ratio
+3- bis Unter-6-Jährige,Children aged 3 to 6
+Ganztagsquote,Full-time childcare enrolment rate
 Kinderbetreuung und Pflege,Childcare and other care
 Kinderbetreuung,Childcare
 Pflege,Care
@@ -124,21 +124,21 @@ relativ junge Bevölkerung,Relatively young population
 Allgemein,General
 Körperverletzung,Bodily harm
 Einbruch,Burglary
-Raub,Theft
+Raub,Robbery
 Sexuelle Belästigung,Sexual harassment
 gar nicht,not at all
 etwas,a little
 ziemlich,fairly
-sehr stark,greatly
+sehr stark,very
 weiblich,female
 männlich,male
-75 Jahre oder älter,Aged 75 and over
-Ziemlich und sehr stark,Fairly and greatly
+75 Jahre oder älter,aged 75 and over
+Ziemlich und sehr stark,Fairly and very
 erfasste Fälle,Recorded cases
 aufgeklärte Fälle,Solved cases
 sehr gut,very good
-eher gut,quite good
-eher schlecht,quite poor
+eher gut,rather good
+eher schlecht,rather poor
 sehr schlecht,very poor
 keine Opfererfahrung,No experience as a victim of crime
 Opfererfahrung,Experience as a victim of crime
@@ -157,14 +157,15 @@ Paar ohne Kinder,Childless couple
 1 Personen HH 35-59 Jahre,"1-person household, aged 35-59"
 Mittelzentrum,Mittelzentrum
 Oberzentrum,Oberzentrum
-Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s,Proportion of households with 50 Mbit/s internet access
+Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s,Share of households with 50 Mbit/s internet access
+Verfügbarkeit von 50 Mbit/s,Share of households with 50 Mbit/s
 in nicht ehelicher Lebensgemeinschaft,in unmarried partnership
 mit ihrem Ehepartner,with their spouse
 ohne Partner lebend,living without a partner
 mit Alleinerziehenden,with single parent
 mit verheirateten Eltern,with married parents
-Westdeutsche Flächenländer,West German 'area' federal states
-Ostdeutsche Flächenländer,East German 'area' federal states
+Westdeutsche Flächenländer,West German rural states (Flächenstaaten)
+Ostdeutsche Flächenländer,East German rural states (Flächenstaaten)
 Stadtstaaten,City states
 Erwachsene,Adults
 Alter,Age
@@ -172,7 +173,7 @@ Erwerbsstatus,Employment status
 Erwerbstätige,Persons employed
 Arbeitslose,Unemployed
 Rentner,Pensioners
-Sonstige Nichterwerbstätige,Other people not in in paid work
+Sonstige Nichterwerbstätige,Other people not in paid work
 Geschlecht,Gender
 ja,yes
 weiß nicht,don't know
@@ -185,15 +186,15 @@ Freizeit und Geselligkeit,Leisure and social activities
 Gesundheitsbereich,Health sector
 "Jugendarbeit, Bildungsarbeit für Erwachsene","Youth work, adult education"
 Justiz oder Kriminalitätsprobleme,Justice or crime-related problems
-Kirchlicher oder religiöser Bereich,Church or religious sector
+Kirchlicher oder religiöser Bereich,Church or religious communities
 Kultur und Musik,Culture and music
-Politik und politische Interessenvertretung,Politics and political lobbying
-Schule oder Kindergarten ,School or kindergarten 
+Politik und politische Interessenvertretung,Politics and policy advocacy
+Schule oder Kindergarten ,School and kindergarten
 Sonstiger Bereich,Other sector
 Sozialer Bereich ,Social sector 
-Sport und Bewegung,Sports and movement
+Sport und Bewegung,Sports and exercise
 "Umwelt, Natur- oder Tierschutz","Environment, conservation or animal protection"
-"Unfall-, Rettungsdienst, Freiwillige Feuerwehr","Accident and emergency services, volunteer fire service"
+"Unfall-, Rettungsdienst, Freiwillige Feuerwehr","Accident, emergency, volunteer fire services"
 Migrationshintergrund Insgesamt,Migration background total
 mit deutscher Staatsangehörigkeit,With German nationality
 mit eigener Zuwanderungserfahrung,With own immigration experience
@@ -209,11 +210,11 @@ Kroatien,Croatia
 Lettland,Latvia
 Agrarland,Agricultural land
 Binnengewässer,Inland waters
-Gesamtindikator,Total indicator
+Gesamtindikator,Aggregated indicator
 Küsten/Meere,Coasts/oceans
 Siedlungen,Settlements
 Wälder,Forests
-Teilindikator,Sub-indicator
+Teilindikator,Sub-indicators
 Bayern,Bavaria
 Hessen,Hesse
 Niedersachsen,Lower Saxony
@@ -224,21 +225,21 @@ Gestiegen,Increased
 Stagniert,Stagnated
 Gesunken,Decreased
 Bildung,Education
-Bis einschl. Hauptschule,"Up to and including ""Hauptschule"""
-Mittlere Reife,"""Mittlere Reife"""
-(Fach-) Abitur,"""Abitur"""
+Bis einschl. Hauptschule,Up to and including secondary modern school diploma
+Mittlere Reife,Middle school diploma
+(Fach-) Abitur,University entrance qualification 
 kein Einfluss,no impact
 mittlerer Einfluss,medium impact
 starker Einfluss,strong impact
 Grundrechte Insgesamt,"Fundamental rights, total"
-Gleichbehandlung,Equality before the law
-Recht auf Leben und körperl. Unversehrtheit,Right to life and physical inviolability
-Sicherstellung rechtsstaatl. Verfahren,Guarantee of application of the rule of law
-Meinungsfreiheit,Freedom of opinion
-Religions- und Glaubensfreiheit,Freedom of religion and faith
-Recht auf Privatsphäre,Right to privacy
-Versammlungsfreiheit,Freedom of assembly
-Grundprinzipien der Kernarbeitsnormen,Fundamental principles and rights at work
+Gleichbehandlung,Equal treatment and absence of discrimination
+Recht auf Leben und körperl. Unversehrtheit,Right to life and security of the person
+Sicherstellung rechtsstaatl. Verfahren,Due process of law and rights
+Meinungsfreiheit,Freedom of opinion and expression
+Religions- und Glaubensfreiheit,Freedom of belief and religion
+Recht auf Privatsphäre,Freedom from arbitrary interference with privacy
+Versammlungsfreiheit,Freedom of assembly and association
+Grundprinzipien der Kernarbeitsnormen,Fundamental labor rights
 Kohlendioxid*,Carbon dioxide*
 Methan,Methane
 Lachgas,Nitrous oxide
@@ -252,13 +253,13 @@ NH<sub>3</sub>,NH<sub>3</sub>
 "PM<sub>2,5</sub>",PM<sub>2.5</sub>
 in gleichgeschlechtlicher Lebensgemeinschaft,in same-sex partnership
 NO<sub>x</sub>,NO<sub>x</sub>
-Fahrtzeit in Minuten mit PKW,Travel time in minutes by car
-"Bürgerdialoge der Bundeskanzlerin, Bundesministerinnen und Bundesminister",Civil dialogues hosted by the Federal Chancellor or a federal minister
+Fahrzeit in Minuten mit PKW,Travel time in minutes by car
+"Bürgerdialoge der Bundeskanzlerin, Bundesministerinnen und Bundesminister",Dialogues hosted by the Federal Chancellor or a Federal Minister
 Frau Ostdeutsche Bundesländer,Women - East German federal states
 Mann Ostdeutsche Bundesländer,Men - East German federal states
 Frau Westdeutsche Bundesländer,Women - West German federal states
 Mann Westdeutsche Bundesländer,Men - West German federal states
-18-24 Jahre,Aged 18-24
+18-24 Jahre,aged 18-24
 1. Quintil (unterste Einkommen),1st quintile (lowest incomes)
 5. Quintil (oberste Einkommen),5th quintile (highest incomes)
 mit Migrationshintergrund,with migration background
@@ -283,10 +284,10 @@ unter 10 Jahre,aged under 10
 41–60 Jahre,aged 41-60
 60 Jahre und älter,aged 60 and over
 davon mit Schwerbehinderung*,of these severely disabled*
-Bevölkerungsentwicklung in Prozent,Population development in percent
+Bevölkerungsentwicklung in Prozent,Population change in percent
 Menschen ohne Behinderung,Persons without disability
 Menschen mit Behinderung,Persons with a disability
-Atypisch Beschäftigte insgesamt,Persons in non-standard employment in total
+Atypisch Beschäftigte insgesamt,Non-standard employment
 Ziel,Target
 Kyoto-Protokoll,Kyoto Protocol
 Ziel 2020,2020 target
@@ -301,19 +302,20 @@ Teilzeitbeschäftigte bis zu 20 Wochenstunden,Part-time employment up to 20 hour
 Fälle pro 100.000 Einwohner,"Cases per 100,000 inhabitants"
 Staat,State
 privater Sektor,Private sector
-Betriebliche Weiterbildung,In-house further education
-Individuelle berufsbezogene Weiterbildung,Individual work-related further education
-Nicht-berufsbezogene Weiterbildung,Not work-related further training/education
+Betriebliche Weiterbildung,Company-related further education
+Individuelle berufsbezogene Weiterbildung,Individual profession-related further education
+Nicht-berufsbezogene Weiterbildung,Non-profession-related further education
 Zentralörtliche Einstufung,Classification of cities in terms of facilities
 Ammoniak (NH<sub>3</sub>),Ammonia (NH<sub>3</sub>)
-"Feinstaub (PM<sub>2,5</sub>)",Fine particulate matter (PM<sub>2.5</sub>)
+"Feinstaub (PM<sub>2,5</sub>)",Particulate matter (PM<sub>2.5</sub>)
 Flüchtige Organische Verbindungen ohne Methan (NMVOC),Non-methane volatile organic compounds (NMVOC)
 Schwefeldioxid (SO<sub>2</sub>),Sulphur dioxide (SO<sub>2</sub>)
 Stickstoffoxid-Verbindungen (NO<sub>x</sub>),Nitrogen oxide compounds (NO<sub>x</sub>)
-Fahrtzeit zum nächsten Zentrum in Minuten,Travel time to nearest centre in minutes
-Kürzeste Fahrtzeit,Shortest drive
-Längste Fahrtzeit,Longest drive
-München,München
+Fahrzeit zum nächsten Zentrum in Minuten,Travel time to nearest centre in minutes
+Fahrzeit im ÖV zum nächsten Zentrum in Minuten,Travel time with public transport to nearest centre in minutes
+Kürzeste Fahrzeit,Shortest drive
+Längste Fahrzeit,Longest drive
+München,Munich
 Freiburg im Breisgau,Freiburg im Breisgau
 Bonn,Bonn
 Offenbach am Main,Offenbach am Main
@@ -329,3 +331,15 @@ Tonnen,tons
 Wochenstunden,hours per week
 Motorisierter Individualverkehr,Motorised private transport
 Öffentlicher Verkehr,Public transport
+2016,2016
+KS München,KS München
+KS Freiburg im Breisgau,KS Freiburg im Breisgau
+KS Berlin,KS Berlin
+KS Bonn,KS Bonn
+KS Darmstadt,KS Darmstadt
+Birkenfeld,Birkenfeld
+7-14 Jahre,aged 7-14
+15-18 Jahre,aged 15-18
+19-26 Jahre,aged 19-26
+27-40 Jahre,aged 27-40
+41-60 Jahre,aged 41-60

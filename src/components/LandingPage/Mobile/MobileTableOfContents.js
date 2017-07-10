@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 
 import {NarrowContainer} from 'components/Grid/Grid';
 import {Menu} from 'components/LandingPage/Mobile/Menu';

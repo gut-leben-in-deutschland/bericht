@@ -26,13 +26,13 @@ Um möglichst viele Stimmen zum Thema Lebensqualität hören zu können, bat die
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/opening-event/photo-a_launch-event.jpg "Auftaktveranstaltung zum Bürgerdialog")
+![Foto von der Podiumsdiskussion mit Bundeskanzlerin Angela Merkel und Bundeswirtschaftsminister Sigmar Gabriel bei der Auftaktveranstaltung des Bürgerdialogs](X2/opening-event/photo-a_launch-event.jpg "Auftaktveranstaltung zum Bürgerdialog")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/opening-event/photo-b_launch-event.jpg "Bundeskanzlerin Merkel und Bundeswirtschaftsminister Gabriel")
+![Foto von Bundeskanzlerin Angela Merkel und Bundeswirtschaftsminister Sigmar Gabriel bei der Auftaktveranstaltung des Bürgerdialogs](X2/opening-event/photo-b_launch-event.jpg "Bundeskanzlerin Merkel und Bundeswirtschaftsminister Gabriel")
 
 <!-- MosaicColumnRight end -->
 
@@ -67,13 +67,13 @@ Insgesamt beteiligten sich **rund 15.750 Menschen** am Bürgerdialog. Durch ihre
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/impressions/photo-02_Veranstaltungen.jpg " ")
+![Foto von einer handgeschriebenen Karte, auf der "Raum für Muße in Gemeinschaft" steht.](X2/impressions/photo-02_Veranstaltungen.jpg " ")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/impressions/photo-03_Veranstaltungen.jpg " ")
+![Foto von einem Bürgerdialog auf dem Personen in Stuhlkreisen sitzen und miteinander diskutieren.](X2/impressions/photo-03_Veranstaltungen.jpg " ")
 
 <!-- MosaicColumnRight end -->
 
@@ -83,19 +83,19 @@ Insgesamt beteiligten sich **rund 15.750 Menschen** am Bürgerdialog. Durch ihre
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/impressions/photo-04_Veranstaltungen.jpg " ")
+![Foto von einer Pinnwand mit handgeschriebenen Karten. Auf den Karten stehen beispielsweise die Begriffe Bildung, Gesundheit, Familie und Würde. Im Hintergrund sieht man Personen, die miteinander diskutieren.](X2/impressions/photo-04_Veranstaltungen.jpg " ")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/impressions/photo-01_Veranstaltungen.jpg " ")
+![Foto von einer älteren und eine jüngeren Frau, die an einem Tisch sitzen und miteinander diskutieren.](X2/impressions/photo-01_Veranstaltungen.jpg " ")
 
 <!-- MosaicColumnRight end -->
 
 <!-- MosaicGrid end -->
 
-![ ](X2/impressions/photo-05_Veranstaltungen.jpg " ")
+![Foto von drei Personen in einem Stuhlkreis, die miteinander diskutieren.](X2/impressions/photo-05_Veranstaltungen.jpg " ")
 
 <!-- Mosaic end -->
 
@@ -104,53 +104,37 @@ Insgesamt beteiligten sich **rund 15.750 Menschen** am Bürgerdialog. Durch ihre
 
 <!-- Mosaic start -->
 
-![ ](X2/ministers/photo-Bundeskanzlerin.jpg "Bundeskanzlerin Angela Merkel in Berlin")
+![Foto von Angela Merkel im Gespräch mit den Teilnehmern.] (X2/ministers/photo-Bundeskanzlerin.jpg "Bundeskanzlerin Angela Merkel in Berlin")
 
 <!-- MosaicGrid start -->
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/ministers/photo-Schaeuble.jpg "Bundesminister der Finanzen Wolfgang Schäuble in Berlin")
+![Foto von Wolfgang Schäuble auf einem Podium mit drei Teilnehmern.](X2/ministers/photo-Schaeuble.jpg "Bundesminister der Finanzen Wolfgang Schäuble in Berlin")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/ministers/photo-Dobrindt.jpg "Bundesminister für Verkehr und digitale Infrastruktur Alexander Dobrindt in Potsdam")
+![Foto von Alexander Dobrindt, der mit einer Frau diskutiert.](X2/ministers/photo-Dobrindt.jpg "Bundesminister für Verkehr und digitale Infrastruktur Alexander Dobrindt in Potsdam")
 
 <!-- MosaicColumnRight end -->
 
 <!-- MosaicGrid end -->
 
-![ ](X2/ministers/photo-Gabriel.jpg "Bundesminister für Wirtschaft und Energie Sigmar Gabriel in Magdeburg")
+![Foto von Sigmar Gabriel, der mit einem Mikrofon vor einer Gruppe von Menschen stehen.](X2/ministers/photo-Gabriel.jpg "Bundesminister für Wirtschaft und Energie Sigmar Gabriel in Magdeburg")
 
 <!-- MosaicGrid start -->
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/ministers/photo-von-der-Leyen.jpg "Bundesministerin der Verteidigung Ursula von der Leyen in Lüneburg")
+![Foto von Ursula von der Leyen, die vor einer Gruppe von Menschen spricht.](X2/ministers/photo-von-der-Leyen.jpg "Bundesministerin der Verteidigung Ursula von der Leyen in Lüneburg")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/ministers/photo-Steinmeier.jpg "Bundesminister des Auswärtigen Frank-Walter Steinmeier in Berlin")
-
-<!-- MosaicColumnRight end -->
-
-<!-- MosaicGrid end -->
-
-<!-- MosaicGrid start -->
-
-<!-- MosaicColumnLeft start -->
-
-![ ](X2/ministers/photo-de-Maiziere.jpg "Bundesminister des Innern Thomas de Maizière in Bonn")
-
-<!-- MosaicColumnLeft end -->
-
-<!-- MosaicColumnRight start -->
-
-![ ](X2/ministers/photo-Nahles.jpg "Bundesministerin für Arbeit und Soziales Andrea Nahles in Essen")
+![Foto von Frank-Walter Steinmeier, der mit vier Teilnehmern in einem Halbkreis sitzt und mit ihnen diskutiert.](X2/ministers/photo-Steinmeier.jpg "Bundesminister des Auswärtigen Frank-Walter Steinmeier in Berlin")
 
 <!-- MosaicColumnRight end -->
 
@@ -160,13 +144,13 @@ Insgesamt beteiligten sich **rund 15.750 Menschen** am Bürgerdialog. Durch ihre
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/ministers/photo-Hendricks.jpg "Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit Barbara Hendricks in Koblenz")
+![Foto von Thomas de Maizière, der an einem Tisch mit Teilnehmern sitzt.](X2/ministers/photo-de-Maiziere.jpg "Bundesminister des Innern Thomas de Maizière in Bonn")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/ministers/photo-Mueller.jpg "Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung Gerd Müller in Fredersdorf")
+![Foto von Andrea Nahles, die in einer Gruppe von Teilnehmern steht.](X2/ministers/photo-Nahles.jpg "Bundesministerin für Arbeit und Soziales Andrea Nahles in Essen")
 
 <!-- MosaicColumnRight end -->
 
@@ -176,13 +160,13 @@ Insgesamt beteiligten sich **rund 15.750 Menschen** am Bürgerdialog. Durch ihre
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/ministers/photo-Maas.jpg "Bundesminister der Justiz und für Verbraucherschutz Heiko Maas in Bonn")
+![Foto von Barbara Hendricks, die mit einer Teilnehmerin diskutiert.](X2/ministers/photo-Hendricks.jpg "Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit Barbara Hendricks in Koblenz")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/ministers/photo-Wanka.jpg "Bundesministerin für Bildung und Forschung Johanna Wanka in Berlin")
+![Foto von Gerd Müller, der in einem Stuhlkreis sitzt und mit den Teilnehmern diskutiert.](X2/ministers/photo-Mueller.jpg "Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung Gerd Müller in Fredersdorf")
 
 <!-- MosaicColumnRight end -->
 
@@ -192,13 +176,13 @@ Insgesamt beteiligten sich **rund 15.750 Menschen** am Bürgerdialog. Durch ihre
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/ministers/photo-Schwesig.jpg "Bundesministerin für Familie, Senioren, Frauen und Jugend Manuela Schwesig in Ludwigshafen")
+![Foto von Heiko Maas, der auf einer Bühne vor einer Gruppe von Teilnehmern steht.](X2/ministers/photo-Maas.jpg "Bundesminister der Justiz und für Verbraucherschutz Heiko Maas in Bonn")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/ministers/photo-Groehe.jpg "Bundesminister für Gesundheit Hermann Gröhe in Krefeld")
+![Foto von Johanna Wanka, die an einem Tisch mit vier Teilnehmern sitzt.](X2/ministers/photo-Wanka.jpg "Bundesministerin für Bildung und Forschung Johanna Wanka in Berlin")
 
 <!-- MosaicColumnRight end -->
 
@@ -208,13 +192,13 @@ Insgesamt beteiligten sich **rund 15.750 Menschen** am Bürgerdialog. Durch ihre
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/ministers/photo-Schmidt.jpg "Bundesminister für Ernährung und Landwirtschaft Christian Schmidt in Kläden")
+![Foto von Manuela Schwesig und einer Frau vor einem Präsentationsfernseher. Auf dem Präsentationsfernseher ist "Bürgerdialog Gut leben in Deutschland - was uns wichtig ist" zu lesen.](X2/ministers/photo-Schwesig.jpg "Bundesministerin für Familie, Senioren, Frauen und Jugend Manuela Schwesig in Ludwigshafen")
 
 <!-- MosaicColumnLeft end -->
 
 <!-- MosaicColumnRight start -->
 
-![ ](X2/ministers/photo-Ozoguz.jpg "Staatsministerin Aydan Özoğuz in Hamburg")
+![Foto von Hermann Gröhe, der an einem Tisch sitzt und mit zwei Teilnehmern diskutiert.](X2/ministers/photo-Groehe.jpg "Bundesminister für Gesundheit Hermann Gröhe in Krefeld")
 
 <!-- MosaicColumnRight end -->
 
@@ -224,7 +208,23 @@ Insgesamt beteiligten sich **rund 15.750 Menschen** am Bürgerdialog. Durch ihre
 
 <!-- MosaicColumnLeft start -->
 
-![ ](X2/ministers/photo-Gruetters.jpg "Beauftragte der Bundesregierung für Kultur und Medien Monika Grütters in Halle")
+![Foto von Christian Schmidt, der an einem Tisch sitzt und mit den Teilnehmern diskutiert.](X2/ministers/photo-Schmidt.jpg "Bundesminister für Ernährung und Landwirtschaft Christian Schmidt in Kläden")
+
+<!-- MosaicColumnLeft end -->
+
+<!-- MosaicColumnRight start -->
+
+![Foto von Aydan Özoğuz, die in einer Gruppe von Teilnehmern steht und mit ihnen diskutiert.](X2/ministers/photo-Ozoguz.jpg "Staatsministerin Aydan Özoğuz in Hamburg")
+
+<!-- MosaicColumnRight end -->
+
+<!-- MosaicGrid end -->
+
+<!-- MosaicGrid start -->
+
+<!-- MosaicColumnLeft start -->
+
+![Foto von Monika Grütters, die mit Teilnehmern an einem Tisch sitzt und mit ihnen diskutiert.](X2/ministers/photo-Gruetters.jpg "Beauftragte der Bundesregierung für Kultur und Medien Monika Grütters in Halle")
 
 <!-- MosaicColumnLeft end -->
 

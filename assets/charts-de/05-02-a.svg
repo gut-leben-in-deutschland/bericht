@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung des Gini-Koeffizienten der Haushaltseinkommens im Zeitraum von 1991 bis 2014. Der Gini-Koeffizient der Haushalteinkommen hat sich in diesem Zeitraum von 0,25 auf 0,29 erhöht.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1991
                 </text>
             </g>
-            <g transform="translate(141.59594325535093,264)" style="">
+            <g transform="translate(154.77800261873585,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    1998
+                    1999
                 </text>
             </g>
-            <g transform="translate(303.4040567446491,264)" style="">
+            <g transform="translate(290.22199738126415,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2006
@@ -24,15 +26,15 @@
             <g transform="translate(445,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2014
                 </text>
             </g>
             <g style="">
-                <path fill="#8c1478" fill-opacity="0.2" d="M0,60.68552L20.212170233947237,59.88560000000004L40.4797162767546,56.176480000000026L60.69188651070184,51.32376000000002L80.90405674464907,52.040400000000034L101.11622697859632,58.26375999999999L121.38377302140368,57.48848000000001L141.59594325535093,58.365680000000026L161.80811348929814,60.50568000000004L182.0202837232454,55.80552L202.28782976605274,53.203040000000044L222.5,44.044320000000056L242.71217023394723,43.86976000000004L262.9243404678945,38.57976000000005L283.19188651070186,23.269600000000054L303.4040567446491,29.23368000000002L323.6162269785963,28.587680000000034L343.82839721254356,30.568400000000054L364.0959432553509,32.25024000000005L384.30811348929814,32.84808000000001L404.52028372324537,29.565600000000046L424.73245395719266,28.456560000000053L445,26.2012L445,33.958560000000006L424.73245395719266,42.43656000000004L404.52028372324537,44.30520000000004L384.30811348929814,42.81584000000004L364.0959432553509,44.43416000000002L343.82839721254356,43.80848000000003L323.6162269785963,41.879440000000045L303.4040567446491,41.267920000000004L283.19188651070186,43.60184000000001L262.9243404678945,50.65480000000002L242.71217023394723,54.33160000000001L222.5,52.88888000000006L202.28782976605274,63.49840000000003L182.0202837232454,64.70040000000003L161.80811348929814,68.88408000000001L141.59594325535093,68.91920000000002L121.38377302140368,70.98744000000002L101.11622697859632,70.81944000000004L80.90405674464907,67.00864000000004L60.69188651070184,61.99791999999999L40.4797162767546,69.15576000000004L20.212170233947237,67.16240000000002L0,70.69576000000004Z" style="fill:#8c1478;fill-opacity:0.20000000298023224;"/>
-                <path fill="none" stroke="#8c1478" stroke-width="3" stroke-dasharray="none" d="M0,65.68800000000002L20.212170233947237,63.52000000000004L40.4797162767546,62.664000000000044L60.69188651070184,56.664000000000016L80.90405674464907,59.52800000000002L101.11622697859632,64.54400000000001L121.38377302140368,64.24000000000001L141.59594325535093,63.64000000000004L161.80811348929814,64.69600000000005L182.0202837232454,60.256L202.28782976605274,58.35200000000003L222.5,48.464000000000055L242.71217023394723,49.10400000000001L262.9243404678945,44.61600000000004L283.19188651070186,33.432000000000016L303.4040567446491,35.24800000000002L323.6162269785963,35.23200000000003L343.82839721254356,37.192000000000036L364.0959432553509,38.34400000000005L384.30811348929814,37.83200000000002L404.52028372324537,36.93600000000001L424.73245395719266,35.448000000000036L445,30.08000000000004" style="fill:none;stroke:#8c1478;stroke-width:3px;"/>
+                <path fill="#8c1478" fill-opacity="0.2" d="M0,61.32232000000002L19.33400785620759,59.869920000000036L38.720985596952744,55.18288000000001L58.05499345316034,50.53744000000003L77.38900130936793,53.00640000000004L96.72300916557553,59.182000000000016L116.10998690632069,57.09224000000003L135.4439947625283,59.144480000000044L154.77800261873585,60.92656000000002L174.11201047494347,55.63640000000004L193.4989882156886,51.824880000000036L212.83299607189622,44.65152000000006L232.16700392810378,43.89624000000006L251.50101178431137,39.72472000000005L270.8879895250566,24.19240000000002L290.22199738126415,28.61608000000004L309.5560052374717,29.291920000000005L328.89001309367933,29.998880000000014L348.2769908344245,34.51776000000001L367.6109986906321,33.015600000000035L386.94500654683964,28.869280000000032L406.27901440304726,29.30248000000003L425.66599214379244,26.37760000000003L445,25.514160000000032L445,38.923440000000056L425.66599214379244,34.50520000000003L406.27901440304726,42.008080000000035L386.94500654683964,42.57728000000006L367.6109986906321,44.61928000000003L348.2769908344245,45.96488000000002L328.89001309367933,43.13480000000004L309.5560052374717,42.42056000000002L290.22199738126415,41.28656000000004L270.8879895250566,42.45464000000004L251.50101178431137,51.95464000000007L232.16700392810378,54.86072000000004L212.83299607189622,53.94384000000005L193.4989882156886,62.22976L174.11201047494347,64.92936000000003L154.77800261873585,69.61880000000002L135.4439947625283,69.44864000000004L116.10998690632069,71.36416000000003L96.72300916557553,70.70064000000002L77.38900130936793,67.34888000000004L58.05499345316034,61.74784L38.720985596952744,69.27568000000002L19.33400785620759,66.84792000000004L0,72.29208000000003Z" style="fill:#8c1478;fill-opacity:0.20000000298023224;"/>
+                <path fill="none" stroke="#8c1478" stroke-width="3" stroke-dasharray="none" d="M0,66.80800000000002L19.33400785620759,63.360000000000014L38.720985596952744,62.23200000000003L58.05499345316034,56.144000000000034L77.38900130936793,60.176000000000016L96.72300916557553,64.94400000000002L116.10998690632069,64.23200000000006L135.4439947625283,64.29600000000005L154.77800261873585,65.27200000000005L174.11201047494347,60.28000000000003L193.4989882156886,57.024L212.83299607189622,49.29600000000005L232.16700392810378,49.37600000000003L251.50101178431137,45.84000000000003L270.8879895250566,33.32000000000005L290.22199738126415,34.95200000000003L309.5560052374717,35.85600000000005L328.89001309367933,36.56800000000004L348.2769908344245,40.24000000000001L367.6109986906321,38.81600000000003L386.94500654683964,35.72000000000003L406.27901440304726,35.656000000000034L425.66599214379244,30.440000000000026L445,32.216000000000065" style="fill:none;stroke:#8c1478;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="449" x2="455" y1="30.08000000000004" y2="30.08000000000004" stroke="#8c1478" stroke-width="3" style="stroke:#8c1478;stroke-width:3px;"/>
-                    <text dy="0.3em" x="459" y="30.08000000000004" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:178.15625px;fill:#666666;">
+                    <line x1="449" x2="455" y1="32.216000000000065" y2="32.216000000000065" stroke="#8c1478" stroke-width="3" style="stroke:#8c1478;stroke-width:3px;"/>
+                    <text dy="0.3em" x="459" y="32.216000000000065" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:178.15625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             0,29
                         </tspan>
@@ -62,9 +64,9 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:80px;width:640px;">
-            <div style="display:block;height:80px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
+            <div style="display:block;height:116px;width:640px;">
                 <div style="display:block;height:20px;padding-right:194px;width:640px;">
                     <div style="display:block;height:20px;line-height:12px;width:446px;">
                         <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);width:175.859375px;">
@@ -76,11 +78,16 @@
                         </div>
                     </div>
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Berechnungen des DIW Berlin, SOEPv31.1.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Berechnungen des DIW Berlin, SOEPv32.1.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

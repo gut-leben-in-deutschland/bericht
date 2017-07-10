@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="286" style="height:286px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="322" style="height:322px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der realen Nettolöhne und -gehälter je Arbeitnehmer im Zeitraum von 1991 bis 2016. Die realen Nettolöhne und -gehälter haben sich in diesem Zeitraum von 19.800 Euro auf rund 20.600 Euro erhöht.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -12,31 +14,31 @@
                     1991
                 </text>
             </g>
-            <g transform="translate(197.33333333333331,184)" style="">
+            <g transform="translate(189.44518672653598,184)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1999
                 </text>
             </g>
-            <g transform="translate(394.66666666666663,184)" style="">
+            <g transform="translate(402.554813273464,184)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2007
+                    2008
                 </text>
             </g>
             <g transform="translate(592,184)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,65.34L24.649783253479352,26.519999999999996L49.36710015970796,25.25999999999999L74.01688341318732,54L98.66666666666666,67.5L123.31644992014601,66.42L148.03376682637463,104.1L172.683550079854,103.25999999999999L197.33333333333331,89.34L221.98311658681268,79.44L246.7004334930413,62.7L271.35021674652063,65.52L296,75L320.64978325347937,68.64L345.367100159708,84.96000000000001L370.0168834131873,105.06L394.66666666666663,120.12L419.316449920146,129.54L444.03376682637463,131.76L468.683550079854,99.6L493.33333333333337,94.62L517.9831165868127,89.03999999999999L542.7004334930413,85.44L567.3502167465207,64.74000000000001L592,38.879999999999995" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,71.56L23.66443982039207,45.67999999999999L47.393713722483845,44.84L71.05815354287591,64L94.72259336326799,73L118.38703318366007,72.28L142.11630708575183,97.4L165.78074690614392,96.84L189.44518672653598,87.56L213.10962654692807,80.96000000000001L236.83890044901983,69.80000000000001L260.5033402694119,71.67999999999999L284.16778008980395,78L307.83221991019605,73.75999999999999L331.56149381228784,84.64L355.22593363267987,98.03999999999999L378.89037345307196,108.08L402.554813273464,114.36L426.28408717555584,115.84L449.9485269959479,94.4L473.61296681633996,91.08L497.277406636732,87.36L521.0066805388238,84.96000000000001L544.6711203592158,71.16L568.3355601796079,53.92L592,41.56" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="596" x2="602" y1="38.879999999999995" y2="38.879999999999995" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="606" y="38.879999999999995" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:32.8125px;fill:#666666;">
+                    <line x1="596" x2="602" y1="41.56" y2="41.56" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="606" y="41.56" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:32.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            20.252
+                            20.561
                         </tspan>
                     </text>
                 </g>
@@ -44,7 +46,7 @@
             <g transform="translate(0,144)" style="">
                 <line x2="592" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
                 <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:32.59375px;fill:#666666;">
-                    18.500
+                    18.000
                 </text>
             </g>
             <g transform="translate(0,84)" style="">
@@ -56,21 +58,26 @@
             <g transform="translate(0,24)" style="">
                 <line x2="592" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
                 <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:32.59375px;fill:#666666;">
-                    20.500 
+                    21.000 
                 </text>
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="208" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
+    <foreignObject x="0" y="208" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
                 <div style="display:block;height:0px;padding-right:47px;width:640px;">
                 </div>
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle:  Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

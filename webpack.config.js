@@ -38,7 +38,7 @@ const publicPaths = {
   development: '/',
   phantom: '/',
   test: '/build-test/',
-  staging: 'https://quality-of-life-in-germany-staging.ixt.gs/',
+  staging: '/',
   production: '/static/LB/',
   'production-test': '/german-federal-government/1616-quality-of-life-in-germany-prod/'
 };
@@ -50,9 +50,9 @@ const isRouteKey = /^route\/(?!404)/;
 const staticRoutes = csvParse(fs.readFileSync(resolveHere('content/translations.csv'), 'utf8'))
 .filter(row => isRouteKey.test(row.key))
 .reduce(
-  (routes, row) => routes.concat([row.de]), // to re-enable English: [row.en, row.de]
+  (routes, row) => routes.concat([row.en, row.de]),
   []
-).concat('404.html');
+).concat('/404.html');
 
 const svgoConfig = JSON.stringify({
   plugins: [
@@ -180,7 +180,7 @@ const webpackConfig = {
       filename: '[name].js',
       chunkFilename: '[name].chunk.js'
     },
-    devtool: '#eval-source-map',
+    devtool: 'cheap-module-source-map',
     plugins: [
       new webpack.HotModuleReplacementPlugin(),
       new webpack.DefinePlugin({

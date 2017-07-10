@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="378" style="height:378px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="414" style="height:414px;width:640px;">
+    <desc style="">
+        The chart shows the risk-of-poverty rate by age group in 2014. The risk of poverty affected the various age groups differently but young people were more affected. Particularly at risk of poverty were the age group 18-24 with a rate of some 24 percent and those aged under 10 with a rate of some 22 percent.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
         <g style="">
@@ -7,9 +9,9 @@
                 aged under 10
             </text>
             <g transform="translate(0,19)" style="">
-                <rect x="0" fill="#8c1478" width="462" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="424.68259499999994" y="-5" width="71.00078100000002" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="462" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="468" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="440.9099999999999" y="-5" width="53.25" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="468" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -17,19 +19,19 @@
                 aged 10-17
             </text>
             <g transform="translate(0,50)" style="">
-                <rect x="0" fill="#8c1478" width="382" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="344.5456049999999" y="-5" width="72.28410600000001" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="382" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="430" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="389.7899999999999" y="-5" width="76.68" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="430" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
-            <text y="62" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:56.796875px;fill:#666666;">
-                Aged 18-24
+            <text y="62" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:54.953125px;fill:#666666;">
+                aged 18-24
             </text>
             <g transform="translate(0,81)" style="">
-                <rect x="0" fill="#8c1478" width="497" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="449.25853499999994" y="-5" width="92.93381699999998" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="497" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="519" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="413.21999999999997" y="-5" width="208.73999999999995" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="519" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -37,9 +39,9 @@
                 aged 25-34
             </text>
             <g transform="translate(0,112)" style="">
-                <rect x="0" fill="#8c1478" width="443" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="382.6930529999999" y="-5" width="117.62200800000005" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="443" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="445" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="402.56999999999994" y="-5" width="78.80999999999995" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="445" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -47,9 +49,9 @@
                 aged 35-44
             </text>
             <g transform="translate(0,143)" style="">
-                <rect x="0" fill="#8c1478" width="271" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="242.95717199999996" y="-5" width="52.330692" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="271" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="274" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="240.68999999999994" y="-5" width="66.02999999999997" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="274" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -57,9 +59,9 @@
                 aged 45-54
             </text>
             <g transform="translate(0,174)" style="">
-                <rect x="0" fill="#8c1478" width="217" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="182.47646099999997" y="-5" width="65.81508299999999" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="217" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="227" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="176.78999999999996" y="-5" width="100.11000000000001" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="227" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -67,9 +69,9 @@
                 aged 55-64
             </text>
             <g transform="translate(0,205)" style="">
-                <rect x="0" fill="#8c1478" width="299" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="237.49862099999996" y="-5" width="120.00462599999997" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="299" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="283" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="238.55999999999997" y="-5" width="83.06999999999991" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="283" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -77,9 +79,9 @@
                 aged 65-74
             </text>
             <g transform="translate(0,236)" style="">
-                <rect x="0" fill="#8c1478" width="263" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="227.59071299999997" y="-5" width="68.70038100000002" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="263" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="302" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="234.29999999999998" y="-5" width="129.92999999999998" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="302" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g style="">
@@ -87,9 +89,9 @@
                 aged over 74
             </text>
             <g transform="translate(0,267)" style="">
-                <rect x="0" fill="#8c1478" width="280" height="3" style="fill:#8c1478;"/>
-                <rect rx="6.5" ry="6.5" x="250.98684599999996" y="-5" width="54.92141099999998" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
-                <circle cx="280" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
+                <rect x="0" fill="#8c1478" width="285" height="3" style="fill:#8c1478;"/>
+                <rect rx="6.5" ry="6.5" x="255.59999999999994" y="-5" width="55.380000000000024" height="13" fill="#8c1478" fill-opacity="0.3" style="fill:#8c1478;fill-opacity:0.30000001192092896;"/>
+                <circle cx="285" cy="1.5" r="5.5" fill="#F6F6F0" stroke="#8c1478" stroke-width="3" style="fill:#f6f6f0;stroke:#8c1478;stroke-width:3px;"/>
             </g>
         </g>
         <g transform="translate(0,278)" style="">
@@ -117,9 +119,9 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="300" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:80px;width:640px;">
-            <div style="display:block;height:80px;width:640px;">
+    <foreignObject x="0" y="300" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
+            <div style="display:block;height:116px;width:640px;">
                 <div style="display:block;height:20px;line-height:12px;width:640px;">
                     <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);width:185.234375px;">
                         <span style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(69, 69, 69);white-space:nowrap;">
@@ -129,11 +131,16 @@
                         </span>
                     </div>
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Calculations by DIW Berlin, SOEPv31.1.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Calculations by DIW Berlin, SOEPv32.1.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

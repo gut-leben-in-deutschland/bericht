@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="163" style="height:163px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows the assessment of local policing in 2012. In concrete terms, it depicts the proportion of those interviewed who consider local policing to be “very good”, “rather good”, “rather poor” or “very poor”. The vast majority of those interviewed, some 87 percent, considered the work of local police on combating crime to be very good or good. Only approximately 1 percent of those interviewed assessed local police work as very poor and just under 12 percent considered it rather poor.
+
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
         <g style="">
@@ -51,15 +54,15 @@
                         </div>
                         very good 
                     </div>
-                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:64.5625px;">
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:69.125px;">
                         <div style="background-color:rgb(70, 122, 175);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                         </div>
-                        quite good 
+                        rather good 
                     </div>
-                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:62.625px;">
+                    <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:67.1875px;">
                         <div style="background-color:rgb(223, 47, 90);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                         </div>
-                        quite poor 
+                        rather poor 
                     </div>
                     <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:57.796875px;">
                         <div style="background-color:rgb(160, 0, 45);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">

@@ -1,7 +1,8 @@
 percentile,category,gender,value
-5,Tatsächliche Arbeitszeit,Männer,20
+percentile,category,gender,value
+5,Tatsächliche Arbeitszeit,Männer,25
 10,Tatsächliche Arbeitszeit,Männer,35
-15,Tatsächliche Arbeitszeit,Männer,37.5
+15,Tatsächliche Arbeitszeit,Männer,38
 20,Tatsächliche Arbeitszeit,Männer,39
 25,Tatsächliche Arbeitszeit,Männer,40
 30,Tatsächliche Arbeitszeit,Männer,40
@@ -10,7 +11,7 @@ percentile,category,gender,value
 45,Tatsächliche Arbeitszeit,Männer,40
 50,Tatsächliche Arbeitszeit,Männer,41
 55,Tatsächliche Arbeitszeit,Männer,42
-60,Tatsächliche Arbeitszeit,Männer,42.5
+60,Tatsächliche Arbeitszeit,Männer,43
 65,Tatsächliche Arbeitszeit,Männer,44
 70,Tatsächliche Arbeitszeit,Männer,45
 75,Tatsächliche Arbeitszeit,Männer,45
@@ -28,7 +29,7 @@ percentile,category,gender,value
 40,Tatsächliche Arbeitszeit,Frauen,30
 45,Tatsächliche Arbeitszeit,Frauen,34
 50,Tatsächliche Arbeitszeit,Frauen,36
-55,Tatsächliche Arbeitszeit,Frauen,38.5
+55,Tatsächliche Arbeitszeit,Frauen,39
 60,Tatsächliche Arbeitszeit,Frauen,40
 65,Tatsächliche Arbeitszeit,Frauen,40
 70,Tatsächliche Arbeitszeit,Frauen,40
@@ -37,15 +38,15 @@ percentile,category,gender,value
 85,Tatsächliche Arbeitszeit,Frauen,44
 90,Tatsächliche Arbeitszeit,Frauen,45
 95,Tatsächliche Arbeitszeit,Frauen,50
-5,Gewünschte Arbeitszeit,Männer,22
+5,Gewünschte Arbeitszeit,Männer,25
 10,Gewünschte Arbeitszeit,Männer,30
-15,Gewünschte Arbeitszeit,Männer,30.5
+15,Gewünschte Arbeitszeit,Männer,35
 20,Gewünschte Arbeitszeit,Männer,35
 25,Gewünschte Arbeitszeit,Männer,35
-30,Gewünschte Arbeitszeit,Männer,35
-35,Gewünschte Arbeitszeit,Männer,37.5
-40,Gewünschte Arbeitszeit,Männer,38
-45,Gewünschte Arbeitszeit,Männer,39.5
+30,Gewünschte Arbeitszeit,Männer,37
+35,Gewünschte Arbeitszeit,Männer,38
+40,Gewünschte Arbeitszeit,Männer,39
+45,Gewünschte Arbeitszeit,Männer,40
 50,Gewünschte Arbeitszeit,Männer,40
 55,Gewünschte Arbeitszeit,Männer,40
 60,Gewünschte Arbeitszeit,Männer,40
@@ -56,19 +57,19 @@ percentile,category,gender,value
 85,Gewünschte Arbeitszeit,Männer,40
 90,Gewünschte Arbeitszeit,Männer,45
 95,Gewünschte Arbeitszeit,Männer,50
-5,Gewünschte Arbeitszeit,Frauen,13
-10,Gewünschte Arbeitszeit,Frauen,20
+5,Gewünschte Arbeitszeit,Frauen,12
+10,Gewünschte Arbeitszeit,Frauen,16
 15,Gewünschte Arbeitszeit,Frauen,20
 20,Gewünschte Arbeitszeit,Frauen,20
 25,Gewünschte Arbeitszeit,Frauen,25
-30,Gewünschte Arbeitszeit,Frauen,30
+30,Gewünschte Arbeitszeit,Frauen,27
 35,Gewünschte Arbeitszeit,Frauen,30
 40,Gewünschte Arbeitszeit,Frauen,30
 45,Gewünschte Arbeitszeit,Frauen,30
 50,Gewünschte Arbeitszeit,Frauen,32
 55,Gewünschte Arbeitszeit,Frauen,35
 60,Gewünschte Arbeitszeit,Frauen,35
-65,Gewünschte Arbeitszeit,Frauen,35
+65,Gewünschte Arbeitszeit,Frauen,36
 70,Gewünschte Arbeitszeit,Frauen,38
 75,Gewünschte Arbeitszeit,Frauen,39
 80,Gewünschte Arbeitszeit,Frauen,40

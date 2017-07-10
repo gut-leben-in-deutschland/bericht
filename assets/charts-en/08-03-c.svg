@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="413" style="height:413px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows the proportion of volunteers by type of migration background in 2014. 31.5 percent of migrants were involved in voluntary work. People with a migration background were most active in this sector if they were born in Germany and have German citizenship. In this group, some 43 percent were involved voluntary work. Citizens who were not born in Germany but above all people not in possession of German citizenship were not involved in voluntary work as often. Here, the proportion of volunteers was only around 22 percent.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:160.671875px;fill:#666666;">
             Migration background total

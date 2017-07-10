@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der erfassten und aufgeklärten Fälle von Gewaltkriminalität im Zeitraum von 1993 bis 2016. Die Gewaltkriminalität ist zwischen 1993 und 2007 stark gestiegen. 2007 gab es einen Höchststand von 217.923 registrierten Fällen. Zwischen 2007 und 2016 ist die Gewaltkriminalität auf 193.542 registrierte Fälle gesunken. Die Aufklärungsquoten haben sich zwischen 1993 und 2002 ebenfalls verbessert: Von 65,4 auf 74,4 Prozent. Seit 2002 bewegten sie sich relativ konstant zwischen 74 und 75,8 Prozent. In 2016 war die Aufklärungsquote mit 75,8 Prozent am höchsten. 
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1993
                 </text>
             </g>
-            <g transform="translate(159.6903546981954,264)" style="">
+            <g transform="translate(174.62428571428572,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2000
+                    2001
                 </text>
             </g>
-            <g transform="translate(342.2471686372122,264)" style="">
+            <g transform="translate(327.3757142857143,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2008
@@ -24,16 +26,16 @@
             <g transform="translate(502,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#467aaf" stroke-width="3" stroke-dasharray="none" d="M0,135.45600000000002L22.803982576229,138.9824L45.607965152458,127.864L68.41194772868698,120.436L91.2784069695084,114.8424L114.0823895457374,114.95519999999999L136.88637212196642,114.67600000000002L159.6903546981954,114.3176L182.5568139390168,113.26960000000003L205.3607965152458,106.00639999999999L228.1647790914748,100.70080000000002L250.96876166770377,95.0624L273.8352209085252,93.73440000000002L296.6392034847542,91.6232L319.4431860609832,89.66159999999999L342.2471686372122,95.292L365.1136278780336,97.2432L387.9176104542626,103.00559999999999L410.7215930304916,106.37599999999998L433.5255756067206,107.88559999999998L456.392034847542,116.1224L479.19601742377097,119.23600000000002L502,118.8912" style="fill:none;stroke:#467aaf;stroke-width:3px;"/>
+                <path fill="none" stroke="#467aaf" stroke-width="3" stroke-dasharray="none" d="M0,135.45600000000002L21.813095238095237,138.9824L43.62619047619047,127.864L65.43928571428572,120.436L87.31214285714286,114.8424L109.12523809523809,114.95519999999999L130.93833333333333,114.67600000000002L152.75142857142856,114.3176L174.62428571428572,113.26960000000003L196.43738095238095,106.00639999999999L218.25047619047618,100.70080000000002L240.06357142857144,95.0624L261.93642857142856,93.73440000000002L283.7495238095238,91.6232L305.5626190476191,89.66159999999999L327.3757142857143,95.292L349.24857142857144,97.2432L371.06166666666667,103.00559999999999L392.8747619047619,106.37599999999998L414.6878571428571,107.88559999999998L436.5607142857143,116.1224L458.3738095238095,119.23600000000002L480.18690476190477,118.8912L502,109.16639999999998" style="fill:none;stroke:#467aaf;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="506" x2="512" y1="118.8912" y2="118.8912" stroke="#467aaf" stroke-width="3" style="stroke:#467aaf;stroke-width:3px;"/>
-                    <text dy="0.3em" x="516" y="118.8912" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:105.5px;fill:#666666;">
+                    <line x1="506" x2="512" y1="109.16639999999998" y2="109.16639999999998" stroke="#467aaf" stroke-width="3" style="stroke:#467aaf;stroke-width:3px;"/>
+                    <text dy="0.3em" x="516" y="109.16639999999998" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:105.5px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            181.386
+                            193.542
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              erfasste Fälle
@@ -42,12 +44,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#004f80" stroke-width="3" stroke-dasharray="none" d="M0,179.9736L22.803982576229,179.824L45.607965152458,171.1384L68.41194772868698,164.70080000000002L91.2784069695084,159.9952L114.0823895457374,156.82L136.88637212196642,155.2072L159.6903546981954,154.25279999999998L182.5568139390168,152.72320000000002L205.3607965152458,146.5136L228.1647790914748,142.9248L250.96876166770377,137.5256L273.8352209085252,135.8368L296.6392034847542,133.972L319.4431860609832,133.0464L342.2471686372122,136.6576L365.1136278780336,138.41680000000002L387.9176104542626,142.7064L410.7215930304916,145.3872L433.5255756067206,148.5288L456.392034847542,153.848L479.19601742377097,155.7456L502,155.332" style="fill:none;stroke:#004f80;stroke-width:3px;"/>
+                <path fill="none" stroke="#004f80" stroke-width="3" stroke-dasharray="none" d="M0,179.9736L21.813095238095237,179.824L43.62619047619047,171.1384L65.43928571428572,164.70080000000002L87.31214285714286,159.9952L109.12523809523809,156.82L130.93833333333333,155.2072L152.75142857142856,154.25279999999998L174.62428571428572,152.72320000000002L196.43738095238095,146.5136L218.25047619047618,142.9248L240.06357142857144,137.5256L261.93642857142856,135.8368L283.7495238095238,133.972L305.5626190476191,133.0464L327.3757142857143,136.6576L349.24857142857144,138.41680000000002L371.06166666666667,142.7064L392.8747619047619,145.3872L414.6878571428571,148.5288L436.5607142857143,153.848L458.3738095238095,155.7456L480.18690476190477,155.332L502,146.5952" style="fill:none;stroke:#004f80;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="506" x2="512" y1="155.332" y2="155.332" stroke="#004f80" stroke-width="3" style="stroke:#004f80;stroke-width:3px;"/>
-                    <text dy="0.3em" x="516" y="155.332" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:122.5px;fill:#666666;">
+                    <line x1="506" x2="512" y1="146.5952" y2="146.5952" stroke="#004f80" stroke-width="3" style="stroke:#004f80;stroke-width:3px;"/>
+                    <text dy="0.3em" x="516" y="146.5952" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:122.5px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            135.835
+                            146.756
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              aufgeklärte Fälle
@@ -75,16 +77,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-right:137px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  PKS.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Polizeiliche Kriminalstatistik 2017.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

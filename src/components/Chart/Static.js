@@ -1,11 +1,12 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 
 const Charts = require.context('./Static/', false, /\.svg$/);
 const AvailableCharts = Charts.keys();
 const ChartKey = (id, size, locale) => {
   if (size === 'mini') {
-    return `./${id}-mini.chart.svg`;
+    return `./${id}-mini.${locale}.chart.svg`;
   }
   return `./${id}-${size}.${locale}.chart.svg`;
 };

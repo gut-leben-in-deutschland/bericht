@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="684" style="height:684px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows participation in further education by age group in 2007 and 2014. Participation in further training stood at 43 percent in 2007 and 52 percent in 2014. This increase can be recognised in all age groups, but is particularly pronounced in the age groups 25-34 and 55-64. Between 2007 and 2014, participation increased from 47 to 58 percent for those aged 25-34 and from 27 to 39 percent for those aged 55-64.
+    </desc>
     <g transform="translate(51,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:29.84375px;fill:#666666;">
@@ -340,9 +342,9 @@
                                 </span>
                             </p>
                         </div>
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                Up to 2007: persons aged 19 to 64; from 2010: persons aged from 18 to 64.
+                        <div style="display:block;float:left;height:42px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                Up until 2007: 19-64-year-olds; from 2010: 18-64-year-olds.
                             </p>
                         </div>
                     </div>

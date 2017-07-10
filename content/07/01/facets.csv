@@ -1,346 +1,363 @@
 facet,facet_value,year,value,confidence95_lower,confidence95_upper
-Gesamt,,1991,0.2102187,0.2047641,0.2156733
-Gesamt,,1992,0.222351,0.217952,0.2267499
-Gesamt,,1993,0.2303314,0.2264152,0.2342476
-Gesamt,,1994,0.2468898,0.241851,0.2519285
-Gesamt,,1995,0.2483102,0.2448332,0.2517872
-Gesamt,,1996,0.2573185,0.2535659,0.2610712
-Gesamt,,1997,0.2638411,0.2600824,0.2675999
-Gesamt,,1998,0.2704339,0.2650648,0.275803
-Gesamt,,1999,0.2587905,0.2545331,0.263048
-Gesamt,,2000,0.271222,0.2690083,0.2734358
-Gesamt,,2001,0.2728613,0.2673776,0.2783449
-Gesamt,,2002,0.2736826,0.2686436,0.2787215
-Gesamt,,2003,0.2801956,0.2733624,0.2870288
-Gesamt,,2004,0.2814346,0.2747167,0.2881525
-Gesamt,,2005,0.2865976,0.2825535,0.2906418
-Gesamt,,2006,0.2894582,0.2862746,0.2926418
-Gesamt,,2007,0.2878179,0.2833579,0.292278
-Gesamt,,2008,0.2905248,0.284182,0.2968675
-Gesamt,,2009,0.2889503,0.281796,0.2961046
-Gesamt,,2010,0.2843648,0.2770683,0.2916612
-Gesamt,,2011,0.2881558,0.2836156,0.292696
-Gesamt,,2012,0.2869858,0.2843834,0.2895882
-Gesamt,,2013,0.2698172,0.267276,0.2723584
-Einkommensposition,1. Quintil (unterste Einkommen),1991,0.2994436,0.2863425,0.3125448
-Einkommensposition,1. Quintil (unterste Einkommen),1992,0.3195271,0.3071001,0.3319541
-Einkommensposition,1. Quintil (unterste Einkommen),1993,0.3247386,0.3082986,0.3411787
-Einkommensposition,1. Quintil (unterste Einkommen),1994,0.3493044,0.3320838,0.3665249
-Einkommensposition,1. Quintil (unterste Einkommen),1995,0.3463579,0.3319119,0.360804
-Einkommensposition,1. Quintil (unterste Einkommen),1996,0.360028,0.3522673,0.3677887
-Einkommensposition,1. Quintil (unterste Einkommen),1997,0.3604973,0.3518023,0.3691923
-Einkommensposition,1. Quintil (unterste Einkommen),1998,0.3698898,0.3517159,0.3880637
-Einkommensposition,1. Quintil (unterste Einkommen),1999,0.3535377,0.3405362,0.3665392
-Einkommensposition,1. Quintil (unterste Einkommen),2000,0.3757294,0.3683427,0.3831161
-Einkommensposition,1. Quintil (unterste Einkommen),2001,0.3821473,0.3720267,0.3922679
-Einkommensposition,1. Quintil (unterste Einkommen),2002,0.3813613,0.3681165,0.3946061
-Einkommensposition,1. Quintil (unterste Einkommen),2003,0.3869684,0.3724065,0.4015302
-Einkommensposition,1. Quintil (unterste Einkommen),2004,0.3898725,0.3736137,0.4061313
-Einkommensposition,1. Quintil (unterste Einkommen),2005,0.4017839,0.3882325,0.4153354
-Einkommensposition,1. Quintil (unterste Einkommen),2006,0.4071792,0.3960225,0.4183359
-Einkommensposition,1. Quintil (unterste Einkommen),2007,0.3993548,0.3913978,0.4073118
-Einkommensposition,1. Quintil (unterste Einkommen),2008,0.4046739,0.3947298,0.4146181
-Einkommensposition,1. Quintil (unterste Einkommen),2009,0.4037446,0.3908854,0.4166038
-Einkommensposition,1. Quintil (unterste Einkommen),2010,0.3901173,0.3792601,0.4009746
-Einkommensposition,1. Quintil (unterste Einkommen),2011,0.3960969,0.3862161,0.4059778
-Einkommensposition,1. Quintil (unterste Einkommen),2012,0.3914978,0.3859635,0.3970322
-Einkommensposition,1. Quintil (unterste Einkommen),2013,0.3708443,0.364406,0.3772826
-Einkommensposition,2. Quintil,1991,0.2076023,0.2010954,0.2141093
-Einkommensposition,2. Quintil,1992,0.217913,0.2110779,0.2247481
-Einkommensposition,2. Quintil,1993,0.2328827,0.2246907,0.2410747
-Einkommensposition,2. Quintil,1994,0.2488712,0.2404872,0.2572551
-Einkommensposition,2. Quintil,1995,0.25424,0.2470103,0.2614697
-Einkommensposition,2. Quintil,1996,0.2573404,0.2518625,0.2628182
-Einkommensposition,2. Quintil,1997,0.2594894,0.2517396,0.2672391
-Einkommensposition,2. Quintil,1998,0.2640527,0.2587988,0.2693066
-Einkommensposition,2. Quintil,1999,0.2499959,0.2426876,0.2573042
-Einkommensposition,2. Quintil,2000,0.260564,0.2555432,0.265585
-Einkommensposition,2. Quintil,2001,0.2600704,0.2583662,0.2617747
-Einkommensposition,2. Quintil,2002,0.262116,0.2554471,0.2687848
-Einkommensposition,2. Quintil,2003,0.2696548,0.2644988,0.2748108
-Einkommensposition,2. Quintil,2004,0.2692904,0.2605343,0.2780466
-Einkommensposition,2. Quintil,2005,0.2722464,0.2661925,0.2783003
-Einkommensposition,2. Quintil,2006,0.277234,0.2595979,0.29487
-Einkommensposition,2. Quintil,2007,0.2821602,0.2707413,0.2935791
-Einkommensposition,2. Quintil,2008,0.2808178,0.2741393,0.2874962
-Einkommensposition,2. Quintil,2009,0.2802624,0.2723351,0.2881897
-Einkommensposition,2. Quintil,2010,0.2778604,0.2703362,0.2853846
-Einkommensposition,2. Quintil,2011,0.2812212,0.2762402,0.2862022
-Einkommensposition,2. Quintil,2012,0.2751796,0.2710136,0.2793455
-Einkommensposition,2. Quintil,2013,0.2600973,0.2520063,0.2681885
-Einkommensposition,3. Quintil,1991,0.1793252,0.1722337,0.1864167
-Einkommensposition,3. Quintil,1992,0.1901526,0.1854894,0.1948158
-Einkommensposition,3. Quintil,1993,0.1971151,0.1896189,0.2046112
-Einkommensposition,3. Quintil,1994,0.2121836,0.2048955,0.2194717
-Einkommensposition,3. Quintil,1995,0.2121987,0.2027832,0.2216141
-Einkommensposition,3. Quintil,1996,0.2219024,0.2133991,0.2304056
-Einkommensposition,3. Quintil,1997,0.2287739,0.2203726,0.2371752
-Einkommensposition,3. Quintil,1998,0.2363242,0.2254062,0.2472422
-Einkommensposition,3. Quintil,1999,0.2244497,0.2149706,0.2339288
-Einkommensposition,3. Quintil,2000,0.225658,0.2199095,0.2314065
-Einkommensposition,3. Quintil,2001,0.2321241,0.2263151,0.237933
-Einkommensposition,3. Quintil,2002,0.2291198,0.2259998,0.2322398
-Einkommensposition,3. Quintil,2003,0.2323555,0.2258915,0.2388196
-Einkommensposition,3. Quintil,2004,0.2371932,0.2302373,0.244149
-Einkommensposition,3. Quintil,2005,0.2421293,0.2375387,0.2467199
-Einkommensposition,3. Quintil,2006,0.2389539,0.2338241,0.2440838
-Einkommensposition,3. Quintil,2007,0.2380362,0.2333067,0.2427657
-Einkommensposition,3. Quintil,2008,0.2346353,0.2270375,0.2422331
-Einkommensposition,3. Quintil,2009,0.2290834,0.2216527,0.236514
-Einkommensposition,3. Quintil,2010,0.2333311,0.2263624,0.2402998
-Einkommensposition,3. Quintil,2011,0.2368955,0.2307768,0.2430143
-Einkommensposition,3. Quintil,2012,0.2374512,0.2307919,0.2441106
-Einkommensposition,3. Quintil,2013,0.2187473,0.2126686,0.2248261
-Einkommensposition,4. Quintil,1991,0.1676811,0.1644542,0.1709081
-Einkommensposition,4. Quintil,1992,0.1749802,0.1686687,0.1812917
-Einkommensposition,4. Quintil,1993,0.1801714,0.1734497,0.1868931
-Einkommensposition,4. Quintil,1994,0.1835746,0.17829,0.1888591
-Einkommensposition,4. Quintil,1995,0.191248,0.1843969,0.198099
-Einkommensposition,4. Quintil,1996,0.1934125,0.1879921,0.198833
-Einkommensposition,4. Quintil,1997,0.2013393,0.1957782,0.2069004
-Einkommensposition,4. Quintil,1998,0.1953143,0.1895997,0.2010288
-Einkommensposition,4. Quintil,1999,0.1939944,0.1895835,0.1984053
-Einkommensposition,4. Quintil,2000,0.2051735,0.2026601,0.207687
-Einkommensposition,4. Quintil,2001,0.2038209,0.1967518,0.2108901
-Einkommensposition,4. Quintil,2002,0.2043649,0.1979535,0.2107763
-Einkommensposition,4. Quintil,2003,0.2108842,0.2045703,0.2171981
-Einkommensposition,4. Quintil,2004,0.2086548,0.2028828,0.2144268
-Einkommensposition,4. Quintil,2005,0.2157389,0.2062631,0.2252147
-Einkommensposition,4. Quintil,2006,0.2089939,0.2034034,0.2145845
-Einkommensposition,4. Quintil,2007,0.2091876,0.2033521,0.2150232
-Einkommensposition,4. Quintil,2008,0.217453,0.2065776,0.2283283
-Einkommensposition,4. Quintil,2009,0.2131379,0.2019542,0.2243216
-Einkommensposition,4. Quintil,2010,0.2110103,0.2042177,0.2178029
-Einkommensposition,4. Quintil,2011,0.2075177,0.2030513,0.211984
-Einkommensposition,4. Quintil,2012,0.2098537,0.2008284,0.2188789
-Einkommensposition,4. Quintil,2013,0.2011422,0.1960066,0.2062778
-Einkommensposition,5. Quintil (oberste Einkommen),1991,0.1445222,0.1400232,0.1490212
-Einkommensposition,5. Quintil (oberste Einkommen),1992,0.1516121,0.144629,0.1585952
-Einkommensposition,5. Quintil (oberste Einkommen),1993,0.15275,0.1474409,0.1580592
-Einkommensposition,5. Quintil (oberste Einkommen),1994,0.1603542,0.1504715,0.1702369
-Einkommensposition,5. Quintil (oberste Einkommen),1995,0.1545662,0.1459209,0.1632115
-Einkommensposition,5. Quintil (oberste Einkommen),1996,0.1631367,0.1571041,0.1691693
-Einkommensposition,5. Quintil (oberste Einkommen),1997,0.1703735,0.163486,0.177261
-Einkommensposition,5. Quintil (oberste Einkommen),1998,0.1744892,0.1660846,0.1828937
-Einkommensposition,5. Quintil (oberste Einkommen),1999,0.1696504,0.1608797,0.1784212
-Einkommensposition,5. Quintil (oberste Einkommen),2000,0.1748299,0.1679909,0.181669
-Einkommensposition,5. Quintil (oberste Einkommen),2001,0.1703588,0.165556,0.1751617
-Einkommensposition,5. Quintil (oberste Einkommen),2002,0.1762772,0.1677264,0.184828
-Einkommensposition,5. Quintil (oberste Einkommen),2003,0.1777585,0.1713638,0.1841532
-Einkommensposition,5. Quintil (oberste Einkommen),2004,0.1831125,0.1780023,0.1882226
-Einkommensposition,5. Quintil (oberste Einkommen),2005,0.1784532,0.1708303,0.1860761
-Einkommensposition,5. Quintil (oberste Einkommen),2006,0.1820729,0.1774776,0.1866682
-Einkommensposition,5. Quintil (oberste Einkommen),2007,0.1809789,0.1761967,0.1857611
-Einkommensposition,5. Quintil (oberste Einkommen),2008,0.1776207,0.1719148,0.1833266
-Einkommensposition,5. Quintil (oberste Einkommen),2009,0.1764813,0.1696239,0.1833386
-Einkommensposition,5. Quintil (oberste Einkommen),2010,0.1682475,0.163796,0.1726989
-Einkommensposition,5. Quintil (oberste Einkommen),2011,0.1722579,0.1661906,0.1783251
-Einkommensposition,5. Quintil (oberste Einkommen),2012,0.1715369,0.1627892,0.1802846
-Einkommensposition,5. Quintil (oberste Einkommen),2013,0.1684259,0.1618408,0.175011
-Haushaltstyp,1 Personen HH unter 35 Jahre,1991,0.254494,0.2366872,0.2723008
-Haushaltstyp,1 Personen HH unter 35 Jahre,1992,0.2876555,0.265065,0.310246
-Haushaltstyp,1 Personen HH unter 35 Jahre,1993,0.3021755,0.2940192,0.3103318
-Haushaltstyp,1 Personen HH unter 35 Jahre,1994,0.3319925,0.3093969,0.3545881
-Haushaltstyp,1 Personen HH unter 35 Jahre,1995,0.3187692,0.3063041,0.3312343
-Haushaltstyp,1 Personen HH unter 35 Jahre,1996,0.3168818,0.3065937,0.3271699
-Haushaltstyp,1 Personen HH unter 35 Jahre,1997,0.3340101,0.3113775,0.3566426
-Haushaltstyp,1 Personen HH unter 35 Jahre,1998,0.3528286,0.3313684,0.3742889
-Haushaltstyp,1 Personen HH unter 35 Jahre,1999,0.3337156,0.3227011,0.3447302
-Haushaltstyp,1 Personen HH unter 35 Jahre,2000,0.3415209,0.3223033,0.3607384
-Haushaltstyp,1 Personen HH unter 35 Jahre,2001,0.3304349,0.3138901,0.3469797
-Haushaltstyp,1 Personen HH unter 35 Jahre,2002,0.334644,0.3227785,0.3465094
-Haushaltstyp,1 Personen HH unter 35 Jahre,2003,0.364401,0.3405854,0.3882165
-Haushaltstyp,1 Personen HH unter 35 Jahre,2004,0.3596042,0.3407363,0.3784721
-Haushaltstyp,1 Personen HH unter 35 Jahre,2005,0.3628239,0.3474986,0.3781493
-Haushaltstyp,1 Personen HH unter 35 Jahre,2006,0.3491487,0.3349454,0.3633519
-Haushaltstyp,1 Personen HH unter 35 Jahre,2007,0.3711855,0.3603409,0.3820302
-Haushaltstyp,1 Personen HH unter 35 Jahre,2008,0.3543275,0.3357297,0.3729253
-Haushaltstyp,1 Personen HH unter 35 Jahre,2009,0.3619171,0.3452986,0.3785356
-Haushaltstyp,1 Personen HH unter 35 Jahre,2010,0.3578691,0.3290772,0.3866611
-Haushaltstyp,1 Personen HH unter 35 Jahre,2011,0.3667504,0.3448645,0.3886362
-Haushaltstyp,1 Personen HH unter 35 Jahre,2012,0.3646351,0.3557707,0.3734995
-Haushaltstyp,1 Personen HH unter 35 Jahre,2013,0.3425991,0.3311451,0.3540531
-Haushaltstyp,1 Personen HH 35-59 Jahre,1991,0.2564169,0.2408619,0.2719718
-Haushaltstyp,1 Personen HH 35-59 Jahre,1992,0.2604087,0.2437394,0.277078
-Haushaltstyp,1 Personen HH 35-59 Jahre,1993,0.2700253,0.253483,0.2865676
-Haushaltstyp,1 Personen HH 35-59 Jahre,1994,0.2871141,0.2665783,0.3076499
-Haushaltstyp,1 Personen HH 35-59 Jahre,1995,0.2861306,0.2732071,0.2990541
-Haushaltstyp,1 Personen HH 35-59 Jahre,1996,0.2886451,0.2740402,0.30325
-Haushaltstyp,1 Personen HH 35-59 Jahre,1997,0.2966052,0.2783896,0.3148207
-Haushaltstyp,1 Personen HH 35-59 Jahre,1998,0.3047339,0.2879191,0.3215488
-Haushaltstyp,1 Personen HH 35-59 Jahre,1999,0.2712619,0.2601758,0.2823481
-Haushaltstyp,1 Personen HH 35-59 Jahre,2000,0.3028933,0.2909755,0.3148111
-Haushaltstyp,1 Personen HH 35-59 Jahre,2001,0.292489,0.2808075,0.3041706
-Haushaltstyp,1 Personen HH 35-59 Jahre,2002,0.2972623,0.2813241,0.3132005
-Haushaltstyp,1 Personen HH 35-59 Jahre,2003,0.3152063,0.303931,0.3264816
-Haushaltstyp,1 Personen HH 35-59 Jahre,2004,0.309289,0.2950022,0.3235758
-Haushaltstyp,1 Personen HH 35-59 Jahre,2005,0.3045422,0.2878649,0.3212195
-Haushaltstyp,1 Personen HH 35-59 Jahre,2006,0.3153319,0.3031694,0.3274944
-Haushaltstyp,1 Personen HH 35-59 Jahre,2007,0.3099522,0.2946614,0.325243
-Haushaltstyp,1 Personen HH 35-59 Jahre,2008,0.3168142,0.2982849,0.3353435
-Haushaltstyp,1 Personen HH 35-59 Jahre,2009,0.3129602,0.299896,0.3260244
-Haushaltstyp,1 Personen HH 35-59 Jahre,2010,0.3223439,0.3066033,0.3380844
-Haushaltstyp,1 Personen HH 35-59 Jahre,2011,0.331343,0.3157781,0.3469078
-Haushaltstyp,1 Personen HH 35-59 Jahre,2012,0.3149844,0.3025224,0.3274464
-Haushaltstyp,1 Personen HH 35-59 Jahre,2013,0.2940725,0.2840937,0.3040512
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1991,0.3128719,0.3013602,0.3243836
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1992,0.3265192,0.3135826,0.3394558
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1993,0.331089,0.3207824,0.3413955
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1994,0.3392622,0.3240544,0.3544699
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1995,0.3398929,0.3218712,0.3579145
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1996,0.3533397,0.3310905,0.3755888
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1997,0.3609895,0.3434564,0.3785226
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1998,0.3639037,0.3456675,0.3821398
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1999,0.3464006,0.3366901,0.3561111
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2000,0.3623,0.3531948,0.3714053
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2001,0.3624354,0.3461475,0.3787234
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2002,0.362534,0.34993,0.3751379
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2003,0.3705784,0.355903,0.3852538
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2004,0.3690191,0.355093,0.382945
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2005,0.3774638,0.3634619,0.3914657
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2006,0.3691923,0.3490747,0.38931
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2007,0.3793044,0.3665096,0.3920993
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2008,0.3948535,0.3760388,0.4136682
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2009,0.3962505,0.3815759,0.4109252
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2010,0.3961047,0.3807935,0.4114159
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2011,0.3971767,0.3859477,0.4084058
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2012,0.3917554,0.3842658,0.399245
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2013,0.3513958,0.3396877,0.363104
-Haushaltstyp,Paar ohne Kinder,1991,0.1882958,0.1850142,0.1915774
-Haushaltstyp,Paar ohne Kinder,1992,0.1963569,0.1916141,0.2010997
-Haushaltstyp,Paar ohne Kinder,1993,0.2033054,0.1972505,0.2093602
-Haushaltstyp,Paar ohne Kinder,1994,0.215426,0.2074115,0.2234406
-Haushaltstyp,Paar ohne Kinder,1995,0.217393,0.2102021,0.224584
-Haushaltstyp,Paar ohne Kinder,1996,0.2263307,0.2199973,0.232664
-Haushaltstyp,Paar ohne Kinder,1997,0.2294269,0.2247352,0.2341187
-Haushaltstyp,Paar ohne Kinder,1998,0.2289232,0.2256134,0.232233
-Haushaltstyp,Paar ohne Kinder,1999,0.2288578,0.2257874,0.2319282
-Haushaltstyp,Paar ohne Kinder,2000,0.2394468,0.2351122,0.2437815
-Haushaltstyp,Paar ohne Kinder,2001,0.2444008,0.2367136,0.252088
-Haushaltstyp,Paar ohne Kinder,2002,0.2469929,0.2386139,0.2553719
-Haushaltstyp,Paar ohne Kinder,2003,0.245627,0.2376688,0.2535851
-Haushaltstyp,Paar ohne Kinder,2004,0.2458421,0.2374603,0.254224
-Haushaltstyp,Paar ohne Kinder,2005,0.2540363,0.2462871,0.2617856
-Haushaltstyp,Paar ohne Kinder,2006,0.2587191,0.2553049,0.2621333
-Haushaltstyp,Paar ohne Kinder,2007,0.2591922,0.2519652,0.2664191
-Haushaltstyp,Paar ohne Kinder,2008,0.2577653,0.2515108,0.2640198
-Haushaltstyp,Paar ohne Kinder,2009,0.2572233,0.251995,0.2624516
-Haushaltstyp,Paar ohne Kinder,2010,0.2475492,0.2408008,0.2542976
-Haushaltstyp,Paar ohne Kinder,2011,0.2476312,0.2429148,0.2523476
-Haushaltstyp,Paar ohne Kinder,2012,0.2521086,0.2443463,0.2598708
-Haushaltstyp,Paar ohne Kinder,2013,0.2359186,0.2295863,0.2422509
-Haushaltstyp,Alleinerziehend 1 Kind,1991,0.2782752,0.2591793,0.297371
-Haushaltstyp,Alleinerziehend 1 Kind,1992,0.2999455,0.2681301,0.3317609
-Haushaltstyp,Alleinerziehend 1 Kind,1993,0.2995062,0.276321,0.3226914
-Haushaltstyp,Alleinerziehend 1 Kind,1994,0.3141562,0.2784507,0.3498616
-Haushaltstyp,Alleinerziehend 1 Kind,1995,0.3284771,0.292964,0.36399
-Haushaltstyp,Alleinerziehend 1 Kind,1996,0.3399848,0.3115255,0.3684442
-Haushaltstyp,Alleinerziehend 1 Kind,1997,0.320407,0.3032312,0.3375828
-Haushaltstyp,Alleinerziehend 1 Kind,1998,0.3392646,0.3152017,0.3633274
-Haushaltstyp,Alleinerziehend 1 Kind,1999,0.3309212,0.2983741,0.3634683
-Haushaltstyp,Alleinerziehend 1 Kind,2000,0.3405093,0.3237326,0.3572861
-Haushaltstyp,Alleinerziehend 1 Kind,2001,0.3416511,0.3117753,0.371526
-Haushaltstyp,Alleinerziehend 1 Kind,2002,0.3410462,0.3093949,0.3726976
-Haushaltstyp,Alleinerziehend 1 Kind,2003,0.3323935,0.3174824,0.3473047
-Haushaltstyp,Alleinerziehend 1 Kind,2004,0.3430955,0.3164947,0.3696964
-Haushaltstyp,Alleinerziehend 1 Kind,2005,0.3392135,0.3184516,0.3599754
-Haushaltstyp,Alleinerziehend 1 Kind,2006,0.3574251,0.3414343,0.373415
-Haushaltstyp,Alleinerziehend 1 Kind,2007,0.33942,0.3258905,0.3529496
-Haushaltstyp,Alleinerziehend 1 Kind,2008,0.3368099,0.3089418,0.3646779
-Haushaltstyp,Alleinerziehend 1 Kind,2009,0.3292988,0.3004283,0.3581693
-Haushaltstyp,Alleinerziehend 1 Kind,2010,0.3383509,0.3225403,0.3541615
-Haushaltstyp,Alleinerziehend 1 Kind,2011,0.3276843,0.319102,0.3362665
-Haushaltstyp,Alleinerziehend 1 Kind,2012,0.3289179,0.313637,0.3441986
-Haushaltstyp,Alleinerziehend 1 Kind,2013,0.3119892,0.2978571,0.3261214
-Haushaltstyp,Alleinerziehend 2+ Kinder,1991,0.3461135,0.2691699,0.423057
-Haushaltstyp,Alleinerziehend 2+ Kinder,1992,0.3580762,0.3011315,0.4150208
-Haushaltstyp,Alleinerziehend 2+ Kinder,1993,0.2993577,0.2707778,0.3279375
-Haushaltstyp,Alleinerziehend 2+ Kinder,1994,0.3337725,0.295771,0.3717739
-Haushaltstyp,Alleinerziehend 2+ Kinder,1995,0.3049897,0.2801026,0.3298769
-Haushaltstyp,Alleinerziehend 2+ Kinder,1996,0.3473064,0.3257812,0.3688316
-Haushaltstyp,Alleinerziehend 2+ Kinder,1997,0.3554464,0.3218537,0.3890392
-Haushaltstyp,Alleinerziehend 2+ Kinder,1998,0.3646671,0.3278227,0.4015116
-Haushaltstyp,Alleinerziehend 2+ Kinder,1999,0.3322882,0.3144794,0.350097
-Haushaltstyp,Alleinerziehend 2+ Kinder,2000,0.3402083,0.3129785,0.3674381
-Haushaltstyp,Alleinerziehend 2+ Kinder,2001,0.3391206,0.3197615,0.3584797
-Haushaltstyp,Alleinerziehend 2+ Kinder,2002,0.3485111,0.3292523,0.3677699
-Haushaltstyp,Alleinerziehend 2+ Kinder,2003,0.3359042,0.311096,0.3607124
-Haushaltstyp,Alleinerziehend 2+ Kinder,2004,0.3556705,0.3153384,0.3960027
-Haushaltstyp,Alleinerziehend 2+ Kinder,2005,0.3611858,0.3421581,0.3802136
-Haushaltstyp,Alleinerziehend 2+ Kinder,2006,0.3565575,0.3367787,0.3763362
-Haushaltstyp,Alleinerziehend 2+ Kinder,2007,0.337527,0.3182033,0.3568506
-Haushaltstyp,Alleinerziehend 2+ Kinder,2008,0.3313306,0.3111919,0.3514692
-Haushaltstyp,Alleinerziehend 2+ Kinder,2009,0.3422141,0.316018,0.3684101
-Haushaltstyp,Alleinerziehend 2+ Kinder,2010,0.3123877,0.2982617,0.3265138
-Haushaltstyp,Alleinerziehend 2+ Kinder,2011,0.3129293,0.2913685,0.33449
-Haushaltstyp,Alleinerziehend 2+ Kinder,2012,0.3408897,0.3279741,0.3538053
-Haushaltstyp,Alleinerziehend 2+ Kinder,2013,0.3149912,0.3060498,0.3239326
-Haushaltstyp,Paar 1 Kind,1991,0.1699455,0.1658554,0.1740355
-Haushaltstyp,Paar 1 Kind,1992,0.1831472,0.1764864,0.189808
-Haushaltstyp,Paar 1 Kind,1993,0.19611,0.1899166,0.2023033
-Haushaltstyp,Paar 1 Kind,1994,0.203069,0.1897802,0.2163579
-Haushaltstyp,Paar 1 Kind,1995,0.2053083,0.1999657,0.2106509
-Haushaltstyp,Paar 1 Kind,1996,0.212712,0.204517,0.220907
-Haushaltstyp,Paar 1 Kind,1997,0.2293845,0.225074,0.233695
-Haushaltstyp,Paar 1 Kind,1998,0.2308826,0.2184436,0.2433216
-Haushaltstyp,Paar 1 Kind,1999,0.211918,0.2045388,0.2192973
-Haushaltstyp,Paar 1 Kind,2000,0.2286109,0.2203477,0.2368742
-Haushaltstyp,Paar 1 Kind,2001,0.2293922,0.2201812,0.2386033
-Haushaltstyp,Paar 1 Kind,2002,0.2223739,0.2181557,0.2265921
-Haushaltstyp,Paar 1 Kind,2003,0.2401772,0.2295376,0.2508168
-Haushaltstyp,Paar 1 Kind,2004,0.2364492,0.2292493,0.2436491
-Haushaltstyp,Paar 1 Kind,2005,0.2508037,0.2428269,0.2587805
-Haushaltstyp,Paar 1 Kind,2006,0.2575652,0.2474177,0.2677127
-Haushaltstyp,Paar 1 Kind,2007,0.2452567,0.2283949,0.2621184
-Haushaltstyp,Paar 1 Kind,2008,0.2489841,0.2350173,0.2629508
-Haushaltstyp,Paar 1 Kind,2009,0.2418234,0.2257329,0.257914
-Haushaltstyp,Paar 1 Kind,2010,0.2326596,0.2264202,0.2388989
-Haushaltstyp,Paar 1 Kind,2011,0.2437603,0.2286221,0.2588984
-Haushaltstyp,Paar 1 Kind,2012,0.2313947,0.2201091,0.2426803
-Haushaltstyp,Paar 1 Kind,2013,0.2255014,0.2153272,0.2356755
-Haushaltstyp,Paar 2 Kinder,1991,0.1704814,0.1620603,0.1789025
-Haushaltstyp,Paar 2 Kinder,1992,0.1738641,0.1663479,0.1813803
-Haushaltstyp,Paar 2 Kinder,1993,0.1870796,0.1752918,0.1988674
-Haushaltstyp,Paar 2 Kinder,1994,0.2093899,0.1997894,0.2189904
-Haushaltstyp,Paar 2 Kinder,1995,0.2191235,0.2091794,0.2290677
-Haushaltstyp,Paar 2 Kinder,1996,0.2245512,0.2105962,0.2385061
-Haushaltstyp,Paar 2 Kinder,1997,0.2303376,0.217562,0.2431132
-Haushaltstyp,Paar 2 Kinder,1998,0.2444705,0.2254581,0.263483
-Haushaltstyp,Paar 2 Kinder,1999,0.2316565,0.2149851,0.248328
-Haushaltstyp,Paar 2 Kinder,2000,0.2382235,0.2281471,0.2482999
-Haushaltstyp,Paar 2 Kinder,2001,0.2385057,0.2243589,0.2526525
-Haushaltstyp,Paar 2 Kinder,2002,0.2375567,0.2250622,0.2500512
-Haushaltstyp,Paar 2 Kinder,2003,0.248233,0.2341795,0.2622865
-Haushaltstyp,Paar 2 Kinder,2004,0.2485956,0.2311057,0.2660856
-Haushaltstyp,Paar 2 Kinder,2005,0.2493921,0.2277647,0.2710195
-Haushaltstyp,Paar 2 Kinder,2006,0.2456743,0.2327534,0.2585952
-Haushaltstyp,Paar 2 Kinder,2007,0.2376269,0.2293513,0.2459025
-Haushaltstyp,Paar 2 Kinder,2008,0.2422631,0.2324725,0.2520537
-Haushaltstyp,Paar 2 Kinder,2009,0.2349934,0.2213358,0.2486511
-Haushaltstyp,Paar 2 Kinder,2010,0.2392683,0.2328943,0.2456422
-Haushaltstyp,Paar 2 Kinder,2011,0.2449304,0.2353425,0.2545184
-Haushaltstyp,Paar 2 Kinder,2012,0.2440349,0.2378427,0.250227
-Haushaltstyp,Paar 2 Kinder,2013,0.230513,0.2234006,0.2376254
-Haushaltstyp,Paar 3+ Kinder,1991,0.1836733,0.1749273,0.1924192
-Haushaltstyp,Paar 3+ Kinder,1992,0.2015442,0.1899088,0.2131795
-Haushaltstyp,Paar 3+ Kinder,1993,0.2111416,0.1936281,0.228655
-Haushaltstyp,Paar 3+ Kinder,1994,0.2458691,0.2245908,0.2671474
-Haushaltstyp,Paar 3+ Kinder,1995,0.245876,0.2275727,0.2641793
-Haushaltstyp,Paar 3+ Kinder,1996,0.2353585,0.2125095,0.2582075
-Haushaltstyp,Paar 3+ Kinder,1997,0.2322271,0.2184137,0.2460405
-Haushaltstyp,Paar 3+ Kinder,1998,0.2378487,0.2168372,0.2588602
-Haushaltstyp,Paar 3+ Kinder,1999,0.2371583,0.2237799,0.2505366
-Haushaltstyp,Paar 3+ Kinder,2000,0.2495803,0.2302746,0.268886
-Haushaltstyp,Paar 3+ Kinder,2001,0.2585843,0.2384034,0.2787652
-Haushaltstyp,Paar 3+ Kinder,2002,0.264096,0.2378357,0.2903563
-Haushaltstyp,Paar 3+ Kinder,2003,0.262796,0.2377934,0.2877986
-Haushaltstyp,Paar 3+ Kinder,2004,0.2644283,0.2524139,0.2764427
-Haushaltstyp,Paar 3+ Kinder,2005,0.2530866,0.2393339,0.2668392
-Haushaltstyp,Paar 3+ Kinder,2006,0.2684634,0.2435033,0.2934235
-Haushaltstyp,Paar 3+ Kinder,2007,0.2634921,0.2399889,0.2869952
-Haushaltstyp,Paar 3+ Kinder,2008,0.2726631,0.2520595,0.2932667
-Haushaltstyp,Paar 3+ Kinder,2009,0.2576354,0.2297705,0.2855003
-Haushaltstyp,Paar 3+ Kinder,2010,0.2533909,0.2411078,0.265674
-Haushaltstyp,Paar 3+ Kinder,2011,0.2550491,0.2444235,0.2656748
-Haushaltstyp,Paar 3+ Kinder,2012,0.2522531,0.2365009,0.2680054
-Haushaltstyp,Paar 3+ Kinder,2013,0.2520954,0.2433414,0.2608495
+Gesamt,,1991,0.2094929,0.2041798,0.2148061
+Gesamt,,1992,0.2219787,0.2178587,0.2260987
+Gesamt,,1993,0.2279110,0.2241344,0.2316876
+Gesamt,,1994,0.2434943,0.2395728,0.2474157
+Gesamt,,1995,0.2478293,0.2441021,0.2515564
+Gesamt,,1996,0.2562913,0.2528995,0.2596832
+Gesamt,,1997,0.2614410,0.2579220,0.2649600
+Gesamt,,1998,0.2673514,0.2616740,0.2730288
+Gesamt,,1999,0.2559787,0.2521211,0.2598364
+Gesamt,,2000,0.2675973,0.2653035,0.2698910
+Gesamt,,2001,0.2704736,0.2647534,0.2761938
+Gesamt,,2002,0.2704573,0.2654338,0.2754809
+Gesamt,,2003,0.2763657,0.2705119,0.2822195
+Gesamt,,2004,0.2781224,0.2703467,0.2858981
+Gesamt,,2005,0.2840071,0.2803079,0.2877064
+Gesamt,,2006,0.2856950,0.2833748,0.2880151
+Gesamt,,2007,0.2847099,0.2807609,0.2886588
+Gesamt,,2008,0.2867910,0.2824882,0.2910938
+Gesamt,,2009,0.2863314,0.2798192,0.2928437
+Gesamt,,2010,0.2821336,0.2758847,0.2883826
+Gesamt,,2011,0.2863425,0.2837383,0.2889465
+Gesamt,,2012,0.2858564,0.2829321,0.2887806
+Gesamt,,2013,0.2639162,0.2607675,0.2670648
+Gesamt,,2014,0.2714047,0.2679154,0.274894
+Einkommensposition,1. Quintil (unterste Einkommen),1991,0.2970904,0.2847540,0.3094268
+Einkommensposition,1. Quintil (unterste Einkommen),1992,0.3162766,0.3004663,0.3320869
+Einkommensposition,1. Quintil (unterste Einkommen),1993,0.3205684,0.3050679,0.3360688
+Einkommensposition,1. Quintil (unterste Einkommen),1994,0.3420835,0.3257998,0.3583672
+Einkommensposition,1. Quintil (unterste Einkommen),1995,0.3440488,0.3306217,0.3574759
+Einkommensposition,1. Quintil (unterste Einkommen),1996,0.3594383,0.3503637,0.3685130
+Einkommensposition,1. Quintil (unterste Einkommen),1997,0.3584585,0.3486373,0.3682798
+Einkommensposition,1. Quintil (unterste Einkommen),1998,0.3627931,0.3481263,0.3774599
+Einkommensposition,1. Quintil (unterste Einkommen),1999,0.3487985,0.3377926,0.3598044
+Einkommensposition,1. Quintil (unterste Einkommen),2000,0.3687598,0.3628392,0.3746803
+Einkommensposition,1. Quintil (unterste Einkommen),2001,0.3805468,0.3706228,0.3904709
+Einkommensposition,1. Quintil (unterste Einkommen),2002,0.3759669,0.3628896,0.3890442
+Einkommensposition,1. Quintil (unterste Einkommen),2003,0.3797724,0.3638272,0.3957176
+Einkommensposition,1. Quintil (unterste Einkommen),2004,0.3839758,0.3663569,0.4015947
+Einkommensposition,1. Quintil (unterste Einkommen),2005,0.3997031,0.3846179,0.4147883
+Einkommensposition,1. Quintil (unterste Einkommen),2006,0.4017585,0.3909338,0.4125832
+Einkommensposition,1. Quintil (unterste Einkommen),2007,0.3913669,0.3841359,0.3985978
+Einkommensposition,1. Quintil (unterste Einkommen),2008,0.3974973,0.3889763,0.4060183
+Einkommensposition,1. Quintil (unterste Einkommen),2009,0.3963683,0.3861162,0.4066205
+Einkommensposition,1. Quintil (unterste Einkommen),2010,0.3869583,0.3756876,0.3982290
+Einkommensposition,1. Quintil (unterste Einkommen),2011,0.3945438,0.3868038,0.4022838
+Einkommensposition,1. Quintil (unterste Einkommen),2012,0.3908409,0.3821406,0.3995412
+Einkommensposition,1. Quintil (unterste Einkommen),2013,0.3614813,0.3532150,0.3697476
+Einkommensposition,1. Quintil (unterste Einkommen),2014,0.3727678,0.3621886,0.3833469
+Einkommensposition,2. Quintil,1991,0.2069853,0.1992031,0.2147675
+Einkommensposition,2. Quintil,1992,0.2196522,0.2113126,0.2279918
+Einkommensposition,2. Quintil,1993,0.2277865,0.2198780,0.2356950
+Einkommensposition,2. Quintil,1994,0.2456494,0.2400402,0.2512586
+Einkommensposition,2. Quintil,1995,0.2514139,0.2453461,0.2574817
+Einkommensposition,2. Quintil,1996,0.2517297,0.2479469,0.2555125
+Einkommensposition,2. Quintil,1997,0.2534523,0.2467939,0.2601106
+Einkommensposition,2. Quintil,1998,0.2630332,0.2559301,0.2701363
+Einkommensposition,2. Quintil,1999,0.2481500,0.2396680,0.2566320
+Einkommensposition,2. Quintil,2000,0.2567760,0.2518102,0.2617419
+Einkommensposition,2. Quintil,2001,0.2577110,0.2546290,0.2607929
+Einkommensposition,2. Quintil,2002,0.2563628,0.2517879,0.2609376
+Einkommensposition,2. Quintil,2003,0.2684757,0.2634171,0.2735343
+Einkommensposition,2. Quintil,2004,0.2669885,0.2588938,0.2750832
+Einkommensposition,2. Quintil,2005,0.2684678,0.2631414,0.2737943
+Einkommensposition,2. Quintil,2006,0.2753652,0.2617026,0.2890278
+Einkommensposition,2. Quintil,2007,0.2798757,0.2697763,0.2899750
+Einkommensposition,2. Quintil,2008,0.2759648,0.2707319,0.2811977
+Einkommensposition,2. Quintil,2009,0.2788797,0.2741309,0.2836285
+Einkommensposition,2. Quintil,2010,0.2768367,0.2672747,0.2863988
+Einkommensposition,2. Quintil,2011,0.2793513,0.2755312,0.2831714
+Einkommensposition,2. Quintil,2012,0.2729682,0.2691350,0.2768015
+Einkommensposition,2. Quintil,2013,0.2513913,0.2417079,0.2610747
+Einkommensposition,2. Quintil,2014,0.2581221,0.2493478,0.2668963
+Einkommensposition,3. Quintil,1991,0.1800006,0.1737597,0.1862415
+Einkommensposition,3. Quintil,1992,0.1909669,0.1844612,0.1974725
+Einkommensposition,3. Quintil,1993,0.1944217,0.1872258,0.2016175
+Einkommensposition,3. Quintil,1994,0.2101870,0.2011909,0.2191831
+Einkommensposition,3. Quintil,1995,0.2154348,0.2059763,0.2248933
+Einkommensposition,3. Quintil,1996,0.2233894,0.2146777,0.2321011
+Einkommensposition,3. Quintil,1997,0.2310653,0.2240624,0.2380681
+Einkommensposition,3. Quintil,1998,0.2309425,0.2207025,0.2411826
+Einkommensposition,3. Quintil,1999,0.2213128,0.2117108,0.2309148
+Einkommensposition,3. Quintil,2000,0.2246119,0.2187079,0.2305159
+Einkommensposition,3. Quintil,2001,0.2262895,0.2209817,0.2315972
+Einkommensposition,3. Quintil,2002,0.2263802,0.2213065,0.2314540
+Einkommensposition,3. Quintil,2003,0.2268727,0.2216579,0.2320875
+Einkommensposition,3. Quintil,2004,0.2333316,0.2300656,0.2365976
+Einkommensposition,3. Quintil,2005,0.2385678,0.2331655,0.2439700
+Einkommensposition,3. Quintil,2006,0.2343583,0.2295338,0.2391829
+Einkommensposition,3. Quintil,2007,0.2366889,0.2304786,0.2428991
+Einkommensposition,3. Quintil,2008,0.2338254,0.2265453,0.2411055
+Einkommensposition,3. Quintil,2009,0.2307939,0.2218311,0.2397566
+Einkommensposition,3. Quintil,2010,0.2332209,0.2286950,0.2377469
+Einkommensposition,3. Quintil,2011,0.2341178,0.2285230,0.2397127
+Einkommensposition,3. Quintil,2012,0.2366189,0.2302045,0.2430333
+Einkommensposition,3. Quintil,2013,0.2184322,0.2114211,0.2254433
+Einkommensposition,3. Quintil,2014,0.2296603,0.2223378,0.2369829
+Einkommensposition,4. Quintil,1991,0.1658730,0.1627318,0.1690142
+Einkommensposition,4. Quintil,1992,0.1749711,0.1684413,0.1815009
+Einkommensposition,4. Quintil,1993,0.1788898,0.1714016,0.1863780
+Einkommensposition,4. Quintil,1994,0.1821062,0.1772673,0.1869451
+Einkommensposition,4. Quintil,1995,0.1912045,0.1832356,0.1991735
+Einkommensposition,4. Quintil,1996,0.1911005,0.1834094,0.1987916
+Einkommensposition,4. Quintil,1997,0.1954096,0.1882790,0.2025402
+Einkommensposition,4. Quintil,1998,0.1951519,0.1874932,0.2028105
+Einkommensposition,4. Quintil,1999,0.1933534,0.1894335,0.1972734
+Einkommensposition,4. Quintil,2000,0.2012621,0.1973800,0.2051442
+Einkommensposition,4. Quintil,2001,0.2052786,0.1994821,0.2110751
+Einkommensposition,4. Quintil,2002,0.2030732,0.1965768,0.2095696
+Einkommensposition,4. Quintil,2003,0.2086153,0.2021353,0.2150954
+Einkommensposition,4. Quintil,2004,0.2091591,0.2052504,0.2130678
+Einkommensposition,4. Quintil,2005,0.2167294,0.2110904,0.2223684
+Einkommensposition,4. Quintil,2006,0.2052771,0.2012666,0.2092877
+Einkommensposition,4. Quintil,2007,0.2101641,0.2045930,0.2157351
+Einkommensposition,4. Quintil,2008,0.2160810,0.2083892,0.2237728
+Einkommensposition,4. Quintil,2009,0.2094748,0.2015596,0.2173899
+Einkommensposition,4. Quintil,2010,0.2090784,0.2033533,0.2148035
+Einkommensposition,4. Quintil,2011,0.2065406,0.2003838,0.2126973
+Einkommensposition,4. Quintil,2012,0.2105831,0.2034616,0.2177046
+Einkommensposition,4. Quintil,2013,0.1986898,0.1948344,0.2025453
+Einkommensposition,4. Quintil,2014,0.2025111,0.1996256,0.2053967
+Einkommensposition,5. Quintil (oberste Einkommen),1991,0.1457676,0.1416251,0.1499100
+Einkommensposition,5. Quintil (oberste Einkommen),1992,0.1515509,0.1426479,0.1604538
+Einkommensposition,5. Quintil (oberste Einkommen),1993,0.1547195,0.1506256,0.1588134
+Einkommensposition,5. Quintil (oberste Einkommen),1994,0.1603243,0.1509253,0.1697232
+Einkommensposition,5. Quintil (oberste Einkommen),1995,0.1601330,0.1506042,0.1696619
+Einkommensposition,5. Quintil (oberste Einkommen),1996,0.1662174,0.1608048,0.1716299
+Einkommensposition,5. Quintil (oberste Einkommen),1997,0.1720990,0.1650260,0.1791720
+Einkommensposition,5. Quintil (oberste Einkommen),1998,0.1760015,0.1684023,0.1836006
+Einkommensposition,5. Quintil (oberste Einkommen),1999,0.1712604,0.1640920,0.1784288
+Einkommensposition,5. Quintil (oberste Einkommen),2000,0.1753332,0.1696049,0.1810614
+Einkommensposition,5. Quintil (oberste Einkommen),2001,0.1692223,0.1639559,0.1744888
+Einkommensposition,5. Quintil (oberste Einkommen),2002,0.1759003,0.1677066,0.1840940
+Einkommensposition,5. Quintil (oberste Einkommen),2003,0.1826380,0.1768744,0.1884016
+Einkommensposition,5. Quintil (oberste Einkommen),2004,0.1813899,0.1750162,0.1877636
+Einkommensposition,5. Quintil (oberste Einkommen),2005,0.1747688,0.1688156,0.1807220
+Einkommensposition,5. Quintil (oberste Einkommen),2006,0.1824693,0.1783309,0.1866078
+Einkommensposition,5. Quintil (oberste Einkommen),2007,0.1780335,0.1718766,0.1841904
+Einkommensposition,5. Quintil (oberste Einkommen),2008,0.1772101,0.1722404,0.1821798
+Einkommensposition,5. Quintil (oberste Einkommen),2009,0.1782440,0.1715275,0.1849605
+Einkommensposition,5. Quintil (oberste Einkommen),2010,0.1690079,0.1635903,0.1744255
+Einkommensposition,5. Quintil (oberste Einkommen),2011,0.1739856,0.1662052,0.1817661
+Einkommensposition,5. Quintil (oberste Einkommen),2012,0.1716490,0.1649432,0.1783548
+Einkommensposition,5. Quintil (oberste Einkommen),2013,0.1656896,0.1584051,0.1729742
+Einkommensposition,5. Quintil (oberste Einkommen),2014,0.1675983,0.1632495,0.1719472
+Haushaltstyp,1 Personen HH unter 35 Jahre,1991,0.2544721,0.2382616,0.2706827
+Haushaltstyp,1 Personen HH unter 35 Jahre,1992,0.2876227,0.2632044,0.3120410
+Haushaltstyp,1 Personen HH unter 35 Jahre,1993,0.3003502,0.2922173,0.3084831
+Haushaltstyp,1 Personen HH unter 35 Jahre,1994,0.3191915,0.3046119,0.3337711
+Haushaltstyp,1 Personen HH unter 35 Jahre,1995,0.3152561,0.3026811,0.3278312
+Haushaltstyp,1 Personen HH unter 35 Jahre,1996,0.3208899,0.3027805,0.3389994
+Haushaltstyp,1 Personen HH unter 35 Jahre,1997,0.3305715,0.3060654,0.3550776
+Haushaltstyp,1 Personen HH unter 35 Jahre,1998,0.3487117,0.3253065,0.3721168
+Haushaltstyp,1 Personen HH unter 35 Jahre,1999,0.3301200,0.3177787,0.3424613
+Haushaltstyp,1 Personen HH unter 35 Jahre,2000,0.3319286,0.3114337,0.3524236
+Haushaltstyp,1 Personen HH unter 35 Jahre,2001,0.3193511,0.2976680,0.3410343
+Haushaltstyp,1 Personen HH unter 35 Jahre,2002,0.3310889,0.3179423,0.3442355
+Haushaltstyp,1 Personen HH unter 35 Jahre,2003,0.3509216,0.3318165,0.3700267
+Haushaltstyp,1 Personen HH unter 35 Jahre,2004,0.3551671,0.3346563,0.3756779
+Haushaltstyp,1 Personen HH unter 35 Jahre,2005,0.3561157,0.3384500,0.3737813
+Haushaltstyp,1 Personen HH unter 35 Jahre,2006,0.3364115,0.3215929,0.3512302
+Haushaltstyp,1 Personen HH unter 35 Jahre,2007,0.3694446,0.3566603,0.3822289
+Haushaltstyp,1 Personen HH unter 35 Jahre,2008,0.3500609,0.3327377,0.3673841
+Haushaltstyp,1 Personen HH unter 35 Jahre,2009,0.3555373,0.3406332,0.3704413
+Haushaltstyp,1 Personen HH unter 35 Jahre,2010,0.3485012,0.3214838,0.3755186
+Haushaltstyp,1 Personen HH unter 35 Jahre,2011,0.3564507,0.3354355,0.3774659
+Haushaltstyp,1 Personen HH unter 35 Jahre,2012,0.3637634,0.3514398,0.3760870
+Haushaltstyp,1 Personen HH unter 35 Jahre,2013,0.3414687,0.3309705,0.3519669
+Haushaltstyp,1 Personen HH unter 35 Jahre,2014,0.3509558,0.3221036,0.3798080
+Haushaltstyp,1 Personen HH 35-59 Jahre,1991,0.2477935,0.2420111,0.2535759
+Haushaltstyp,1 Personen HH 35-59 Jahre,1992,0.2596724,0.2403468,0.2789981
+Haushaltstyp,1 Personen HH 35-59 Jahre,1993,0.2669906,0.2517958,0.2821854
+Haushaltstyp,1 Personen HH 35-59 Jahre,1994,0.2894700,0.2708678,0.3080721
+Haushaltstyp,1 Personen HH 35-59 Jahre,1995,0.2845478,0.2737498,0.2953459
+Haushaltstyp,1 Personen HH 35-59 Jahre,1996,0.2855439,0.2720446,0.2990433
+Haushaltstyp,1 Personen HH 35-59 Jahre,1997,0.2943185,0.2780592,0.3105777
+Haushaltstyp,1 Personen HH 35-59 Jahre,1998,0.3026222,0.2865665,0.3186778
+Haushaltstyp,1 Personen HH 35-59 Jahre,1999,0.2720649,0.2601229,0.2840069
+Haushaltstyp,1 Personen HH 35-59 Jahre,2000,0.3009137,0.2900626,0.3117648
+Haushaltstyp,1 Personen HH 35-59 Jahre,2001,0.2910001,0.2780862,0.3039141
+Haushaltstyp,1 Personen HH 35-59 Jahre,2002,0.2913682,0.2775225,0.3052138
+Haushaltstyp,1 Personen HH 35-59 Jahre,2003,0.3131438,0.2976825,0.3286052
+Haushaltstyp,1 Personen HH 35-59 Jahre,2004,0.3046281,0.2841702,0.3250859
+Haushaltstyp,1 Personen HH 35-59 Jahre,2005,0.3026113,0.2894353,0.3157873
+Haushaltstyp,1 Personen HH 35-59 Jahre,2006,0.3070376,0.2969953,0.3170799
+Haushaltstyp,1 Personen HH 35-59 Jahre,2007,0.3036717,0.2881414,0.3192020
+Haushaltstyp,1 Personen HH 35-59 Jahre,2008,0.3143565,0.2968127,0.3319002
+Haushaltstyp,1 Personen HH 35-59 Jahre,2009,0.3104235,0.2984103,0.3224367
+Haushaltstyp,1 Personen HH 35-59 Jahre,2010,0.3159750,0.2997906,0.3321595
+Haushaltstyp,1 Personen HH 35-59 Jahre,2011,0.3278350,0.3143650,0.3413050
+Haushaltstyp,1 Personen HH 35-59 Jahre,2012,0.3154310,0.2988722,0.3319898
+Haushaltstyp,1 Personen HH 35-59 Jahre,2013,0.2871418,0.2748159,0.2994677
+Haushaltstyp,1 Personen HH 35-59 Jahre,2014,0.3023403,0.2891206,0.3155599
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1991,0.3134776,0.3012867,0.3256685
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1992,0.3261445,0.3144168,0.3378723
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1993,0.3269019,0.3169943,0.3368096
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1994,0.3355226,0.3221454,0.3488998
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1995,0.3403294,0.3240975,0.3565614
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1996,0.3511419,0.3258635,0.3764203
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1997,0.3639027,0.3449559,0.3828496
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1998,0.3581512,0.3410159,0.3752865
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1999,0.3418061,0.3329757,0.3506365
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2000,0.3588824,0.3481332,0.3696315
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2001,0.3569075,0.3427397,0.3710754
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2002,0.3579694,0.3429844,0.3729543
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2003,0.3646966,0.3529371,0.3764561
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2004,0.3631463,0.3505198,0.3757728
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2005,0.3744511,0.3604553,0.3884469
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2006,0.3691727,0.3495866,0.3887588
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2007,0.3762539,0.3632702,0.3892376
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2008,0.3938704,0.3786114,0.4091293
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2009,0.3882015,0.3738340,0.4025690
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2010,0.3955781,0.3825041,0.4086520
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2011,0.3923254,0.3831178,0.4015331
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2012,0.3866164,0.3791754,0.3940575
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2013,0.3407989,0.3276284,0.3539695
+Haushaltstyp,1 Personen HH 60 Jahre und älter,2014,0.3494698,0.3388075,0.3601321
+Haushaltstyp,1 Personen HH 60 Jahre und älter,1991,0.3134776,0.3012867,0.3256685
+Haushaltstyp,Paar ohne Kinder,1991,0.1881202,0.1848152,0.1914251
+Haushaltstyp,Paar ohne Kinder,1992,0.1956366,0.1911376,0.2001356
+Haushaltstyp,Paar ohne Kinder,1993,0.2004560,0.1940806,0.2068313
+Haushaltstyp,Paar ohne Kinder,1994,0.2124951,0.2046847,0.2203055
+Haushaltstyp,Paar ohne Kinder,1995,0.2182797,0.2104803,0.2260792
+Haushaltstyp,Paar ohne Kinder,1996,0.2252646,0.2204196,0.2301095
+Haushaltstyp,Paar ohne Kinder,1997,0.2292270,0.2235930,0.2348611
+Haushaltstyp,Paar ohne Kinder,1998,0.2268023,0.2215074,0.2320973
+Haushaltstyp,Paar ohne Kinder,1999,0.2269405,0.2240860,0.2297951
+Haushaltstyp,Paar ohne Kinder,2000,0.2366716,0.2328386,0.2405046
+Haushaltstyp,Paar ohne Kinder,2001,0.2437219,0.2365868,0.2508570
+Haushaltstyp,Paar ohne Kinder,2002,0.2454448,0.2358830,0.2550066
+Haushaltstyp,Paar ohne Kinder,2003,0.2425956,0.2368594,0.2483318
+Haushaltstyp,Paar ohne Kinder,2004,0.2446449,0.2358137,0.2534762
+Haushaltstyp,Paar ohne Kinder,2005,0.2490124,0.2428238,0.2552010
+Haushaltstyp,Paar ohne Kinder,2006,0.2563277,0.2502102,0.2624451
+Haushaltstyp,Paar ohne Kinder,2007,0.2578774,0.2508369,0.2649179
+Haushaltstyp,Paar ohne Kinder,2008,0.2553875,0.2509643,0.2598106
+Haushaltstyp,Paar ohne Kinder,2009,0.2547890,0.2483895,0.2611885
+Haushaltstyp,Paar ohne Kinder,2010,0.2481636,0.2403682,0.2559590
+Haushaltstyp,Paar ohne Kinder,2011,0.2478826,0.2420506,0.2537146
+Haushaltstyp,Paar ohne Kinder,2012,0.2524625,0.2446462,0.2602788
+Haushaltstyp,Paar ohne Kinder,2013,0.2329739,0.2266706,0.2392773
+Haushaltstyp,Paar ohne Kinder,2014,0.2375012,0.2287927,0.2462097
+Haushaltstyp,Paar ohne Kinder,1991,0.1881202,0.1848152,0.1914251
+Haushaltstyp,Alleinerziehend 1 Kind,1991,0.2785092,0.2554526,0.3015658
+Haushaltstyp,Alleinerziehend 1 Kind,1992,0.2974752,0.2666757,0.3282747
+Haushaltstyp,Alleinerziehend 1 Kind,1993,0.3013282,0.2821381,0.3205183
+Haushaltstyp,Alleinerziehend 1 Kind,1994,0.3109811,0.2762815,0.3456808
+Haushaltstyp,Alleinerziehend 1 Kind,1995,0.3161567,0.2938810,0.3384324
+Haushaltstyp,Alleinerziehend 1 Kind,1996,0.3278028,0.2927289,0.3628767
+Haushaltstyp,Alleinerziehend 1 Kind,1997,0.3149814,0.2971723,0.3327905
+Haushaltstyp,Alleinerziehend 1 Kind,1998,0.3283171,0.3050300,0.3516042
+Haushaltstyp,Alleinerziehend 1 Kind,1999,0.3217053,0.2984304,0.3449802
+Haushaltstyp,Alleinerziehend 1 Kind,2000,0.3383547,0.3209127,0.3557966
+Haushaltstyp,Alleinerziehend 1 Kind,2001,0.3338877,0.3081451,0.3596304
+Haushaltstyp,Alleinerziehend 1 Kind,2002,0.3354390,0.3083867,0.3624914
+Haushaltstyp,Alleinerziehend 1 Kind,2003,0.3281565,0.3111623,0.3451507
+Haushaltstyp,Alleinerziehend 1 Kind,2004,0.3416681,0.3150577,0.3682786
+Haushaltstyp,Alleinerziehend 1 Kind,2005,0.3382360,0.3113536,0.3651184
+Haushaltstyp,Alleinerziehend 1 Kind,2006,0.3503615,0.3307395,0.3699834
+Haushaltstyp,Alleinerziehend 1 Kind,2007,0.3355240,0.3182115,0.3528364
+Haushaltstyp,Alleinerziehend 1 Kind,2008,0.3288563,0.3079844,0.3497282
+Haushaltstyp,Alleinerziehend 1 Kind,2009,0.3323289,0.3076335,0.3570242
+Haushaltstyp,Alleinerziehend 1 Kind,2010,0.3337329,0.3193885,0.3480772
+Haushaltstyp,Alleinerziehend 1 Kind,2011,0.3301362,0.3175400,0.3427324
+Haushaltstyp,Alleinerziehend 1 Kind,2012,0.3230843,0.3095692,0.3365994
+Haushaltstyp,Alleinerziehend 1 Kind,2013,0.3049886,0.2937387,0.3162385
+Haushaltstyp,Alleinerziehend 1 Kind,2014,0.3063516,0.2925376,0.3201657
+Haushaltstyp,Alleinerziehend 2+ Kinder,1991,0.3449830,0.2869575,0.4030084
+Haushaltstyp,Alleinerziehend 2+ Kinder,1992,0.3393042,0.2944352,0.3841733
+Haushaltstyp,Alleinerziehend 2+ Kinder,1993,0.2924746,0.2671293,0.3178199
+Haushaltstyp,Alleinerziehend 2+ Kinder,1994,0.3271533,0.2799300,0.3743767
+Haushaltstyp,Alleinerziehend 2+ Kinder,1995,0.3078224,0.2808139,0.3348310
+Haushaltstyp,Alleinerziehend 2+ Kinder,1996,0.3472836,0.3240795,0.3704877
+Haushaltstyp,Alleinerziehend 2+ Kinder,1997,0.3480671,0.3158533,0.3802809
+Haushaltstyp,Alleinerziehend 2+ Kinder,1998,0.3597409,0.3228375,0.3966442
+Haushaltstyp,Alleinerziehend 2+ Kinder,1999,0.3259868,0.3106780,0.3412956
+Haushaltstyp,Alleinerziehend 2+ Kinder,2000,0.3360751,0.3089793,0.3631709
+Haushaltstyp,Alleinerziehend 2+ Kinder,2001,0.3427901,0.3179170,0.3676632
+Haushaltstyp,Alleinerziehend 2+ Kinder,2002,0.3477925,0.3255736,0.3700114
+Haushaltstyp,Alleinerziehend 2+ Kinder,2003,0.3371683,0.3166478,0.3576888
+Haushaltstyp,Alleinerziehend 2+ Kinder,2004,0.3518178,0.3167834,0.3868523
+Haushaltstyp,Alleinerziehend 2+ Kinder,2005,0.3612669,0.3331903,0.3893435
+Haushaltstyp,Alleinerziehend 2+ Kinder,2006,0.3531677,0.3332514,0.3730840
+Haushaltstyp,Alleinerziehend 2+ Kinder,2007,0.3263758,0.3095963,0.3431554
+Haushaltstyp,Alleinerziehend 2+ Kinder,2008,0.3253906,0.3168525,0.3339288
+Haushaltstyp,Alleinerziehend 2+ Kinder,2009,0.3394826,0.3182347,0.3607304
+Haushaltstyp,Alleinerziehend 2+ Kinder,2010,0.3103136,0.2954745,0.3251527
+Haushaltstyp,Alleinerziehend 2+ Kinder,2011,0.3106934,0.2921373,0.3292495
+Haushaltstyp,Alleinerziehend 2+ Kinder,2012,0.3373352,0.3261354,0.3485351
+Haushaltstyp,Alleinerziehend 2+ Kinder,2013,0.3075664,0.2976710,0.3174618
+Haushaltstyp,Alleinerziehend 2+ Kinder,2014,0.3125961,0.2978113,0.3273808
+Haushaltstyp,Paar 1 Kind,1991,0.1694198,0.1653463,0.1734934
+Haushaltstyp,Paar 1 Kind,1992,0.1836017,0.1762761,0.1909272
+Haushaltstyp,Paar 1 Kind,1993,0.1948648,0.1889102,0.2008194
+Haushaltstyp,Paar 1 Kind,1994,0.2008478,0.1906802,0.2110153
+Haushaltstyp,Paar 1 Kind,1995,0.2049729,0.2006467,0.2092991
+Haushaltstyp,Paar 1 Kind,1996,0.2132701,0.2060572,0.2204831
+Haushaltstyp,Paar 1 Kind,1997,0.2251969,0.2190667,0.2313271
+Haushaltstyp,Paar 1 Kind,1998,0.2241280,0.2136052,0.2346508
+Haushaltstyp,Paar 1 Kind,1999,0.2098310,0.2019586,0.2177035
+Haushaltstyp,Paar 1 Kind,2000,0.2244534,0.2166883,0.2322186
+Haushaltstyp,Paar 1 Kind,2001,0.2270756,0.2209004,0.2332507
+Haushaltstyp,Paar 1 Kind,2002,0.2202795,0.2165786,0.2239804
+Haushaltstyp,Paar 1 Kind,2003,0.2359702,0.2267335,0.2452068
+Haushaltstyp,Paar 1 Kind,2004,0.2328919,0.2249055,0.2408782
+Haushaltstyp,Paar 1 Kind,2005,0.2533998,0.2386847,0.2681149
+Haushaltstyp,Paar 1 Kind,2006,0.2588277,0.2492148,0.2684406
+Haushaltstyp,Paar 1 Kind,2007,0.2431629,0.2271241,0.2592017
+Haushaltstyp,Paar 1 Kind,2008,0.2429874,0.2289588,0.2570159
+Haushaltstyp,Paar 1 Kind,2009,0.2396340,0.2227109,0.2565572
+Haushaltstyp,Paar 1 Kind,2010,0.2307825,0.2265022,0.2350627
+Haushaltstyp,Paar 1 Kind,2011,0.2437938,0.2317676,0.2558201
+Haushaltstyp,Paar 1 Kind,2012,0.2311814,0.2208699,0.2414929
+Haushaltstyp,Paar 1 Kind,2013,0.2161997,0.2067055,0.2256938
+Haushaltstyp,Paar 1 Kind,2014,0.2291431,0.2216617,0.2366245
+Haushaltstyp,Paar 2 Kinder,1991,0.1704702,0.1614164,0.1795241
+Haushaltstyp,Paar 2 Kinder,1992,0.1760767,0.1690329,0.1831205
+Haushaltstyp,Paar 2 Kinder,1993,0.1846766,0.1717705,0.1975827
+Haushaltstyp,Paar 2 Kinder,1994,0.2061477,0.1967198,0.2155756
+Haushaltstyp,Paar 2 Kinder,1995,0.2192825,0.2081568,0.2304081
+Haushaltstyp,Paar 2 Kinder,1996,0.2256371,0.2132178,0.2380564
+Haushaltstyp,Paar 2 Kinder,1997,0.2262331,0.2151164,0.2373498
+Haushaltstyp,Paar 2 Kinder,1998,0.2489094,0.2290734,0.2687455
+Haushaltstyp,Paar 2 Kinder,1999,0.2295034,0.2123843,0.2466225
+Haushaltstyp,Paar 2 Kinder,2000,0.2357942,0.2238093,0.2477792
+Haushaltstyp,Paar 2 Kinder,2001,0.2393910,0.2200521,0.2587299
+Haushaltstyp,Paar 2 Kinder,2002,0.2342192,0.2234686,0.2449697
+Haushaltstyp,Paar 2 Kinder,2003,0.2476747,0.2309543,0.2643950
+Haushaltstyp,Paar 2 Kinder,2004,0.2434717,0.2268232,0.2601202
+Haushaltstyp,Paar 2 Kinder,2005,0.2434508,0.2281103,0.2587914
+Haushaltstyp,Paar 2 Kinder,2006,0.2410710,0.2282458,0.2538961
+Haushaltstyp,Paar 2 Kinder,2007,0.2376149,0.2294667,0.2457631
+Haushaltstyp,Paar 2 Kinder,2008,0.2390747,0.2279814,0.2501679
+Haushaltstyp,Paar 2 Kinder,2009,0.2374003,0.2235633,0.2512373
+Haushaltstyp,Paar 2 Kinder,2010,0.2379066,0.2311871,0.2446261
+Haushaltstyp,Paar 2 Kinder,2011,0.2468038,0.2383595,0.2552481
+Haushaltstyp,Paar 2 Kinder,2012,0.2449751,0.2387036,0.2512466
+Haushaltstyp,Paar 2 Kinder,2013,0.2274197,0.2191630,0.2356765
+Haushaltstyp,Paar 2 Kinder,2014,0.2335892,0.2207277,0.2464507
+Haushaltstyp,Paar 3+ Kinder,1991,0.1830902,0.1759337,0.1902467
+Haushaltstyp,Paar 3+ Kinder,1992,0.2034462,0.1907799,0.2161125
+Haushaltstyp,Paar 3+ Kinder,1993,0.2071920,0.1870568,0.2273271
+Haushaltstyp,Paar 3+ Kinder,1994,0.2424256,0.2189261,0.2659250
+Haushaltstyp,Paar 3+ Kinder,1995,0.2472503,0.2258100,0.2686906
+Haushaltstyp,Paar 3+ Kinder,1996,0.2359886,0.2139349,0.2580423
+Haushaltstyp,Paar 3+ Kinder,1997,0.2289762,0.2145316,0.2434208
+Haushaltstyp,Paar 3+ Kinder,1998,0.2340892,0.2177640,0.2504145
+Haushaltstyp,Paar 3+ Kinder,1999,0.2331028,0.2204086,0.2457969
+Haushaltstyp,Paar 3+ Kinder,2000,0.2441488,0.2257636,0.2625339
+Haushaltstyp,Paar 3+ Kinder,2001,0.2546609,0.2357106,0.2736113
+Haushaltstyp,Paar 3+ Kinder,2002,0.2591850,0.2356676,0.2827024
+Haushaltstyp,Paar 3+ Kinder,2003,0.2549205,0.2304625,0.2793786
+Haushaltstyp,Paar 3+ Kinder,2004,0.2613187,0.2475166,0.2751208
+Haushaltstyp,Paar 3+ Kinder,2005,0.2520013,0.2369291,0.2670736
+Haushaltstyp,Paar 3+ Kinder,2006,0.2603239,0.2392849,0.2813629
+Haushaltstyp,Paar 3+ Kinder,2007,0.2551842,0.2318792,0.2784892
+Haushaltstyp,Paar 3+ Kinder,2008,0.2662329,0.2500983,0.2823675
+Haushaltstyp,Paar 3+ Kinder,2009,0.2482844,0.2257937,0.2707752
+Haushaltstyp,Paar 3+ Kinder,2010,0.2524439,0.2402561,0.2646317
+Haushaltstyp,Paar 3+ Kinder,2011,0.2525881,0.2389234,0.2662527
+Haushaltstyp,Paar 3+ Kinder,2012,0.2511530,0.2351075,0.2671985
+Haushaltstyp,Paar 3+ Kinder,2013,0.2441996,0.2360194,0.2523798
+Haushaltstyp,Paar 3+ Kinder,2014,0.2423861,0.2274656,0.2573066

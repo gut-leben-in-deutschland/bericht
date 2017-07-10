@@ -138,7 +138,7 @@ Beim **Feinstaub** liegt Deutschland im Mittelfeld der EU-Staaten.
 
 Um Abgase zu reduzieren, sollen mehr Elektrofahrzeuge auf Deutschlands Straßen fahren. Die Bundesregierung und die Automobilindustrie stellen Kaufzuschüsse zur Verfügung. Zusätzlich will der Bund die Ladeinfrastruktur mit rund 300 Millionen Euro fördern.
 
-- [Elektromobilität fördern](http://www.bmvi.de/DE/VerkehrUndMobilitaet/DigitalUndMobil/Elektromobilitaet/elektromobilitaet_node.html)
+- [Elektromobilität fördern](http://www.bmvi.de/DE/Themen/Mobilitaet/Elektromobilitaet/Aktivitaeten-Bundesregierung/aktivitaeten-bundesregierung.html)
 - [Luftschadstoffe reduzieren und Lärm begrenzen](http://www.bmub.bund.de/themen/luft-laerm-verkehr/)
 
 <!-- GovernmentMeasures end -->
@@ -175,7 +175,7 @@ Der Zielwert, den sich die **Bundesregierung in der Nachhaltigkeitsstrategie** u
 
 Die Bundesregierung will die biologische Vielfalt verbessern. Sie setzt sich für die Verbesserung der Agrarstruktur und des Küstenschutzes ein. Auf europäischer und internationaler Ebene setzt sie sich für eine nachhaltige Landnutzung ein. Im Rahmen der Biodiversitätskonvention der Vereinten Nationen (CBD) macht sich die Bundesregierung für den Naturschutz weltweit stark.
 
-- [Biologische Vielfalt erhalten](http://www.bmub.bund.de/themen/natur-arten-tourismussport/naturschutz-biologische-vielfalt/)
+- [Biologische Vielfalt erhalten](http://www.bmub.bund.de/themen/natur-biologische-vielfalt-arten/naturschutz-biologische-vielfalt/)
 - [Gemeinschaftsaufgabe Agrarstruktur und Küstenschutz](http://www.bmel.de/DE/Landwirtschaft/Foerderung-Agrarsozialpolitik/GAK/gak_node.html)
 - [Biodiversität - Grundlage für nachhaltige Entwicklung](https://www.bmz.de/de/themen/biodiversitaet/index.html)
 
@@ -207,7 +207,7 @@ Energie effizienter zu nutzen, d.h. mit der gleichen Menge an Energie mehr zu pr
 
 Deutschland hat **große Fortschritte bei der Energieproduktivität** gemacht.
 
-In den letzten zweieinhalb Jahrzehnten ist die deutsche Wirtschaft um 36,5 Prozent gewachsen. Dank innovativer Technologien und staatlicher Anreize ist im selben Zeitraum der Energieverbrauch um rund neun Prozent gefallen. Das bedeutet einen **Anstieg der Energieproduktivität von gut 60 Prozent**. Diese Entkopplung von Wachstum und Energieverbrauch ist ein zentraler Fortschritt für Wohlstand. 
+In den letzten zweieinhalb Jahrzehnten ist die deutsche Wirtschaft um mehr als 37 Prozent gewachsen. Dank innovativer Technologien und staatlicher Anreize ist im selben Zeitraum der Energieverbrauch um rund neun Prozent gefallen. Das bedeutet einen **Anstieg der Energieproduktivität von mehr als 63 Prozent**. Diese Entkopplung von Wachstum und Energieverbrauch ist ein zentraler Fortschritt für Wohlstand. 
 
 Damit gibt sich die Bundesregierung aber nicht zufrieden. Ihr Ziel lautet: 2020 soll Energie in Deutschland doppelt so effizient genutzt werden wie 1990.
 

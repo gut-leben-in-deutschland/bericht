@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="474" style="height:474px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung des Anteils der Kinder in Ganztagsschulen im Zeitraum von 2005/2006 bis 2015/2016. Der Anteil der Kinder in Ganztagsschulen ist in diesem Zeitraum von knapp zehn auf rund 33 Prozent gestiegen.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,31 +11,31 @@
                     2005/06
                 </text>
             </g>
-            <g transform="translate(198,264)" style="">
+            <g transform="translate(178.2,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.28125px;fill:#666666;text-anchor:middle;">
                     2008/09
                 </text>
             </g>
-            <g transform="translate(396,264)" style="">
+            <g transform="translate(415.8,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.28125px;fill:#666666;text-anchor:middle;">
-                    2011/12
+                    2012/13
                 </text>
             </g>
             <g transform="translate(594,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.265625px;fill:#666666;text-anchor:end;">
-                    2014/15
+                    2015/16
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#890d48" stroke-width="3" stroke-dasharray="none" d="M0,204.9897192L66,188.46581046L132,167.85934266L198,152.30015616L264,137.76718434000003L330,130.6537485L396,110.47518540000002L462,97.27789020000003L528,83.37201126L594,73.64644620000001" style="fill:none;stroke:#890d48;stroke-width:3px;"/>
+                <path fill="none" stroke="#890d48" stroke-width="3" stroke-dasharray="none" d="M0,204.9897192L59.4,188.46581046L118.8,167.85934266L178.2,152.30015616L237.6,137.76718434000003L297,130.6537485L356.4,110.47518540000002L415.8,97.27789020000003L475.2,83.37201126L534.6,73.64644620000001L594,68.23513439999999" style="fill:none;stroke:#890d48;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="598" x2="604" y1="73.64644620000001" y2="73.64644620000001" stroke="#890d48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
-                    <text dy="0.3em" x="608" y="73.64644620000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
+                    <line x1="598" x2="604" y1="68.23513439999999" y2="68.23513439999999" stroke="#890d48" stroke-width="3" style="stroke:#890d48;stroke-width:3px;"/>
+                    <text dy="0.3em" x="608" y="68.23513439999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            31,7%
+                            32,6%
                         </tspan>
                     </text>
                 </g>
@@ -58,16 +60,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
-            <div style="display:block;height:96px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="186" style="display:block;height:186px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:186px;width:640px;">
+            <div style="display:block;height:186px;width:640px;">
                 <div style="display:block;height:0px;padding-right:45px;width:640px;">
                 </div>
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Sekretariat der Ständigen Konferenz der Kultusminister der Länder, Zusammenstellung Forschungsverbund DJI/TU Dortmund, 2016.
+                <div style="display:block;height:186px;width:640px;">
+                    <div style="clear:both;display:block;height:186px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:186px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:162px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt: Statistik der Kinder und tätigen Personen in Tageseinrichtungen und in öffentlich geförderter Kindertagespflege, verschiedene Jahrgänge. Sekretariat der Ständigen Konferenz der Kultusminister der Länder. Zusammenstellung Forschungsverbund DJI/TU Dortmund, 2016.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

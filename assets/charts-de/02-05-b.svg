@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der Tarifbindung bei Beschäftigten nach Flächentarifverträgen im Zeitraum von 1996 bis 2016 für die westdeutschen und ostdeutschen Bundesländer. In den ostdeutschen Bundesländern war die Tarifbindung im gesamten Zeitraum schwächer ausgeprägt. Sowohl in den ostdeutschen als auch westdeutschen Bundesländern ist die Tarifbindung seit 1996 gesunken. 1996 waren noch 70 Prozent der Beschäftigten in Westdeutschland in tarifgebundenen Betrieben tätig, 2016 nur noch 51 Prozent. In Ostdeutschland ging der Anteil seit 1996 von 56 auf 36 Prozent im Jahr 2016 zurück.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1996
                 </text>
             </g>
-            <g transform="translate(146.87031700288185,264)" style="">
+            <g transform="translate(139.5318275154004,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2002
                 </text>
             </g>
-            <g transform="translate(318.1966858789625,264)" style="">
+            <g transform="translate(302.2977412731006,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2009
@@ -24,16 +26,16 @@
             <g transform="translate(465,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,95.99999999999997L48.97910662824208,108L97.89121037463977,123.00000000000003L146.87031700288185,132.00000000000003L195.78242074927954,138.00000000000003L244.7615273775216,141L293.67363112391934,144L318.1966858789625,150L342.6527377521614,153L367.10878962536026,153L391.5648414985591,156L416.0878962536023,159L440.5439481268012,156L465,153" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,95.99999999999997L46.53182751540041,108L93,123.00000000000003L139.5318275154004,132.00000000000003L186,138.00000000000003L232.5318275154004,141L279,144L302.2977412731006,150L325.53182751540044,153L348.7659137577002,153L372,156L395.29774127310066,159L418.53182751540044,156L441.7659137577002,153L465,156" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="469" x2="475" y1="153" y2="153" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="479" y="153" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:155.65625px;fill:#666666;">
+                    <line x1="469" x2="475" y1="156" y2="156" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="479" y="156" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:155.65625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            37%
+                            36%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Ostdeutsche Bundesländer
@@ -42,7 +44,7 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#be5b00" stroke-width="3" stroke-dasharray="none" d="M0,54.00000000000003L48.97910662824208,60L97.89121037463977,75L146.87031700288185,75L195.78242074927954,81L244.7615273775216,93.00000000000003L293.67363112391934,99L318.1966858789625,95.99999999999997L342.6527377521614,95.99999999999997L367.10878962536026,102L391.5648414985591,105L416.0878962536023,108L440.5439481268012,105L465,111" style="fill:none;stroke:#be5b00;stroke-width:3px;"/>
+                <path fill="none" stroke="#be5b00" stroke-width="3" stroke-dasharray="none" d="M0,54.00000000000003L46.53182751540041,60L93,75L139.5318275154004,75L186,81L232.5318275154004,93.00000000000003L279,99L302.2977412731006,95.99999999999997L325.53182751540044,95.99999999999997L348.7659137577002,102L372,105L395.29774127310066,108L418.53182751540044,105L441.7659137577002,111L465,111" style="fill:none;stroke:#be5b00;stroke-width:3px;"/>
                 <g style="">
                     <line x1="469" x2="475" y1="111" y2="111" stroke="#be5b00" stroke-width="3" style="stroke:#be5b00;stroke-width:3px;"/>
                     <text dy="0.3em" x="479" y="111" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:163.21875px;fill:#666666;">
@@ -75,16 +77,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
                 <div style="display:block;height:0px;padding-right:174px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  IAB Betriebspanel 2015.
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Institut für Arbeitsmarkt- und Berufsforschung, IAB Betriebspanel 2016.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

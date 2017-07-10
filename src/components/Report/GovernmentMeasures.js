@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import {StyleSheet, css} from 'aphrodite';
 import BlockList from './BlockList';
 import {onlyS} from 'theme/mediaQueries';

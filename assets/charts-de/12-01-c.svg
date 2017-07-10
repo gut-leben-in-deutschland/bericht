@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der Treibhausgas-Emissionen in Deutschland im Zeitraum von 1990 bis 2015. Die Treibhausgas-Emissionen in Deutschland sind in diesem Zeitraum von rund 1.200 auf 908 Millionen Tonnen CO2-Äquivalente gesunken. Bis 2020 sollen die Treibhausgas-Emissionen auf 749 Millionen Tonnen sinken, bis 2050 auf 250 Millionen Tonnen.
+    </desc>
     <g transform="translate(0,24)" style="">
         <g transform="translate(0,241)" style="">
             <line x1="0" x2="482" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
@@ -241,23 +243,23 @@
             <rect y="92.51546431278402" width="12" height="0.04456210535997229" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
             <rect y="92.505671246112" width="12" height="0.009793066672017403" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(466,0)" style="">
-            <rect y="112.222917954" width="12" height="127.777082046" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
-            <rect y="103.37995162675199" width="12" height="8.842966327248007" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
-            <rect y="97.04629074199997" width="12" height="6.333660884752021" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
-            <rect y="95.28629074199998" width="12" height="1.759999999999991" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
-            <rect y="94.726290742" width="12" height="0.5599999999999739" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
-            <rect y="94.689490742" width="12" height="0.0367999999999995" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="94.68624613399999" width="12" height="0.003244608000017024" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
-        </g>
         <g transform="translate(450,0)" style="">
-            <rect y="113.14262791606399" width="12" height="126.85737208393601" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
-            <rect y="104.243840613424" width="12" height="8.898787302639988" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
-            <rect y="98.02219290904" width="12" height="6.221647704383997" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
-            <rect y="96.277822224944" width="12" height="1.7443706840959976" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
-            <rect y="95.734434763216" width="12" height="0.5433874617280026" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
-            <rect y="95.696957942752" width="12" height="0.03747682046400769" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="95.693713334752" width="12" height="0.0032446079999886024" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+            <rect y="112.827365344832" width="12" height="127.172634655168" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="103.86592989732799" width="12" height="8.961435447504016" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="97.69147806415998" width="12" height="6.174451833168007" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="95.90221414312" width="12" height="1.789263921039975" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="95.35882665403201" width="12" height="0.5433874890879906" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="95.32128996984" width="12" height="0.03753668419201972" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="95.31804536184" width="12" height="0.0032446079999886024" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(466,0)" style="">
+            <rect y="113.271280094768" width="12" height="126.728719905232" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
+            <rect y="104.37270699100802" width="12" height="8.898573103759986" shape-rendering="crispEdges" fill="#79b8a1" style="fill:#79b8a1;shape-rendering:crispedges;"/>
+            <rect y="98.120195819504" width="12" height="6.252511171504011" shape-rendering="crispEdges" fill="#987200" style="fill:#987200;shape-rendering:crispedges;"/>
+            <rect y="96.303313700384" width="12" height="1.8168821191200095" shape-rendering="crispEdges" fill="#f2bf18" style="fill:#f2bf18;shape-rendering:crispedges;"/>
+            <rect y="95.733446442592" width="12" height="0.5698672577919979" shape-rendering="crispEdges" fill="#a04200" style="fill:#a04200;shape-rendering:crispedges;"/>
+            <rect y="95.69285965568002" width="12" height="0.04058678691197315" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="95.69095802368003" width="12" height="0.0019016319999991538" shape-rendering="crispEdges" fill="#c40046" style="fill:#c40046;shape-rendering:crispedges;"/>
         </g>
         <g transform="translate(370,0)" style="">
             <rect y="113.85964746020798" width="12" height="126.14035253979202" shape-rendering="crispEdges" fill="#23614e" style="fill:#23614e;shape-rendering:crispedges;"/>
@@ -317,9 +319,9 @@
             </text>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:80px;width:640px;">
-            <div style="display:block;height:80px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
+            <div style="display:block;height:116px;width:640px;">
                 <div style="display:block;height:20px;line-height:12px;width:640px;">
                     <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:81.90625px;">
                         <div style="background-color:rgb(35, 97, 78);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
@@ -357,11 +359,11 @@
                         Stickstofftrifluorid 
                     </div>
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Umweltbundesamt 2015.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Umweltbundesamt, Nationale Treibhausgas-Inventare 1990 bis 2015 (Stand 02/2017) und Schätzung für 2016 (Stand 03/2017).
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

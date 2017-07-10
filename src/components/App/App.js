@@ -1,4 +1,5 @@
-import React, {PropTypes, Component} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import {StyleSheet, css} from 'aphrodite';
 import Helmet from 'react-helmet';
 
@@ -35,12 +36,11 @@ class App extends Component {
         <Helmet
           titleTemplate={`%s – ${t('title')}`}
           defaultTitle={t('title')}
-          htmlAttributes={{lang: locale}}
-          link={[
-            {rel: 'apple-touch-icon-precomposed', href: faviconApple},
-            {rel: 'shortcut icon', href: favicon}
-          ]}
-        />
+        >
+          <html lang={locale} />
+          <link rel='apple-touch-icon-precomposed' href={faviconApple} />
+          <link rel='shortcut icon' href={favicon} />
+        </Helmet>
         <div className={css(styles.body)}>{this.props.children}</div>
         <Footer />
       </div>

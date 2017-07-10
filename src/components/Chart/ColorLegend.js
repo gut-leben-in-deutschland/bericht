@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import {StyleSheet, css} from 'aphrodite';
 
 import {sansRegular12, sansBold12} from 'theme/typeface';

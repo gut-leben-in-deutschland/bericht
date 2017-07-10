@@ -37,7 +37,7 @@ Die Angst, Opfer einer kriminellen Handlung zu werden, **variiert relativ stark 
 06-01-b
 ```
 
-Dieses **subjektive Sicherheitsempfinden von Frauen steht im Gegensatz zum objektiven (statistischen) Risiko**, Opfer einer Straftat zu werden. So wurden 2015 beispielsweise rund 564.000 Männer in der Polizeilichen Kriminalstatistik als Opfer von Straftaten erfasst, bei den Frauen waren es 382.000.
+Dieses **subjektive Sicherheitsempfinden von Frauen steht im Gegensatz zum objektiven (statistischen) Risiko**, Opfer einer Straftat zu werden. So wurden 2016 beispielsweise rund 614.000 Männer in der Polizeilichen Kriminalstatistik als Opfer von Straftaten erfasst, bei den Frauen waren es 404.000.
 
 **Kriminalitätsfurcht unterscheidet sich nach Altersgruppen**: Die Furcht vor Kriminalität ist bei älteren Menschen im Allgemeinen stärker ausgeprägt. Bei einzelnen spezifischen Straftaten wie Körperverletzung, Raub oder sexueller Belästigung ist die Furcht dagegen bei jungen Menschen weiter verbreitet. Insgesamt nehmen Ängste vor Kriminalität mit fortschreitendem Lebensalter zunächst ab und im Rentenalter wieder zu.
 
@@ -99,7 +99,7 @@ Als neutraler Gradmesser bildet die [polizeiliche Kriminalitätsstatistik (PKS)]
 
 Die PKS führt sämtliche **Kriminalitätsdelikte** auf, **die der Polizei gemeldet wurden** und veröffentlicht die entsprechenden **Aufklärungsquoten**. Sie bildet damit das so genannte **Hellfeld** der bundesdeutschen Kriminalität ab. Keine Auskunft gibt die PKS über das **Dunkelfeld**, also der Polizei nicht bekannt gewordener Straftaten.  
 
-Positiv ist: **Gewaltdelikte**, wie z.B. Raub und Körperverletzung, sind **im gesamten Bundesgebiet zwischen 2007 und 2014 zurückgegangen**. Und auch die **Aufklärungsquoten** haben sich **deutlich verbessert**.
+Positiv ist: **Gewaltdelikte**, wie z.B. Raub und Körperverletzung, sind **im gesamten Bundesgebiet zwischen 2007 und 2015 zurückgegangen**. 2016 kam es jedoch zu einem Anstieg der Gewaltdelikte. Gezählt wurden rund 193.500 Fälle von Gewaltkriminalität. Ein Anstieg von mehr als sechs Prozent gegenüber dem Vorjahr. Mehr als 75 Prozent aller Gewaltdelikte wurden aufgeklärt.    
  
 <!-- ColumnRight end -->
 
@@ -110,7 +110,7 @@ Positiv ist: **Gewaltdelikte**, wie z.B. Raub und Körperverletzung, sind **im g
 
 <!-- ColumnLeft start -->
 
-**Mehr Diebstahlskriminalität**: Nach einem Abwärtstrend haben **Diebstahlsdelikte wieder zugenommen**. Besonders **Wohnungseinbruchsdiebstähle** sind stark angestiegen: 2015 wurden rund 167.000 Fälle registriert. Sie umfassen sowohl den versuchten als auch vollendeten Wohnungseinbruchsdiebstahl.
+**Weniger Diebstahlskriminalität**: Nach der Zunahme im vergangenen Jahr, ist die Diebstahlkriminalität 2016 rückläufig. Das trifft auch auf Wohnungseinbruchdiebstähle zu. 2016 wurden 151.000 Fälle registriert. Sie umfassen sowohl den versuchten als auch vollendeten Wohnungseinbruchsdiebstahl.
 
 Die **Aufklärungsquoten bei den Diebstahlsdelikten** sind im Vergleich zur Aufklärung der Gewaltstraftaten **unbefriedigend**. Sie sind sogar **seit 1998 gesunken**.
 
@@ -189,9 +189,9 @@ Als ein Indikator für **Intoleranz gegenüber bestimmten gesellschaftlichen Gru
 
 <!-- ColumnRight start -->
 
-**2015** erreichte die **Hasskriminalität** den **Höchstwert** seit Einführung der Statistik 2001. Gegenüber 2014 gab es eine **Steigerung von 77 Prozent**. Dafür war im Wesentlichen die **besonders starke Zunahme** bei **fremdenfeindlichen Straftaten** verantwortlich. Stark angestiegen sind auch die **gegen bestimmte Religionsgruppen** gerichteten Straftaten. Antisemitische Straftaten und Hasskriminalität gegen Menschen mit Behinderung sind leicht zurückgegangen.
+**2016** erreichte die **Hasskriminalität** den **Höchstwert** seit Einführung der Statistik 2001. Nach der deutlichen Steigerung von 77 Prozent zwischen 2014 und 2015, ist die Hasskriminalität zwischen 2015 und 2016 um knapp vier Prozent angestiegen. Für die hohen Fallzahlen im Bereich Hasskriminalität sind in erster Linie **fremdenfeindliche Straftaten** verantwortlich. Diese sind im Vergleich zum Vorjahr um 5,3 Prozent angestiegen. Auch **antisemitische Straftaten** sind 2016 häufiger als im Vorjahr. Der Anstieg betrug 7,5 Prozent.
 
-Geprägt wurde die Entwicklung auch vom starken Anstieg der strafbaren **„Hasspostings“**[^1] im Internet. So ist die Hasskriminalität im Internet **2015 um 176% angestiegen**.
+Strafbare **„Hasspostings“**[^1] im Internet bleiben auf hohem Niveau. Nach dem starken Anstieg von **176 Prozent** zwischen 2014 und 2015, setzt sich der Trend fort, allerdings fällt der Anstieg 2016 mit einem Plus von drei Prozent geringer aus.
 
 <!-- ColumnRight end -->
 
@@ -260,7 +260,7 @@ Staatliche Institutionen sind ein vertrauensbildender Faktor für die Bürgerinn
 
 Mehr Personal, zusätzliche Einsatzmittel und bessere Schutzausrüstungen für die Sicherheitsbehörden - das ist Teil des „Sicherheitspaketes“ des Bundes für 2016.
 
-- [Das Sicherheitspaket 2016](http://www.bmi.bund.de/SharedDocs/Downloads/DE/Nachrichten/Kurzmeldungen/handout-ma%C3%9Fnahmenpaket-erhoehung-sicherheit-deutschland.pdf?__blob=publicationFile)
+- [Das Sicherheitspaket 2016](https://www.bmi.bund.de/SharedDocs/Downloads/DE/Nachrichten/Kurzmeldungen/2016/handout-ma%C3%9Fnahmenpaket-erhoehung-sicherheit-deutschland.pdf?__blob=publicationFile)
 
 
 <!-- GovernmentMeasures end -->

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="610" height="376" viewBox="0 0 610 280" style="display:block;height:376px;margin-left:63px;margin-right:63px;width:610px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="430" viewBox="0 0 610 280" style="display:block;height:430px;margin-left:63px;margin-right:63px;width:610px;">
     <title style="">
-        01-00-a_l_chart-english
+        01-00-b-l.en.chart
     </title>
     <desc style="">
         Created with Sketch.
@@ -13,39 +13,39 @@
     </defs>
     <g fill="none" fill-rule="evenodd" style="fill:none;fill-rule:evenodd;">
         <path fill="#F2BF18" d="M398 16v40H210V16z" style="fill:#f2bf18;fill-rule:evenodd;"/>
-        <path fill="#B68B00" d="M343 120v40H210v-40z" style="fill:#b68b00;fill-rule:evenodd;"/>
-        <path fill="#7B5900" d="M299 224v40h-89v-40zM351 224v40h-44v-40z" style="fill:#7b5900;fill-rule:evenodd;"/>
-        <path fill="#B68B00" d="M406 120v40h-55v-40z" style="fill:#b68b00;fill-rule:evenodd;"/>
-        <path d="M406 120H273s1-77.254 1-64c0 32-9 32.122-9 64h-55c-.014-32.065 8-32 8-64h188v64z" fill-opacity=".1" fill="url(#svg-react-chart-a)" transform="matrix(-1 0 0 1 616 0)" style="fill:#svg-react-chart-a;fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
-        <path d="M351 224h-89l1-64c0 32-9 32-9 64h-44c0-32 8-32 8-64h133v64z" fill-opacity=".1" fill="url(#svg-react-chart-a)" transform="matrix(-1 0 0 1 561 0)" style="fill:#svg-react-chart-a;fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
+        <path fill="#B68B00" d="M346 120v40H210v-40z" style="fill:#b68b00;fill-rule:evenodd;"/>
+        <path fill="#7B5900" d="M301 224v40h-91v-40zM354 224v40h-45v-40z" style="fill:#7b5900;fill-rule:evenodd;"/>
+        <path fill="#B68B00" d="M406 120v40h-52v-40z" style="fill:#b68b00;fill-rule:evenodd;"/>
+        <path d="M406 120.47H270V56c0 31.53-8 32.122-8 64.47 0-.47-52-.47-52 0-.014-32.535 8-32.94 8-64.47h188v64.47z" fill-opacity=".1" fill="url(#svg-react-chart-a)" transform="matrix(-1 0 0 1 616 0)" style="fill:#svg-react-chart-a;fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
+        <path d="M354 223.778h-91v-64c0 32.222-8 32.222-8 64 0 .222-45 .222-45 0 0-31.778 8-31.778 8-64 0 .222 136 0 136 0v64z" fill-opacity=".1" fill="url(#svg-react-chart-a)" transform="matrix(-1 0 0 1 564 0)" style="fill:#svg-react-chart-a;fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
+        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#000" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:39.65625px;fill-rule:evenodd;">
+            <tspan x="284.158" y="40" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill-rule:evenodd;">
+                2.9 Mio.
+            </tspan>
+        </text>
+        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#000" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:39.65625px;fill-rule:evenodd;">
+            <tspan x="258.158" y="144" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill-rule:evenodd;">
+                2.1 Mio.
+            </tspan>
+        </text>
+        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#FFF" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:39.65625px;fill:#ffffff;fill-rule:evenodd;">
+            <tspan x="236.158" y="248" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#ffffff;fill-rule:evenodd;">
+                1.4 Mio.
+            </tspan>
+        </text>
+        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#FFF" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:39.65625px;fill:#ffffff;fill-rule:evenodd;">
+            <tspan x="312.158" y="248" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#ffffff;fill-rule:evenodd;">
+                0.7 Mio.
+            </tspan>
+        </text>
+        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#000" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:39.65625px;fill-rule:evenodd;">
+            <tspan x="360.158" y="144" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill-rule:evenodd;">
+                0.8 Mio.
+            </tspan>
+        </text>
         <text font-family="BundesSans-Regular, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Regular, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:35.28125px;fill:#454545;fill-rule:evenodd;">
             <tspan x="158.624" y="40" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Overall
-            </tspan>
-        </text>
-        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#000" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:24.546875px;fill-rule:evenodd;">
-            <tspan x="291.658" y="40" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill-rule:evenodd;">
-                2.6m
-            </tspan>
-        </text>
-        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#000" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:24.546875px;fill-rule:evenodd;">
-            <tspan x="263.658" y="144" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill-rule:evenodd;">
-                1.8m
-            </tspan>
-        </text>
-        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#FFF" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:24.546875px;fill:#ffffff;fill-rule:evenodd;">
-            <tspan x="241.658" y="248" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#ffffff;fill-rule:evenodd;">
-                1.2m
-            </tspan>
-        </text>
-        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#FFF" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:24.546875px;fill:#ffffff;fill-rule:evenodd;">
-            <tspan x="316.658" y="248" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#ffffff;fill-rule:evenodd;">
-                0.6m
-            </tspan>
-        </text>
-        <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#000" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:24.546875px;fill-rule:evenodd;">
-            <tspan x="365.658" y="144" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill-rule:evenodd;">
-                0.8m
             </tspan>
         </text>
         <text font-family="BundesSans-Regular, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Regular, BundesSans;font-size:12px;height:14.375px;line-height:13px;white-space:nowrap;width:53px;fill:#454545;fill-rule:evenodd;">
@@ -59,10 +59,10 @@
             </tspan>
         </text>
         <text font-family="BundesSans-Regular, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Regular, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:115.03125px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="367" y="239" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="370" y="239" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Together with/by 
             </tspan>
-            <tspan x="367" y="251" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="370" y="251" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 outpatient care services
             </tspan>
         </text>
@@ -75,21 +75,29 @@
             </tspan>
         </text>
     </g>
-    <foreignObject x="0" y="280" width="640" height="96" style="display:block;height:96px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
-            <div style="display:block;height:96px;width:640px;">
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt (2015): Pflegestatistik 2013 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.
+    <foreignObject x="0" y="280" width="640" height="150" style="display:block;height:150px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:150px;width:640px;">
+            <div style="display:block;height:150px;width:640px;">
+                <div style="display:block;height:150px;width:640px;">
+                    <div style="clear:both;display:block;height:150px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:150px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:126px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  German Federal Statistical Office (2017): Pflegestatistik 2015 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. German Federal Statistical Office: Wiesbaden.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
                                 </span>
                             </p>
                         </div>
-                        <div style="display:block;float:left;height:0px;padding-left:10px;padding-right:10px;width:330px;">
+                        <div style="display:block;float:left;height:42px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                                Data on December 31, 2015 on the basis of the Census 2011. 
+                            </p>
                         </div>
                     </div>
                 </div>

@@ -1,4 +1,5 @@
-import {createElement, PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import { createElement } from 'react';
 import {Link as RouterLink} from 'react-router';
 import {css} from 'aphrodite';
 

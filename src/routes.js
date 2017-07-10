@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import React from 'react';
 
 import App from 'components/App/App';
@@ -19,7 +20,7 @@ const withCabinetLocale = ({locale}) => (WrappedComponent) => {
   }
 
   Localized.childContextTypes = {
-    cabinetLocale: React.PropTypes.string.isRequired
+    cabinetLocale: PropTypes.string.isRequired
   };
 
   return Localized;

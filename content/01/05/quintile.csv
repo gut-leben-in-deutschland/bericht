@@ -1,11 +1,11 @@
 year,category,quintile,value,confidence95_lower,confidence95_upper
-2013,"weniger gut oder schlecht",1. Quintil (unterste Einkommen),0.2516153,0.2312417,0.2719888
-2013,"weniger gut oder schlecht",2. Quintil,0.1916523,0.1762403,0.2070644
-2013,"weniger gut oder schlecht",3. Quintil,0.145805,0.133462,0.1581481
-2013,"weniger gut oder schlecht",4. Quintil,0.1220939,0.1041591,0.1400288
-2013,"weniger gut oder schlecht",5. Quintil (oberste Einkommen),0.1125677,0.1004014,0.124734
-2013,"gut oder sehr gut",1. Quintil (unterste Einkommen),0.4597101,0.4428942,0.476526
-2013,"gut oder sehr gut",2. Quintil,0.5205293,0.5033969,0.5376617
-2013,"gut oder sehr gut",3. Quintil,0.5114279,0.4852045,0.5376513
-2013,"gut oder sehr gut",4. Quintil,0.5625579,0.540463,0.5846527
-2013,"gut oder sehr gut",5. Quintil (oberste Einkommen),0.6055892,0.583126,0.6280523
+2014,"weniger gut oder schlecht",1. Quintil (unterste Einkommen),0.268799079093,0.257709700527,0.279888432561
+2014,"weniger gut oder schlecht",2. Quintil,0.172685598234,0.157064567016,0.188306619717
+2014,"weniger gut oder schlecht",3. Quintil,0.148695371256,0.126474780106,0.170915949083
+2014,"weniger gut oder schlecht",4. Quintil,0.117407356287,0.102895906547,0.131918811818
+2014,"weniger gut oder schlecht",5. Quintil (oberste Einkommen),0.102751870921,0.085363116053,0.120140630814
+2014,"gut oder sehr gut",1. Quintil (unterste Einkommen),0.450388093839,0.429863387116,0.470912820331
+2014,"gut oder sehr gut",2. Quintil,0.513478829370,0.485537225314,0.541420405797
+2014,"gut oder sehr gut",3. Quintil,0.530997636406,0.506796712178,0.555198555690
+2014,"gut oder sehr gut",4. Quintil,0.568254822685,0.545010683486,0.591498973420
+2014,"gut oder sehr gut",5. Quintil (oberste Einkommen),0.583281008819,0.560130665409,0.606431295765

@@ -1,61 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1157" style="height:1157px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="1193" style="height:1193px;width:640px;">
+    <desc style="">
+        The chart depicts an international comparison of tax ratios in 2015. With a tax ratio of 36.9 percent, Germany is mid-table and at a similar level to the Netherlands and Slovenia. Ireland, with a ratio of 23.6 percent, had the lowest quota, while Denmark had the highest with some 46.6 percent.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
         <g style="">
-            <text y="0" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:21.515625px;fill:#666666;">
-                USA
-            </text>
-            <g transform="translate(0,15)" style="">
-                <rect x="0" fill="#8c1478" width="278" height="16" style="fill:#8c1478;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="40" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:57.125px;fill:#666666;">
-                Switzerland
-            </text>
-            <g transform="translate(0,55)" style="">
-                <rect x="0" fill="#8c1478" width="285" height="16" style="fill:#8c1478;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="80" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:34.953125px;fill:#666666;">
+            <text y="0" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:34.953125px;fill:#666666;">
                 Ireland
             </text>
-            <g transform="translate(0,95)" style="">
-                <rect x="0" fill="#8c1478" width="320" height="16" style="fill:#8c1478;"/>
+            <g transform="translate(0,15)" style="">
+                <rect x="0" fill="#8c1478" width="253" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="120" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.390625px;fill:#666666;">
-                Japan*
+            <text y="40" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:21.515625px;fill:#666666;">
+                USA
             </text>
-            <g transform="translate(0,135)" style="">
-                <rect x="0" fill="#8c1478" width="324" height="16" style="fill:#8c1478;"/>
+            <g transform="translate(0,55)" style="">
+                <rect x="0" fill="#8c1478" width="283" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="160" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:36.140625px;fill:#666666;">
+            <text y="80" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:57.125px;fill:#666666;">
+                Switzerland
+            </text>
+            <g transform="translate(0,95)" style="">
+                <rect x="0" fill="#8c1478" width="299" height="16" style="fill:#8c1478;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="120" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:36.140625px;fill:#666666;">
                 Canada
             </text>
-            <g transform="translate(0,175)" style="">
-                <rect x="0" fill="#8c1478" width="330" height="16" style="fill:#8c1478;"/>
+            <g transform="translate(0,135)" style="">
+                <rect x="0" fill="#8c1478" width="341" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="200" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:40.0625px;fill:#666666;">
-                Slovakia
+            <text y="160" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.390625px;fill:#666666;">
+                Japan*
             </text>
-            <g transform="translate(0,215)" style="">
-                <rect x="0" fill="#8c1478" width="332" height="16" style="fill:#8c1478;"/>
+            <g transform="translate(0,175)" style="">
+                <rect x="0" fill="#8c1478" width="342" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="240" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:39.9375px;fill:#666666;">
+            <text y="200" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:39.9375px;fill:#666666;">
                 Poland*
             </text>
+            <g transform="translate(0,215)" style="">
+                <rect x="0" fill="#8c1478" width="343" height="16" style="fill:#8c1478;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="240" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:40.0625px;fill:#666666;">
+                Slovakia
+            </text>
             <g transform="translate(0,255)" style="">
-                <rect x="0" fill="#8c1478" width="341" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="345" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
@@ -63,31 +65,31 @@
                 United Kingdom
             </text>
             <g transform="translate(0,295)" style="">
-                <rect x="0" fill="#8c1478" width="349" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="348" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="320" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:36.03125px;fill:#666666;">
-                Estonia
-            </text>
-            <g transform="translate(0,335)" style="">
-                <rect x="0" fill="#8c1478" width="352" height="16" style="fill:#8c1478;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="360" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.859375px;fill:#666666;">
-                Spain
-            </text>
-            <g transform="translate(0,375)" style="">
-                <rect x="0" fill="#8c1478" width="355" height="16" style="fill:#8c1478;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="400" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:74.734375px;fill:#666666;">
+            <text y="320" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:74.734375px;fill:#666666;">
                 Czech Republic
             </text>
-            <g transform="translate(0,415)" style="">
+            <g transform="translate(0,335)" style="">
                 <rect x="0" fill="#8c1478" width="358" height="16" style="fill:#8c1478;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="360" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:36.03125px;fill:#666666;">
+                Estonia
+            </text>
+            <g transform="translate(0,375)" style="">
+                <rect x="0" fill="#8c1478" width="359" height="16" style="fill:#8c1478;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="400" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:26.859375px;fill:#666666;">
+                Spain
+            </text>
+            <g transform="translate(0,415)" style="">
+                <rect x="0" fill="#8c1478" width="361" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
@@ -95,23 +97,23 @@
                 Portugal
             </text>
             <g transform="translate(0,455)" style="">
-                <rect x="0" fill="#8c1478" width="368" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="369" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="480" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.84375px;fill:#666666;">
-                Greece
-            </text>
-            <g transform="translate(0,495)" style="">
-                <rect x="0" fill="#8c1478" width="384" height="16" style="fill:#8c1478;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="520" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:40.8125px;fill:#666666;">
+            <text y="480" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:40.8125px;fill:#666666;">
                 Slovenia
             </text>
-            <g transform="translate(0,535)" style="">
+            <g transform="translate(0,495)" style="">
                 <rect x="0" fill="#8c1478" width="391" height="16" style="fill:#8c1478;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="520" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:33.84375px;fill:#666666;">
+                Greece
+            </text>
+            <g transform="translate(0,535)" style="">
+                <rect x="0" fill="#8c1478" width="393" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
@@ -119,63 +121,63 @@
                 Germany
             </text>
             <g transform="translate(0,575)" style="">
-                <rect x="0" fill="#bd4aa5" width="391" height="16" style="fill:#bd4aa5;"/>
+                <rect x="0" fill="#bd4aa5" width="394" height="16" style="fill:#bd4aa5;"/>
             </g>
         </g>
         <g style="">
-            <text y="600" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:65.8125px;fill:#666666;">
-                Netherlands*
+            <text y="600" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:61.40625px;fill:#666666;">
+                Luxembourg
             </text>
             <g transform="translate(0,615)" style="">
-                <rect x="0" fill="#8c1478" width="392" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="396" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="640" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:61.40625px;fill:#666666;">
-                Luxembourg
+            <text y="640" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:60.03125px;fill:#666666;">
+                Netherlands
             </text>
             <g transform="translate(0,655)" style="">
                 <rect x="0" fill="#8c1478" width="404" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="680" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.84375px;fill:#666666;">
-                Hungary
-            </text>
-            <g transform="translate(0,695)" style="">
-                <rect x="0" fill="#8c1478" width="412" height="16" style="fill:#8c1478;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="720" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:38.046875px;fill:#666666;">
+            <text y="680" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:38.046875px;fill:#666666;">
                 Norway
             </text>
+            <g transform="translate(0,695)" style="">
+                <rect x="0" fill="#8c1478" width="407" height="16" style="fill:#8c1478;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="720" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:41.84375px;fill:#666666;">
+                Hungary
+            </text>
             <g transform="translate(0,735)" style="">
-                <rect x="0" fill="#8c1478" width="418" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="421" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
-            <text y="760" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:38.34375px;fill:#666666;">
-                Sweden
-            </text>
-            <g transform="translate(0,775)" style="">
-                <rect x="0" fill="#8c1478" width="456" height="16" style="fill:#8c1478;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="800" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:34.5px;fill:#666666;">
-                Austria
-            </text>
-            <g transform="translate(0,815)" style="">
-                <rect x="0" fill="#8c1478" width="459" height="16" style="fill:#8c1478;"/>
-            </g>
-        </g>
-        <g style="">
-            <text y="840" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:21.96875px;fill:#666666;">
+            <text y="760" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:21.96875px;fill:#666666;">
                 Italy
             </text>
+            <g transform="translate(0,775)" style="">
+                <rect x="0" fill="#8c1478" width="463" height="16" style="fill:#8c1478;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="800" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:38.34375px;fill:#666666;">
+                Sweden
+            </text>
+            <g transform="translate(0,815)" style="">
+                <rect x="0" fill="#8c1478" width="463" height="16" style="fill:#8c1478;"/>
+            </g>
+        </g>
+        <g style="">
+            <text y="840" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:34.5px;fill:#666666;">
+                Austria
+            </text>
             <g transform="translate(0,855)" style="">
-                <rect x="0" fill="#8c1478" width="466" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="465" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
@@ -183,7 +185,7 @@
                 Finland
             </text>
             <g transform="translate(0,895)" style="">
-                <rect x="0" fill="#8c1478" width="469" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="470" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
@@ -191,7 +193,7 @@
                 Belgium
             </text>
             <g transform="translate(0,935)" style="">
-                <rect x="0" fill="#8c1478" width="478" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="479" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
@@ -199,7 +201,7 @@
                 France
             </text>
             <g transform="translate(0,975)" style="">
-                <rect x="0" fill="#8c1478" width="483" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="486" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g style="">
@@ -207,7 +209,7 @@
                 Denmark
             </text>
             <g transform="translate(0,1015)" style="">
-                <rect x="0" fill="#8c1478" width="544" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="498" height="16" style="fill:#8c1478;"/>
             </g>
         </g>
         <g transform="translate(0,1039)" style="">
@@ -235,14 +237,19 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="1061" width="640" height="96" style="display:block;height:96px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
-            <div style="display:block;height:96px;width:640px;">
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  OECD 2015. Revenue Statistics 1965-2014. Bundesministerium der Finanzen 2016. Die wichtigsten Steuern im internationalen Vergleich 2015.
+    <foreignObject x="0" y="1061" width="640" height="132" style="display:block;height:132px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
+            <div style="display:block;height:132px;width:640px;">
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  OECD 2015. Revenue Statistics 1965-2014. German Federal Ministry of Finance (2016). Die wichtigsten Steuern im internationalen Vergleich 2015
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
@@ -251,7 +258,7 @@
                         </div>
                         <div style="display:block;float:left;height:42px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                * Data for the Netherlands, Japan and Poland for 2013.
+                                * Data for Japan and Poland for 2014.
                             </p>
                         </div>
                     </div>

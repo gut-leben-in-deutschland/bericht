@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 import geoData, {availableGeotiffs} from 'utils/geoData';
 import {scaleOrdinal} from 'd3-scale';
@@ -307,7 +308,7 @@ GenericMap.propTypes = {
   mini: PropTypes.bool,
   height: PropTypes.number.isRequired,
   column: PropTypes.string,
-  columnSort: PropTypes.oneOf(['none']),
+  columnSort: PropTypes.oneOf(['none', 'descending']),
   columnFilter: PropTypes.arrayOf(PropTypes.shape({
     title: PropTypes.string.isRequired,
     test: PropTypes.string.isRequired,
@@ -392,7 +393,7 @@ KRegMap.defaultProps = {
 export const KrsMap = ({krsYear, ...props}) => <GenericMapWithFeatures {...props} features={`krs-${krsYear}`} />;
 
 KrsMap.propTypes = {
-  krsYear: PropTypes.oneOf([2014, 2015, 'mpidr-396'])
+  krsYear: PropTypes.oneOf([2014, 2015, 2016, 'mpidr-396'])
 };
 
 KrsMap.defaultProps = {

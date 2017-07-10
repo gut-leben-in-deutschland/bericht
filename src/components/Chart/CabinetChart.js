@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 import Chart from 'components/Chart/Chart';
 import {withCabinet} from 'cabinet';
@@ -46,13 +47,14 @@ export const ChartFromConfig = withCabinet(
     return files;
   }
 )(
-  ({values, config, translations, cabinet: {t, locale}, description, license}) => <Chart
+  ({values, config, translations, cabinet: {t, locale}, description, license, newData}) => <Chart
     values={List(values)}
     type={config.get('type')}
     description={description}
     license={license}
     config={config.delete('type')}
     locale={locale}
+    newData={newData}
     t={t}
     tLabel={selectTLabel({locale, translations})} />
 );
@@ -60,6 +62,7 @@ export const ChartFromConfig = withCabinet(
 ChartFromConfig.propTypes = {
   config: ImmutablePropTypes.map.isRequired,
   description: PropTypes.object.isRequired,
+  newData: PropTypes.bool.isRequired,
   license: PropTypes.object
 };
 
@@ -100,7 +103,6 @@ const CabinetChart = withCabinet(
     if (!chart) {
       return <div>Unknown chart {chartId}</div>;
     }
-
     let finalConfig = Map({
       type: chart.type,
       data: chart.data
@@ -122,7 +124,7 @@ const CabinetChart = withCabinet(
     const data = finalConfig.get('data');
     const license = licenses.find(l => l.data === data);
 
-    return <ChartFromConfig config={finalConfig} description={chart} license={license} />;
+    return <ChartFromConfig config={finalConfig} newData={chart.new_data === 'TRUE'} description={chart} license={license} />;
   }
 );
 

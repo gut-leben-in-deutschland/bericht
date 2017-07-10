@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
+    <desc style="">
+        The chart shows the coverage of employees by collective agreements for West German and East German federal states in the period 1996 to 2016. Collective agreements were less prevalent in East German federal states all through this period. Both in East German and West German federal states, coverage by collective agreements has dropped since 1996. In 1996, 70 percent of all employees in West Germany worked in businesses covered by collective agreements compared to only 51 percent in 2016. In East Germany, the figure dropped from 56 percent in 1996 to 36 percent in 2016.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1996
                 </text>
             </g>
-            <g transform="translate(147.8178674351585,264)" style="">
+            <g transform="translate(140.43203285420947,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2002
                 </text>
             </g>
-            <g transform="translate(320.2495677233429,264)" style="">
+            <g transform="translate(304.24804928131414,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2009
@@ -24,16 +26,16 @@
             <g transform="translate(468,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,95.99999999999997L49.29510086455331,108L98.52276657060519,123.00000000000003L147.8178674351585,132.00000000000003L197.04553314121037,138.00000000000003L246.34063400576366,141L295.5682997118156,144L320.2495677233429,150L344.8634005763689,153L369.4772334293948,153L394.09106628242074,156L418.7723342939481,159L443.38616714697406,156L468,153" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,95.99999999999997L46.832032854209444,108L93.60000000000001,123.00000000000003L140.43203285420947,132.00000000000003L187.20000000000002,138.00000000000003L234.03203285420943,141L280.8,144L304.24804928131414,150L327.63203285420946,153L351.0160164271047,153L374.40000000000003,156L397.8480492813142,159L421.2320328542094,156L444.61601642710474,153L468,156" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="472" x2="478" y1="153" y2="153" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="482" y="153" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:154.421875px;fill:#666666;">
+                    <line x1="472" x2="478" y1="156" y2="156" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="482" y="156" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:154.421875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            37%
+                            36%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              East German federal states
@@ -42,7 +44,7 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#be5b00" stroke-width="3" stroke-dasharray="none" d="M0,54.00000000000003L49.29510086455331,60L98.52276657060519,75L147.8178674351585,75L197.04553314121037,81L246.34063400576366,93.00000000000003L295.5682997118156,99L320.2495677233429,95.99999999999997L344.8634005763689,95.99999999999997L369.4772334293948,102L394.09106628242074,105L418.7723342939481,108L443.38616714697406,105L468,111" style="fill:none;stroke:#be5b00;stroke-width:3px;"/>
+                <path fill="none" stroke="#be5b00" stroke-width="3" stroke-dasharray="none" d="M0,54.00000000000003L46.832032854209444,60L93.60000000000001,75L140.43203285420947,75L187.20000000000002,81L234.03203285420943,93.00000000000003L280.8,99L304.24804928131414,95.99999999999997L327.63203285420946,95.99999999999997L351.0160164271047,102L374.40000000000003,105L397.8480492813142,108L421.2320328542094,105L444.61601642710474,111L468,111" style="fill:none;stroke:#be5b00;stroke-width:3px;"/>
                 <g style="">
                     <line x1="472" x2="478" y1="111" y2="111" stroke="#be5b00" stroke-width="3" style="stroke:#be5b00;stroke-width:3px;"/>
                     <text dy="0.3em" x="482" y="111" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:158.71875px;fill:#666666;">
@@ -75,16 +77,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
                 <div style="display:block;height:0px;padding-right:171px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  IAB Betriebspanel 2015.
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Institute for Employment Research, IAB Betriebspanel 2016.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

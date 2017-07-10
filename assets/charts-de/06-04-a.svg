@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="702" style="height:702px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="720" style="height:720px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung von Hasskriminalität im Zeitraum von 2001 bis 2016. In diesem Zeitraum ist die Hasskriminalität von 5.376 auf 10.751 Fälle gestiegen und hat damit 2016 den Höchstwert erreicht. Dafür war im Wesentlichen die besonders starke Zunahme von fremdenfeindlichen Straftaten verantwortlich. Diese sind im Betrachtungszeitraum von 3.548 auf 8.983 Fälle gestiegen.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:96.40625px;fill:#666666;">
@@ -11,31 +13,31 @@
                     2001
                 </text>
             </g>
-            <g transform="translate(179.63583023665166,288)" style="">
+            <g transform="translate(167.66666666666666,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2006
                 </text>
             </g>
-            <g transform="translate(323.36416976334834,288)" style="">
+            <g transform="translate(335.3333333333333,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2010
+                    2011
                 </text>
             </g>
             <g transform="translate(503,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#467aaf" stroke-width="3" stroke-dasharray="none" d="M0,201.98399999999998L35.90749070995501,207.792L71.81498141991003,226.4L107.72247212986505,222.176L143.72833952669666,218.976L179.63583023665166,202.352L215.54332094660668,211.312L251.45081165656168,211.888L287.4566790533933,214.672L323.36416976334834,227.68L359.2716604733033,223.36L395.17915118325834,215.776L431.18501858008995,212.048L467.092509290045,194.272L503,122.03200000000001" style="fill:none;stroke:#467aaf;stroke-width:3px;"/>
+                <path fill="none" stroke="#467aaf" stroke-width="3" stroke-dasharray="none" d="M0,201.98399999999998L33.514968966776195,207.792L67.02993793355239,226.4L100.54490690032858,222.176L134.1516976998905,218.976L167.66666666666666,202.352L201.18163563344285,211.312L234.69660460021908,211.888L268.303395399781,214.672L301.81836436655715,227.68L335.3333333333333,223.36L368.84830230010954,215.776L402.45509309967144,212.048L435.9700620664476,194.272L469.4850310332238,122.03200000000001L503,115.98400000000001" style="fill:none;stroke:#467aaf;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="507" x2="513" y1="122.03200000000001" y2="122.03200000000001" stroke="#467aaf" stroke-width="3" style="stroke:#467aaf;stroke-width:3px;"/>
-                    <text dy="0.3em" x="517" y="122.03200000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:114.90625px;fill:#666666;">
+                    <line x1="507" x2="513" y1="115.98400000000001" y2="115.98400000000001" stroke="#467aaf" stroke-width="3" style="stroke:#467aaf;stroke-width:3px;"/>
+                    <text dy="0.3em" x="517" y="115.98400000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:114.90625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            10.373
+                            10.751
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Hasskriminalität
@@ -74,31 +76,31 @@
                     2001
                 </text>
             </g>
-            <g transform="translate(179.63583023665166,288)" style="">
+            <g transform="translate(167.66666666666666,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2006
                 </text>
             </g>
-            <g transform="translate(323.36416976334834,288)" style="">
+            <g transform="translate(335.3333333333333,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2010
+                    2011
                 </text>
             </g>
             <g transform="translate(503,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#004f80" stroke-width="3" stroke-dasharray="none" d="M0,231.232L35.90749070995501,241.96800000000002L71.81498141991003,247.6L107.72247212986505,244.89600000000002L143.72833952669666,246.48000000000002L179.63583023665166,233.216L215.54332094660668,240.176L251.45081165656168,239.232L287.4566790533933,246.976L323.36416976334834,253.344L359.2716604733033,247.552L395.17915118325834,241.248L431.18501858008995,236.032L467.092509290045,224.88L503,151.536" style="fill:none;stroke:#004f80;stroke-width:3px;"/>
+                <path fill="none" stroke="#004f80" stroke-width="3" stroke-dasharray="none" d="M0,231.232L33.514968966776195,241.96800000000002L67.02993793355239,247.6L100.54490690032858,244.89600000000002L134.1516976998905,246.48000000000002L167.66666666666666,233.216L201.18163563344285,240.176L234.69660460021908,239.232L268.303395399781,246.976L301.81836436655715,253.344L335.3333333333333,247.552L368.84830230010954,241.248L402.45509309967144,236.032L435.9700620664476,224.88L469.4850310332238,151.536L503,144.272" style="fill:none;stroke:#004f80;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="507" x2="513" y1="151.536" y2="151.536" stroke="#004f80" stroke-width="3" style="stroke:#004f80;stroke-width:3px;"/>
-                    <text dy="0.3em" x="517" y="151.536" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:115.34375px;fill:#666666;">
+                    <line x1="507" x2="513" y1="144.272" y2="144.272" stroke="#004f80" stroke-width="3" style="stroke:#004f80;stroke-width:3px;"/>
+                    <text dy="0.3em" x="517" y="144.272" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:115.34375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            8.529
+                            8.983
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Fremdenfeindlich
@@ -126,16 +128,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="624" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
+    <foreignObject x="0" y="624" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-right:136px;width:640px;">
                 </div>
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistik zur politisch motivierten Kriminalität (PMK), BMI.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistik zur Politisch Motivierten Kriminalität 2017. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

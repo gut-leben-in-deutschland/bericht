@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der Langzeitarbeitslosigkeit im Zeitraum von 1998 bis 2016. Die Zahl der Langzeitarbeitslosen erreichte 2006 einen Höchstwert von etwa 1.864.000 und ist seit dem um rund 800.000 gesunken. 2016 lag die Zahl der Langzeitarbeitslosen bei etwa 993.000.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,65 +11,70 @@
                     1998
                 </text>
             </g>
-            <g transform="translate(201.84441939120632,264)" style="">
+            <g transform="translate(195.30362032248252,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2004
                 </text>
             </g>
-            <g transform="translate(370.1555806087937,264)" style="">
+            <g transform="translate(390.6963796775175,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2009
+                    2010
                 </text>
             </g>
-            <g transform="translate(572,264)" style="">
+            <g transform="translate(586,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,72.08760000000001L33.62538250926075,80.34564L67.2507650185215,89.49732L100.96827186342405,101.50008L134.59365437268482,99.67344L168.21903688194556,81.4308L201.84441939120632,62.28660000000002L235.56192623610886,52.92959999999999L269.18730874536965,40.26108000000002L302.81269125463035,56.03688L336.4380737638911,104.8152L370.1555806087937,127.42416L403.78096311805444,127.15583999999998L437.4063456273152,135.8244L471.03172813657596,138.4038L504.7492349814785,135.63348000000002L538.3746174907393,134.78976L572,139.28628" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,72.08760000000001L32.53574688165501,80.34564L65.07149376331002,89.49732L97.69637967751748,101.50008L130.23212655917249,99.67344L162.7678734408275,81.4308L195.30362032248252,62.28660000000002L227.92850623669,52.92959999999999L260.46425311834497,40.26108000000002L293,56.03688L325.535746881655,104.8152L358.1606327958625,127.42416L390.6963796775175,127.15583999999998L423.23212655917246,135.8244L455.76787344082754,138.4038L488.39275935503497,135.63348000000002L520.9285062366899,134.78976L553.464253118345,139.28628L586,144.83124" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="576" x2="582" y1="139.28628" y2="139.28628" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="586" y="139.28628" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:51.71875px;fill:#666666;">
+                    <line x1="590" x2="596" y1="144.83124" y2="144.83124" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="600" y="144.83124" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:38.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            1,039 Mio.
+                            993.073
                         </tspan>
                     </text>
                 </g>
             </g>
             <g transform="translate(0,264)" style="">
-                <line x2="572" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+                <line x2="586" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
                     0
                 </text>
             </g>
             <g transform="translate(0,144)" style="">
-                <line x2="572" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <line x2="586" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
                 <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
                     1
                 </text>
             </g>
             <g transform="translate(0,24)" style="">
-                <line x2="572" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
+                <line x2="586" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-width:1px;"/>
                 <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:30.28125px;fill:#666666;">
                     2 Mio. 
                 </text>
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
-                <div style="display:block;height:0px;padding-right:67px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
+                <div style="display:block;height:0px;padding-right:53px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Bundesagentur für Arbeit.
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistik der Bundesagentur für Arbeit, Arbeitslosigkeit im Zeitverlauf. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

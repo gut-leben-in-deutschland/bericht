@@ -1,4 +1,5 @@
-import React, {PropTypes, Component} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import {defaultMemoize as memoize} from 'reselect';
 import {shallowEqual} from 'utils/shallowEqual';
 import {select, mouse, event} from 'd3-selection';
@@ -40,6 +41,17 @@ const NBSP = '\u00a0';
 const TRANSITION_DURATION = 650;
 const TRANSITION_TEXT_FADE_DURATION = 400;
 const HIT_TOLERANCE = 10;
+
+// Values for the 'type' column in the data file.
+export const GROUP_BACKGROUND = 'Hintergrund';
+export const GROUP_INDUSTRY = 'Industrie';
+export const GROUP_TRAFFIC = 'Verkehr';
+
+const groupLabelTextKey = ({
+  [GROUP_BACKGROUND]: 'flagship/map-dots/background',
+  [GROUP_INDUSTRY]: 'flagship/map-dots/industry',
+  [GROUP_TRAFFIC]: 'flagship/map-dots/traffic',
+});
 
 export const stages = {
   map: {
@@ -302,6 +314,7 @@ export class MapDotsVisualization extends Component {
         .attr('cy', d => d.position[1]);
 
     let groupLabelTexts = labels.selectAll('text.label').data(groupLabels);
+
     groupLabelTexts.exit()
       .transition().duration(textTransitionDuration)
         .style('opacity', 0).remove();
@@ -318,7 +331,7 @@ export class MapDotsVisualization extends Component {
     groupLabelTexts
       .attr('x', d => d.x)
       .attr('y', d => d.y)
-      .text(d => d.label);
+      .text(d => this.props.t(groupLabelTextKey[d.label]));
 
     let groupValuesTexts = labels.selectAll('text.value').data(groupLabels);
     groupValuesTexts.exit()

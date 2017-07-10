@@ -95,32 +95,32 @@ In **Ostdeutschland** fiel die Wahlbeteiligung mit **67,6 Prozent** insgesamt ni
 <!--ScrollBlock start stage=difference highlights=12064,12067,12071,12065,12063,14625,14511,14521,12069,12054,14523,12060,14626,14730,14524,14522,14628,14729,14627,14713,14612
 -->
 
-**Wahlbeteiligung in 21 Landkreisen und kreisfreien Städten gestiegen**: Von den über 400 Landkreisen und kreisfreien Städten ist die **Wahlbeteiligung 2013** nur in 21 Landkreisen gegenüber der Bundestagswahl 1994 gestiegen. Diese liegen **alle in Ostdeutschland**, mehrheitlich in Brandenburg und Sachsen. Besonders deutlich war die Veränderung in **Dresden** und **Leipzig**. Hier hat die Wahlbeteiligung um 12,3 und 9,7 Prozentpunkte zugenommen.
+**Wahlbeteiligung in 21 Landkreisen und kreisfreien Städten gestiegen**: Von den über 400 Landkreisen und kreisfreien Städten ist die Wahlbeteiligung 2013 nur in 21 Landkreisen gegenüber der Bundestagswahl 1994 gestiegen. Diese liegen alle in Ostdeutschland, mehrheitlich in Brandenburg und Sachsen. Besonders deutlich war die Veränderung in Dresden und Leipzig. Hier hat die Wahlbeteiligung um 12,3 und 9,7 Prozentpunkte zugenommen.
 
 <!--ScrollBlock end-->
 
 
 <!--ScrollBlock start stage=difference highlights=09263,05515-->
 
-**Deutliche regionale Unterschiede in westdeutschen Landkreisen**: In **Westdeutschland** gaben mit **72,4 Prozent** insgesamt mehr Wahlberechtigte ihre Stimme ab, allerdings zeigen sich hier große regionale Unterschiede. In **Münster** war die **Wahlbeteiligung am höchsten**. Hier gaben **78,5 Prozent** der Wahlberechtigten ihre Stimme ab. Am **geringsten** fiel die Wahlbeteiligung in Straubing aus. Nur **57,4 Prozent** der Wahlberechtigten gingen hier zur Wahl.
+**Deutliche regionale Unterschiede in westdeutschen Landkreisen**: In Westdeutschland gaben mit 72,4 Prozent insgesamt mehr Wahlberechtigte ihre Stimme ab, allerdings zeigen sich hier große regionale Unterschiede. In Münster war die Wahlbeteiligung am höchsten. Hier gaben 78,5 Prozent der Wahlberechtigten ihre Stimme ab. Am geringsten fiel die Wahlbeteiligung in Straubing aus. Nur 57,4 Prozent der Wahlberechtigten gingen hier zur Wahl.
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=difference highlights=09662,07320,09561,15085,06413,07314,09361,07311,07134,06534,09363,09762,09763,03103,09476,06632,09764,03102,07132,06611,06631,03405,03155,05913,07334,06636,05914,10043,06414,03153,06433,06634,03255,07141,06533,03252,07312,05513,07333,06633-->
 
-**Besonders starker Rückgang der Wahlbeteiligung in westdeutschen Landkreisen**: In **Westdeutschland** finden sich die Landkreise, in denen die Wahlbeteiligung 2013 im Vergleich zur Bundestagswahl 1994 **besonders stark rückläufig** war. Von den 40 Landkreisen mit dem stärksten Rückgang liegen 39 in Westdeutschland. Schwerpunkte sind hier **Bayern, Hessen, Niedersachsen und Rheinland-Pfalz**. Besonders stark ist die Wahlbeteiligung in Schweinfurt eingebrochen - ganze 16,2 Prozentpunkte weniger.  
+**Besonders starker Rückgang der Wahlbeteiligung in westdeutschen Landkreisen**: In Westdeutschland finden sich die Landkreise, in denen die Wahlbeteiligung 2013 im Vergleich zur Bundestagswahl 1994 besonders stark rückläufig war. Von den 40 Landkreisen mit dem stärksten Rückgang liegen 39 in Westdeutschland. Schwerpunkte sind hier Bayern, Hessen, Niedersachsen und Rheinland-Pfalz. Besonders stark ist die Wahlbeteiligung in Schweinfurt eingebrochen - ganze 16,2 Prozentpunkte weniger.  
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=difference highlights=09263,15085,15089,09662,15087,15082,12051,09272,09276,09271,15084,15083,09361,15090,09763,09161,09561,12068,15088,09363,15086,07317,09762,09275,09279,15081,12073,13073,13075,09464,15003,04012,09761,13071,09764,16072,09372,12053,16065,09262-->
 
-**Niedrigste Wahlbeteiligung 2013 überwiegend in Bayern, Thüringen und Sachsen-Anhalt**: Unter den 40 Landkreisen und kreisfreien Städten mit der **niedrigsten Wahlbeteiligung** gingen nur zwischen **57,4 und 63,4 Prozent aller Wahlberechtigten** zur Bundestagswahl. Von diesen lagen 18 in Bayern, 7 in Sachsen-Anhalt und 6 in Thüringen.
+**Niedrigste Wahlbeteiligung 2013 überwiegend in Bayern, Thüringen und Sachsen-Anhalt**: Unter den 40 Landkreisen und kreisfreien Städten mit der niedrigsten Wahlbeteiligung gingen nur zwischen 57,4 und 63,4 Prozent aller Wahlberechtigten zur Bundestagswahl. Von diesen lagen 18 in Bayern, 7 in Sachsen-Anhalt und 6 in Thüringen.
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=difference highlights=07315,03355,05566,03157,08435,01058,03458,08226,09179,03158,01056,08311,09572,10046,08236,08315,08119,06439,08425,08111,08221,01057,09679,09175,05314,08115,01062,09184,08118,07338,08116,06436,06434,07339,05378,05558,03353,09188,08416,05515-->
 
-**Höchste Wahlbeteiligung 2013 besonders häufig in Baden-Württemberg**: Unter den 40 Landkreisen und kreisfreien Städten mit der **höchsten Wahlbeteiligung** gingen zwischen **74,6 und 78,5 Prozent aller Wahlberechtigten** zur Bundestagswahl. Von diesen lagen 13 allein in Baden-Württemberg und jeweils fünf in Niedersachsen und Nordrhein-Westfalen.
+**Höchste Wahlbeteiligung 2013 besonders häufig in Baden-Württemberg**: Unter den 40 Landkreisen und kreisfreien Städten mit der höchsten Wahlbeteiligung gingen zwischen 74,6 und 78,5 Prozent aller Wahlberechtigten zur Bundestagswahl. Von diesen lagen 13 allein in Baden-Württemberg und jeweils fünf in Niedersachsen und Nordrhein-Westfalen.
 
 <!--ScrollBlock end-->
 
@@ -131,13 +131,13 @@ In **Ostdeutschland** fiel die Wahlbeteiligung mit **67,6 Prozent** insgesamt ni
 
 <!-- Quote text='Demokratie ist ein Geschenk, aber es fehlt das Bewusstsein, wie grandios dieses Geschenk ist.' source='aus dem Bürgerdialog des Deutschen Naturschutzrings in Berlin am 1. September 2015' -->
 
-Auch bei **vielen Landtagswahlen** zeigte sich bis vor kurzem eine **rückläufige Wahlbeteiligung**. Ein Vergleich der Wahlbeteiligung bei der jeweils letzten und vorletzten Landtagswahl zeigt: In den meisten Bundesländern ist die **Wahlbeteiligung gesunken**, besonders deutlich in **Brandenburg, Saarland und Schleswig-Holstein**. In Brandenburg, Bremen und Sachsen lag die Wahlbeteiligung bei der letzten Landtagswahl unter 50 Prozent, das heißt: Nur jeder zweite Wahlberechtigte ist zur Wahl gegangen. In fünf Bundesländern ist die Wahlbeteiligung beim Vergleich der vorletzten und letzten Landtagswahl gestiegen: Baden-Württemberg, Bayern, Hessen, Rheinland-Pfalz und Sachsen-Anhalt.
+Auch bei **vielen Landtagswahlen** zeigte sich bis vor kurzem eine **rückläufige Wahlbeteiligung**. Ein Vergleich der Wahlbeteiligung bei der jeweils letzten und vorletzten Landtagswahl zeigt: In einigen Bundesländern ist die **Wahlbeteiligung gesunken**, besonders deutlich in **Thüringen, Bremen und Sachsen**. In Brandenburg, Bremen und Sachsen lag die Wahlbeteiligung bei der letzten Landtagswahl unter 50 Prozent, das heißt: Nur jeder zweite Wahlberechtigte ist zur Wahl gegangen. Die Landtagswahlen im Jahr 2016 und 2017 deuten jedoch auf eine Trendumkehr hin. In allen Bundesländern ist die Wahlbeteiligung bei der letzten gegenüber der vorletzten Landtagswahl gestiegen.  
 
 ```chart
 11-01-d
 ```
 
-Zu einem **leichten Umschwung** kam es bei den Landtagswahlen im März 2016 in **Baden-Württemberg, Rheinland-Pfalz und Sachsen-Anhalt**. Dieser **positive Trend** wurde bei den Wahlen in **Mecklenburg-Vorpommern und Berlin** im September 2016 fortgesetzt. Deutlich mehr Menschen sind hier wählen gegangen. Diese Wahlen standen unter dem Eindruck der intensiven Debatten um die Flüchtlingspolitik und motivierten so mehr Wahlberechtigte zur Stimmabgabe.
+Zu einem **leichten Umschwung** kam es bei den Landtagswahlen im März 2016 in **Baden-Württemberg, Rheinland-Pfalz und Sachsen-Anhalt**. Dieser **positive Trend** wurde bei den Wahlen in **Mecklenburg-Vorpommern und Berlin** im September 2016 fortgesetzt. Deutlich mehr Menschen sind hier wählen gegangen. Diese Wahlen standen unter dem Eindruck der intensiven Debatten um die Flüchtlingspolitik und motivierten so mehr Wahlberechtigte zur Stimmabgabe. Aber auch bei den Landtagswahlen 2017 sind deutlich mehr Menschen wählen gegangen. Besonders deutlich war der Anstieg im Saarland mit mehr als sechs Prozentpunkten, aber auch in Schleswig-Holstein und Nordrhein-Westfalen ist die Wahlbeteiligung um mehr als fünf Prozentpunkte gestiegen. 
 
 <!-- GovernmentMeasures start -->
 
@@ -191,7 +191,7 @@ Die Bundesregierung eröffnet neue Dialogangebote, bei denen sich die Bürger Ge
 - [Dialog zur Energiewende]( http://www.bmwi.de/DE/Themen/Energie/Netze-und-Netzausbau/buergerdialog.html)
 - [Dialog zum Weißbuch 2016](https://www.bmvg.de/portal/a/bmvg/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP3I5EyrpHK9pNyydL3y1Mzi4qTS5Ay9lMzEnPx0_YJsR0UA06frWg!!/)
 - [Dialoge zu Umwelt und Stadtentwicklung](http://www.bmub.bund.de/buergerbeteiligung/)
-- [Themenjahr Partizipation](https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/BeauftragtefuerIntegration/themenjahr-teilhabe/_node.html)
+- [Themenjahr Partizipation](https://www.bundesregierung.de/Webs/Breg/DE/Bundesregierung/BeauftragtefuerIntegration-alt/themenjahr-teilhabe/_node.html)
 
 <!-- GovernmentMeasures end -->
 
@@ -209,7 +209,7 @@ Wie es um die **Gewährleistung der Freiheits- und Gleichheitsrechte tatsächlic
 11-03-a
 ```
 
-Im **internationalen Vergleich** ist Deutschland ein sehr freies Land, insbesondere die Meinungs- und Versammlungsfreiheit sind stark ausgeprägt. 2015 erreichte die Bundesrepublik den **sechsten Platz von insgesamt 102 untersuchten Staaten**. Verbesserungsbedarf wird Deutschland bei Fragen der Gleichberechtigung sowie der Beseitigung von Diskriminierung bescheinigt.
+Im **internationalen Vergleich** ist Deutschland ein sehr freies Land, insbesondere die Meinungs- und Versammlungsfreiheit sind stark ausgeprägt. 2016 erreichte die Bundesrepublik den **siebten Platz von insgesamt 113 untersuchten Staaten**. Verbesserungsbedarf wird Deutschland bei Fragen der Gleichberechtigung sowie der Beseitigung von Diskriminierung bescheinigt.
 
 Über **Einhaltung und Schutz der Grundrechte** wachen die unabhängige Justiz mit dem Bundesverfassungsgericht an der Spitze und nicht zuletzt die freien Medien. Dem Abbau bestehender Ungleichbehandlungen dienen das Allgemeine Gleichbehandlungsgesetz und die Antidiskriminierungsstelle des Bundes.
 

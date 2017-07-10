@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="height:420px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="438" style="height:438px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Familien- und Lebensformen in den Jahren 1996 und 2015. 56 Prozent der Menschen in Deutschland lebten 2015 mit einem Ehepartner oder einer Ehepartnerin zusammen, 1996 waren es noch 66 Prozent. Der Anteil an Männern und Frauen, die in einer nicht-ehelichen Lebensgemeinschaft zusammenlebten, betrug 1996 sechs Prozent und 2015 neun Prozent. 1996 lebten rund 28 Prozent der Menschen ohne Partner, 2015 waren es rund 34 Prozent. Deutlich weniger als ein Prozent aller Männer oder Frauen lebten 1996 und 2015 mit ihrem Partner bzw. ihrer Partnerin in gleichgeschlechtlichen Lebensgemeinschaften oder in einer eingetragenen Lebenspartnerschaft.
+    </desc>
     <g transform="translate(45,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -12,7 +14,7 @@
             <g transform="translate(549,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
@@ -22,12 +24,12 @@
                         66,1%
                     </text>
                 </g>
-                <path fill="none" stroke="#71d7cc" stroke-width="3" stroke-dasharray="none" d="M0,65.69999999999999L549,93.30000000000001" style="fill:none;stroke:#71d7cc;stroke-width:3px;"/>
+                <path fill="none" stroke="#71d7cc" stroke-width="3" stroke-dasharray="none" d="M0,65.69999999999999L549,94.80000000000004" style="fill:none;stroke:#71d7cc;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="553" x2="559" y1="93.30000000000001" y2="93.30000000000001" stroke="#71d7cc" stroke-width="3" style="stroke:#71d7cc;stroke-width:3px;"/>
-                    <text dy="0.3em" x="563" y="93.30000000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
+                    <line x1="553" x2="559" y1="94.80000000000004" y2="94.80000000000004" stroke="#71d7cc" stroke-width="3" style="stroke:#71d7cc;stroke-width:3px;"/>
+                    <text dy="0.3em" x="563" y="94.80000000000004" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            56,9%
+                            56,4%
                         </tspan>
                     </text>
                 </g>
@@ -39,12 +41,12 @@
                         6,1%
                     </text>
                 </g>
-                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,245.7L549,236.4" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,245.7L549,236.7" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="553" x2="559" y1="236.4" y2="236.4" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
-                    <text dy="0.3em" x="563" y="236.4" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:24.28125px;fill:#666666;">
+                    <line x1="553" x2="559" y1="236.7" y2="236.7" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="563" y="236.7" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:24.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            9,2%
+                            9,1%
                         </tspan>
                     </text>
                 </g>
@@ -73,12 +75,12 @@
                         27,7%
                     </text>
                 </g>
-                <path fill="none" stroke="#1f6e00" stroke-width="3" stroke-dasharray="none" d="M0,180.9L549,163.2" style="fill:none;stroke:#1f6e00;stroke-width:3px;"/>
+                <path fill="none" stroke="#1f6e00" stroke-width="3" stroke-dasharray="none" d="M0,180.9L549,161.4" style="fill:none;stroke:#1f6e00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="553" x2="559" y1="163.2" y2="163.2" stroke="#1f6e00" stroke-width="3" style="stroke:#1f6e00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="563" y="163.2" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:30.28125px;fill:#666666;">
+                    <line x1="553" x2="559" y1="161.4" y2="161.4" stroke="#1f6e00" stroke-width="3" style="stroke:#1f6e00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="563" y="161.4" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            33,6%
+                            34,2%
                         </tspan>
                     </text>
                 </g>
@@ -103,9 +105,9 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="132" style="display:block;height:132px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:136px;width:640px;">
-            <div style="display:block;height:136px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="150" style="display:block;height:150px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:154px;width:640px;">
+            <div style="display:block;height:154px;width:640px;">
                 <div style="display:block;height:40px;padding-left:45px;padding-right:45px;width:640px;">
                     <div style="display:block;height:40px;line-height:12px;width:550px;">
                         <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:235.4375px;">
@@ -130,11 +132,16 @@
                         </div>
                     </div>
                 </div>
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Mikrozensus.
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt (2017), Ergebnisse des Mikrozensus 2015. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

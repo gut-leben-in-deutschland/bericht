@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="720" style="height:720px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="738" style="height:738px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung des Anteils der unterschiedlichen Formen atypischer Beschäftigung an abhängiger Beschäftigung im Zeitraum von 1991 bis 2015. Zu atypischer Beschäftigung zählen befristete Beschäftigung, geringfügige Beschäftigung, Teilzeitbeschäftigung bis zu 20 Wochenstunden und Zeitarbeit. Die Anteile von befristeter, geringfügiger und Teilzeitbeschäftigung an abhängiger Beschäftigung haben sich seit 1991 erhöht. 2015 betrugen sie 7,7 Prozent für befristete Beschäftigung, 7,2 Prozent für geringfüge Beschäftigung und 14.9 Prozent für Teilzeitbeschäftigung. Zeitarbeit wird nur für den Zeitraum 2006 bis 2015 ausgewiesen. Der Anteil von Zeitarbeit an abhängiger Beschäftigung bewegte sich in diesem Zeitraum um rund zwei Prozent. 
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:266.375px;fill:#666666;">
@@ -11,31 +13,31 @@
                     1991
                 </text>
             </g>
-            <g transform="translate(90.0842756814665,288)" style="">
+            <g transform="translate(86.33333333333333,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1999
                 </text>
             </g>
-            <g transform="translate(168.9157243185335,288)" style="">
+            <g transform="translate(172.66666666666666,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2006
+                    2007
                 </text>
             </g>
             <g transform="translate(259,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,189.20520852L11.252827044399476,182.92599732L22.536483751934295,178.09368144L33.78931079633377,173.50370196L45.04213784073325,166.53044796L56.29496488513273,158.91924840000001L67.57862159266755,149.0937768L78.83144863706703,142.63938828000002L90.0842756814665,132.62159508000002L101.33710272586598,129.27583536000003L112.62075943340079,122.37983196000002L123.87358647780027,117.06550932000005L135.12641352219973,106.45049028L146.3792405665992,104.41555152000001L157.66289727413405,94.63546536000004L168.9157243185335,91.93085484000002L180.168551362933,92.38846536000003L191.42137840733247,96.71721252L202.7050351148673,96.29167896000001L213.95786215926677,97.29285096000001L225.21068920366622,96.04504703999999L236.46351624806573,99.45323736L247.74717295560055,100.14385212000002L259,105.75577967999999" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,189.20520852L10.784280173397217,182.92599732L21.598106319872233,178.09368144L32.38238649326945,173.50370196L43.166666666666664,166.53044796L53.950946840063885,158.91924840000001L64.7647729865389,149.0937768L75.54905315993612,142.63938828000002L86.33333333333333,132.62159508000002L97.11761350673055,129.27583536000003L107.93143965320556,122.37983196000002L118.71571982660278,117.06550932000005L129.5,106.45049028L140.2842801733972,104.41555152000001L151.09810631987224,94.63546536000004L161.88238649326945,91.93085484000002L172.66666666666666,92.38846536000003L183.45094684006386,96.71721252L194.2647729865389,96.29167896000001L205.04905315993614,97.29285096000001L215.83333333333334,96.04504703999999L226.61761350673055,99.45323736L237.43143965320556,100.14385212000002L248.2157198266028,105.75577967999999L248.2157198266028,108.84996000000001" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="263" x2="269" y1="105.75577967999999" y2="105.75577967999999" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="273" y="105.75577967999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
+                    <line x1="263" x2="269" y1="108.84996000000001" y2="108.84996000000001" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="273" y="108.84996000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            15,2%
+                            14,9%
                         </tspan>
                     </text>
                 </g>
@@ -71,31 +73,31 @@
                     1991
                 </text>
             </g>
-            <g transform="translate(90.0842756814665,288)" style="">
+            <g transform="translate(86.33333333333333,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1999
                 </text>
             </g>
-            <g transform="translate(168.9157243185335,288)" style="">
+            <g transform="translate(172.66666666666666,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2006
+                    2007
                 </text>
             </g>
             <g transform="translate(259,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,262.79724708L11.252827044399476,261.80991276L22.536483751934295,262.28742276L33.78931079633377,262.14988776L45.04213784073325,258.00503268L56.29496488513273,243.63230063999998L67.57862159266755,234.51122916L78.83144863706703,226.210374L90.0842756814665,217.57698696L101.33710272586598,217.80208368L112.62075943340079,215.31428568L123.87358647780027,213.21361728L135.12641352219973,208.2872532L146.3792405665992,205.564008L157.66289727413405,188.65522620000002L168.9157243185335,181.31889996L180.168551362933,179.2959894L191.42137840733247,188.44369044L202.7050351148673,188.26462800000002L213.95786215926677,191.54059560000002L225.21068920366622,187.65373284L236.46351624806573,193.41966431999998L247.74717295560055,196.0283652L259,200.97537744" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,262.79724708L10.784280173397217,261.80991276L21.598106319872233,262.28742276L32.38238649326945,262.14988776L43.166666666666664,258.00503268L53.950946840063885,243.63230063999998L64.7647729865389,234.51122916L75.54905315993612,226.210374L86.33333333333333,217.57698696L97.11761350673055,217.80208368L107.93143965320556,215.31428568L118.71571982660278,213.21361728L129.5,208.2872532L140.2842801733972,205.564008L151.09810631987224,188.65522620000002L161.88238649326945,181.31889996L172.66666666666666,179.2959894L183.45094684006386,188.44369044L194.2647729865389,188.26462800000002L205.04905315993614,191.54059560000002L215.83333333333334,187.65373284L226.61761350673055,193.41966431999998L237.43143965320556,196.0283652L248.2157198266028,200.97537744L259,201.88452" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="263" x2="269" y1="200.97537744" y2="200.97537744" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="273" y="200.97537744" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:24.28125px;fill:#666666;">
+                    <line x1="263" x2="269" y1="201.88452" y2="201.88452" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="273" y="201.88452" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:24.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            7,3%
+                            7,2%
                         </tspan>
                     </text>
                 </g>
@@ -131,31 +133,31 @@
                     1991
                 </text>
             </g>
-            <g transform="translate(90.0842756814665,288)" style="">
+            <g transform="translate(86.33333333333333,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1999
                 </text>
             </g>
-            <g transform="translate(168.9157243185335,288)" style="">
+            <g transform="translate(172.66666666666666,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2006
+                    2007
                 </text>
             </g>
             <g transform="translate(259,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,214.60182876L11.252827044399476,212.21341524000002L22.536483751934295,218.47638036L33.78931079633377,215.75637372L45.04213784073325,210.29491692L56.29496488513273,212.91620112L67.57862159266755,210.02983032L78.83144863706703,207.03285804L90.0842756814665,197.26422204L101.33710272586598,199.0286928L112.62075943340079,201.31764708000003L123.87358647780027,206.86613316L135.12641352219973,204.80707080000002L146.3792405665992,203.79391008L157.66289727413405,186.94955796L168.9157243185335,180.99414768000003L180.168551362933,181.5233676L191.42137840733247,180.14406888000002L202.7050351148673,183.28570032L213.95786215926677,179.90028131999998L225.21068920366622,181.51800912L236.46351624806573,188.43165468L247.74717295560055,193.63505124L259,196.72752336000002" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,214.60182876L10.784280173397217,212.21341524000002L21.598106319872233,218.47638036L32.38238649326945,215.75637372L43.166666666666664,210.29491692L53.950946840063885,212.91620112L64.7647729865389,210.02983032L75.54905315993612,207.03285804L86.33333333333333,197.26422204L97.11761350673055,199.0286928L107.93143965320556,201.31764708000003L118.71571982660278,206.86613316L129.5,204.80707080000002L140.2842801733972,203.79391008L151.09810631987224,186.94955796L161.88238649326945,180.99414768000003L172.66666666666666,181.5233676L183.45094684006386,180.14406888000002L194.2647729865389,183.28570032L205.04905315993614,179.90028131999998L215.83333333333334,181.51800912L226.61761350673055,188.43165468L237.43143965320556,193.63505124L248.2157198266028,196.72752336000002L259,195.33744000000002" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="263" x2="269" y1="196.72752336000002" y2="196.72752336000002" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="273" y="196.72752336000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:24.28125px;fill:#666666;">
+                    <line x1="263" x2="269" y1="195.33744000000002" y2="195.33744000000002" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="273" y="195.33744000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:24.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            7,6%
+                            7,7%
                         </tspan>
                     </text>
                 </g>
@@ -191,29 +193,29 @@
                     1991
                 </text>
             </g>
-            <g transform="translate(90.0842756814665,288)" style="">
+            <g transform="translate(86.33333333333333,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1999
                 </text>
             </g>
-            <g transform="translate(168.9157243185335,288)" style="">
+            <g transform="translate(172.66666666666666,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2006
+                    2007
                 </text>
             </g>
             <g transform="translate(259,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M168.9157243185335,265.4703156L180.168551362933,263.69771292L191.42137840733247,263.53177608L202.7050351148673,266.084877L213.95786215926677,259.40362788L225.21068920366622,259.34073336L236.46351624806573,260.71942452L247.74717295560055,262.35735084L259,263.15193288" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M161.88238649326945,265.4703156L172.66666666666666,263.69771292L183.45094684006386,263.53177608L194.2647729865389,266.084877L205.04905315993614,259.40362788L215.83333333333334,259.34073336L226.61761350673055,260.71942452L237.43143965320556,262.35735084L248.2157198266028,263.15193288L248.2157198266028,263.37432" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="263" x2="269" y1="263.15193288" y2="263.15193288" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="273" y="263.15193288" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:24.28125px;fill:#666666;">
+                    <line x1="263" x2="269" y1="263.37432" y2="263.37432" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="273" y="263.37432" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:24.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             2,1%
                         </tspan>
@@ -240,16 +242,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="624" width="640" height="96" style="display:block;height:96px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
-            <div style="display:block;height:96px;width:640px;">
+    <foreignObject x="0" y="624" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
                 <div style="display:block;height:0px;padding-right:60px;width:640px;">
                 </div>
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Mikrozensus.
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

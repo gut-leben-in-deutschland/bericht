@@ -3,7 +3,7 @@ import {getProjection} from 'utils/projection';
 import {getGeotiff} from 'utils/geoData';
 import {scaleOrdinal, scaleThreshold, scaleQuantize} from 'd3-scale';
 import {geoPath} from 'd3-geo';
-import {range} from 'd3-array';
+import {range, ascending, descending} from 'd3-array';
 import vgExpr from 'vega-expression';
 import {defaultMemoize as memoize} from 'reselect';
 import {getFormat} from './utils';
@@ -158,8 +158,14 @@ export default (props) => {
   }
 
   let groups = groupedData.keySeq();
-  if (props.columnSort !== 'none') {
-    groups = groups.sort();
+  switch (props.columnSort) {
+  case 'descending':
+    groups = groups.sort(descending);
+    break;
+  case 'none':
+    break;
+  default:
+    groups = groups.sort(ascending);
   }
   groups = groups.toArray();
 
@@ -200,7 +206,7 @@ export default (props) => {
         groupData.forEach(d => {
           d.feature = featuresWithPaths.find(f => f.id === d.featureId);
           if (__DEV__ && !ignoreMissing && !d.feature) {
-            console.warn(`No feature for data ${data.featureId} ${groupTitle ? ` (${groupTitle})` : ''} ${d.value}`); // eslint-disable-line no-console
+            console.warn(`No feature for data ${d.featureId} ${groupTitle ? ` (${groupTitle})` : ''} ${d.value}`); // eslint-disable-line no-console
           }
         });
 

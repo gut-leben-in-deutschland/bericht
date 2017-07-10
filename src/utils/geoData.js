@@ -1,5 +1,5 @@
 import {loadData} from 'state/actions/data';
-import topojson from 'topojson';
+import {feature as topojsonFeature} from 'topojson';
 import {createSelector} from 'reselect';
 import {DATA_STATUS_REQUESTED} from 'state/reducers/data';
 
@@ -37,6 +37,7 @@ const features = [
   {key: 'kreg-2014', file: kreg2014Topo, object: 'kreg-2014', name: nameByIntId},
   {key: 'krs-2014', file: krsTopo, object: 'krs-2014', name: nameByIntId, agsMapper: createAgsToDistrictMapper()},
   {key: 'krs-2015', file: krsTopo, object: 'krs-2015', name: nameByIntId, agsMapper: createAgsToDistrictMapper()},
+  {key: 'krs-2016', file: krsTopo, object: 'krs-2016', name: nameByIntId, agsMapper: createAgsToDistrictMapper()},
   {
     key: 'krs-mpidr-396',
     file: krsTopo,
@@ -65,7 +66,7 @@ const features = [
           state => state.data.getIn([feature.file, 'data']),
           data => {
             if (data) {
-              return topojson.feature(data, data.objects[feature.object]);
+              return topojsonFeature(data, data.objects[feature.object]);
             }
             return undefined;
           }
@@ -98,7 +99,7 @@ const GEO_TIFFS = ['07-02-miv', '07-02-oev', '10-01-no2']
   .map(key => ({
     key,
     url: require(`data/${key}.png`),
-    bbox: [[5.8, 55.5], [14.3, 46.5]] // keep in sync with make geotiff
+    bbox: [[5, 55.0], [15.2, 47]] // keep in sync with make geotiff
   }))
   .reduce(
     (index, geotiff) => {

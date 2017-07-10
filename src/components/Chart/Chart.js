@@ -1,11 +1,12 @@
-import React, {PropTypes, Component} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 import {Map, Set} from 'immutable';
 import {LinkInline as Link} from 'components/ButtonLink/Link';
 import {Grid, Span} from 'components/Grid/Grid';
 import {StyleSheet, css} from 'aphrodite';
-import {sansRegular12, sansBold20} from 'theme/typeface';
-import {midGrey, darkGrey} from 'theme/constants';
+import {sansRegular12, sansBold20, sansBold12} from 'theme/typeface';
+import {midGrey, darkGrey, link} from 'theme/constants';
 import {m} from 'theme/mediaQueries';
 import {dimensionSchemes} from 'utils/dimension';
 import {FencedItemList, FenceLink} from 'components/FencedItemList/FencedItemList';
@@ -45,6 +46,17 @@ const styles = StyleSheet.create({
     ...sansRegular12,
     color: midGrey
   },
+  newDataLine: {
+    display: 'block'
+  },
+  newDataLabel: {
+    ...sansBold12,
+    backgroundColor: link,
+    color: '#fff',
+    padding: '0 4px',
+    borderRadius: 3,
+    display: 'inline-block'
+  },
   footerRight: {
     [m]: {
       textAlign: 'right'
@@ -64,7 +76,7 @@ class Chart extends Component {
     });
   }
   render() {
-    const {description, license, type, config, locale, t, tLabel} = this.props;
+    const {description, license, type, config, locale, t, tLabel, newData} = this.props;
     const {id} = description;
 
     const width = config.get('width') || this.state.width;
@@ -98,6 +110,11 @@ class Chart extends Component {
                   <BKGLegend t={t} />
                 </span>
               )}
+              {newData && (
+                <span className={css(styles.newDataLine)}>
+                  <span className={css(styles.newDataLabel)}>{t('dashboard/new-data')}</span>
+                </span>
+              )}
               {__DEV__ && !__PHANTOM__ && (<span><br />{id}</span>)}
               {config.get('copyright', false) && <span><br />{description.copyright || t('charts/copyright')}</span>}
             </p>
@@ -107,7 +124,7 @@ class Chart extends Component {
           </Span>
         </Grid>
         {config.get('footerLinks', false) && <FencedItemList items={[
-          <FenceLink t={t} to={require('assets/charts-de/' + description.id + '.png')} target='_blank' icon='download'>{t('charts/image/label')}</FenceLink>,
+          <FenceLink t={t} to={require('assets/charts-' + locale + '/' + description.id + '.png')} target='_blank' icon='download'>{t('charts/image/label')}</FenceLink>,
           license && <FenceLink t={t} to={license.url} target='_blank'>{`${t('charts/license/label')} ${license.label}`}</FenceLink>,
           <FenceLink t={t} to={t('charts/github/url', {dataFile: description.data})}>{t('charts/github/label')}</FenceLink>,
         ].filter(Boolean)} />}
@@ -158,7 +175,8 @@ Chart.propTypes = {
   }),
   locale: PropTypes.string.isRequired,
   t: PropTypes.func.isRequired,
-  tLabel: PropTypes.func.isRequired
+  tLabel: PropTypes.func.isRequired,
+  newData: PropTypes.bool.isRequired
 };
 Chart.defaultProps = {
   config: Map()

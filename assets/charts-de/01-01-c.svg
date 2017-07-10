@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="424" style="height:424px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="460" style="height:460px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt, dass die Lebenserwartung bei Geburt von 75,3 Jahren im Jahr 1990 auf 80,5 Jahre im Jahr 2013 angestiegen ist.
+        Die Abbildung zeigt die Lebenserwartung bei Geburt in den Jahren 1990 und 2015. 1990 lag diese bei 75,3 Jahren. 2015 betrug sie 80,6 Jahre.
     </desc>
     <g transform="translate(35,0)" style="">
         <g style="">
@@ -17,7 +17,7 @@
             <g transform="translate(569,304)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2015
                 </text>
             </g>
             <g style="">
@@ -27,12 +27,12 @@
                         75,3
                     </text>
                 </g>
-                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,223.50000000000017L569,70.20000000000019" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,223.50000000000017L569,66.9000000000002" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="573" x2="579" y1="70.20000000000019" y2="70.20000000000019" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="583" y="70.20000000000019" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="573" x2="579" y1="66.9000000000002" y2="66.9000000000002" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="583" y="66.9000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            80,5
+                            80,6
                         </tspan>
                     </text>
                 </g>
@@ -57,20 +57,25 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="328" width="640" height="96" style="display:block;height:96px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
-            <div style="display:block;height:96px;width:640px;">
+    <foreignObject x="0" y="328" width="640" height="132" style="display:block;height:132px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
+            <div style="display:block;height:132px;width:640px;">
                 <div style="display:block;height:0px;padding-left:35px;padding-right:35px;width:640px;">
                 </div>
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle: 
                                 <a rel="external" title=" (Link zu externer Seite)" href="http://www.humanmortality.de/" style="border-bottom-color:rgb(0, 79, 128);border-left-color:rgb(0, 79, 128);border-right-color:rgb(0, 79, 128);border-top-color:rgb(0, 79, 128);color:rgb(0, 79, 128);cursor:pointer;font-family:BundesSans-Regular;font-size:12px;line-height:normal;outline-color:rgb(0, 79, 128);text-align:left;">
                                     Human Mortality Database.
                                 </a>
                                  University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

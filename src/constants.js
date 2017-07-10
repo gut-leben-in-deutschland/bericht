@@ -1,6 +1,5 @@
 export const DEFAULT_LOCALE = 'de';
-// en is currently disabled except for chart rendering
-export const AVAILABLE_LOCALES = __PHANTOM__ ? ['de', 'en'] : ['de'];
+export const AVAILABLE_LOCALES = ['de', 'en'];
 
 export const GITHUB_CONTENT_SOURCE = {
   username: 'interactivethings',

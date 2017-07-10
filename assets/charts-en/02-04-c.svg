@@ -1,8 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="453" style="height:453px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="507" style="height:507px;width:640px;">
+    <desc style="">
+        The chart shows the number of persons in different forms of non-standard employment by gender in 2015. All in all, non-standard employment is much more common among women than men. In 2015, for example, 5,264,000 women but only 2,210,000 men were in non-standard employment. This is mainly due to part-time work and marginal employment. In 2015, 4,129,000 women were working part-time and 1,790,000 women were in marginal employment relationships. By way of comparison, only 687,000 men were working part-time and only 525,000 men were in marginal employment relationships. There are hardly any gender differences when it comes to fixed-term employment contracts. Compared to women, men are more often employed as temporary workers, in 2015 the figure for men stood at 452,000 and for women at 210,000.
+    </desc>
     <g transform="translate(0,0)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:264.34375px;fill:#666666;">
-            Persons in non-standard employment in total
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:158.546875px;fill:#666666;">
+            Non-standard employment
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:21.90625px;fill:#666666;">
@@ -46,8 +48,8 @@
         </g>
     </g>
     <g transform="translate(329,0)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:139.734375px;fill:#666666;">
-            Temporary employment
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:142.0625px;fill:#666666;">
+            Fixed-term employment
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:21.90625px;fill:#666666;">
@@ -91,8 +93,8 @@
         </g>
     </g>
     <g transform="translate(0,131)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:169.96875px;fill:#666666;">
-            Minimum hours employment
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:129.15625px;fill:#666666;">
+            Marginal employment 
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:21.90625px;fill:#666666;">
@@ -181,8 +183,8 @@
         </g>
     </g>
     <g transform="translate(0,262)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:117.3125px;fill:#666666;">
-            Part-time employed
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:109.59375px;fill:#666666;">
+            Temp employment
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:38.484375px;fill:#666666;">
@@ -225,14 +227,19 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="393" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt, Microcensus.
+    <foreignObject x="0" y="393" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  German Federal Statistical Office, Results of the Microcensus 2015.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="996" style="height:996px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows an EU comparison of particulate matter levels in 2013. Germany was mid-table with levels similar to those of the Netherlands and France. Sweden, Estonia and Finland led the field and Croatia and Poland had the highest levels.
+    </desc>
     <g transform="translate(0,16)" style="">
         <text dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:38.34375px;fill:#666666;">
             Sweden

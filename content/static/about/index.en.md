@@ -1,26 +1,29 @@
-# Über den Regierungsbericht
+---
+title: "About the government report"
+---
 
-Der **Bericht der Bundesregierung zur Lebensqualität** beschreibt in zwölf Dimensionen und mit 46 Indikatoren die Lebensqualität in Deutschland. Für die Auswahl der Dimensionen und Indikatoren waren die Ergebnisse eines halbjährigen konsultativen Bürgerdialogs maßgeblich. Zudem hat die Bundesregierung Erkenntnisse der Forschung zur Lebensqualität sowie nationale und internationale Referenzprojekte berücksichtigt.
+# About the government report
 
-Die **Dokumentation zum Regierungsbericht** beleuchtet den Hintergrund der Regierungsstrategie, den Prozess des Bürgerdialogs, die Ergebnisse der wissenschaftlichen Auswertung und den Weg vom Bürgerdialog zum Bericht und dem Indikatoren-System der Bundesregierung.
+The **Government Report on Wellbeing in Germany** describes wellbeing by means of 12 dimensions and 46 indicators. The dimensions and indicators were selected based on the results of a six-month-long national dialogue with citizens. The federal government has also taken into account research on wellbeing as well as major national and international initiatives such as the German Bundestag's Enquete Commission on growth, prosperity and wellbeing.
 
-Die **Diskussionsbeiträge des wissenschaftlichen Beirats** der Regierungsstrategie bieten eine wissenschaftliche Auseinandersetzung mit dem Thema Lebensqualität, Dialogprozesse und Indikatoren-Forschung. Sie beleuchten den historischen Hintergrund der Diskussion um Lebensqualität und zeigen, wie vielschichtig und komplex die Erfassung und Messung von Lebensqualität ist.
+The **Documentation: Government Strategy on Wellbeing** gives background information on the strategy. More specifically, on the national dialogue process and the results of the scientific analysis of the dialogue. It describes how the results of the national dialogue informed the report on wellbeing and the selection of indicators. 
 
-Der **Abschlussbericht des wissenschaftlichen Auswerters** stellt die Ergebnisse des Bürgerdialogs vertieft dar.
+The **Essays on Wellbeing by the Members of the Scientific Advisory Board** provides expert views on issues of wellbeing, the engagement of citizens in dialogue processes and social indicator research. The contributions highlight the long tradition of the empirical monitoring of wellbeing in Germany and the complexities involved in understanding and measuring wellbeing.
 
+The **Scientific Report of the National Citizens’ Dialogue** provides more detailed results of the dialogue process. It is only available in German. 
 
 <!--DownloadBlock start-->
 
-- [Regierungsbericht zur Lebensqualität als PDF herunterladen](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/19335258)
-- [Dokumentation zur Regierungsstrategie als PDF herunterladen](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/21426409)
-- [Diskussionsbeiträge des wissenschaftlichen Beirats als PDF herunterladen](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/23350043)
-- [Wissenschaftliche Auswertung des Bürgerdialogs als PDF herunterladen (German only)](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/24794576)
+- [Download the Government Report on Wellbeing in Germany as a PDF](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/19335258 "Download government report as PDF")
+- [Download the Documentation: Government Strategy on Wellbeing as a PDF](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/21426409)
+- [Download the Essays on Wellbeing by the Members of the Scientific Advisory Board as a PDF](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/23350043)
+- [Download the scientific report of the national dialogue as a PDF](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/24794576)
 
 <!--DownloadBlock end-->
 
 
 <!--LinkBlock start-->
 
-- [Zum Bürgerdialog](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/11452536)
+- [To the website of the national dialogue](https://www.gut-leben-in-deutschland.de/SiteGlobals/PL/10234522)
 
 <!--LinkBlock end-->

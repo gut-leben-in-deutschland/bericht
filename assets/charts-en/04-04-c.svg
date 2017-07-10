@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="1014" style="height:1014px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows types of transport used by long-distance commuters in the period 2000 to 2012 in total and by location category. The proportion of long-distance commuters travelling to work by train increased in this period from 29 to 40 percent. The proportion of long-distance commuters using a car to get to work fell from 69 percent in 2000 to 58 percent in 2012. In all four location categories “very central”, “central”, “peripheral” and “very peripheral”, the proportion of long-distance commuters travelling to work by train increased. The proportion of persons travelling by rail was highest in very central locations (53 percent). The proportion of long-distance commuters travelling by car was 46 percent in very central regions. In central locations, the figure was 65 percent, in peripheral locations 72 percent and in very peripheral locations 79 percent.
+    </desc>
     <g transform="translate(51,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:52.6875px;fill:#666666;">
@@ -376,7 +378,7 @@
                     <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt.
+                                Source:  German Federal Statistical Office.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

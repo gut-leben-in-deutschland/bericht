@@ -54,13 +54,16 @@ export const base = {
 
   // reset
   boxSizing: 'border-box',
-  border: 0,
+  borderStyle: 'none',
   color: 'inherit',
   cursor: 'pointer',
   display: 'inline-block',
   fontWeight: 'normal',
   lineHeight: 'normal',
-  margin: 0,
+  marginTop: 0,
+  marginBottom: 0,
+  marginLeft: 0,
+  marginRight: 0,
   outline: 'none',
   overflow: 'visible',
   padding: 0,
@@ -72,7 +75,7 @@ export const base = {
 
   // Weird FF pseudo-element padding issue for buttons
   '::-moz-focus-inner': {
-    border: 0,
+    borderStyle: 'none',
     padding: 0
   },
 };
@@ -81,7 +84,9 @@ export const button = {
   ...base,
   ...sansBold13,
 
-  border: `${borderWidth} solid magenta`,
+  borderWidth: borderWidth,
+  borderStyle: 'solid',
+  borderColor: 'magenta',
   borderRadius: borderRadius,
   padding: '0 20px',
 
@@ -204,7 +209,9 @@ export default StyleSheet.create({
   base: {...base},
   button: {
     backgroundColor: normalBg,
-    border: `${borderWidth} solid ${normalBorder}`,
+    borderStyle: 'solid',
+    borderWidth: borderWidth,
+    borderColor: normalBorder,
     borderRadius: borderRadius,
     color: normalText,
     padding: '0.5em 1em',
@@ -232,7 +239,9 @@ export default StyleSheet.create({
   },
   primary: {
     backgroundColor: primaryNormalBg,
-    border: `${borderWidth} solid ${primaryNormalBorder}`,
+    borderStyle: 'solid',
+    borderWidth: borderWidth,
+    borderColor: primaryNormalBorder,
     borderRadius: borderRadius,
     color: primaryNormalText,
     padding: '0.5em 1em',
@@ -266,7 +275,7 @@ export default StyleSheet.create({
   },
   link: {
     backgroundColor: 'transparent',
-    border: 0,
+    borderStyle: 'none',
     color: link,
     ':hover': {
       color: link,

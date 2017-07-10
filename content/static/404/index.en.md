@@ -1,3 +1,7 @@
-# Page Not Found
+---
+title: "Status 404"
+---
 
-The page you were looking for doesn't exist.
+# Status 404
+
+This page does not exist.

@@ -22,6 +22,7 @@ DEPLOY_PRODUCTION_URL := $(PRODUCTION_PUBLIC_URL)
 all: server
 
 install: node_modules
+	@node node_modules/phantomjs-prebuilt/install.js
 
 setup: install
 	@echo "No environment setup is required in this project"
@@ -30,16 +31,16 @@ update: install
 	@echo "No environment update is required in this project"
 
 server: install
-	@env=development $$(npm bin)/nodemon -q --watch script/server.js --watch webpack.config.js script/server.js
+	@env=development BABEL_ENV=development $$(yarn bin)/nodemon -q --watch script/server.js --watch webpack.config.js script/server.js
 
 build: clean install
-	@env=$(env) $$(npm bin)/webpack --colors --progress
+	@env=$(env) BABEL_ENV=production $$(yarn bin)/webpack --colors --progress
 
 build-test: clean install
-	@env=test $$(npm bin)/webpack --colors --progress
+	@env=test BABEL_ENV=production $$(yarn bin)/webpack --colors --progress
 
 build.zip: build
-	zip -re $@ build
+	zip -r $@ build
 
 dist: build
 	@script/dist
@@ -57,10 +58,10 @@ else
 endif
 
 charts:
-	@env=phantom node script/charts.js --id=$(id) --type=$(type) --locale=$(locale)
+	@env=phantom BABEL_ENV=production node script/charts.js --id=$(id) --type=$(type) --locale=$(locale)
 
 indicators-overview:
-	$$(npm bin)/babel-node script/indicators-overview.js
+	BABEL_ENV=development BABEL_ENV=development $$(yarn bin)/babel-node script/indicators-overview.js
 
 charts-publish:
 	@echo -e "Uploading charts-output"
@@ -81,6 +82,12 @@ geobase/vg250_2015-12-31.utm32w.shape.ebenen.zip:
 	curl http://www.geodatenzentrum.de/auftrag1/archiv/vektor/vg250_ebenen/2015/vg250_2015-12-31.utm32w.shape.ebenen.zip -o $@
 
 geobase/vg250_2015-12-31.utm32w.shape.ebenen: geobase/vg250_2015-12-31.utm32w.shape.ebenen.zip
+	unzip -o -d $(dir $@) $@.zip
+
+geobase/vg250_2016-12-31.utm32w.shape.ebenen.zip:
+	curl http://www.geodatenzentrum.de/auftrag1/archiv/vektor/vg250_ebenen/2016/vg250_2016-12-31.utm32w.shape.ebenen.zip -o $@
+
+geobase/vg250_2016-12-31.utm32w.shape.ebenen: geobase/vg250_2016-12-31.utm32w.shape.ebenen.zip
 	unzip -o -d $(dir $@) $@.zip
 
 geobase/vg250_2015-12-31.utm32s.shape.ebenen.zip:
@@ -131,6 +138,18 @@ geobase/krs-2015.geojson: geobase/vg250_2015-12-31.utm32w.shape.ebenen
 		$@ \
 		geobase/vg250_2015-12-31.utm32w.shape.ebenen/vg250_ebenen/VG250_KRS.shp
 
+geobase/krs-2016.geojson: geobase/vg250_2016-12-31.utm32w.shape.ebenen
+	ogr2ogr -f GeoJSON -t_srs crs:84 -dialect sqlite -sql "\
+			SELECT \
+				CAST(CAST(shape.RS as int) as text) AS RS, \
+				csv.name AS GEN, \
+				shape.geometry AS geometry \
+			FROM VG250_KRS AS shape \
+				LEFT JOIN 'src/data/krs-names.csv'.'krs-names' AS csv ON csv.id = CAST(CAST(shape.RS as int) as text) AND csv.ds = '2016' \
+			WHERE shape.GF != 2" \
+		$@ \
+		geobase/vg250_2016-12-31.utm32w.shape.ebenen/vg250_ebenen/VG250_KRS.shp
+
 geobase/kreg-2014.geojson:
 	ogr2ogr -f GeoJSON -t_srs crs:84 \
 		$@ \
@@ -155,7 +174,7 @@ geodata: geobase/vg250_2016-01-01.utm32s.shape.ebenen
 			WHERE GF != 2" \
 		/dev/stdout \
 		geobase/vg250_2016-01-01.utm32s.shape.ebenen/vg250_ebenen/VG250_GEM.shp \
-	  | $$(npm bin)/babel-node script/municipalities-no2.js > src/data/municipalities.csv
+	  | BABEL_ENV=development $$(yarn bin)/babel-node script/municipalities-no2.js > src/data/municipalities.csv
 
 krsnames: geobase/vg250_2015-12-31.utm32w.shape.ebenen geobase/vg250_2014-01-01.utm32s.shape.ebenen
 	( \
@@ -188,29 +207,30 @@ krsnames: geobase/vg250_2015-12-31.utm32w.shape.ebenen geobase/vg250_2014-01-01.
 		/dev/stdout \
 		geobase/vg250_2014-01-01.utm32s.shape.ebenen/vg250_ebenen/VG250_KRS.shp \
 	) | \
-	$$(npm bin)/babel-node script/clean-krs-names.js > src/data/krs-names.csv
+	BABEL_ENV=development $$(yarn bin)/babel-node script/clean-krs-names.js > src/data/krs-names.csv
 
-topojson: geobase/kreg-2014.geojson geobase/krs-mpidr-396.geojson geobase/krs-2014.geojson geobase/krs-2015.geojson geobase/germany.geojson geobase/states.geojson
-	$$(npm bin)/topojson -o src/data/kreg-2014.json --id-property KREG1214 -p name=NAME -- geobase/kreg-2014.geojson
+topojson: geobase/kreg-2014.geojson geobase/krs-mpidr-396.geojson geobase/krs-2014.geojson geobase/krs-2015.geojson geobase/krs-2016.geojson geobase/germany.geojson geobase/states.geojson
+	$$(yarn bin)/topojson -o src/data/kreg-2014.json --id-property KREG1214 -p name=NAME -- geobase/kreg-2014.geojson
 
-	$$(npm bin)/topojson -o src/data/krs.json --id-property +RS -p name=GEN -s 7e-8 --filter=small -- \
+	$$(yarn bin)/topojson -o src/data/krs.json --id-property +RS -p name=GEN -s 7e-8 --filter=small -- \
 		geobase/krs-mpidr-396.geojson \
 		geobase/krs-2014.geojson \
-		geobase/krs-2015.geojson
+		geobase/krs-2015.geojson \
+		geobase/krs-2016.geojson
 
-	$$(npm bin)/topojson -o src/data/germany.json --id-property GEN -s 7e-8 -- \
+	$$(yarn bin)/topojson -o src/data/germany.json --id-property GEN -s 7e-8 -- \
 		geobase/germany.geojson \
 		geobase/states.geojson
 
 bundle-size:
 	@echo -e "$(CLI_NOTICE) Sizes are not minified$(CLI_RESET)"
-	@env=production $$(npm bin)/webpack --progress --json | $$(npm bin)/webpack-bundle-size-analyzer
+	@env=production BABEL_ENV=production $$(yarn bin)/webpack --progress --json | $$(yarn bin)/webpack-bundle-size-analyzer
 
 a11y:
-	@$$(npm bin)/babel-node script/a11y.js --url=$(url) --path=$(path)
+	@node script/a11y.js --url=$(url) --path=$(path)
 
 test: lint build-test
-	@$$(npm bin)/babel-node script/a11y.js --path=./build-test
+	@node script/a11y.js --path=./build-test
 
 clean:
 	rm -rf build build-test build.zip
@@ -224,9 +244,12 @@ clobber:
 #
 
 lint:
-	@$$(npm bin)/eslint src
-	@$$(npm bin)/eslint cabinet
+	@$$(yarn bin)/eslint src
+	@$$(yarn bin)/eslint cabinet
 
 node_modules: package.json
-	@npm install
+	@yarn
 	@touch $@
+
+-include *.mk
+

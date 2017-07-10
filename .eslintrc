@@ -1,13 +1,14 @@
 {
-  "extends": "interactivethings",
-  "rules": {
-    "camelcase": 0,
-    "comma-dangle": 0
-  },
+  "extends": "react-app",
   "globals": {
     "__PHANTOM__": true,
     "__CABINET_ENABLED__": true,
     "__CATALOG_ENABLED__": true,
-    "__WEBSITE_URL__": true
+    "__WEBSITE_URL__": true,
+    "__DEV__": true,
+    "__webpack_public_path__": true
+  },
+  "rules": {
+    "import/no-webpack-loader-syntax": "off"
   }
 }

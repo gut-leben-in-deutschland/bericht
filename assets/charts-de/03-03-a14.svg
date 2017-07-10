@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="610" height="734" viewBox="0 0 610 656" style="display:block;height:734px;margin-left:63px;margin-right:63px;width:610px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="610" height="784" viewBox="0 0 610 670" style="display:block;height:784px;margin-left:63px;margin-right:63px;width:610px;">
     <title style="">
-        3.27_l_dashboard_chart_sankey-grouped
+        03-03-a14-l.de.chart
     </title>
     <desc style="">
         Created with Sketch.
@@ -17,10 +17,10 @@
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:161.03125px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="181.604" y="413" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="181.604" y="410" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 100%
             </tspan>
-            <tspan x="47.972" y="425" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="47.972" y="422" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Haupt- oder Realschulabschluss
             </tspan>
         </text>
@@ -33,104 +33,109 @@
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:178.71875px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="401" y="276" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                29.6%
+            <tspan x="401" y="275" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+                30,4%
             </tspan>
-            <tspan x="401" y="288" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="401" y="287" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Fachhochschul- oder Hochschulreife
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:160.390625px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="401" y="413" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                67.1%
+            <tspan x="401" y="410" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+                66,4%
             </tspan>
-            <tspan x="401" y="425" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="401" y="422" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Haupt- oder Realschulabschluss
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:98.265625px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="401" y="517" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                3.2%
+            <tspan x="401" y="513" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+                3,2%
             </tspan>
-            <tspan x="401" y="529" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="401" y="525" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Kein Schulabschluss
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:183.28125px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="74" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                68.0%
+                69,2%
             </tspan>
             <tspan x="401" y="86" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Fachhochschul- oder Hochschulreife
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:156.484375px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="401" y="147" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                29.6%
+            <tspan x="401" y="150" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+                28,7%
             </tspan>
-            <tspan x="401" y="159" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="401" y="162" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Haupt- oder Realschulabschluss
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:98.265625px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="401" y="186" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                2.4%
+            <tspan x="401" y="188" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+                2,1%
             </tspan>
-            <tspan x="401" y="198" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="401" y="200" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Kein Schulabschluss
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:101.703125px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="181.604" y="624" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="181.604" y="619" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 100%
             </tspan>
-            <tspan x="107.3" y="636" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="107.3" y="631" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Kein Schulabschluss
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:178.71875px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="401" y="570" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                21.3%
+            <tspan x="401" y="565" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+                22,8%
             </tspan>
-            <tspan x="401" y="582" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="401" y="577" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Fachhochschul- oder Hochschulreife
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:156.484375px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="401" y="599" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                62.0%
+            <tspan x="401" y="595" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+                62,4%
             </tspan>
-            <tspan x="401" y="611" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="401" y="607" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Haupt- oder Realschulabschluss
             </tspan>
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:101.28125px;fill:#454545;fill-rule:evenodd;">
-            <tspan x="401" y="630" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                16.6%
+            <tspan x="401" y="625" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+                14,8%
             </tspan>
-            <tspan x="401" y="642" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
+            <tspan x="401" y="637" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Kein Schulabschluss
             </tspan>
         </text>
-        <path fill="#FF8BA6" d="M345 518h40v8h-40zM345 193h40v3h-40z" style="fill:#ff8ba6;fill-rule:evenodd;"/>
-        <path fill="#C40046" d="M225 272h40v230h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
-        <path d="M265 502c40.185-.182 40.185 23.813 80 24v-8c-33.906-.182-40-24.178-80-24 40.185-.178 40.185-.178 80 0V337c-39.815-.038-39.815 4.962-80 5 40.185-.038 40.185-29.033 80-29v-69c-39.815 0-39.815 27.996-80 28v230z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
-        <path fill="#C40046" d="M345 337h40v157h-40zM345 137h40v32h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
-        <path fill="#810019" d="M225 40h40v107h-40zM345 244h40v69h-40zM345 40h40v73h-40z" style="fill:#810019;fill-rule:evenodd;"/>
-        <path d="M265 147c40.185-.486 40 48.997 80 49v-3c-40 0-40-48.899-80-49 40.185.101 40.185 25.342 80 25v-32c-39.815-.277-39.815-24-80-24h80V40h-80v107z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
-        <path fill="#FF8BA6" d="M225 621h40v15h-40zM345 633h40v3h-40z" style="fill:#ff8ba6;fill-rule:evenodd;"/>
-        <path fill="#C40046" d="M345 600h40v9h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
-        <path fill="#810019" d="M345 574h40v3h-40z" style="fill:#810019;fill-rule:evenodd;"/>
-        <path d="M265 636h80v-3s-80-.271-80 0c40-.271 40-24.232 80-24.232V600c-40-.899-40 24.129-80 24.2 40-.071 40-48.06 80-47.133V574c-41.829 0-40.794 47.92-80 47.067V636z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
+        <path fill="#FF8BA6" d="M345 513h40v7h-40zM345 193h40v2h-40z" style="fill:#ff8ba6;fill-rule:evenodd;"/>
+        <path fill="#C40046" d="M225 268h40v228h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
+        <path d="M265 496c40.185-.182 40.185 23.813 80 24v-7c-33.906-.182-40-24.178-80-24 40.185-.178 40.185-.178 80 0V337c-39.815-.038-39.815-.038-80 0 40.185-.038 40.185-24.033 80-24v-70c-39.815 0-39.815 24.996-80 25v228z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
+        <path fill="#C40046" d="M345 337h40v152h-40zM345 138h40v31h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
+        <path fill="#810019" d="M225 40h40v106h-40zM345 243h40v70h-40zM345 40h40v74h-40z" style="fill:#810019;fill-rule:evenodd;"/>
+        <path d="M265 146c40.185-.486 40 48.997 80 49v-2c-38.75 0-37.902-48.894-80-49 40.185.101 49 25 80 25v-31c-26.5 0-39.815-24-80-24h80V40h-80v106z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
+        <path fill="#FF8BA6" d="M225 615h40v15h-40zM345 628h40v2h-40z" style="fill:#ff8ba6;fill-rule:evenodd;"/>
+        <path fill="#C40046" d="M345 595h40v9h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
+        <path fill="#810019" d="M345 568h40v3h-40z" style="fill:#810019;fill-rule:evenodd;"/>
+        <path d="M265 630h80v-2s-80-.271-80 0c40-.271 40-24.232 80-24.232V595c-40-.899-40 23.129-80 23.2 40-.071 40-48.06 80-47.133V568c-41.829 0-40.794 47.92-80 47.067V630z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
     </g>
-    <foreignObject x="0" y="656" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Mikrozensus, Sonderauswertung.
+    <foreignObject x="0" y="670" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

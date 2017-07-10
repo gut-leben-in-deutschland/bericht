@@ -13,3 +13,4 @@ assets/*.tmp
 geobase/vg*
 geobase/*.geojson
 .env
+content.mk

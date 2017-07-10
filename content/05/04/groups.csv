@@ -1,553 +1,434 @@
 facet,facet_value,year,value,confidence95_lower,confidence95_upper
-Alle,,1991,0.1129555,0.1082657,0.1176454
-Alle,,1992,0.1149593,0.1095853,0.1203333
-Alle,,1993,0.1097695,0.1034944,0.1160446
-Alle,,1994,0.1265212,0.1168938,0.1361487
-Alle,,1995,0.1176682,0.1107346,0.1246017
-Alle,,1996,0.1085677,0.1008403,0.116295
-Alle,,1997,0.1035293,0.0957792,0.1112794
-Alle,,1998,0.1049576,0.097704,0.1122112
-Alle,,1999,0.1064437,0.0993826,0.1135049
-Alle,,2000,0.1166036,0.112501,0.1207061
-Alle,,2001,0.1238515,0.1142383,0.1334647
-Alle,,2002,0.1301243,0.1233294,0.1369193
-Alle,,2003,0.1308581,0.1254598,0.1362563
-Alle,,2004,0.1391233,0.1276839,0.1505628
-Alle,,2005,0.1399877,0.1295776,0.1503978
-Alle,,2006,0.136879,0.129865,0.1438929
-Alle,,2007,0.1415996,0.1345324,0.1486667
-Alle,,2008,0.1483512,0.1407253,0.1559771
-Alle,,2009,0.1499292,0.1405505,0.1593078
-Alle,,2010,0.1419627,0.1314028,0.1525226
-Alle,,2011,0.1414007,0.1315825,0.1512189
-Alle,,2012,0.145422,0.1387983,0.1520458
-Alle,,2013,0.1527933,0.1432021,0.1623845
-Haushaltstyp,1 Personen HH unter 35 Jahre,1991,0.1679537,0.1170982,0.2188092
-Haushaltstyp,1 Personen HH unter 35 Jahre,1992,0.2389937,0.1882629,0.2897246
-Haushaltstyp,1 Personen HH unter 35 Jahre,1993,0.2337192,0.1920817,0.2753568
-Haushaltstyp,1 Personen HH unter 35 Jahre,1994,0.2898129,0.2569173,0.3227085
-Haushaltstyp,1 Personen HH unter 35 Jahre,1995,0.227932,0.1832116,0.2726525
-Haushaltstyp,1 Personen HH unter 35 Jahre,1996,0.2523877,0.2034784,0.3012971
-Haushaltstyp,1 Personen HH unter 35 Jahre,1997,0.2754921,0.2216856,0.3292987
-Haushaltstyp,1 Personen HH unter 35 Jahre,1998,0.2810297,0.2511274,0.310932
-Haushaltstyp,1 Personen HH unter 35 Jahre,1999,0.2981039,0.2504793,0.3457285
-Haushaltstyp,1 Personen HH unter 35 Jahre,2000,0.2763005,0.2291866,0.3234145
-Haushaltstyp,1 Personen HH unter 35 Jahre,2001,0.2877509,0.2390811,0.3364206
-Haushaltstyp,1 Personen HH unter 35 Jahre,2002,0.2682107,0.2351384,0.301283
-Haushaltstyp,1 Personen HH unter 35 Jahre,2003,0.3125353,0.2742194,0.3508513
-Haushaltstyp,1 Personen HH unter 35 Jahre,2004,0.3417254,0.3032776,0.3801732
-Haushaltstyp,1 Personen HH unter 35 Jahre,2005,0.3589993,0.3057751,0.4122235
-Haushaltstyp,1 Personen HH unter 35 Jahre,2006,0.370861,0.3106635,0.4310586
-Haushaltstyp,1 Personen HH unter 35 Jahre,2007,0.4001968,0.3544955,0.4458981
-Haushaltstyp,1 Personen HH unter 35 Jahre,2008,0.3843836,0.3385095,0.4302577
-Haushaltstyp,1 Personen HH unter 35 Jahre,2009,0.3984823,0.343511,0.4534535
-Haushaltstyp,1 Personen HH unter 35 Jahre,2010,0.4002901,0.3276613,0.4729189
-Haushaltstyp,1 Personen HH unter 35 Jahre,2011,0.3642596,0.3196268,0.4088924
-Haushaltstyp,1 Personen HH unter 35 Jahre,2012,0.3824064,0.3327854,0.4320275
-Haushaltstyp,1 Personen HH unter 35 Jahre,2013,0.4373996,0.3954555,0.4793438
-Haushaltstyp,1 Personen HH 35-59 Jahre,1991,0.1183845,0.0987983,0.1379706
-Haushaltstyp,1 Personen HH 35-59 Jahre,1992,0.1235138,0.0926832,0.1543444
-Haushaltstyp,1 Personen HH 35-59 Jahre,1993,0.1040675,0.056069,0.152066
-Haushaltstyp,1 Personen HH 35-59 Jahre,1994,0.1451196,0.0954561,0.1947831
-Haushaltstyp,1 Personen HH 35-59 Jahre.,1995,0.1438635,0.0896176,0.1981093
-Haushaltstyp,1 Personen HH 35-59 Jahre,1996,0.1227903,0.080947,0.1646336
-Haushaltstyp,1 Personen HH 35-59 Jahre,1997,0.1417857,0.1048392,0.1787322
-Haushaltstyp,1 Personen HH 35-59 Jahre,1998,0.1187106,0.0809094,0.1565118
-Haushaltstyp,1 Personen HH 35-59 Jahre,1999,0.1129285,0.0920598,0.1337972
-Haushaltstyp,1 Personen HH 35-59 Jahre,2000,0.1347062,0.1110977,0.1583147
-Haushaltstyp,1 Personen HH 35-59 Jahre,2001,0.1507827,0.1363741,0.1651913
-Haushaltstyp,1 Personen HH 35-59 Jahre,2002,0.1679199,0.1425683,0.1932714
-Haushaltstyp,1 Personen HH 35-59 Jahre,2003,0.1860741,0.1675294,0.2046187
-Haushaltstyp,1 Personen HH 35-59 Jahre,2004,0.1755847,0.1403059,0.2108635
-Haushaltstyp,1 Personen HH 35-59 Jahre,2005,0.1872472,0.1444333,0.2300611
-Haushaltstyp,1 Personen HH 35-59 Jahre,2006,0.1873166,0.1558204,0.2188128
-Haushaltstyp,1 Personen HH 35-59 Jahre,2007,0.1939164,0.1655623,0.2222705
-Haushaltstyp,1 Personen HH 35-59 Jahre,2008,0.1929949,0.1585844,0.2274053
-Haushaltstyp,1 Personen HH 35-59 Jahre,2009,0.2038836,0.1760397,0.2317275
-Haushaltstyp,1 Personen HH 35-59 Jahre,2010,0.204412,0.1660913,0.2427328
-Haushaltstyp,1 Personen HH 35-59 Jahre,2011,0.2091663,0.1767876,0.2415451
-Haushaltstyp,1 Personen HH 35-59 Jahre,2012,0.2043677,0.1769827,0.2317527
-Haushaltstyp,1 Personen HH 35-59 Jahre,2013,0.1936477,0.1691909,0.2181045
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1991,0.3133725,0.2823361,0.3444088
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1992,0.2713017,0.2493482,0.2932552
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1993,0.2564269,0.2212393,0.2916145
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1994,0.2188636,0.186505,0.2512222
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1995,0.1978924,0.1648296,0.2309552
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1996,0.1984267,0.1693108,0.2275425
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1997,0.1901242,0.1498751,0.2303733
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1998,0.1850983,0.149183,0.2210136
-Haushaltstyp,1 Personen HH 60 Jahre und älter,1999,0.2090139,0.1883929,0.2296348
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2000,0.20142,0.183101,0.219739
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2001,0.2005696,0.1799406,0.2211987
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2002,0.20693,0.1799595,0.2339004
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2003,0.1977698,0.1722444,0.2232952
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2004,0.1816199,0.1566136,0.2066262
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2005,0.1833598,0.163252,0.2034676
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2006,0.1736894,0.1576087,0.1897701
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2007,0.1906458,0.1632525,0.218039
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2008,0.226513,0.2129534,0.2400725
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2009,0.2262117,0.2128723,0.2395512
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2010,0.2168836,0.1968099,0.2369573
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2011,0.2145634,0.2011087,0.2280181
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2012,0.2099676,0.1940554,0.2258799
-Haushaltstyp,1 Personen HH 60 Jahre und älter,2013,0.2038444,0.1811615,0.2265273
-Haushaltstyp,Paar ohne Kinder,1991,0.081276,0.0719334,0.0906185
-Haushaltstyp,Paar ohne Kinder,1992,0.0841525,0.0700234,0.0982816
-Haushaltstyp,Paar ohne Kinder,1993,0.0749958,0.0632804,0.0867114
-Haushaltstyp,Paar ohne Kinder,1994,0.0608756,0.0526372,0.0691139
-Haushaltstyp,Paar ohne Kinder,1995,0.0675098,0.0542781,0.0807415
-Haushaltstyp,Paar ohne Kinder,1996,0.0576102,0.0502257,0.0649946
-Haushaltstyp,Paar ohne Kinder,1997,0.0503613,0.0407611,0.0599616
-Haushaltstyp,Paar ohne Kinder,1998,0.0438251,0.0353088,0.0523414
-Haushaltstyp,Paar ohne Kinder,1999,0.0556448,0.0408766,0.0704131
-Haushaltstyp,Paar ohne Kinder,2000,0.070427,0.0597111,0.0811429
-Haushaltstyp,Paar ohne Kinder,2001,0.0747028,0.0621882,0.0872173
-Haushaltstyp,Paar ohne Kinder,2002,0.0777531,0.0653979,0.0901083
-Haushaltstyp,Paar ohne Kinder,2003,0.078063,0.0681842,0.0879418
-Haushaltstyp,Paar ohne Kinder,2004,0.0757388,0.0582823,0.0931953
-Haushaltstyp,Paar ohne Kinder,2005,0.0787639,0.0663212,0.0912066
-Haushaltstyp,Paar ohne Kinder,2006,0.0819669,0.0732976,0.0906362
-Haushaltstyp,Paar ohne Kinder,2007,0.0898102,0.073177,0.1064435
-Haushaltstyp,Paar ohne Kinder,2008,0.0886632,0.0779819,0.0993445
-Haushaltstyp,Paar ohne Kinder,2009,0.0926346,0.0807302,0.104539
-Haushaltstyp,Paar ohne Kinder,2010,0.079554,0.0638861,0.0952219
-Haushaltstyp,Paar ohne Kinder,2011,0.0799856,0.0668963,0.093075
-Haushaltstyp,Paar ohne Kinder,2012,0.0863189,0.0755536,0.0970842
-Haushaltstyp,Paar ohne Kinder,2013,0.0862571,0.0721898,0.1003243
-Haushaltstyp,Alleinerziehend 1 Kind,1991,0.229385,0.1933728,0.2653971
-Haushaltstyp,Alleinerziehend 1 Kind,1992,0.2330371,0.2079944,0.2580798
-Haushaltstyp,Alleinerziehend 1 Kind,1993,0.188878,0.145234,0.2325221
-Haushaltstyp,Alleinerziehend 1 Kind,1994,0.2483648,0.1662394,0.3304902
-Haushaltstyp,Alleinerziehend 1 Kind,1995,0.2752222,0.2085042,0.3419403
-Haushaltstyp,Alleinerziehend 1 Kind,1996,0.2922958,0.2425335,0.3420581
-Haushaltstyp,Alleinerziehend 1 Kind,1997,0.2116155,0.1435878,0.2796433
-Haushaltstyp,Alleinerziehend 1 Kind,1998,0.2794084,0.2207656,0.3380512
-Haushaltstyp,Alleinerziehend 1 Kind,1999,0.2977782,0.2415538,0.3540026
-Haushaltstyp,Alleinerziehend 1 Kind,2000,0.2654206,0.2100862,0.3207551
-Haushaltstyp,Alleinerziehend 1 Kind,2001,0.2673867,0.2286398,0.3061336
-Haushaltstyp,Alleinerziehend 1 Kind,2002,0.3009972,0.254196,0.3477985
-Haushaltstyp,Alleinerziehend 1 Kind,2003,0.2885144,0.2405945,0.3364343
-Haushaltstyp,Alleinerziehend 1 Kind,2004,0.3029333,0.2396414,0.3662252
-Haushaltstyp,Alleinerziehend 1 Kind,2005,0.2908513,0.23325,0.348452
-Haushaltstyp,Alleinerziehend 1 Kind,2006,0.3191442,0.2663331,0.3719553
-Haushaltstyp,Alleinerziehend 1 Kind,2007,0.3129498,0.2553549,0.3705446
-Haushaltstyp,Alleinerziehend 1 Kind,2008,0.3202703,0.2546477,0.3858929
-Haushaltstyp,Alleinerziehend 1 Kind,2009,0.3601995,0.2928106,0.4275884
-Haushaltstyp,Alleinerziehend 1 Kind,2010,0.2926759,0.2574545,0.3278972
-Haushaltstyp,Alleinerziehend 1 Kind,2011,0.2910666,0.2541059,0.3280272
-Haushaltstyp,Alleinerziehend 1 Kind,2012,0.2949085,0.237602,0.352215
-Haushaltstyp,Alleinerziehend 1 Kind,2013,0.3168791,0.2740881,0.35967
-Haushaltstyp,Alleinerziehend 2+ Kinder,1991,0.3683023,0.241009,0.4955956
-Haushaltstyp,Alleinerziehend 2+ Kinder,1992,0.4194782,0.302305,0.5366515
-Haushaltstyp,Alleinerziehend 2+ Kinder,1993,0.3256028,0.2000427,0.4511629
-Haushaltstyp,Alleinerziehend 2+ Kinder,1994,0.4241435,0.3003825,0.5479045
-Haushaltstyp,Alleinerziehend 2+ Kinder,1995,0.3844718,0.2793136,0.48963
-Haushaltstyp,Alleinerziehend 2+ Kinder,1996,0.3849988,0.2795611,0.4904365
-Haushaltstyp,Alleinerziehend 2+ Kinder,1997,0.3913999,0.3162083,0.4665915
-Haushaltstyp,Alleinerziehend 2+ Kinder,1998,0.453329,0.3732848,0.5333731
-Haushaltstyp,Alleinerziehend 2+ Kinder,1999,0.4068369,0.3321975,0.4814765
-Haushaltstyp,Alleinerziehend 2+ Kinder,2000,0.4441562,0.3866098,0.5017027
-Haushaltstyp,Alleinerziehend 2+ Kinder,2001,0.4696371,0.4071172,0.532157
-Haushaltstyp,Alleinerziehend 2+ Kinder,2002,0.4754271,0.4052638,0.5455904
-Haushaltstyp,Alleinerziehend 2+ Kinder,2003,0.4363747,0.345165,0.5275844
-Haushaltstyp,Alleinerziehend 2+ Kinder,2004,0.4669147,0.3544877,0.5793417
-Haushaltstyp,Alleinerziehend 2+ Kinder,2005,0.445711,0.3479314,0.5434907
-Haushaltstyp,Alleinerziehend 2+ Kinder,2006,0.4285171,0.3541712,0.5028631
-Haushaltstyp,Alleinerziehend 2+ Kinder,2007,0.4130774,0.3086943,0.5174604
-Haushaltstyp,Alleinerziehend 2+ Kinder,2008,0.4583466,0.3518714,0.5648218
-Haushaltstyp,Alleinerziehend 2+ Kinder,2009,0.4786158,0.3856539,0.5715777
-Haushaltstyp,Alleinerziehend 2+ Kinder,2010,0.4127183,0.3581893,0.4672472
-Haushaltstyp,Alleinerziehend 2+ Kinder,2011,0.3705162,0.3120926,0.4289398
-Haushaltstyp,Alleinerziehend 2+ Kinder,2012,0.4131851,0.3651285,0.4612416
-Haushaltstyp,Alleinerziehend 2+ Kinder,2013,0.4382513,0.4183899,0.4581128
-Haushaltstyp,Paar 1 Kind,1991,0.058932,0.0461221,0.0717418
-Haushaltstyp,Paar 1 Kind,1992,0.0530674,0.040642,0.0654929
-Haushaltstyp,Paar 1 Kind,1993,0.0654689,0.0454919,0.085446
-Haushaltstyp,Paar 1 Kind,1994,0.0727145,0.047042,0.098387
-Haushaltstyp,Paar 1 Kind,1995,0.0763417,0.0681149,0.0845684
-Haushaltstyp,Paar 1 Kind,1996,0.0593085,0.0497301,0.0688869
-Haushaltstyp,Paar 1 Kind,1997,0.0590673,0.0465837,0.0715508
-Haushaltstyp,Paar 1 Kind,1998,0.0544618,0.0362359,0.0726878
-Haushaltstyp,Paar 1 Kind,1999,0.0463063,0.0360685,0.0565441
-Haushaltstyp,Paar 1 Kind,2000,0.0658083,0.0522832,0.0793334
-Haushaltstyp,Paar 1 Kind,2001,0.0638711,0.0499321,0.0778101
-Haushaltstyp,Paar 1 Kind,2002,0.0699769,0.0474333,0.0925206
-Haushaltstyp,Paar 1 Kind,2003,0.0810641,0.0651649,0.0969634
-Haushaltstyp,Paar 1 Kind,2004,0.0971508,0.0794398,0.1148619
-Haushaltstyp,Paar 1 Kind,2005,0.1034915,0.0857226,0.1212604
-Haushaltstyp,Paar 1 Kind,2006,0.0965718,0.0792305,0.1139132
-Haushaltstyp,Paar 1 Kind,2007,0.0849509,0.0583546,0.1115473
-Haushaltstyp,Paar 1 Kind,2008,0.0954042,0.0691514,0.121657
-Haushaltstyp,Paar 1 Kind,2009,0.084997,0.0636093,0.1063847
-Haushaltstyp,Paar 1 Kind,2010,0.0717466,0.0576026,0.0858906
-Haushaltstyp,Paar 1 Kind,2011,0.0829828,0.0680729,0.0978927
-Haushaltstyp,Paar 1 Kind,2012,0.0639635,0.0413286,0.0865985
-Haushaltstyp,Paar 1 Kind,2013,0.0744627,0.0501857,0.0987397
-Haushaltstyp,Paar 2 Kinder,1991,0.0473083,0.0389193,0.0556973
-Haushaltstyp,Paar 2 Kinder,1992,0.0550837,0.0415751,0.0685923
-Haushaltstyp,Paar 2 Kinder,1993,0.052877,0.0401903,0.0655638
-Haushaltstyp,Paar 2 Kinder,1994,0.0815396,0.0586121,0.1044671
-Haushaltstyp,Paar 2 Kinder,1995,0.0766657,0.0627612,0.0905702
-Haushaltstyp,Paar 2 Kinder,1996,0.0602504,0.0475508,0.07295
-Haushaltstyp,Paar 2 Kinder,1997,0.0691701,0.0519925,0.0863477
-Haushaltstyp,Paar 2 Kinder,1998,0.064956,0.0475547,0.0823573
-Haushaltstyp,Paar 2 Kinder,1999,0.0554694,0.0369503,0.0739884
-Haushaltstyp,Paar 2 Kinder,2000,0.0656585,0.0505083,0.0808086
-Haushaltstyp,Paar 2 Kinder,2001,0.0726814,0.0434852,0.1018776
-Haushaltstyp,Paar 2 Kinder,2002,0.0786413,0.0572917,0.0999909
-Haushaltstyp,Paar 2 Kinder,2003,0.0720657,0.0491228,0.0950086
-Haushaltstyp,Paar 2 Kinder,2004,0.0869981,0.062228,0.1117683
-Haushaltstyp,Paar 2 Kinder,2005,0.0698963,0.0483552,0.0914373
-Haushaltstyp,Paar 2 Kinder,2006,0.0679561,0.0434127,0.0924995
-Haushaltstyp,Paar 2 Kinder,2007,0.0630127,0.0507077,0.0753178
-Haushaltstyp,Paar 2 Kinder,2008,0.0741006,0.0554921,0.0927092
-Haushaltstyp,Paar 2 Kinder,2009,0.0596483,0.0491731,0.0701236
-Haushaltstyp,Paar 2 Kinder,2010,0.0739706,0.0599773,0.0879639
-Haushaltstyp,Paar 2 Kinder,2011,0.0904203,0.0699046,0.110936
-Haushaltstyp,Paar 2 Kinder,2012,0.0863635,0.0742045,0.0985226
-Haushaltstyp,Paar 2 Kinder,2013,0.0849172,0.0691009,0.1007335
-Haushaltstyp,Paar 3+ Kinder,1991,0.1391606,0.1123381,0.1659831
-Haushaltstyp,Paar 3+ Kinder,1992,0.1536508,0.1369794,0.1703223
-Haushaltstyp,Paar 3+ Kinder,1993,0.1441227,0.1073701,0.1808754
-Haushaltstyp,Paar 3+ Kinder,1994,0.2466678,0.1759586,0.317377
-Haushaltstyp,Paar 3+ Kinder,1995,0.1783628,0.1339391,0.2227866
-Haushaltstyp,Paar 3+ Kinder,1996,0.1579944,0.1170873,0.1989015
-Haushaltstyp,Paar 3+ Kinder,1997,0.1293034,0.1029118,0.155695
-Haushaltstyp,Paar 3+ Kinder,1998,0.1490071,0.1072047,0.1908095
-Haushaltstyp,Paar 3+ Kinder,1999,0.1468859,0.1251799,0.1685919
-Haushaltstyp,Paar 3+ Kinder,2000,0.1523867,0.1082241,0.1965492
-Haushaltstyp,Paar 3+ Kinder,2001,0.1508193,0.1124183,0.1892202
-Haushaltstyp,Paar 3+ Kinder,2002,0.1603187,0.1316968,0.18894
-Haushaltstyp,Paar 3+ Kinder,2003,0.1680529,0.1201329,0.215973
-Haushaltstyp,Paar 3+ Kinder,2004,0.1828266,0.1461478,0.2195054
-Haushaltstyp,Paar 3+ Kinder,2005,0.1995306,0.1503392,0.248722
-Haushaltstyp,Paar 3+ Kinder,2006,0.1660587,0.1082738,0.2238435
-Haushaltstyp,Paar 3+ Kinder,2007,0.1897094,0.1260423,0.2533765
-Haushaltstyp,Paar 3+ Kinder,2008,0.1722881,0.1308231,0.213753
-Haushaltstyp,Paar 3+ Kinder,2009,0.1728335,0.1172053,0.2284617
-Haushaltstyp,Paar 3+ Kinder,2010,0.1911715,0.1722306,0.2101124
-Haushaltstyp,Paar 3+ Kinder,2011,0.1801096,0.1530038,0.2072153
-Haushaltstyp,Paar 3+ Kinder,2012,0.2139117,0.1785619,0.2492615
-Haushaltstyp,Paar 3+ Kinder,2013,0.2340528,0.1960801,0.2720255
-Herkunftsland,Deutschland,1991,0.1100075,0.1036023,0.1164128
-Herkunftsland,Deutschland,1992,0.1116567,0.1062048,0.1171086
-Herkunftsland,Deutschland,1993,0.1049393,0.0979773,0.1119013
-Herkunftsland,Deutschland,1994,0.1122808,0.1019131,0.1226486
-Herkunftsland,Deutschland,1995,0.1042826,0.0976652,0.1109
-Herkunftsland,Deutschland,1996,0.0957844,0.0882963,0.1032725
-Herkunftsland,Deutschland,1997,0.0935455,0.0853049,0.101786
-Herkunftsland,Deutschland,1998,0.0961397,0.0883462,0.1039333
-Herkunftsland,Deutschland,1999,0.0969938,0.0905957,0.1033919
-Herkunftsland,Deutschland,2000,0.1018008,0.0986008,0.1050009
-Herkunftsland,Deutschland,2001,0.1095708,0.10249,0.1166517
-Herkunftsland,Deutschland,2002,0.1145433,0.1090516,0.120035
-Herkunftsland,Deutschland,2003,0.1152737,0.1109646,0.1195828
-Herkunftsland,Deutschland,2004,0.1231352,0.1143322,0.1319382
-Herkunftsland,Deutschland,2005,0.1269011,0.11751,0.1362923
-Herkunftsland,Deutschland,2006,0.1227458,0.115276,0.1302156
-Herkunftsland,Deutschland,2007,0.1252803,0.1192051,0.1313555
-Herkunftsland,Deutschland,2008,0.1317292,0.1229649,0.1404935
-Herkunftsland,Deutschland,2009,0.1350525,0.1274476,0.1426574
-Herkunftsland,Deutschland,2010,0.1273504,0.1158834,0.1388173
-Herkunftsland,Deutschland,2011,0.1286005,0.1207397,0.1364613
-Herkunftsland,Deutschland,2012,0.1295576,0.1224635,0.1366516
-Herkunftsland,Deutschland,2013,0.1362183,0.1271923,0.1452442
-Herkunftsland,Anderes,1991,0.1509267,0.121634,0.1802195
-Herkunftsland,Anderes,1992,0.1506512,0.1336108,0.1676917
-Herkunftsland,Anderes,1993,0.1614894,0.1314106,0.1915683
-Herkunftsland,Anderes,1994,0.2489009,0.2208751,0.2769266
-Herkunftsland,Anderes,1995,0.2333917,0.2148795,0.2519039
-Herkunftsland,Anderes,1996,0.2194544,0.194297,0.2446117
-Herkunftsland,Anderes,1997,0.1916254,0.1562163,0.2270345
-Herkunftsland,Anderes,1998,0.1835187,0.1442306,0.2228068
-Herkunftsland,Anderes,1999,0.1908617,0.1546588,0.2270647
-Herkunftsland,Anderes,2000,0.2409723,0.2158559,0.2660887
-Herkunftsland,Anderes,2001,0.2431228,0.2211709,0.2650747
-Herkunftsland,Anderes,2002,0.2587155,0.2395591,0.2778719
-Herkunftsland,Anderes,2003,0.2595992,0.2308118,0.2883866
-Herkunftsland,Anderes,2004,0.268277,0.2287537,0.3078002
-Herkunftsland,Anderes,2005,0.2459794,0.2010967,0.2908622
-Herkunftsland,Anderes,2006,0.2549606,0.2075545,0.3023666
-Herkunftsland,Anderes,2007,0.2772813,0.2479963,0.3065662
-Herkunftsland,Anderes,2008,0.2903886,0.2696485,0.3111287
-Herkunftsland,Anderes,2009,0.2692856,0.2331826,0.3053887
-Herkunftsland,Anderes,2010,0.2656144,0.2473585,0.2838703
-Herkunftsland,Anderes,2011,0.2373339,0.2118706,0.2627972
-Herkunftsland,Anderes,2012,0.2501786,0.2256201,0.2747371
-Herkunftsland,Anderes,2013,0.2549107,0.2273737,0.2824477
-Region,Westdeutsche Bundesländer,1991,0.0952118,0.0899688,0.1004548
-Region,Westdeutsche Bundesländer,1992,0.10199,0.0955592,0.1084208
-Region,Westdeutsche Bundesländer,1993,0.0945136,0.0865436,0.1024837
-Region,Westdeutsche Bundesländer,1994,0.1210252,0.1068268,0.1352237
-Region,Westdeutsche Bundesländer,1995,0.1118862,0.1034082,0.1203641
-Region,Westdeutsche Bundesländer,1996,0.1033735,0.0922515,0.1144956
-Region,Westdeutsche Bundesländer,1997,0.0973649,0.0884322,0.1062976
-Region,Westdeutsche Bundesländer,1998,0.0975214,0.0893735,0.1056693
-Region,Westdeutsche Bundesländer,1999,0.0978881,0.0887069,0.1070693
-Region,Westdeutsche Bundesländer,2000,0.1109783,0.104686,0.1172705
-Region,Westdeutsche Bundesländer,2001,0.116654,0.1070027,0.1263053
-Region,Westdeutsche Bundesländer,2002,0.1253011,0.1151132,0.135489
-Region,Westdeutsche Bundesländer,2003,0.1199071,0.1108749,0.1289393
-Region,Westdeutsche Bundesländer,2004,0.1258011,0.1153781,0.1362242
-Region,Westdeutsche Bundesländer,2005,0.124811,0.1136558,0.1359662
-Region,Westdeutsche Bundesländer,2006,0.1251701,0.1150027,0.1353375
-Region,Westdeutsche Bundesländer,2007,0.128795,0.1181846,0.1394054
-Region,Westdeutsche Bundesländer,2008,0.1371406,0.1280158,0.1462654
-Region,Westdeutsche Bundesländer,2009,0.1371004,0.1245912,0.1496097
-Region,Westdeutsche Bundesländer,2010,0.1278985,0.1193482,0.1364488
-Region,Westdeutsche Bundesländer,2011,0.1266817,0.1178945,0.1354689
-Region,Westdeutsche Bundesländer,2012,0.1320213,0.122953,0.1410896
-Region,Westdeutsche Bundesländer,2013,0.1407244,0.1318741,0.1495747
-Region,Ostdeutsche Bundesländer,1991,0.1828198,0.1613232,0.2043163
-Region,Ostdeutsche Bundesländer,1992,0.1667303,0.149741,0.1837197
-Region,Ostdeutsche Bundesländer,1993,0.1717597,0.1573082,0.1862112
-Region,Ostdeutsche Bundesländer,1994,0.1497337,0.1329117,0.1665557
-Region,Ostdeutsche Bundesländer,1995,0.1425782,0.1214507,0.1637058
-Region,Ostdeutsche Bundesländer,1996,0.1311733,0.1173416,0.145005
-Region,Ostdeutsche Bundesländer,1997,0.1295854,0.1150244,0.1441464
-Region,Ostdeutsche Bundesländer,1998,0.1380254,0.1206622,0.1553887
-Region,Ostdeutsche Bundesländer,1999,0.1428405,0.1292483,0.1564327
-Region,Ostdeutsche Bundesländer,2000,0.1417385,0.1293064,0.1541707
-Region,Ostdeutsche Bundesländer,2001,0.1563514,0.1412094,0.1714933
-Region,Ostdeutsche Bundesländer,2002,0.1520732,0.1396046,0.1645417
-Region,Ostdeutsche Bundesländer,2003,0.1812825,0.1616455,0.2009196
-Region,Ostdeutsche Bundesländer,2004,0.2000988,0.1763142,0.2238835
-Region,Ostdeutsche Bundesländer,2005,0.208161,0.1755336,0.2407884
-Region,Ostdeutsche Bundesländer,2006,0.1901255,0.1710029,0.2092481
-Region,Ostdeutsche Bundesländer,2007,0.200724,0.1838775,0.2175704
-Region,Ostdeutsche Bundesländer,2008,0.1986948,0.1877023,0.2096874
-Region,Ostdeutsche Bundesländer,2009,0.2094556,0.183768,0.2351431
-Region,Ostdeutsche Bundesländer,2010,0.2066002,0.1825802,0.2306202
-Region,Ostdeutsche Bundesländer,2011,0.2107442,0.1921051,0.2293833
-Region,Ostdeutsche Bundesländer,2012,0.2105428,0.1979308,0.2231549
-Region,Ostdeutsche Bundesländer,2013,0.209464,0.1878415,0.2310865
-Altersgruppen,unter 10 Jahre,1991,0.1334724,0.1076146,0.1593303
-Altersgruppen,unter 10 Jahre,1992,0.1398476,0.1155587,0.1641366
-Altersgruppen,unter 10 Jahre,1993,0.1308653,0.1036188,0.1581117
-Altersgruppen,unter 10 Jahre,1994,0.1858345,0.16488,0.206789
-Altersgruppen,unter 10 Jahre,1995,0.1570244,0.1169415,0.1971073
-Altersgruppen,unter 10 Jahre,1996,0.1343878,0.113994,0.1547817
-Altersgruppen,unter 10 Jahre,1997,0.1214434,0.0960792,0.1468075
-Altersgruppen,unter 10 Jahre,1998,0.1440988,0.1185838,0.1696138
-Altersgruppen,unter 10 Jahre,1999,0.1334681,0.1167732,0.1501629
-Altersgruppen,unter 10 Jahre,2000,0.1519713,0.1350183,0.1689243
-Altersgruppen,unter 10 Jahre,2001,0.1529963,0.1294924,0.1765002
-Altersgruppen,unter 10 Jahre,2002,0.1702663,0.1432714,0.1972612
-Altersgruppen,unter 10 Jahre,2003,0.1599316,0.1385944,0.1812688
-Altersgruppen,unter 10 Jahre,2004,0.1790442,0.1417922,0.2162962
-Altersgruppen,unter 10 Jahre,2005,0.157127,0.1378524,0.1764016
-Altersgruppen,unter 10 Jahre,2006,0.1457102,0.1251926,0.1662278
-Altersgruppen,unter 10 Jahre,2007,0.1478718,0.1264136,0.16933
-Altersgruppen,unter 10 Jahre,2008,0.1563291,0.1238775,0.1887806
-Altersgruppen,unter 10 Jahre,2009,0.1658502,0.1267983,0.2049022
-Altersgruppen,unter 10 Jahre,2010,0.1811077,0.1720418,0.1901736
-Altersgruppen,unter 10 Jahre,2011,0.177899,0.1609232,0.1948747
-Altersgruppen,unter 10 Jahre,2012,0.1801637,0.1616669,0.1986604
-Altersgruppen,unter 10 Jahre,2013,0.2160484,0.1993815,0.2327152
-Altersgruppen,10-17 Jahre,1991,0.1103141,0.0988673,0.1217608
-Altersgruppen,10-17 Jahre,1992,0.1144467,0.0998616,0.1290318
-Altersgruppen,10-17 Jahre,1993,0.1183335,0.1014276,0.1352395
-Altersgruppen,10-17 Jahre,1994,0.1660906,0.1389427,0.1932384
-Altersgruppen,10-17 Jahre,1995,0.1523905,0.1342691,0.170512
-Altersgruppen,10-17 Jahre,1996,0.1447955,0.1298897,0.1597013
-Altersgruppen,10-17 Jahre,1997,0.1267309,0.1126075,0.1408543
-Altersgruppen,10-17 Jahre,1998,0.1401318,0.1234849,0.1567787
-Altersgruppen,10-17 Jahre,1999,0.1347862,0.1216339,0.1479384
-Altersgruppen,10-17 Jahre,2000,0.1512496,0.1255102,0.176989
-Altersgruppen,10-17 Jahre,2001,0.1591024,0.1416986,0.1765061
-Altersgruppen,10-17 Jahre,2002,0.1729736,0.1609662,0.1849809
-Altersgruppen,10-17 Jahre,2003,0.1609289,0.1448542,0.1770036
-Altersgruppen,10-17 Jahre,2004,0.1709856,0.1402922,0.2016791
-Altersgruppen,10-17 Jahre,2005,0.177781,0.1562779,0.1992841
-Altersgruppen,10-17 Jahre,2006,0.1754809,0.1473651,0.2035968
-Altersgruppen,10-17 Jahre,2007,0.1775889,0.1602149,0.1949629
-Altersgruppen,10-17 Jahre,2008,0.1733098,0.1389555,0.2076642
-Altersgruppen,10-17 Jahre,2009,0.190982,0.1662125,0.2157514
-Altersgruppen,10-17 Jahre,2010,0.1595408,0.1428235,0.1762581
-Altersgruppen,10-17 Jahre,2011,0.1616859,0.1384633,0.1849084
-Altersgruppen,10-17 Jahre,2012,0.1807068,0.1683194,0.1930943
-Altersgruppen,10-17 Jahre,2013,0.1787266,0.1617585,0.1956947
-Altersgruppen,18-24 Jahre,1991,0.1149587,0.0976814,0.132236
-Altersgruppen,18-24 Jahre,1992,0.1527965,0.1312071,0.1743859
-Altersgruppen,18-24 Jahre,1993,0.1360915,0.1089853,0.1631976
-Altersgruppen,18-24 Jahre,1994,0.1773446,0.151363,0.2033262
-Altersgruppen,18-24 Jahre,1995,0.1763911,0.152784,0.1999982
-Altersgruppen,18-24 Jahre,1996,0.1703072,0.1326386,0.2079757
-Altersgruppen,18-24 Jahre,1997,0.1851424,0.1598735,0.2104113
-Altersgruppen,18-24 Jahre,1998,0.1759783,0.1658417,0.1861148
-Altersgruppen,18-24 Jahre,1999,0.1750382,0.1585612,0.1915152
-Altersgruppen,18-24 Jahre,2000,0.1780157,0.155227,0.2008044
-Altersgruppen,18-24 Jahre,2001,0.1943691,0.1752805,0.2134578
-Altersgruppen,18-24 Jahre,2002,0.1959988,0.1802087,0.2117888
-Altersgruppen,18-24 Jahre,2003,0.2123022,0.1775916,0.2470128
-Altersgruppen,18-24 Jahre,2004,0.239191,0.2146433,0.2637386
-Altersgruppen,18-24 Jahre,2005,0.2365103,0.2009682,0.2720525
-Altersgruppen,18-24 Jahre,2006,0.2365395,0.2105954,0.2624835
-Altersgruppen,18-24 Jahre,2007,0.2415927,0.2234807,0.2597047
-Altersgruppen,18-24 Jahre,2008,0.238845,0.2113785,0.2663115
-Altersgruppen,18-24 Jahre,2009,0.2265323,0.2012276,0.2518371
-Altersgruppen,18-24 Jahre,2010,0.2064113,0.1767193,0.2361033
-Altersgruppen,18-24 Jahre,2011,0.1995867,0.1668882,0.2322852
-Altersgruppen,18-24 Jahre,2012,0.214135,0.180706,0.2475639
-Altersgruppen,18-24 Jahre,2013,0.2327349,0.2109195,0.2545504
-Altersgruppen,25-34 Jahre,1991,0.0867753,0.077624,0.0959267
-Altersgruppen,25-34 Jahre,1992,0.097651,0.0863582,0.1089439
-Altersgruppen,25-34 Jahre,1993,0.0939243,0.0839735,0.1038751
-Altersgruppen,25-34 Jahre,1994,0.1285053,0.1161452,0.1408655
-Altersgruppen,25-34 Jahre,1995,0.1112592,0.0930839,0.1294346
-Altersgruppen,25-34 Jahre,1996,0.1122181,0.0943469,0.1300893
-Altersgruppen,25-34 Jahre,1997,0.1077911,0.0838136,0.1317687
-Altersgruppen,25-34 Jahre,1998,0.1122993,0.0916545,0.1329441
-Altersgruppen,25-34 Jahre,1999,0.1040782,0.0914521,0.1167043
-Altersgruppen,25-34 Jahre,2000,0.129809,0.1139118,0.1457062
-Altersgruppen,25-34 Jahre,2001,0.1261003,0.1015588,0.1506419
-Altersgruppen,25-34 Jahre,2002,0.1421516,0.1251465,0.1591567
-Altersgruppen,25-34 Jahre,2003,0.1503387,0.131042,0.1696354
-Altersgruppen,25-34 Jahre,2004,0.1604512,0.1346289,0.1862736
-Altersgruppen,25-34 Jahre,2005,0.1641818,0.1394479,0.1889158
-Altersgruppen,25-34 Jahre,2006,0.1672835,0.1322674,0.2022997
-Altersgruppen,25-34 Jahre,2007,0.1721307,0.1474709,0.1967906
-Altersgruppen,25-34 Jahre,2008,0.1704253,0.1569455,0.1839051
-Altersgruppen,25-34 Jahre,2009,0.1725148,0.1377231,0.2073066
-Altersgruppen,25-34 Jahre,2010,0.1794904,0.1549483,0.2040325
-Altersgruppen,25-34 Jahre,2011,0.173531,0.1535031,0.193559
-Altersgruppen,25-34 Jahre,2012,0.1755347,0.1494508,0.2016186
-Altersgruppen,25-34 Jahre,2013,0.2072789,0.1796681,0.2348897
-Altersgruppen,35-44 Jahre,1991,0.0693864,0.059421,0.0793517
-Altersgruppen,35-44 Jahre,1992,0.0687824,0.0592944,0.0782705
-Altersgruppen,35-44 Jahre,1993,0.0713108,0.0621511,0.0804704
-Altersgruppen,35-44 Jahre,1994,0.1043853,0.0858449,0.1229256
-Altersgruppen,35-44 Jahre,1995,0.0865811,0.0714308,0.1017313
-Altersgruppen,35-44 Jahre,1996,0.0743165,0.0648973,0.0837356
-Altersgruppen,35-44 Jahre,1997,0.0744885,0.0635105,0.0854665
-Altersgruppen,35-44 Jahre,1998,0.0839988,0.0766831,0.0913145
-Altersgruppen,35-44 Jahre,1999,0.0822553,0.0684741,0.0960366
-Altersgruppen,35-44 Jahre,2000,0.0828972,0.0693838,0.0964106
-Altersgruppen,35-44 Jahre,2001,0.0987776,0.0814356,0.1161196
-Altersgruppen,35-44 Jahre,2002,0.1031883,0.0887613,0.1176153
-Altersgruppen,35-44 Jahre,2003,0.1021063,0.0891186,0.115094
-Altersgruppen,35-44 Jahre,2004,0.1155731,0.0986213,0.1325249
-Altersgruppen,35-44 Jahre,2005,0.1134973,0.0897973,0.1371972
-Altersgruppen,35-44 Jahre,2006,0.1087751,0.0893223,0.128228
-Altersgruppen,35-44 Jahre,2007,0.1057648,0.0943922,0.1171375
-Altersgruppen,35-44 Jahre,2008,0.1040924,0.0792424,0.1289424
-Altersgruppen,35-44 Jahre,2009,0.1067499,0.0834467,0.130053
-Altersgruppen,35-44 Jahre,2010,0.102552,0.0867298,0.1183743
-Altersgruppen,35-44 Jahre,2011,0.1151283,0.1015766,0.1286801
-Altersgruppen,35-44 Jahre,2012,0.1157306,0.1043149,0.1271464
-Altersgruppen,35-44 Jahre,2013,0.1263487,0.1140644,0.1386328
-Altersgruppen,45-54 Jahre,1991,0.0519012,0.0408891,0.0629134
-Altersgruppen,45-54 Jahre,1992,0.0518111,0.0400965,0.0635257
-Altersgruppen,45-54 Jahre,1993,0.0567192,0.038037,0.0754013
-Altersgruppen,45-54 Jahre,1994,0.066202,0.0464915,0.0859125
-Altersgruppen,45-54 Jahre,1995,0.0800552,0.063327,0.0967834
-Altersgruppen,45-54 Jahre,1996,0.0584573,0.042415,0.0744996
-Altersgruppen,45-54 Jahre,1997,0.0651538,0.0546266,0.0756809
-Altersgruppen,45-54 Jahre,1998,0.0606324,0.053457,0.0678077
-Altersgruppen,45-54 Jahre,1999,0.0602093,0.0443629,0.0760557
-Altersgruppen,45-54 Jahre,2000,0.0676765,0.058082,0.0772709
-Altersgruppen,45-54 Jahre,2001,0.0892479,0.08161,0.0968859
-Altersgruppen,45-54 Jahre,2002,0.0888779,0.0729007,0.1048551
-Altersgruppen,45-54 Jahre,2003,0.0912521,0.0772418,0.1052623
-Altersgruppen,45-54 Jahre,2004,0.1005995,0.090543,0.110656
-Altersgruppen,45-54 Jahre,2005,0.1214144,0.1005947,0.1422341
-Altersgruppen,45-54 Jahre,2006,0.1097269,0.0916692,0.1277846
-Altersgruppen,45-54 Jahre,2007,0.1086509,0.0938473,0.1234545
-Altersgruppen,45-54 Jahre,2008,0.1120218,0.0992103,0.1248332
-Altersgruppen,45-54 Jahre,2009,0.1089394,0.090693,0.1271857
-Altersgruppen,45-54 Jahre,2010,0.0983224,0.0740485,0.1225962
-Altersgruppen,45-54 Jahre,2011,0.0981587,0.0857625,0.1105549
-Altersgruppen,45-54 Jahre,2012,0.0998265,0.0853865,0.1142664
-Altersgruppen,45-54 Jahre,2013,0.1011192,0.0856697,0.1165688
-Altersgruppen,55-64 Jahre,1991,0.1182535,0.1024424,0.1340645
-Altersgruppen,55-64 Jahre,1992,0.1306121,0.1203643,0.1408598
-Altersgruppen,55-64 Jahre,1993,0.1288616,0.1162143,0.1415089
-Altersgruppen,55-64 Jahre,1994,0.1044398,0.0930098,0.1158698
-Altersgruppen,55-64 Jahre,1995,0.0962246,0.0885434,0.1039057
-Altersgruppen,55-64 Jahre,1996,0.1012987,0.0870201,0.1155773
-Altersgruppen,55-64 Jahre,1997,0.0857392,0.0631726,0.1083059
-Altersgruppen,55-64 Jahre,1998,0.0718789,0.0585989,0.085159
-Altersgruppen,55-64 Jahre,1999,0.1075957,0.08501,0.1301813
-Altersgruppen,55-64 Jahre,2000,0.1104998,0.0915587,0.1294409
-Altersgruppen,55-64 Jahre,2001,0.1069041,0.0929077,0.1209005
-Altersgruppen,55-64 Jahre,2002,0.1157569,0.1074582,0.1240555
-Altersgruppen,55-64 Jahre,2003,0.1145,0.0993982,0.1296018
-Altersgruppen,55-64 Jahre,2004,0.1136019,0.0966733,0.1305306
-Altersgruppen,55-64 Jahre,2005,0.1095654,0.0927926,0.1263381
-Altersgruppen,55-64 Jahre,2006,0.1112707,0.0965026,0.1260388
-Altersgruppen,55-64 Jahre,2007,0.1257263,0.1041938,0.1472588
-Altersgruppen,55-64 Jahre,2008,0.1348613,0.1034827,0.1662399
-Altersgruppen,55-64 Jahre,2009,0.1444334,0.1289082,0.1599585
-Altersgruppen,55-64 Jahre,2010,0.1324319,0.1191136,0.1457501
-Altersgruppen,55-64 Jahre,2011,0.134944,0.1145926,0.1552955
-Altersgruppen,55-64 Jahre,2012,0.1404283,0.1211091,0.1597476
-Altersgruppen,55-64 Jahre,2013,0.1396718,0.1115017,0.1678419
-Altersgruppen,65-74 Jahre,1991,0.1659982,0.1343811,0.1976153
-Altersgruppen,65-74 Jahre,1992,0.1447216,0.1099964,0.1794468
-Altersgruppen,65-74 Jahre,1993,0.1292806,0.1057374,0.1528239
-Altersgruppen,65-74 Jahre,1994,0.1122427,0.0916258,0.1328595
-Altersgruppen,65-74 Jahre,1995,0.1117086,0.0940562,0.129361
-Altersgruppen,65-74 Jahre,1996,0.1120534,0.0957566,0.1283503
-Altersgruppen,65-74 Jahre,1997,0.1007497,0.0847984,0.1167009
-Altersgruppen,65-74 Jahre,1998,0.1075896,0.0872153,0.127964
-Altersgruppen,65-74 Jahre,1999,0.0963831,0.0812528,0.1115134
-Altersgruppen,65-74 Jahre,2000,0.1134129,0.1023898,0.124436
-Altersgruppen,65-74 Jahre,2001,0.1137632,0.0991335,0.1283929
-Altersgruppen,65-74 Jahre,2002,0.1105408,0.0965065,0.1245751
-Altersgruppen,65-74 Jahre,2003,0.1091435,0.0975109,0.1207761
-Altersgruppen,65-74 Jahre,2004,0.1143777,0.0996421,0.1291133
-Altersgruppen,65-74 Jahre,2005,0.1168341,0.1071847,0.1264834
-Altersgruppen,65-74 Jahre,2006,0.1143346,0.0991482,0.1295211
-Altersgruppen,65-74 Jahre,2007,0.1235734,0.1099598,0.1371871
-Altersgruppen,65-74 Jahre,2008,0.1391526,0.1188685,0.1594367
-Altersgruppen,65-74 Jahre,2009,0.1388332,0.124722,0.1529444
-Altersgruppen,65-74 Jahre,2010,0.133554,0.1136825,0.1534255
-Altersgruppen,65-74 Jahre,2011,0.1232517,0.1048274,0.141676
-Altersgruppen,65-74 Jahre,2012,0.1351572,0.1141964,0.1561181
-Altersgruppen,65-74 Jahre,2013,0.1229769,0.1068501,0.1391038
-Altersgruppen,über 74 Jahre,1991,0.2733174,0.2306818,0.3159529
-Altersgruppen,über 74 Jahre,1992,0.2232767,0.1717499,0.2748036
-Altersgruppen,über 74 Jahre,1993,0.1917271,0.1574587,0.2259955
-Altersgruppen,über 74 Jahre,1994,0.154529,0.1173677,0.1916903
-Altersgruppen,über 74 Jahre,1995,0.1598747,0.1208317,0.1989176
-Altersgruppen,über 74 Jahre,1996,0.1314513,0.1081018,0.1548007
-Altersgruppen,über 74 Jahre,1997,0.1292145,0.0824219,0.1760072
-Altersgruppen,über 74 Jahre,1998,0.113421,0.0697336,0.1571083
-Altersgruppen,über 74 Jahre,1999,0.1216593,0.1048591,0.1384596
-Altersgruppen,über 74 Jahre,2000,0.1306118,0.1183809,0.1428427
-Altersgruppen,über 74 Jahre,2001,0.1370215,0.118748,0.1552949
-Altersgruppen,über 74 Jahre,2002,0.1393806,0.1143694,0.1643918
-Altersgruppen,über 74 Jahre,2003,0.1508417,0.130007,0.1716763
-Altersgruppen,über 74 Jahre,2004,0.1271861,0.1013848,0.1529873
-Altersgruppen,über 74 Jahre,2005,0.1207655,0.1044358,0.1370953
-Altersgruppen,über 74 Jahre,2006,0.1276135,0.1131511,0.1420759
-Altersgruppen,über 74 Jahre,2007,0.1444784,0.1040628,0.1848939
-Altersgruppen,über 74 Jahre,2008,0.1764686,0.154444,0.1984931
-Altersgruppen,über 74 Jahre,2009,0.1687364,0.1550021,0.1824707
-Altersgruppen,über 74 Jahre,2010,0.1525771,0.1269034,0.1782507
-Altersgruppen,über 74 Jahre,2011,0.1517902,0.1388,0.1647805
-Altersgruppen,über 74 Jahre,2012,0.1369806,0.1285649,0.1453963
-Altersgruppen,über 74 Jahre,2013,0.1307265,0.1178342,0.1436189
-Umverteilung,Vor Steuern und Transfers,1991,0.2801644,0.2693795,0.2909493
-Umverteilung,Vor Steuern und Transfers,1992,0.2972525,0.2870255,0.3074794
-Umverteilung,Vor Steuern und Transfers,1993,0.2990873,0.2890897,0.309085
-Umverteilung,Vor Steuern und Transfers,1994,0.3193319,0.305429,0.3332347
-Umverteilung,Vor Steuern und Transfers,1995,0.3164228,0.3029797,0.3298658
-Umverteilung,Vor Steuern und Transfers,1996,0.3195591,0.3108188,0.3282993
-Umverteilung,Vor Steuern und Transfers,1997,0.322355,0.3107203,0.3339897
-Umverteilung,Vor Steuern und Transfers,1998,0.316635,0.3063705,0.3268995
-Umverteilung,Vor Steuern und Transfers,1999,0.3255382,0.3179752,0.3331011
-Umverteilung,Vor Steuern und Transfers,2000,0.3277748,0.3188679,0.3366817
-Umverteilung,Vor Steuern und Transfers,2001,0.3309991,0.3212535,0.3407448
-Umverteilung,Vor Steuern und Transfers,2002,0.3402805,0.3335398,0.3470213
-Umverteilung,Vor Steuern und Transfers,2003,0.3416873,0.3344669,0.3489077
-Umverteilung,Vor Steuern und Transfers,2004,0.3461895,0.3361936,0.3561853
-Umverteilung,Vor Steuern und Transfers,2005,0.34785,0.3340928,0.3616071
-Umverteilung,Vor Steuern und Transfers,2006,0.3519686,0.3417228,0.3622144
-Umverteilung,Vor Steuern und Transfers,2007,0.3456806,0.3325988,0.3587623
-Umverteilung,Vor Steuern und Transfers,2008,0.3397703,0.3292379,0.3503026
-Umverteilung,Vor Steuern und Transfers,2009,0.3411495,0.3314428,0.3508561
-Umverteilung,Vor Steuern und Transfers,2010,0.348938,0.3333414,0.3645345
-Umverteilung,Vor Steuern und Transfers,2011,0.3431491,0.3347264,0.3515718
-Umverteilung,Vor Steuern und Transfers,2012,0.3427023,0.3346998,0.3507048
-Umverteilung,Vor Steuern und Transfers,2013,0.3505108,0.3418725,0.3591489
+Alle,,1991,0.113,0.108,0.119
+Alle,,1992,0.111,0.104,0.117
+Alle,,1993,0.107,0.098,0.115
+Alle,,1994,0.122,0.112,0.132
+Alle,,1995,0.115,0.107,0.124
+Alle,,1996,0.108,0.101,0.116
+Alle,,1997,0.107,0.099,0.115
+Alle,,1998,0.106,0.100,0.111
+Alle,,1999,0.108,0.099,0.117
+Alle,,2000,0.116,0.111,0.120
+Alle,,2001,0.125,0.119,0.131
+Alle,,2002,0.130,0.123,0.136
+Alle,,2003,0.131,0.127,0.135
+Alle,,2004,0.138,0.126,0.149
+Alle,,2005,0.141,0.128,0.153
+Alle,,2006,0.139,0.131,0.147
+Alle,,2007,0.142,0.136,0.148
+Alle,,2008,0.143,0.137,0.150
+Alle,,2009,0.149,0.139,0.160
+Alle,,2010,0.140,0.128,0.152
+Alle,,2011,0.140,0.130,0.149
+Alle,,2012,0.145,0.138,0.153
+Alle,,2013,0.152,0.142,0.161
+Alle,,2014,0.158,0.146,0.170
+Haushaltstyp,Alleinerziehend 1 Kind,1991,0.235,0.204,0.266
+Haushaltstyp,Alleinerziehend 1 Kind,1992,0.216,0.182,0.250
+Haushaltstyp,Alleinerziehend 1 Kind,1993,0.180,0.149,0.211
+Haushaltstyp,Alleinerziehend 1 Kind,1994,0.243,0.163,0.324
+Haushaltstyp,Alleinerziehend 1 Kind,1995,0.273,0.232,0.315
+Haushaltstyp,Alleinerziehend 1 Kind,1996,0.291,0.227,0.355
+Haushaltstyp,Alleinerziehend 1 Kind,1997,0.216,0.150,0.282
+Haushaltstyp,Alleinerziehend 1 Kind,1998,0.277,0.220,0.334
+Haushaltstyp,Alleinerziehend 1 Kind,1999,0.299,0.243,0.355
+Haushaltstyp,Alleinerziehend 1 Kind,2000,0.257,0.203,0.312
+Haushaltstyp,Alleinerziehend 1 Kind,2001,0.274,0.226,0.321
+Haushaltstyp,Alleinerziehend 1 Kind,2002,0.302,0.241,0.363
+Haushaltstyp,Alleinerziehend 1 Kind,2003,0.271,0.221,0.322
+Haushaltstyp,Alleinerziehend 1 Kind,2004,0.331,0.278,0.384
+Haushaltstyp,Alleinerziehend 1 Kind,2005,0.293,0.224,0.362
+Haushaltstyp,Alleinerziehend 1 Kind,2006,0.317,0.258,0.375
+Haushaltstyp,Alleinerziehend 1 Kind,2007,0.304,0.255,0.353
+Haushaltstyp,Alleinerziehend 1 Kind,2008,0.299,0.239,0.360
+Haushaltstyp,Alleinerziehend 1 Kind,2009,0.357,0.294,0.420
+Haushaltstyp,Alleinerziehend 1 Kind,2010,0.284,0.248,0.321
+Haushaltstyp,Alleinerziehend 1 Kind,2011,0.289,0.248,0.330
+Haushaltstyp,Alleinerziehend 1 Kind,2012,0.277,0.218,0.336
+Haushaltstyp,Alleinerziehend 1 Kind,2013,0.318,0.289,0.347
+Haushaltstyp,Alleinerziehend 1 Kind,2014,0.326,0.280,0.373
+Haushaltstyp,Alleinerziehend 1 Kind,1991,0.235,0.204,0.266
+Haushaltstyp,Alleinerziehend 2+ Kinder,1991,0.413,0.295,0.531
+Haushaltstyp,Alleinerziehend 2+ Kinder,1992,0.405,0.287,0.523
+Haushaltstyp,Alleinerziehend 2+ Kinder,1993,0.313,0.214,0.412
+Haushaltstyp,Alleinerziehend 2+ Kinder,1994,0.427,0.304,0.551
+Haushaltstyp,Alleinerziehend 2+ Kinder,1995,0.397,0.310,0.485
+Haushaltstyp,Alleinerziehend 2+ Kinder,1996,0.400,0.301,0.499
+Haushaltstyp,Alleinerziehend 2+ Kinder,1997,0.419,0.307,0.530
+Haushaltstyp,Alleinerziehend 2+ Kinder,1998,0.467,0.397,0.537
+Haushaltstyp,Alleinerziehend 2+ Kinder,1999,0.416,0.342,0.491
+Haushaltstyp,Alleinerziehend 2+ Kinder,2000,0.448,0.385,0.511
+Haushaltstyp,Alleinerziehend 2+ Kinder,2001,0.503,0.446,0.560
+Haushaltstyp,Alleinerziehend 2+ Kinder,2002,0.474,0.406,0.542
+Haushaltstyp,Alleinerziehend 2+ Kinder,2003,0.461,0.371,0.551
+Haushaltstyp,Alleinerziehend 2+ Kinder,2004,0.456,0.354,0.557
+Haushaltstyp,Alleinerziehend 2+ Kinder,2005,0.462,0.354,0.557
+Haushaltstyp,Alleinerziehend 2+ Kinder,2006,0.439,0.359,0.565
+Haushaltstyp,Alleinerziehend 2+ Kinder,2007,0.416,0.305,0.528
+Haushaltstyp,Alleinerziehend 2+ Kinder,2008,0.426,0.309,0.544
+Haushaltstyp,Alleinerziehend 2+ Kinder,2009,0.504,0.399,0.610
+Haushaltstyp,Alleinerziehend 2+ Kinder,2010,0.419,0.368,0.469
+Haushaltstyp,Alleinerziehend 2+ Kinder,2011,0.394,0.329,0.459
+Haushaltstyp,Alleinerziehend 2+ Kinder,2012,0.424,0.378,0.469
+Haushaltstyp,Alleinerziehend 2+ Kinder,2013,0.453,0.428,0.478
+Haushaltstyp,Alleinerziehend 2+ Kinder,2014,0.456,0.425,0.487
+Haushaltstyp,Paar 3+ Kinder,1991,0.149,0.119,0.180
+Haushaltstyp,Paar 3+ Kinder,1992,0.152,0.129,0.175
+Haushaltstyp,Paar 3+ Kinder,1993,0.136,0.100,0.172
+Haushaltstyp,Paar 3+ Kinder,1994,0.231,0.169,0.293
+Haushaltstyp,Paar 3+ Kinder,1995,0.165,0.122,0.207
+Haushaltstyp,Paar 3+ Kinder,1996,0.148,0.119,0.177
+Haushaltstyp,Paar 3+ Kinder,1997,0.139,0.099,0.179
+Haushaltstyp,Paar 3+ Kinder,1998,0.154,0.120,0.188
+Haushaltstyp,Paar 3+ Kinder,1999,0.153,0.131,0.176
+Haushaltstyp,Paar 3+ Kinder,2000,0.162,0.107,0.217
+Haushaltstyp,Paar 3+ Kinder,2001,0.169,0.134,0.204
+Haushaltstyp,Paar 3+ Kinder,2002,0.173,0.141,0.205
+Haushaltstyp,Paar 3+ Kinder,2003,0.180,0.145,0.216
+Haushaltstyp,Paar 3+ Kinder,2004,0.195,0.175,0.215
+Haushaltstyp,Paar 3+ Kinder,2005,0.196,0.129,0.263
+Haushaltstyp,Paar 3+ Kinder,2006,0.168,0.115,0.221
+Haushaltstyp,Paar 3+ Kinder,2007,0.181,0.120,0.242
+Haushaltstyp,Paar 3+ Kinder,2008,0.171,0.129,0.212
+Haushaltstyp,Paar 3+ Kinder,2009,0.172,0.100,0.244
+Haushaltstyp,Paar 3+ Kinder,2010,0.194,0.172,0.215
+Haushaltstyp,Paar 3+ Kinder,2011,0.177,0.155,0.200
+Haushaltstyp,Paar 3+ Kinder,2012,0.225,0.195,0.255
+Haushaltstyp,Paar 3+ Kinder,2013,0.238,0.207,0.270
+Haushaltstyp,Paar 3+ Kinder,2014,0.244,0.206,0.281
+Herkunftsland,Deutschland,1991,0.111,0.106,0.116
+Herkunftsland,Deutschland,1992,0.108,0.101,0.115
+Herkunftsland,Deutschland,1993,0.102,0.094,0.109
+Herkunftsland,Deutschland,1994,0.109,0.100,0.118
+Herkunftsland,Deutschland,1995,0.103,0.095,0.111
+Herkunftsland,Deutschland,1996,0.095,0.088,0.103
+Herkunftsland,Deutschland,1997,0.097,0.088,0.105
+Herkunftsland,Deutschland,1998,0.097,0.091,0.102
+Herkunftsland,Deutschland,1999,0.098,0.090,0.107
+Herkunftsland,Deutschland,2000,0.101,0.097,0.105
+Herkunftsland,Deutschland,2001,0.112,0.107,0.116
+Herkunftsland,Deutschland,2002,0.114,0.109,0.120
+Herkunftsland,Deutschland,2003,0.116,0.112,0.119
+Herkunftsland,Deutschland,2004,0.122,0.110,0.134
+Herkunftsland,Deutschland,2005,0.127,0.116,0.138
+Herkunftsland,Deutschland,2006,0.125,0.117,0.133
+Herkunftsland,Deutschland,2007,0.125,0.121,0.129
+Herkunftsland,Deutschland,2008,0.127,0.121,0.134
+Herkunftsland,Deutschland,2009,0.134,0.125,0.142
+Herkunftsland,Deutschland,2010,0.127,0.115,0.138
+Herkunftsland,Deutschland,2011,0.128,0.121,0.135
+Herkunftsland,Deutschland,2012,0.129,0.122,0.136
+Herkunftsland,Deutschland,2013,0.136,0.128,0.143
+Herkunftsland,Deutschland,2014,0.140,0.129,0.151
+Herkunftsland,Anderes,1991,0.150,0.113,0.187
+Herkunftsland,Anderes,1992,0.143,0.123,0.163
+Herkunftsland,Anderes,1993,0.160,0.138,0.181
+Herkunftsland,Anderes,1994,0.235,0.204,0.267
+Herkunftsland,Anderes,1995,0.221,0.203,0.240
+Herkunftsland,Anderes,1996,0.219,0.191,0.247
+Herkunftsland,Anderes,1997,0.198,0.169,0.226
+Herkunftsland,Anderes,1998,0.186,0.149,0.223
+Herkunftsland,Anderes,1999,0.191,0.161,0.220
+Herkunftsland,Anderes,2000,0.241,0.214,0.268
+Herkunftsland,Anderes,2001,0.237,0.218,0.255
+Herkunftsland,Anderes,2002,0.258,0.239,0.277
+Herkunftsland,Anderes,2003,0.260,0.232,0.288
+Herkunftsland,Anderes,2004,0.263,0.234,0.291
+Herkunftsland,Anderes,2005,0.255,0.215,0.295
+Herkunftsland,Anderes,2006,0.261,0.206,0.316
+Herkunftsland,Anderes,2007,0.282,0.252,0.313
+Herkunftsland,Anderes,2008,0.280,0.252,0.308
+Herkunftsland,Anderes,2009,0.272,0.218,0.327
+Herkunftsland,Anderes,2010,0.254,0.234,0.274
+Herkunftsland,Anderes,2011,0.230,0.214,0.246
+Herkunftsland,Anderes,2012,0.253,0.232,0.274
+Herkunftsland,Anderes,2013,0.255,0.223,0.287
+Herkunftsland,Anderes,2014,0.280,0.256,0.304
+Region,Westdeutsche Bundesländer,1991,0.097,0.088,0.105
+Region,Westdeutsche Bundesländer,1992,0.098,0.091,0.105
+Region,Westdeutsche Bundesländer,1993,0.092,0.084,0.101
+Region,Westdeutsche Bundesländer,1994,0.116,0.103,0.129
+Region,Westdeutsche Bundesländer,1995,0.112,0.104,0.120
+Region,Westdeutsche Bundesländer,1996,0.103,0.092,0.113
+Region,Westdeutsche Bundesländer,1997,0.101,0.092,0.110
+Region,Westdeutsche Bundesländer,1998,0.098,0.092,0.105
+Region,Westdeutsche Bundesländer,1999,0.099,0.088,0.110
+Region,Westdeutsche Bundesländer,2000,0.111,0.106,0.117
+Region,Westdeutsche Bundesländer,2001,0.117,0.111,0.123
+Region,Westdeutsche Bundesländer,2002,0.125,0.117,0.134
+Region,Westdeutsche Bundesländer,2003,0.121,0.112,0.129
+Region,Westdeutsche Bundesländer,2004,0.125,0.113,0.137
+Region,Westdeutsche Bundesländer,2005,0.126,0.110,0.142
+Region,Westdeutsche Bundesländer,2006,0.128,0.117,0.139
+Region,Westdeutsche Bundesländer,2007,0.131,0.123,0.139
+Region,Westdeutsche Bundesländer,2008,0.132,0.122,0.141
+Region,Westdeutsche Bundesländer,2009,0.138,0.122,0.154
+Region,Westdeutsche Bundesländer,2010,0.126,0.116,0.136
+Region,Westdeutsche Bundesländer,2011,0.125,0.117,0.134
+Region,Westdeutsche Bundesländer,2012,0.131,0.125,0.138
+Region,Westdeutsche Bundesländer,2013,0.140,0.131,0.149
+Region,Westdeutsche Bundesländer,2014,0.147,0.137,0.157
+Region,Ostdeutsche Bundesländer,1991,0.179,0.155,0.202
+Region,Ostdeutsche Bundesländer,1992,0.160,0.147,0.174
+Region,Ostdeutsche Bundesländer,1993,0.165,0.148,0.182
+Region,Ostdeutsche Bundesländer,1994,0.148,0.126,0.169
+Region,Ostdeutsche Bundesländer,1995,0.131,0.109,0.153
+Region,Ostdeutsche Bundesländer,1996,0.132,0.117,0.147
+Region,Ostdeutsche Bundesländer,1997,0.134,0.118,0.150
+Region,Ostdeutsche Bundesländer,1998,0.138,0.125,0.152
+Region,Ostdeutsche Bundesländer,1999,0.145,0.132,0.157
+Region,Ostdeutsche Bundesländer,2000,0.134,0.123,0.145
+Region,Ostdeutsche Bundesländer,2001,0.161,0.144,0.178
+Region,Ostdeutsche Bundesländer,2002,0.151,0.142,0.161
+Region,Ostdeutsche Bundesländer,2003,0.180,0.158,0.202
+Region,Ostdeutsche Bundesländer,2004,0.195,0.162,0.228
+Region,Ostdeutsche Bundesländer,2005,0.206,0.175,0.236
+Region,Ostdeutsche Bundesländer,2006,0.191,0.171,0.212
+Region,Ostdeutsche Bundesländer,2007,0.191,0.177,0.205
+Region,Ostdeutsche Bundesländer,2008,0.195,0.181,0.209
+Region,Ostdeutsche Bundesländer,2009,0.203,0.179,0.228
+Region,Ostdeutsche Bundesländer,2010,0.207,0.187,0.226
+Region,Ostdeutsche Bundesländer,2011,0.209,0.187,0.231
+Region,Ostdeutsche Bundesländer,2012,0.211,0.192,0.231
+Region,Ostdeutsche Bundesländer,2013,0.206,0.183,0.229
+Region,Ostdeutsche Bundesländer,2014,0.211,0.193,0.230
+Altersgruppen,unter 10 Jahre,1991,0.133,0.108,0.158
+Altersgruppen,unter 10 Jahre,1992,0.133,0.105,0.160
+Altersgruppen,unter 10 Jahre,1993,0.128,0.095,0.161
+Altersgruppen,unter 10 Jahre,1994,0.181,0.159,0.202
+Altersgruppen,unter 10 Jahre,1995,0.150,0.115,0.186
+Altersgruppen,unter 10 Jahre,1996,0.135,0.115,0.155
+Altersgruppen,unter 10 Jahre,1997,0.130,0.101,0.160
+Altersgruppen,unter 10 Jahre,1998,0.146,0.119,0.173
+Altersgruppen,unter 10 Jahre,1999,0.135,0.114,0.157
+Altersgruppen,unter 10 Jahre,2000,0.147,0.128,0.166
+Altersgruppen,unter 10 Jahre,2001,0.157,0.140,0.173
+Altersgruppen,unter 10 Jahre,2002,0.163,0.137,0.189
+Altersgruppen,unter 10 Jahre,2003,0.162,0.140,0.183
+Altersgruppen,unter 10 Jahre,2004,0.176,0.141,0.210
+Altersgruppen,unter 10 Jahre,2005,0.153,0.134,0.172
+Altersgruppen,unter 10 Jahre,2006,0.152,0.131,0.174
+Altersgruppen,unter 10 Jahre,2007,0.147,0.133,0.161
+Altersgruppen,unter 10 Jahre,2008,0.151,0.115,0.187
+Altersgruppen,unter 10 Jahre,2009,0.173,0.133,0.212
+Altersgruppen,unter 10 Jahre,2010,0.180,0.165,0.196
+Altersgruppen,unter 10 Jahre,2011,0.178,0.160,0.196
+Altersgruppen,unter 10 Jahre,2012,0.178,0.164,0.192
+Altersgruppen,unter 10 Jahre,2013,0.204,0.193,0.216
+Altersgruppen,unter 10 Jahre,2014,0.219,0.207,0.232
+Altersgruppen,10-17 Jahre,1991,0.124,0.106,0.143
+Altersgruppen,10-17 Jahre,1992,0.113,0.097,0.129
+Altersgruppen,10-17 Jahre,1993,0.113,0.095,0.130
+Altersgruppen,10-17 Jahre,1994,0.165,0.141,0.188
+Altersgruppen,10-17 Jahre,1995,0.154,0.139,0.169
+Altersgruppen,10-17 Jahre,1996,0.142,0.127,0.157
+Altersgruppen,10-17 Jahre,1997,0.142,0.125,0.159
+Altersgruppen,10-17 Jahre,1998,0.148,0.126,0.171
+Altersgruppen,10-17 Jahre,1999,0.142,0.128,0.157
+Altersgruppen,10-17 Jahre,2000,0.156,0.124,0.187
+Altersgruppen,10-17 Jahre,2001,0.180,0.160,0.199
+Altersgruppen,10-17 Jahre,2002,0.173,0.156,0.190
+Altersgruppen,10-17 Jahre,2003,0.166,0.150,0.183
+Altersgruppen,10-17 Jahre,2004,0.187,0.153,0.221
+Altersgruppen,10-17 Jahre,2005,0.181,0.155,0.207
+Altersgruppen,10-17 Jahre,2006,0.181,0.158,0.204
+Altersgruppen,10-17 Jahre,2007,0.184,0.168,0.199
+Altersgruppen,10-17 Jahre,2008,0.172,0.149,0.196
+Altersgruppen,10-17 Jahre,2009,0.190,0.163,0.217
+Altersgruppen,10-17 Jahre,2010,0.169,0.153,0.185
+Altersgruppen,10-17 Jahre,2011,0.168,0.148,0.188
+Altersgruppen,10-17 Jahre,2012,0.192,0.173,0.210
+Altersgruppen,10-17 Jahre,2013,0.192,0.173,0.210
+Altersgruppen,10-17 Jahre,2014,0.201,0.183,0.219
+Altersgruppen,18-24 Jahre,1991,0.114,0.097,0.131
+Altersgruppen,18-24 Jahre,1992,0.145,0.121,0.168
+Altersgruppen,18-24 Jahre,1993,0.138,0.107,0.168
+Altersgruppen,18-24 Jahre,1994,0.171,0.147,0.196
+Altersgruppen,18-24 Jahre,1995,0.177,0.154,0.199
+Altersgruppen,18-24 Jahre,1996,0.171,0.132,0.210
+Altersgruppen,18-24 Jahre,1997,0.185,0.159,0.212
+Altersgruppen,18-24 Jahre,1998,0.181,0.166,0.196
+Altersgruppen,18-24 Jahre,1999,0.173,0.153,0.194
+Altersgruppen,18-24 Jahre,2000,0.177,0.156,0.199
+Altersgruppen,18-24 Jahre,2001,0.197,0.177,0.216
+Altersgruppen,18-24 Jahre,2002,0.203,0.187,0.220
+Altersgruppen,18-24 Jahre,2003,0.216,0.183,0.249
+Altersgruppen,18-24 Jahre,2004,0.227,0.202,0.253
+Altersgruppen,18-24 Jahre,2005,0.240,0.205,0.275
+Altersgruppen,18-24 Jahre,2006,0.231,0.206,0.256
+Altersgruppen,18-24 Jahre,2007,0.240,0.217,0.264
+Altersgruppen,18-24 Jahre,2008,0.225,0.194,0.257
+Altersgruppen,18-24 Jahre,2009,0.229,0.211,0.248
+Altersgruppen,18-24 Jahre,2010,0.191,0.159,0.223
+Altersgruppen,18-24 Jahre,2011,0.195,0.168,0.223
+Altersgruppen,18-24 Jahre,2012,0.213,0.179,0.247
+Altersgruppen,18-24 Jahre,2013,0.230,0.203,0.256
+Altersgruppen,18-24 Jahre,2014,0.243,0.194,0.292
+Altersgruppen,25-34 Jahre,1991,0.087,0.077,0.098
+Altersgruppen,25-34 Jahre,1992,0.093,0.081,0.106
+Altersgruppen,25-34 Jahre,1993,0.090,0.080,0.100
+Altersgruppen,25-34 Jahre,1994,0.120,0.105,0.135
+Altersgruppen,25-34 Jahre,1995,0.101,0.082,0.119
+Altersgruppen,25-34 Jahre,1996,0.107,0.088,0.126
+Altersgruppen,25-34 Jahre,1997,0.112,0.086,0.139
+Altersgruppen,25-34 Jahre,1998,0.109,0.089,0.129
+Altersgruppen,25-34 Jahre,1999,0.102,0.091,0.114
+Altersgruppen,25-34 Jahre,2000,0.125,0.107,0.143
+Altersgruppen,25-34 Jahre,2001,0.120,0.103,0.137
+Altersgruppen,25-34 Jahre,2002,0.138,0.120,0.155
+Altersgruppen,25-34 Jahre,2003,0.150,0.126,0.174
+Altersgruppen,25-34 Jahre,2004,0.155,0.122,0.188
+Altersgruppen,25-34 Jahre,2005,0.165,0.140,0.190
+Altersgruppen,25-34 Jahre,2006,0.171,0.137,0.204
+Altersgruppen,25-34 Jahre,2007,0.179,0.153,0.204
+Altersgruppen,25-34 Jahre,2008,0.158,0.147,0.169
+Altersgruppen,25-34 Jahre,2009,0.177,0.147,0.208
+Altersgruppen,25-34 Jahre,2010,0.175,0.149,0.202
+Altersgruppen,25-34 Jahre,2011,0.172,0.153,0.191
+Altersgruppen,25-34 Jahre,2012,0.177,0.147,0.207
+Altersgruppen,25-34 Jahre,2013,0.204,0.173,0.235
+Altersgruppen,25-34 Jahre,2014,0.208,0.189,0.226
+Altersgruppen,35-44 Jahre,1991,0.073,0.059,0.088
+Altersgruppen,35-44 Jahre,1992,0.067,0.056,0.078
+Altersgruppen,35-44 Jahre,1993,0.074,0.061,0.086
+Altersgruppen,35-44 Jahre,1994,0.102,0.083,0.120
+Altersgruppen,35-44 Jahre,1995,0.085,0.073,0.096
+Altersgruppen,35-44 Jahre,1996,0.077,0.065,0.089
+Altersgruppen,35-44 Jahre,1997,0.080,0.071,0.090
+Altersgruppen,35-44 Jahre,1998,0.087,0.077,0.097
+Altersgruppen,35-44 Jahre,1999,0.088,0.073,0.102
+Altersgruppen,35-44 Jahre,2000,0.083,0.072,0.093
+Altersgruppen,35-44 Jahre,2001,0.102,0.090,0.114
+Altersgruppen,35-44 Jahre,2002,0.104,0.093,0.115
+Altersgruppen,35-44 Jahre,2003,0.099,0.086,0.112
+Altersgruppen,35-44 Jahre,2004,0.115,0.099,0.130
+Altersgruppen,35-44 Jahre,2005,0.114,0.087,0.141
+Altersgruppen,35-44 Jahre,2006,0.111,0.096,0.127
+Altersgruppen,35-44 Jahre,2007,0.104,0.094,0.114
+Altersgruppen,35-44 Jahre,2008,0.101,0.082,0.120
+Altersgruppen,35-44 Jahre,2009,0.103,0.079,0.128
+Altersgruppen,35-44 Jahre,2010,0.101,0.085,0.116
+Altersgruppen,35-44 Jahre,2011,0.110,0.100,0.121
+Altersgruppen,35-44 Jahre,2012,0.120,0.103,0.136
+Altersgruppen,35-44 Jahre,2013,0.125,0.114,0.135
+Altersgruppen,35-44 Jahre,2014,0.128,0.113,0.144
+Altersgruppen,45-54 Jahre,1991,0.051,0.041,0.060
+Altersgruppen,45-54 Jahre,1992,0.050,0.038,0.063
+Altersgruppen,45-54 Jahre,1993,0.053,0.036,0.071
+Altersgruppen,45-54 Jahre,1994,0.065,0.049,0.081
+Altersgruppen,45-54 Jahre,1995,0.086,0.067,0.105
+Altersgruppen,45-54 Jahre,1996,0.059,0.040,0.078
+Altersgruppen,45-54 Jahre,1997,0.063,0.053,0.073
+Altersgruppen,45-54 Jahre,1998,0.062,0.055,0.070
+Altersgruppen,45-54 Jahre,1999,0.064,0.048,0.080
+Altersgruppen,45-54 Jahre,2000,0.069,0.061,0.077
+Altersgruppen,45-54 Jahre,2001,0.092,0.083,0.101
+Altersgruppen,45-54 Jahre,2002,0.088,0.071,0.104
+Altersgruppen,45-54 Jahre,2003,0.093,0.081,0.105
+Altersgruppen,45-54 Jahre,2004,0.101,0.090,0.112
+Altersgruppen,45-54 Jahre,2005,0.125,0.103,0.146
+Altersgruppen,45-54 Jahre,2006,0.112,0.097,0.128
+Altersgruppen,45-54 Jahre,2007,0.108,0.095,0.120
+Altersgruppen,45-54 Jahre,2008,0.111,0.097,0.126
+Altersgruppen,45-54 Jahre,2009,0.104,0.085,0.124
+Altersgruppen,45-54 Jahre,2010,0.102,0.082,0.123
+Altersgruppen,45-54 Jahre,2011,0.098,0.084,0.111
+Altersgruppen,45-54 Jahre,2012,0.101,0.085,0.117
+Altersgruppen,45-54 Jahre,2013,0.101,0.085,0.118
+Altersgruppen,45-54 Jahre,2014,0.106,0.083,0.130
+Altersgruppen,55-64 Jahre,1991,0.120,0.104,0.135
+Altersgruppen,55-64 Jahre,1992,0.131,0.119,0.144
+Altersgruppen,55-64 Jahre,1993,0.125,0.107,0.142
+Altersgruppen,55-64 Jahre,1994,0.098,0.092,0.105
+Altersgruppen,55-64 Jahre,1995,0.095,0.085,0.105
+Altersgruppen,55-64 Jahre,1996,0.104,0.090,0.117
+Altersgruppen,55-64 Jahre,1997,0.086,0.066,0.107
+Altersgruppen,55-64 Jahre,1998,0.068,0.058,0.079
+Altersgruppen,55-64 Jahre,1999,0.103,0.084,0.123
+Altersgruppen,55-64 Jahre,2000,0.107,0.088,0.126
+Altersgruppen,55-64 Jahre,2001,0.101,0.089,0.114
+Altersgruppen,55-64 Jahre,2002,0.118,0.109,0.128
+Altersgruppen,55-64 Jahre,2003,0.112,0.096,0.127
+Altersgruppen,55-64 Jahre,2004,0.107,0.092,0.122
+Altersgruppen,55-64 Jahre,2005,0.106,0.085,0.126
+Altersgruppen,55-64 Jahre,2006,0.113,0.095,0.132
+Altersgruppen,55-64 Jahre,2007,0.120,0.101,0.138
+Altersgruppen,55-64 Jahre,2008,0.131,0.101,0.161
+Altersgruppen,55-64 Jahre,2009,0.144,0.127,0.161
+Altersgruppen,55-64 Jahre,2010,0.124,0.111,0.137
+Altersgruppen,55-64 Jahre,2011,0.131,0.110,0.153
+Altersgruppen,55-64 Jahre,2012,0.135,0.110,0.160
+Altersgruppen,55-64 Jahre,2013,0.135,0.106,0.163
+Altersgruppen,55-64 Jahre,2014,0.132,0.112,0.151
+Altersgruppen,65-74 Jahre,1991,0.164,0.128,0.199
+Altersgruppen,65-74 Jahre,1992,0.135,0.105,0.165
+Altersgruppen,65-74 Jahre,1993,0.123,0.106,0.140
+Altersgruppen,65-74 Jahre,1994,0.106,0.085,0.127
+Altersgruppen,65-74 Jahre,1995,0.106,0.091,0.122
+Altersgruppen,65-74 Jahre,1996,0.112,0.097,0.126
+Altersgruppen,65-74 Jahre,1997,0.092,0.072,0.111
+Altersgruppen,65-74 Jahre,1998,0.105,0.082,0.127
+Altersgruppen,65-74 Jahre,1999,0.099,0.079,0.120
+Altersgruppen,65-74 Jahre,2000,0.113,0.101,0.126
+Altersgruppen,65-74 Jahre,2001,0.109,0.094,0.123
+Altersgruppen,65-74 Jahre,2002,0.110,0.096,0.125
+Altersgruppen,65-74 Jahre,2003,0.108,0.097,0.118
+Altersgruppen,65-74 Jahre,2004,0.110,0.098,0.123
+Altersgruppen,65-74 Jahre,2005,0.118,0.110,0.126
+Altersgruppen,65-74 Jahre,2006,0.114,0.101,0.127
+Altersgruppen,65-74 Jahre,2007,0.123,0.112,0.133
+Altersgruppen,65-74 Jahre,2008,0.135,0.116,0.154
+Altersgruppen,65-74 Jahre,2009,0.134,0.122,0.146
+Altersgruppen,65-74 Jahre,2010,0.133,0.116,0.149
+Altersgruppen,65-74 Jahre,2011,0.121,0.101,0.141
+Altersgruppen,65-74 Jahre,2012,0.133,0.116,0.149
+Altersgruppen,65-74 Jahre,2013,0.121,0.103,0.138
+Altersgruppen,65-74 Jahre,2014,0.141,0.110,0.171
+Altersgruppen,über 74 Jahre,1991,0.264,0.227,0.302
+Altersgruppen,über 74 Jahre,1992,0.215,0.164,0.266
+Altersgruppen,über 74 Jahre,1993,0.187,0.155,0.218
+Altersgruppen,über 74 Jahre,1994,0.153,0.120,0.187
+Altersgruppen,über 74 Jahre,1995,0.161,0.123,0.199
+Altersgruppen,über 74 Jahre,1996,0.128,0.101,0.154
+Altersgruppen,über 74 Jahre,1997,0.136,0.090,0.183
+Altersgruppen,über 74 Jahre,1998,0.111,0.070,0.152
+Altersgruppen,über 74 Jahre,1999,0.116,0.094,0.137
+Altersgruppen,über 74 Jahre,2000,0.128,0.112,0.144
+Altersgruppen,über 74 Jahre,2001,0.133,0.116,0.149
+Altersgruppen,über 74 Jahre,2002,0.140,0.113,0.167
+Altersgruppen,über 74 Jahre,2003,0.152,0.126,0.177
+Altersgruppen,über 74 Jahre,2004,0.127,0.104,0.151
+Altersgruppen,über 74 Jahre,2005,0.119,0.102,0.136
+Altersgruppen,über 74 Jahre,2006,0.131,0.114,0.148
+Altersgruppen,über 74 Jahre,2007,0.148,0.111,0.184
+Altersgruppen,über 74 Jahre,2008,0.171,0.153,0.190
+Altersgruppen,über 74 Jahre,2009,0.167,0.153,0.181
+Altersgruppen,über 74 Jahre,2010,0.149,0.125,0.173
+Altersgruppen,über 74 Jahre,2011,0.149,0.138,0.160
+Altersgruppen,über 74 Jahre,2012,0.127,0.116,0.139
+Altersgruppen,über 74 Jahre,2013,0.130,0.116,0.145
+Altersgruppen,über 74 Jahre,2014,0.133,0.120,0.146
+Umverteilung,Vor Steuern und Transfers,1991,0.282,0.270,0.294
+Umverteilung,Vor Steuern und Transfers,1992,0.297,0.288,0.307
+Umverteilung,Vor Steuern und Transfers,1993,0.297,0.288,0.306
+Umverteilung,Vor Steuern und Transfers,1994,0.317,0.306,0.328
+Umverteilung,Vor Steuern und Transfers,1995,0.316,0.304,0.328
+Umverteilung,Vor Steuern und Transfers,1996,0.316,0.310,0.323
+Umverteilung,Vor Steuern und Transfers,1997,0.322,0.312,0.333
+Umverteilung,Vor Steuern und Transfers,1998,0.318,0.307,0.329
+Umverteilung,Vor Steuern und Transfers,1999,0.323,0.316,0.330
+Umverteilung,Vor Steuern und Transfers,2000,0.323,0.315,0.330
+Umverteilung,Vor Steuern und Transfers,2001,0.330,0.321,0.339
+Umverteilung,Vor Steuern und Transfers,2002,0.336,0.330,0.343
+Umverteilung,Vor Steuern und Transfers,2003,0.343,0.336,0.349
+Umverteilung,Vor Steuern und Transfers,2004,0.345,0.331,0.359
+Umverteilung,Vor Steuern und Transfers,2005,0.349,0.335,0.362
+Umverteilung,Vor Steuern und Transfers,2006,0.350,0.341,0.359
+Umverteilung,Vor Steuern und Transfers,2007,0.349,0.338,0.360
+Umverteilung,Vor Steuern und Transfers,2008,0.340,0.331,0.350
+Umverteilung,Vor Steuern und Transfers,2009,0.344,0.329,0.359
+Umverteilung,Vor Steuern und Transfers,2010,0.352,0.338,0.365
+Umverteilung,Vor Steuern und Transfers,2011,0.340,0.331,0.349
+Umverteilung,Vor Steuern und Transfers,2012,0.345,0.338,0.353
+Umverteilung,Vor Steuern und Transfers,2013,0.352,0.340,0.364
+Umverteilung,Vor Steuern und Transfers,2014,0.352,0.341,0.363

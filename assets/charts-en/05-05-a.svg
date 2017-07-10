@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
+    <desc style="">
+        The chart shows the old-age dependency ratio up to 2013 and various forecasts up to 2060. The old-age dependency ratio has been around 30 since 2010, that is for every 100 individuals in the working-age population, there are approximately 30 retirees. In 2040, there will be more than 50 retirees per 100 persons in the working-age population. By 2060, the ratio will shift further in this direction. Depending on what scenario is chosen for the forecast, the old-age dependency ratio varies between 51.3 and 57.4.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -40,9 +42,9 @@
                 <path fill="none" stroke="#8c1478" stroke-width="3" stroke-dasharray="6 2" d="M27.847114226262185,145.25131213880002L37.121016318037455,145.2L46.39491840981273,144.4L55.668820501587994,143.2L64.96813054429964,141.6L74.24203263607491,140.39999999999998L83.51593472785018,138.4L92.78983681962546,136.8L102.0891468623371,134.8L111.36304895411237,132.4L120.63695104588763,130L129.9108531376629,127.19999999999999L139.21016318037454,124L148.48406527214982,120.4L157.75796736392508,116.4L167.03186945570036,111.6L176.331179498412,106.80000000000001L185.6050815901873,101.6L194.87898368196255,96.4L204.15288577373784,91.19999999999999L213.45219581644946,86L222.72609790822474,81.19999999999999L232,76.80000000000001L241.27390209177526,73.19999999999999L250.57321213448688,70.4L259.8471142262622,68.4L269.12101631803745,67.6L278.3949184098127,68L287.6942284525243,68L296.96813054429964,68.80000000000001L306.2420326360749,68.80000000000001L315.51593472785015,69.19999999999999L324.8152447705618,68.80000000000001L334.0891468623371,68.80000000000001L343.36304895411234,68L352.63695104588766,67.19999999999999L361.9362610885993,66L371.2101631803746,65.19999999999999L380.48406527214985,64.80000000000001L389.7579673639251,63.599999999999994L399.05727740663673,62.400000000000006L408.33117949841204,60.400000000000006L417.6050815901873,58L426.87898368196255,56L436.1782937246742,53.599999999999994L445.4521958164495,52L454.72609790822474,50.80000000000001L464,50" style="fill:none;stroke:#8c1478;stroke-dasharray:6px, 2px;stroke-width:3px;"/>
                 <g style="">
                     <line x1="468" x2="474" y1="50" y2="50" stroke="#8c1478" stroke-width="3" style="stroke:#8c1478;stroke-width:3px;"/>
-                    <text dy="0.3em" x="478" y="50" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:110.5px;fill:#666666;">
+                    <text dy="0.3em" x="478" y="50" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:110.421875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            53,5
+                            53.5
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Standard scenario
@@ -54,9 +56,9 @@
                 <path fill="none" stroke="#bd4aa5" stroke-width="3" stroke-dasharray="6 2" d="M27.847114226262185,145.25131213880002L37.121016318037455,145.2L46.39491840981273,144.4L55.668820501587994,143.2L64.96813054429964,141.6L74.24203263607491,140L83.51593472785018,138L92.78983681962546,136.4L102.0891468623371,134L111.36304895411237,131.6L120.63695104588763,128.8L129.9108531376629,126L139.21016318037454,122.4L148.48406527214982,118.4L157.75796736392508,114.4L167.03186945570036,109.6L176.331179498412,104.4L185.6050815901873,98.80000000000001L194.87898368196255,93.19999999999999L204.15288577373784,87.6L213.45219581644946,82L222.72609790822474,76.80000000000001L232,72L241.27390209177526,68L250.57321213448688,65.19999999999999L259.8471142262622,62.80000000000001L269.12101631803745,61.599999999999994L278.3949184098127,61.19999999999999L287.6942284525243,61.19999999999999L296.96813054429964,61.19999999999999L306.2420326360749,61.19999999999999L315.51593472785015,60.80000000000001L324.8152447705618,60.400000000000006L334.0891468623371,59.599999999999994L343.36304895411234,58.400000000000006L352.63695104588766,57.19999999999999L361.9362610885993,55.599999999999994L371.2101631803746,54.400000000000006L380.48406527214985,53.19999999999999L389.7579673639251,51.599999999999994L399.05727740663673,49.599999999999994L408.33117949841204,47.599999999999994L417.6050815901873,44.80000000000001L426.87898368196255,42L436.1782937246742,39.19999999999999L445.4521958164495,37.19999999999999L454.72609790822474,36L464,34.400000000000006" style="fill:none;stroke:#bd4aa5;stroke-dasharray:6px, 2px;stroke-width:3px;"/>
                 <g style="">
                     <line x1="468" x2="474" y1="34.400000000000006" y2="34.400000000000006" stroke="#bd4aa5" stroke-width="3" style="stroke:#bd4aa5;stroke-width:3px;"/>
-                    <text dy="0.3em" x="478" y="34.400000000000006" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:144.8125px;fill:#666666;">
+                    <text dy="0.3em" x="478" y="34.400000000000006" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:144.734375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            57,4
+                            57.4
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Relatively old population
@@ -68,9 +70,9 @@
                 <path fill="none" stroke="#f781dc" stroke-width="3" stroke-dasharray="6 2" d="M27.847114226262185,145.25131213880002L37.121016318037455,145.2L46.39491840981273,144.4L55.668820501587994,143.2L64.96813054429964,141.6L74.24203263607491,140.39999999999998L83.51593472785018,138.4L92.78983681962546,136.8L102.0891468623371,134.8L111.36304895411237,132.4L120.63695104588763,130L129.9108531376629,127.19999999999999L139.21016318037454,124L148.48406527214982,120.4L157.75796736392508,116.4L167.03186945570036,111.6L176.331179498412,106.80000000000001L185.6050815901873,101.6L194.87898368196255,96.4L204.15288577373784,91.19999999999999L213.45219581644946,86L222.72609790822474,81.19999999999999L232,76.80000000000001L241.27390209177526,73.19999999999999L250.57321213448688,70.80000000000001L259.8471142262622,68.80000000000001L269.12101631803745,68.4L278.3949184098127,68.80000000000001L287.6942284525243,69.19999999999999L296.96813054429964,70L306.2420326360749,70.80000000000001L315.51593472785015,71.19999999999999L324.8152447705618,71.6L334.0891468623371,71.6L343.36304895411234,71.19999999999999L352.63695104588766,70.80000000000001L361.9362610885993,70L371.2101631803746,69.6L380.48406527214985,69.19999999999999L389.7579673639251,68.80000000000001L399.05727740663673,68L408.33117949841204,66.4L417.6050815901873,64.80000000000001L426.87898368196255,62.80000000000001L436.1782937246742,61.19999999999999L445.4521958164495,60L454.72609790822474,59.19999999999999L464,58.80000000000001" style="fill:none;stroke:#f781dc;stroke-dasharray:6px, 2px;stroke-width:3px;"/>
                 <g style="">
                     <line x1="468" x2="474" y1="62" y2="62" stroke="#f781dc" stroke-width="3" style="stroke:#f781dc;stroke-width:3px;"/>
-                    <text dy="0.3em" x="478" y="62" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:159.046875px;fill:#666666;">
+                    <text dy="0.3em" x="478" y="62" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:158.96875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            51,3
+                            51.3
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Relatively young population
@@ -98,16 +100,16 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-right:175px;width:640px;">
                 </div>
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt, Bevölkerungsfortschreibung and 13. koordinierte Bevölkerungsvorausrechnung.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  German Federal Statistical Office, Bevölkerungsfortschreibung und 13. koordinierte Bevölkerungsvorausrechnung.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

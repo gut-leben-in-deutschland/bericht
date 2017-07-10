@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="610px" height="280px" viewBox="0 0 610 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
-    <title>3.24_l_dashboard_chart_sankey</title>
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>01-00-b-l.de.chart</title>
     <desc>Created with Sketch.</desc>
     <defs>
         <linearGradient x1="0%" y1="0%" x2="100%" y2="0%" id="linearGradient-1">
@@ -9,32 +9,32 @@
             <stop stop-color="#A33C6D" offset="100%"></stop>
         </linearGradient>
     </defs>
-    <g id="3-l-dashboard-charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="3.24_l_dashboard_chart_sankey">
-            <polygon id="Rectangle-643" fill="#F2BF18" points="398 16 398 56 210 56 210 16"></polygon>
-            <polygon id="Rectangle-643" fill="#B68B00" points="343 120 343 160 210 160 210 120"></polygon>
-            <polygon id="Rectangle-643" fill="#7B5900" points="299 224 299 264 210 264 210 224"></polygon>
-            <polygon id="Rectangle-643" fill="#7B5900" points="351 224 351 264 307 264 307 224"></polygon>
-            <polygon id="Rectangle-643" fill="#B68B00" points="406 120 406 160 351 160 351 120"></polygon>
-            <path d="M406.000017,120 L273.000017,120 C273.000017,120 273.99968,42.746331 274.000017,56 C274.000832,87.9999992 265.000182,88.1217142 265.000017,120 C265.000011,120 210.000635,120 210.000017,120 C209.986394,87.9348091 218.000017,88 218.000017,56 L406.000017,56 L406.000017,120 Z" id="Rectangle-643" fill-opacity="0.1" fill="url(#linearGradient-1)" transform="translate(308.000009, 87.235368) scale(-1, 1) translate(-308.000009, -87.235368) "></path>
-            <path d="M351,224 L262,224 C262,224 263,160.000001 263,160 C263,191.999999 254,192.000121 254,224 C254,223.999879 210,223.999999 210,224 C210,192.000001 218,191.999999 218,160 C218,160.000001 351,160 351,160 L351,224 Z" id="Rectangle-643" fill-opacity="0.1" fill="url(#linearGradient-1)" transform="translate(280.500000, 184.888889) scale(-1, 1) translate(-280.500000, -184.888889) "></path>
+    <g id="1-static-charts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-00-b-l.de.chart">
+            <polygon id="block" fill="#F2BF18" points="398 16 398 56 210 56 210 16"></polygon>
+            <polygon id="block" fill="#B68B00" points="346 120 346 160 210 160 210 120"></polygon>
+            <polygon id="block" fill="#7B5900" points="301 224 301 264 210 264 210 224"></polygon>
+            <polygon id="block" fill="#7B5900" points="354 224 354 264 309 264 309 224"></polygon>
+            <polygon id="block" fill="#B68B00" points="406 120 406 160 354 160 354 120"></polygon>
+            <path d="M406.000035,120.470737 L270.000035,120.470737 L270.000017,56 C270.000866,87.5292625 262.000217,88.1217142 262.000035,120.470737 C262.000046,120 210.000669,120 210.000035,120.470737 C209.986429,87.9348091 218.000052,87.5292634 218.000017,56 L406.000017,56 L406.000035,120.470737 Z" id="flow" fill-opacity="0.1" fill="url(#linearGradient-1)" transform="translate(308.000026, 88.235368) scale(-1, 1) translate(-308.000026, -88.235368) "></path>
+            <path d="M354,223.777778 L263,223.777778 C263,223.777778 263,160.000001 263,159.777778 C263,191.999999 255,192.000121 255,223.777778 C255,223.999879 210,223.999999 210,223.777778 C210,192.000001 218,191.999999 218,159.777778 C218,160.000001 354,159.777778 354,159.777778 C354,192 354,223.777778 354,223.777778 Z" id="flow" fill-opacity="0.1" fill="url(#linearGradient-1)" transform="translate(282.000000, 191.861088) scale(-1, 1) translate(-282.000000, -191.861088) "></path>
             <text id="Insgesamt" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" fill="#454545">
                 <tspan x="143.108" y="40">Insgesamt</tspan>
             </text>
-            <text id="2.6-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
-                <tspan x="284.658" y="40">2.6 Mio.</tspan>
+            <text id="2,9-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
+                <tspan x="284.122" y="40">2,9 Mio.</tspan>
             </text>
-            <text id="1.8-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
-                <tspan x="256.658" y="144">1.8 Mio.</tspan>
+            <text id="2,1-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
+                <tspan x="258.122" y="144">2,1 Mio.</tspan>
             </text>
-            <text id="1.2-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#FFFFFF">
-                <tspan x="234.658" y="248">1.2 Mio.</tspan>
+            <text id="1,4-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#FFFFFF">
+                <tspan x="236.122" y="248">1,4 Mio.</tspan>
             </text>
-            <text id="0.6-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#FFFFFF">
-                <tspan x="309.658" y="248">0.6 Mio.</tspan>
+            <text id="0,7-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#FFFFFF">
+                <tspan x="312.122" y="248">0,7 Mio.</tspan>
             </text>
-            <text id="0.8-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
-                <tspan x="358.658" y="144">0.8 Mio.</tspan>
+            <text id="0,8-Mio." font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" fill="#000000">
+                <tspan x="360.122" y="144">0,8 Mio.</tspan>
             </text>
             <text id="zu-Hause-versorgt" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" fill="#454545">
                 <tspan x="106.412" y="144">zu Hause versorgt</tspan>
@@ -43,8 +43,8 @@
                 <tspan x="75.68" y="245">Allein durch Angehörige</tspan>
             </text>
             <text id="Zusammen-mit/durch-a" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" line-spacing="12" fill="#454545">
-                <tspan x="367" y="239">Zusammen mit/durch </tspan>
-                <tspan x="367" y="251">amulante Pflegedienste</tspan>
+                <tspan x="370" y="239">Zusammen mit/durch </tspan>
+                <tspan x="370" y="251">amulante Pflegedienste</tspan>
             </text>
             <text id="Vollstationär-in-Hei" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal" line-spacing="12" fill="#454545">
                 <tspan x="422" y="135">Vollstationär </tspan>

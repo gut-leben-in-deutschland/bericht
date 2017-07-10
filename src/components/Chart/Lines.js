@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import {scaleOrdinal, scalePoint, scaleTime} from 'd3-scale';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 import {OrderedSet} from 'immutable';

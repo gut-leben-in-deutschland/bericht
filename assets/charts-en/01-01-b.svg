@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="466" style="height:466px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="502" style="height:502px;width:640px;">
     <desc style="">
-        The chart shows that life expectancy in the new and old federal states increased significantly between 1990 and 2013 for women and men. The rise in life expectancy overall was slightly greater in men. But men's life expectancy was still lower than women's in 2013. For women, life expectancy was around 83 in both the old and the new federal states. Since German reunification, women's life expectancy in the new federal states developed strongly and reached the same level as in the old federal states by 2013. Men's life expectancy in the new federal states underwent a similar development, but there still remaines a difference of 1.2 years. Men's life expectance in the old federal states was thus 73.2 in 2013, while it was 77 in the new federal states.
+        The chart shows the increase in life expectancy at birth since German reunification by gender. In 1990, life expectancy of men in East Germany stood at approximately 69 years, in 2015 at 77 years. In West Germany, life expectancy of men stood at 73 years in 1990 and 78.4 years in 2015. Since 1990, life expectancy of women in East German federal states moved closer to that of women in West German federal states and reached the same level of approximately 83 years by 2015.
     </desc>
     <g transform="translate(369,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:44.796875px;fill:#666666;">
                 Woman
             </text>
-            <text y="308" dy="0.3em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:79.953125px;fill:#666666;">
-                Abbreviated axis
+            <text y="308" dy="0.3em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:69.8125px;fill:#666666;">
+                Truncated axis
             </text>
             <g transform="translate(0,328)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
@@ -19,22 +19,22 @@
             <g transform="translate(219,328)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2015
                 </text>
             </g>
             <g style="">
                 <g style="">
                     <line x1="-4" x2="-10" y1="152.87999999999994" y2="152.87999999999994" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="-14" y="152.87999999999994" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;text-anchor:end;">
-                        76,3
+                    <text dy="0.3em" x="-14" y="152.87999999999994" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:20.8125px;fill:#666666;text-anchor:end;">
+                        76.3
                     </text>
                 </g>
-                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,152.87999999999994L219,74.16000000000008" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,152.87999999999994L219,71.63999999999999" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="223" x2="229" y1="85.55999999999995" y2="85.55999999999995" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="233" y="85.55999999999995" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="223" x2="229" y1="71.63999999999999" y2="71.63999999999999" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="233" y="71.63999999999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            82,8
+                            83.0
                         </tspan>
                     </text>
                 </g>
@@ -42,16 +42,16 @@
             <g style="">
                 <g style="">
                     <line x1="-4" x2="-10" y1="119.87999999999994" y2="119.87999999999994" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="-14" y="119.87999999999994" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;text-anchor:end;">
-                        79,0
+                    <text dy="0.3em" x="-14" y="119.87999999999994" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:20.8125px;fill:#666666;text-anchor:end;">
+                        79.0
                     </text>
                 </g>
-                <path fill="none" stroke="#b68b00" stroke-width="3" stroke-dasharray="none" d="M0,119.87999999999994L219,73.55999999999995" style="fill:none;stroke:#b68b00;stroke-width:3px;"/>
+                <path fill="none" stroke="#b68b00" stroke-width="3" stroke-dasharray="none" d="M0,119.87999999999994L219,72.48000000000008" style="fill:none;stroke:#b68b00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="223" x2="229" y1="73.55999999999995" y2="73.55999999999995" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="233" y="73.55999999999995" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="223" x2="229" y1="83.63999999999999" y2="83.63999999999999" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="233" y="83.63999999999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            82,9
+                            83.0
                         </tspan>
                     </text>
                 </g>
@@ -81,8 +81,8 @@
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:25.921875px;fill:#666666;">
                 Man
             </text>
-            <text y="308" dy="0.3em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:79.953125px;fill:#666666;">
-                Abbreviated axis
+            <text y="308" dy="0.3em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:69.8125px;fill:#666666;">
+                Truncated axis
             </text>
             <g transform="translate(0,328)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
@@ -93,22 +93,22 @@
             <g transform="translate(219,328)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2015
                 </text>
             </g>
             <g style="">
                 <g style="">
                     <line x1="-4" x2="-10" y1="237.48000000000008" y2="237.48000000000008" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="-14" y="237.48000000000008" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;text-anchor:end;">
-                        69,2
+                    <text dy="0.3em" x="-14" y="237.48000000000008" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:20.8125px;fill:#666666;text-anchor:end;">
+                        69.2
                     </text>
                 </g>
-                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,237.48000000000008L219,144.23999999999995" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
+                <path fill="none" stroke="#f2bf18" stroke-width="3" stroke-dasharray="none" d="M0,237.48000000000008L219,143.40000000000003" style="fill:none;stroke:#f2bf18;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="223" x2="229" y1="144.23999999999995" y2="144.23999999999995" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
-                    <text dy="0.3em" x="233" y="144.23999999999995" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="223" x2="229" y1="143.40000000000003" y2="143.40000000000003" stroke="#f2bf18" stroke-width="3" style="stroke:#f2bf18;stroke-width:3px;"/>
+                    <text dy="0.3em" x="233" y="143.40000000000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            77,0
+                            77.0
                         </tspan>
                     </text>
                 </g>
@@ -116,16 +116,16 @@
             <g style="">
                 <g style="">
                     <line x1="-4" x2="-10" y1="196.68" y2="196.68" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="-14" y="196.68" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;text-anchor:end;">
-                        72,6
+                    <text dy="0.3em" x="-14" y="196.68" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:20.8125px;fill:#666666;text-anchor:end;">
+                        72.6
                     </text>
                 </g>
-                <path fill="none" stroke="#b68b00" stroke-width="3" stroke-dasharray="none" d="M0,196.68L219,129.36" style="fill:none;stroke:#b68b00;stroke-width:3px;"/>
+                <path fill="none" stroke="#b68b00" stroke-width="3" stroke-dasharray="none" d="M0,196.68L219,127.44000000000005" style="fill:none;stroke:#b68b00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="223" x2="229" y1="129.36" y2="129.36" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="233" y="129.36" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.890625px;fill:#666666;">
+                    <line x1="223" x2="229" y1="127.44000000000005" y2="127.44000000000005" stroke="#b68b00" stroke-width="3" style="stroke:#b68b00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="233" y="127.44000000000005" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:20.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            78,2
+                            78.4
                         </tspan>
                     </text>
                 </g>
@@ -150,9 +150,9 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="352" width="640" height="114" style="display:block;height:114px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:116px;width:640px;">
-            <div style="display:block;height:116px;width:640px;">
+    <foreignObject x="0" y="352" width="640" height="150" style="display:block;height:150px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:152px;width:640px;">
+            <div style="display:block;height:152px;width:640px;">
                 <div style="display:block;height:20px;padding-left:50px;padding-right:50px;width:640px;">
                     <div style="display:block;height:20px;line-height:12px;width:540px;">
                         <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:142.328125px;">
@@ -167,15 +167,20 @@
                         </div>
                     </div>
                 </div>
-                <div style="display:block;height:96px;width:640px;">
-                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Source: 
                                 <a rel="external" title=" (Link to an external website)" href="http://www.humanmortality.de/" style="border-bottom-color:rgb(0, 79, 128);border-left-color:rgb(0, 79, 128);border-right-color:rgb(0, 79, 128);border-top-color:rgb(0, 79, 128);color:rgb(0, 79, 128);cursor:pointer;font-family:BundesSans-Regular;font-size:12px;line-height:normal;outline-color:rgb(0, 79, 128);text-align:left;">
                                     Human Mortality Database.
                                 </a>
-                                 University of California, Berkeley (USA) and Max-Planck-Institut für demografische Forschung (Germany).
+                                 University of California, Berkeley (USA) and the Max Planck Institute for Demographic Research (Germany).
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

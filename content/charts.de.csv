@@ -1,11 +1,11 @@
-id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_label,source_url,source_annotation,footnote
+id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,source_label,source_url,source_annotation,footnote
 00-00-a,Dialogorte,PointMap,X2/event-points.csv,"{
   ""ordinalAccessor"": ""type"",
   ""colorRange"": [""#F2BF17"", ""#0778a5"", ""#8c1478""],
   ""shape"": ""marker"",
   ""legendTitle"": ""Veranstaltungstyp""
-}","Die Abbildung zeigt eine Deutschlandkarte, auf der anhand von kleinen Pinnnadeln die Veranstaltungsorte in ganz Deutschland markiert sind.",plotted,FALSE,TRUE,,,,,
-01-00-a,Anzahl der Pflegebedürftigen nach Art der Versorgung zum Jahresende 2013,Bar,01/00/categories.csv,"{
+}","Die Abbildung zeigt eine Deutschland-Karte, auf der die Dialogorte in ganz Deutschland markiert sind.",FALSE,plotted,FALSE,TRUE,,,,,
+01-00-a,Anzahl der Pflegebedürftigen nach Art der Versorgung zum Jahresende 2015,Bar,01/00/categories.csv,"{
   ""column"": ""category"",
   ""columnSort"": ""none"",
   ""y"": ""description"",
@@ -13,8 +13,8 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""colorSort"": ""none"",
   ""sort"": ""none"",
   ""highlight"": ""datum.type == 'Total'""
-}",,"deprecated, replaced by static",FALSE,FALSE,,,,Statistisches Bundesamt (2015): Pflegestatistik 2013 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.,
-01-00-b,Anzahl der Pflegebedürftigen nach Art der Versorgung zum Jahresende 2013,Static,01/00/categories.csv,,"DIe Abbildung zeigt, dass von den 2,6 Millionen Pflegebedürftigen im Jahr 2013 1,8 Millionen zu Hause versorgt und 800.000 vollstationär in Heimen betreut wurden. Von den Pflegebedürftigen, die zu Hause betreut wurden, wurden 1,2 Millionen alleine durch Angehörige und 600.000 zusammen mit ambulanten Pfelgediensten betreut.",plotted,FALSE,TRUE,,,,Statistisches Bundesamt (2015): Pflegestatistik 2013 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.,
+}",-,TRUE,"deprecated, replaced by static",FALSE,FALSE,,,,Statistisches Bundesamt (2017): Pflegestatistik 2015 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.,Ergebnisse zum 31.12.2015 auf Grundlage des Zensus 2011. 
+01-00-b,Anzahl der Pflegebedürftigen nach Art der Versorgung zum Jahresende 2015,Static,01/00/categories.csv,,"Die Abbildung zeigt die Anzahl der Pflegebedürftigen nach Art der Versorgung zum Jahresende 2015. Von knapp 2,9 Millionen Pflegebedürftigen im Jahr 2015 wurden rund 2,1 Millionen zu Hause versorgt und rund 800.000 vollstationär in Heimen betreut. Von den Pflegebedürftigen, die zu Hause betreut wurden, wurden fast 1,4 Millionen alleine durch Angehörige und 700.000 zusammen mit ambulanten Pflegediensten betreut.",TRUE,plotted,FALSE,TRUE,,,,Statistisches Bundesamt (2017): Pflegestatistik 2015 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. Statistisches Bundesamt: Wiesbaden.,Ergebnisse zum 31.12.2015 auf Grundlage des Zensus 2011. 
 01-01-a,Entwicklung der Lebenserwartung bei Geburt,Line,01/01/regions.csv,"{
   ""filter"": ""datum.at_age == 0 && datum.region != 'Gesamt' && datum.gender != 'Total'"",
   ""unit"": ""Jahre"",
@@ -22,27 +22,27 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""zero"": false,
   ""colorRange"": [""#F2BF18"", ""#F28502"", ""#C40046"", ""#890D48""],
   ""category"": ""datum.gender + ' ' + datum.region""
-}","Die Abbildung zeigt die Entwcklung der Lebenserwartung bei Geburt zwischen 1956 und 2013 differenziert nach Männern und Frauen und alten und neuen Bundesländern. Die Lebenserwartung ist in dem genannten Zeitraum für alle Gruppen deutlich gestiegen. Frauen hatten 2013 eine höhere Lebenserwartung als Männer und Menschen in den alten Bundesländern eine höhere Lebenserwartung als Menschen in den neuen Bundesländern. So betrug die Lebenserwartung 2013 für Frauen sowohl in den alten als auch den neuen Bundesländern rund 83 Jahre, für Männer lag die Lebenserwartung bei 78,2 in den alten und 77 Jahre in den neuen Bundesländern. Seit den späten 1950er Jahren steigt die Lebenserwartung bei Geburt in Deutschland kontinuierlich an, Jahr für Jahr um knapp drei Monate.",plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
-01-01-b,Zugewinne in der Lebenserwartung bei Geburt seit der Deutschen Wiedervereinigung nach Geschlecht 1990 und 2013,Slope,01/01/regions.csv,"{
-  ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2013) && datum.region != 'Gesamt' && datum.gender != 'Total'"",
+}","Die Abbildung zeigt die Entwicklung der Lebenserwartung bei Geburt im Zeitraum von 1956 bis 2015. Differenziert wird dabei nach Männern und Frauen und ost- und westdeutschen Bundesländern. Die Lebenserwartung ist in diesem Zeitraum für alle Gruppen deutlich gestiegen. Die Lebenserwartung von Männern lag im gesamten Zeitraum unter der Lebenserwartung von Frauen. 2015 betrug die Lebenserwartung für Frauen sowohl in den west- als auch ostdeutschen Bundesländern rund 83 Jahre, für Männer lag die Lebenserwartung bei 78,4 Jahren in den westdeutschen Bundesländern und bei 77 Jahren in den ostdeutschen Bundesländern.",TRUE,plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
+01-01-b,Zugewinne in der Lebenserwartung bei Geburt seit der Deutschen Wiedervereinigung nach Geschlecht,Slope,01/01/regions.csv,"{
+  ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2015) && datum.region != 'Gesamt' && datum.gender != 'Total'"",
   ""numberFormat"": "".1f"",
   ""unit"": ""Jahre"",
   ""column"": ""gender"",
   ""color"": ""region"",
   ""zero"": false
-}","Die Abbildung zeigt, dass sich die Lebenserwartung von Frauen und Männer in den neuen und alten Bundesländern zwischen 1990 und 2013 deutlich erhöht hat. Der Anstieg der Lebenserwartung fiel bei den Männern insgesamt sträker aus. Die Lebenserwartung von Männer war 2013 aber nach wie vor niedriger als die von Frauen. Für Frauen lag die Lebenserwartung 2013 sowohl in den alten als auch den neuen Bundesländern bei rund 83 Jahren. DIe Lebenserwartung der Frauen in den neuen Bundesländern hat sich seit der Deutschen Einheit stark der von Frauen in den alten Bundesländern angenähert und lag 2013 auf dem gleichen Niveau. Auch die Lebenserwartung der Männer in den neuen Bundesländern hat sich der von Männern in den alten Bundesländern angenähert, hier gib es aber noch ein Differenz von 1,2 Jahren. So betrug die Lebenserwartung von Männern in den alten Bundesländer im Jahr 2013 73,2 Jahre und in den neuen Bundesländern 77 Jahre.",plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
-01-01-c,Zugewinne in der Lebenserwartung seit der Deutschen Wiedervereinigung 1990 und 2013,Slope,01/01/regions.csv,"{
-  ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2013) && datum.region == 'Gesamt' && datum.gender == 'Total'"",
+}","Die Abbildung zeigt die Zugewinne in der Lebenserwartung bei Geburt seit der Deutschen Wiedervereinigung differenziert nach Geschlecht. 1990 lag die Lebenserwartung von Männer in Ostdeutschland bei rund 69 Jahren, 2015 bei 77 Jahren. In Westdeutschland lag die Lebenserwartung von Männer 1990 bei rund 73 Jahren, 2015 bei 78,4 Jahren. Die Lebenserwartung der Frauen in den ostdeutschen Bundesländern hat sich seit 1990 stark der von Frauen in den westdeutschen Bundesländern angenähert und lag 2015 auf dem gleichen Niveau bei rund 83 Jahren.",TRUE,plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
+01-01-c,Zugewinne in der Lebenserwartung bei Geburt seit der Deutschen Wiedervereinigung,Slope,01/01/regions.csv,"{
+  ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2015) && datum.region == 'Gesamt' && datum.gender == 'Total'"",
   ""numberFormat"": "".1f"",
   ""unit"": ""Jahre"",
   ""columns"": 1,
   ""zero"": false
-}","Die Abbildung zeigt, dass die Lebenserwartung bei Geburt von 75,3 Jahren im Jahr 1990 auf 80,5 Jahre im Jahr 2013 angestiegen ist.",plotted,TRUE,FALSE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
+}","Die Abbildung zeigt die Lebenserwartung bei Geburt in den Jahren 1990 und 2015. 1990 lag diese bei 75,3 Jahren. 2015 betrug sie 80,6 Jahre.",TRUE,plotted,TRUE,FALSE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).",
 01-02-a,Entwicklung des Anteils an Fettleibigen nach Altersgruppen 1999 und 2013,Slope,01/02/age-groups.csv,"{
   ""filter"": ""(datum.year == 1999 || datum.year == 2013) && datum.age_group != 'Zusammen' && datum.age_group != '65 und älter'"",
   ""column"": ""gender"",
   ""color"": ""age_group""
-}","Die Abbildung zeigt, dass sich der Anteil an Männern und Frauen mit einem BMI größer als 30 zwischen 1999 und 2013 in allen fünf dargestellten Altersgruppen zwischen 18 und 64 Jahren erhöht hat, wobei das Risiko für Fettleibigkeit mit zunehmendem Alter steigt. So ist der Anteil der Männer und Frauen mit einem BMI von 30 und höher in der Altersgruppe der 55- bis 64-Jährigen am höchsten. Jeder vierte Mann und jede fünfte Frau dieser Altersgruppe war im Jahr 2013 fettleibig. Bei jungen Erwachsenen (18 bis 24 Jahre) ist zwar nur etwa jede 20. Person fettleibig, aber in dieser Altersgruppe sind mit 65 Prozent die größten prozentualen Zuwächse zu beobachten. Dieser Befund ist auch mit Blick auf die Verbreitung von Fettleibigkeit unter Kindern und Jugendlichen relevant. ",plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen.",
+}",Die Abbildung zeigt den Anteil an Fettleibigen in den Jahren 1999 und 2013 differenziert nach Altersgruppen und Geschlecht. Der Anteil der Männer und Frauen mit einem Body Mass Index größer als 30 war 2013 in allen fünf dargestellten Altersgruppen höher als 1999. Das Risiko für Fettleibigkeit steigt mit zunehmendem Alter. So ist der Anteil der Männer und Frauen mit einem Body Mass Index von 30 und höher in der Altersgruppe der 55- bis 64-Jährigen am höchsten. 24 Prozent der Männer und 19 Prozent der Frauen dieser Altersgruppe waren im Jahr 2013 fettleibig. Das Risiko für Fettleibigkeit ist für Männer in allen Altersgruppen höher als das für Frauen.,FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen.",
 01-02-b,Entwicklung des Anteils an Fettleibigen nach Bundesländern 1999 und 2013,Slope,01/02/states.csv,"{
   ""column"": ""category"",
   ""color"": ""state"",
@@ -52,89 +52,89 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
     {""title"": ""Höchster Anteil"", ""test"": ""indexof(['Brandenburg', 'Mecklenburg-Vorpommern', 'Rheinland-Pfalz', 'Sachsen-Anhalt', 'Thüringen', 'Deutschland'], datum.state) > -1""},
     {""title"": ""Niedrigster Anteil"", ""test"": ""indexof(['Baden-Württemberg', 'Berlin', 'Bremen', 'Hamburg', 'Schleswig-Holstein', 'Deutschland'], datum.state) > -1""}
   ]
-}","Die Abbildung zeigt, das sich der Anteil an fettleibigen Erwachstenen zwischen 1999 und 2013 in Deutschland insgesamt aber auch in vielen Bundesländern erhöht hat. Der gesamtdeutsche Durchschnitt betrug 1999 11,5 und 2013 15,7 Prozent.Die Bundesländer Sachsen-Anhalt, Thüringen, Mecklenburg-Vorpommern, Brandenburg und Rheinland-Pfalz lagen 2013 über diesem Wert und hatten Anteile an fettleibigen Erwachsenen zwischen 17,1 und 20,6 Prozent. Die Bundesländer Baden-Würtemberg, Berlin, Hamburg, Bremen, Schleswig-Holstein lagen unter dem gesamtdeutschen Durchschnitt. Sie wiesen Anteile an Fettleibigen Erwachsenen zwischen 11,1 und 14,6 Prozent auf.",plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen. ",
+}","Die Abbildung zeigt den Anteil an Fettleibigen in den Jahren 1999 und 2013 differenziert nach Bundesländern. Der Anteil an fettleibigen Erwachsenen war 2013 in Deutschland insgesamt, aber auch in vielen Bundesländern höher als im Jahr 1999. Der gesamtdeutsche Durchschnitt betrug 1999 11,5 Prozent und 2013 15,7 Prozent. Die Bundesländer Sachsen-Anhalt, Thüringen, Mecklenburg-Vorpommern, Brandenburg und Rheinland-Pfalz lagen 2013 über diesem Wert und hatten Anteile an fettleibigen Erwachsenen zwischen 17,1 und 20,6 Prozent. Die Bundesländer Baden-Württemberg, Berlin, Hamburg, Bremen, Schleswig-Holstein lagen unter dem gesamtdeutschen Durchschnitt. Sie wiesen Anteile an fettleibigen Erwachsenen zwischen 11,1 und 14,6 Prozent auf.",FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen. ",
 01-02-c,Entwicklung des Anteils an Fettleibigen 1999 und 2013,Slope,01/02/states.csv,"{
   ""columns"": 1,
   ""filter"": ""(datum.year == 1999 || datum.year == 2013) && datum.state == 'Deutschland'"",
   ""numberFormat"": "".1%""
-}",,plotted,FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen. ",
-01-03-a,"Anzahl der Einwohner, die ein Hausarzt pro Kreisregion versorgt 2010 und 2015",KRegMap,01/03/density.csv,"{
+}","Die Abbildung zeigt den Anteil an Fettleibigen in den Jahren 1990 und 2013. 1990 lag der Anteil bei 11,5 Prozent. 2013 betrug er 15,7 Prozent.",FALSE,plotted,FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus, eigene Berechnungen. ",
+01-03-a,"Anzahl der Einwohner, die ein Hausarzt pro Kreisregion versorgt 2010 und 2016",KRegMap,01/03/density.csv,"{
   ""filter"": ""datum.category == 'HAUS'"",
   ""legendTitle"": ""Anzahl der Einwohner"",
   ""column"": ""year"",
   ""columns"": 2
-}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung.","Datenstand: Arztzahlen 31.12.2015, Bevölkerung 31.12.2013."
-01-03-b,Durchschnittliche Fahrtzeit mit PKW zum nächsten Hausarzt in einer Kreisregion in Minuten 2015,KRegMap,01/03/distance.csv,"{
-  ""legendTitle"": ""Fahrtzeit in Minuten mit PKW"",
+}","Die Abbildung zeigt anhand von zwei Deutschland-Karten, wie viele Einwohner ein Hausarzt durchschnittlich in einer Kreisregion in den Jahren 2010 und 2016 versorgte. Es zeigt sich eine große regionale Heterogenität. Die Spanne reicht von 1.101 Einwohnern pro Hausarzt in der Kreisregion Garmisch-Partenkirchen bis 2.037 Einwohnern pro Hausarzt in der Kreisregion Gütersloh.",TRUE,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung. Datenstand Arztzahlen: 31.12.2016; Quelle: Bundesarztregister. ","Die Kreisregionen sind nach der Gebietssystematik des BBSR zugeordnet, Datenstand Gebiete und Einwohner 31.12.2014. "
+01-03-b,Durchschnittliche Fahrzeit mit PKW zum nächsten Hausarzt in einer Kreisregion in Minuten 2016,KRegMap,01/03/distance.csv,"{
+  ""legendTitle"": ""Fahrzeit in Minuten mit PKW"",
   ""numberFormat"": "".2f""
-}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung.","Datenstand: Arztzahlen 31.12.2015, Bevölkerung 31.12.2013."
-01-03-bb,Kürzeste und längste Anfahrtswege zum nächsten Hausarzt in Minuten 2015,Bar,01/03/distance.csv,"{
+}","Die Abbildung zeigt anhand einer Deutschland-Karte, die durchschnittliche Fahrzeit mit dem PKW zum nächsten Hausarzt in einer Kreisregion. In allen Kreisregionen Deutschlands ist der nächstgelegen Hausarzt durchschnittlich innerhalb von sechs Minuten mit dem PKW erreichbar. Es zeigen sich aber regionale Unterschiede. Die Spanne reicht von 2,4 Minuten bis knapp über 10 Minuten. Die kürzeste Anfahrtszeit haben Bewohner von Großstädten.",TRUE,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung. Datenstand Arztzahlen: 31.12.2016; Quelle: Bundesarztregister. ","Die Kreisregionen sind nach der Gebietssystematik des BBSR zugeordnet, Datenstand Gebiete und Einwohner 31.12.2014. "
+01-03-bb,Kürzeste und längste Anfahrtswege zum nächsten Hausarzt in Minuten 2016,Bar,01/03/distance.csv,"{
   ""y"": ""name"",
-  ""category"": ""datum.value <= 2.78 ? 'Top 5' : (datum.value >= 9.61 ? 'Bottom 5' : '')"",
+  ""category"": ""datum.value <= 2.86 ? 'Top 5' : (datum.value >= 9.11 ? 'Bottom 5' : '')"",
   ""colorSort"": ""none"",
   ""columns"": 2,
   ""columnFilter"": [
-    {""title"": ""Kürzeste Fahrtzeit"", ""test"": ""datum.value <= 2.78""},
-    {""title"": ""Längste Fahrtzeit"", ""test"": ""datum.value >= 9.61""}
+    {""title"": ""Kürzeste Fahrzeit"", ""test"": ""datum.value <= 2.86""},
+    {""title"": ""Längste Fahrzeit"", ""test"": ""datum.value >= 9.11""}
   ],
   ""numberFormat"": "".2f""
-}",,plotted,FALSE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung.","Datenstand: Arztzahlen 31.12.2015, Bevölkerung 31.12.2013."
-01-03-c,"Anzahl der Einwohner, die ein allgemeiner Facharzt pro Kreisregion versorgt 2015",KRegMap,01/03/density.csv,"{
+}","Die Abbildung zeigt die fünf Kreisregionen in Deutschland mit dem kürzesten und längsten Anfahrtsweg zum nächsten Hausarzt in Minuten im Jahr 2016. Den kürzesten Anfahrtsweg haben die Bewohner in München, Freiburg, Berlin, Bonn und Darmstadt. Den längsten Anfahrtsweg haben Bewohner der Kreisregionen Eifelkreis Bitburg-Prüm, Ostprignitz-Ruppin, Cochem-Zell, Vulkaneifel und Birkenfeld.",TRUE,plotted,FALSE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung. Datenstand Arztzahlen: 31.12.2016; Quelle: Bundesarztregister. ","Die Kreisregionen sind nach der Gebietssystematik des BBSR zugeordnet, Datenstand Gebiete und Einwohner 31.12.2014. "
+01-03-c,"Anzahl der Einwohner, die ein allgemeiner Facharzt pro Kreisregion versorgt 2010 und 2016",KRegMap,01/03/density.csv,"{
   ""legendTitle"": ""Anzahl der Einwohner"",
   ""filter"": ""datum.category == 'ALLGFA'"",
   ""column"": ""year"",
   ""columns"": 2
-}",,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung.","Datenstand: Arztzahlen 31.12.2015, Bevölkerung 31.12.2013."
-01-05-a,"Anteil der Personen, die ihre Gesundheit als „weniger gut“ oder „schlecht“ bzw. „gut“ oder „sehr gut“ einschätzen, differenziert nach Einkommensklassen 2013",Lollipop,01/05/quintile.csv,"{
+}","Die Abbildung zeigt anhand von zwei Deutschland-Karten, wie viele Einwohner ein allgemeiner Facharzt durchschnittlich in einer Kreisregion in den Jahren 2010 und 2016 versorgte. Hierbei zeigen sich sehr große regionale Unterschiede. Die Spanne reichte 2016 von 440 Einwohnern pro allgemeinem Facharzt in der Kreisregion Heidelberg bis 2.270 Einwohnern in der Kreisregion Gifhorn. Bei den allgemeinen Fachärzten konzentriert sich die Versorgung in den Städten, die das Umland mitversorgen. Zu den allgemeinen Fachärzten zählen Augenärzte, Chirurgen, Frauenärzte, Hautärzte, Hals-Nasen-Ohren-Ärzte, Nervenärzte, Orthopäden, Psychotherapeuten, Urologen und Kinderärzte.",TRUE,plotted,TRUE,TRUE,,,,"Kassenärztliche Bundesvereinigung, Sonderauswertung. Datenstand Arztzahlen: 31.12.2016; Quelle: Bundesarztregister. ","Die Kreisregionen sind nach der Gebietssystematik des BBSR zugeordnet, Datenstand Gebiete und Einwohner 31.12.2014. "
+01-05-a,"Anteil der Personen, die ihre Gesundheit als „weniger gut“ oder „schlecht“ bzw. „gut“ oder „sehr gut“ einschätzen, differenziert nach Einkommensklassen 2014",Lollipop,01/05/quintile.csv,"{
   ""numberFormat"": ""%"",
   ""column"": ""quintile"",
   ""y"": ""category"",
   ""color"": ""category"",
   ""sort"": ""none""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",Berücksichtigt werden Personen in Privathaushalten zwischen 20 und 64 Jahren.
+}","Die Abbildung zeigt den Anteil der Personen, die 2014 ihre Gesundheit als „weniger gut“ oder „schlecht“ bzw. „gut“ oder „sehr gut“ einschätzten differenziert nach fünf umfanggleichen Einkommensklassen, so genannten Quintilen. Je geringer das Einkommen, desto höher ist der Anteil derjenigen, die ihren Gesundheitszustand als ""schlecht"" oder ""weniger gut"" einschätzen. Am unteren Ende der Einkommensverteilung, also bei den 20 Prozent der Menschen in Deutschland mit den geringsten Einkommen, schätzte jeder Vierte seinen Gesundheitszustand als ""weniger gut"" oder ""schlecht"" ein. An der Spitze, also bei den oberen 20 Prozent, war es dagegen nur jeder Zehnte. Insgesamt war der Anteil der Menschen mit ""gut"" oder sogar ""sehr gut"" eingeschätzter Gesundheit in allen Einkommensklassen höher als der Anteil der Menschen mit ""weniger gut"" oder ""schlecht"" eingeschätzter Gesundheit.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",Berücksichtigt werden Personen in Privathaushalten zwischen 20 und 64 Jahren.
 02-01-a,Entwicklung der Arbeitslosenquote im Jahresdurchschnitt,Line,02/01/regions.csv,"{
   ""color"": ""region"",
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
-02-01-b,Regionale Verteilung der Arbeitslosigkeit in Deutschland auf Kreisebene 2005 und 2015,KrsMap,02/01/districts.csv,"{
+}","Die Abbildung zeigt die Entwicklung der Arbeitslosenquote im Jahresdurchschnitt im Zeitraum von 1992 bis 2016. Auf zwei historische Höchststände in den Jahren 1997 und 2005 mit einer Arbeitslosenquote von über 11 Prozent folgten deutliche Erholungen. 2016 lag die Arbeitslosenquote bundesweit bei 6,1 Prozent, in den westdeutschen Ländern bei 5,6 Prozent und in den ostdeutschen Ländern bei 8,5 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Statistik der Bundesagentur für Arbeit, Arbeitslosigkeit im Zeitverlauf. ",
+02-01-b,Regionale Verteilung der Arbeitslosigkeit in Deutschland auf Kreisebene 2005 und 2016,KrsMap,02/01/districts.csv,"{
   ""accessor"": ""value"",
-  ""filter"": ""datum.year == 2005 || datum.year == 2015"",
+  ""filter"": ""datum.year == 2005 || datum.year == 2016"",
   ""column"": ""year"",
   ""columns"": 2,
   ""krsYear"": 2015,
   ""numberFormat"": "".1%"",
   ""legendTitle"": ""Arbeitslosenquote""
-}",,plotted,TRUE,TRUE,,,,"Laufende Raumbeobachtung des BBSR, Bundesagentur für Arbeit.",
+}","Die Abbildung zeigt anhand von zwei Deutschland-Karten die regionale Verteilung der Arbeitslosigkeit auf Kreisebene in den Jahren 2005 und 2016. Die Spanne reichte im Jahr 2005 von 4,3 bis 27,6 Prozent. Im Jahr 2016 reichte die Spanne von 1,4 im Landkreis Eichstätt bis 14,7 Prozent in der Stadt Gelsenkirchen. Insgesamt lässt sich ein Ost-West- sowie ein Nord-Süd-Gefälle erkennen. Die zwei Karten zeigen auch, dass sich die Arbeitslosenquote seit 2005 deutlich verringert hat.",TRUE,plotted,TRUE,TRUE,,,,"Laufende Raumbeobachtung des BBSR, Bundesagentur für Arbeit.",
 02-01-c,Entwicklung der Langzeitarbeitslosigkeit,Line,02/01/long-term.csv,"{
   ""numberFormat"": ""s""
-}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
+}",Die Abbildung zeigt die Entwicklung der Langzeitarbeitslosigkeit im Zeitraum von 1998 bis 2016. Die Zahl der Langzeitarbeitslosen erreichte 2006 einen Höchstwert von etwa 1.864.000 und ist seit dem um rund 800.000 gesunken. 2016 lag die Zahl der Langzeitarbeitslosen bei etwa 993.000.,TRUE,plotted,TRUE,TRUE,,,,"Statistik der Bundesagentur für Arbeit, Arbeitslosigkeit im Zeitverlauf. ",
 02-01-d,Entwicklung der Jugendarbeitslosigkeit,Line,02/01/youth.csv,"{
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,Bundesagentur für Arbeit.,
+}","Die Abbildung zeigt die Entwicklung der Jugendarbeitslosigkeit im Zeitraum von 2008 bis 2016. Der Anteil der 15- bis 24-jährigen Arbeitslosen ist in diesem Zeitraum von sieben auf 5,3 Prozent gesunken.",TRUE,plotted,TRUE,TRUE,,,,"Statistik der Bundesagentur für Arbeit, Arbeitslosigkeit im Zeitverlauf. ",
 02-03-a,Entwicklung der Erwerbstätigenquote der 20-64-Jährigen nach Geschlecht,Line,02/03/facets.csv,"{
   ""filter"": ""datum.facet == ''"",
   ""numberFormat"": "".1%"",
   ""color"": ""gender"",
   ""zero"": false
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+}","Die Abbildung zeigt die Entwicklung der Erwerbstätigenquote der 20- bis 64-Jährigen insgesamt und differenziert nach Geschlecht im Zeitraum von 1991 bis 2015. In diesem Zeitraum ist die Erwerbstätigenquote insgesamt von 70,4 Prozent auf 77,8 Prozent gestiegen. Die Erwerbstätigenquote der Frauen ist seit 1991 von rund 59 auf 73,5 Prozent im Jahr 2015 gestiegen. Die der Männer lag 2015 bei 82 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
 02-03-b,Entwicklung der Erwerbstätigenquote nach Migrationshintergrund,Slope,02/03/facets.csv,"{
-  ""filter"": ""datum.facet == 'Migrationshintergrund' && (datum.year == 2005 || datum.year == 2014)"",
+  ""filter"": ""datum.facet == 'Migrationshintergrund' && (datum.year == 2005 || datum.year == 2015)"",
   ""column"": ""gender"",
   ""columnSort"": ""none"",
   ""columns"": 3,
   ""color"": ""facet_value"",
   ""bandSize"": 80
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+}","Die Abbildung zeigt die Erwerbstätigenquote von Menschen mit und ohne Migrationshintergrund in den Jahren 2005 und 2015. Die Erwerbstätigenquote von Menschen mit Migrationshintergrund lag 2005 bei rund 60 Prozent und 2015 bei knapp 70 Prozent. Die Erwerbstätigenquote von Menschen ohne Migrationshintergrund lag 2015 bei 80 Prozent und damit 10 Prozentpunkte höher als die von Menschen mit Migrationshintergrund. Es zeigen sich zudem deutliche Unterschiede zwischen Männern und Frauen. Die Erwerbstätigenquote der Männer mit Migrationshintergrund lag 2015 mit 78 Prozent nur 5,5 Prozentpunkte unter der Erwerbstätigenquote der Männer ohne Migrationshintergrund. Frauen mit Migrationshintergrund erreichten 2015 lediglich eine Erwerbstätigenquote von rund 62 Prozent im Vergleich zu knapp 77 Prozent bei den Frauen ohne Migrationshintergrund.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
 02-03-c,Entwicklung der Erwerbstätigenquote von Menschen mit und ohne Behinderung,Slope,02/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Behinderung'"",
   ""columns"": 1,
   ""endLabel"": true,
   ""color"": ""facet_value""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",*Grad der Behinderung: 50 Prozent oder höher.
+}","Die Abbildung zeigt die Entwicklung der Erwerbstätigenquote von Menschen mit und ohne Behinderung im Zeitraum von 2005 bis 2013. Die Erwerbsbeteiligung von Menschen mit Behinderung ist in diesem Zeitraum von 43 auf 50 Prozent gestiegen. Im Vergleich dazu lag die Erwerbstätigenquote von Menschen ohne Behinderung deutlich höher, bei 80 Prozent im Jahr 2013. Bei Menschen mit einer Schwerbehinderung, also einem Grad der Behinderung von 50 Prozent und höher, lag die Erwerbstätigenquote 2013 nur bei 43 Prozent.",FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",*Grad der Behinderung: 50 Prozent oder höher.
 02-04-aa,Entwicklung des Anteils atypischer Beschäftigung an abhängiger Beschäftigung,Line,02/04/percentages.csv,"{
   ""filter"": ""datum.category == 'Insgesamt'"",
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+}","Die Abbildung zeigt die Entwicklung des Anteils atypischer Beschäftigung an abhängiger Beschäftigung im Zeitraum von 1991 bis 2015. 1991 betrug der Anteil der atypisch Beschäftigten an allen abhängig Beschäftigten rund 14 Prozent. Zwischen 1991 und 2007 ist dieser Anteil deutlich gestiegen und erreichte 2007 seinen bisherigen Höchststand von 25,5 Prozent. Seit dem Höchststand 2007 ist der Anteil gesunken und betrug 2015 rund 23,2 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
 02-04-ab,Entwicklung des Anteils der unterschiedlichen Formen atypischer Beschäftigung an abhängiger Beschäftigung,Line,02/04/percentages.csv,"{
   ""filter"": ""datum.category != 'Insgesamt'"",
   ""column"": ""category"",
@@ -142,13 +142,13 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""columns"": 2,
   ""columnSort"": ""none"",
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.","Es gilt zu beachten, dass die verschiedenen Formen von atypischer Beschäftigung nicht trennscharf sind und atypisch Beschäftigte doppelt gezählt werden können, bspw. wenn eine Person in Teilzeit arbeitet und befristet beschäftigt ist. "
-02-04-b,Anzahl atypisch und normal Beschäftigter 1991 bis 2014,TimeBar,02/04/absolute.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Anteils der unterschiedlichen Formen atypischer Beschäftigung an abhängiger Beschäftigung im Zeitraum von 1991 bis 2015. Zu atypischer Beschäftigung zählen befristete Beschäftigung, geringfügige Beschäftigung, Teilzeitbeschäftigung bis zu 20 Wochenstunden und Zeitarbeit. Die Anteile von befristeter, geringfügiger und Teilzeitbeschäftigung an abhängiger Beschäftigung haben sich seit 1991 erhöht. 2015 betrugen sie 7,7 Prozent für befristete Beschäftigung, 7,2 Prozent für geringfüge Beschäftigung und 14.9 Prozent für Teilzeitbeschäftigung. Zeitarbeit wird nur für den Zeitraum 2006 bis 2015 ausgewiesen. Der Anteil von Zeitarbeit an abhängiger Beschäftigung bewegte sich in diesem Zeitraum um rund zwei Prozent. ",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.","Es gilt zu beachten, dass die verschiedenen Formen von atypischer Beschäftigung nicht trennscharf sind und atypisch Beschäftigte doppelt gezählt werden können, bspw. wenn eine Person in Teilzeit arbeitet und befristet beschäftigt ist. "
+02-04-b,Anzahl atypisch und normal Beschäftigter 1991 bis 2015,TimeBar,02/04/absolute.csv,"{
   ""filter"": ""datum.gender == 'Insgesamt'"",
   ""color"": ""category"",
   ""numberFormat"": ""s""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
-02-04-c,Atypische Beschäftigungsformen nach Geschlecht 2014,Bar,02/04/absolute.csv,"{
+}","Die Abbildung zeigt die Anzahl atypisch und normal Beschäftigter im Zeitraum von 1991 bis 2015. Sowohl die Anzahl atypisch als auch normal Beschäftigter ist seit 2000 in Deutschland gewachsen. Die Anzahl der atypisch Beschäftigten von rund 5,9 auf 7,5 Millionen Personen, die Anzahl Normalbeschäftigter von 23,7 auf 24,7 Millionen.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
+02-04-c,Atypische Beschäftigungsformen nach Geschlecht 2015,Bar,02/04/absolute.csv,"{
   ""filter"": ""datum.gender != 'Insgesamt' && datum.year == 2014"",
   ""color"": ""gender"",
   ""numberFormat"": ""s"",
@@ -156,28 +156,28 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""column"": ""category"",
   ""columns"": 2,
   ""highlight"": ""datum.category == 'Atypisch Beschäftigte'""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+}","Die Abbildung zeigt die unterschiedlichen Formen atypischer Beschäftigung differenziert nach Geschlecht im Jahr 2015. Insgesamt sind atypische Beschäftigungsformen bei Frauen deutlich verbreiteter als bei Männern. So waren 2015 5.264.000 Frauen, aber nur 2.210.000 Männer in einem atypischen Beschäftigungsverhältnis. Dies liegt vor allem an Teilzeit und geringfügiger Beschäftigung. 2015 haben 4.129.000 Frauen in Teilzeit gearbeitet und 1.790.000 Frauen waren geringfügig beschäftigt. Im Vergleich dazu gingen nur 687.000 Männer einer Teilzeitbeschäftigung nach und nur 525.000 Männer waren geringfügig beschäftigt. Bei befristeten Arbeitsverhältnissen gibt es kaum einen Unterschied zwischen Männern und Frauen. Männer sind im Vergleich zu Frauen häufiger als Leiharbeitnehmer tätig, 2015 waren es 452.000 Männer aber nur 210.000 Frauen.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
 02-05-a,Entwicklung der Nettolöhne und –gehälter je Arbeitnehmer (preisbereinigt),Line,02/05/years.csv,"{
   ""numberFormat"": ""s"",
   ""zero"": false,
   ""height"": 120
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+}",Die Abbildung zeigt die Entwicklung der realen Nettolöhne und -gehälter je Arbeitnehmer im Zeitraum von 1991 bis 2016. Die realen Nettolöhne und -gehälter haben sich in diesem Zeitraum von 19.800 Euro auf rund 20.600 Euro erhöht.,TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
 02-05-b,Entwicklung der Tarifbindung bei Beschäftigten nach Flächentarifverträgen ,Line,02/05/collective-agreements.csv,"{
   ""color"": ""region"",
   ""numberFormat"": "".0%""
-}",,plotted,TRUE,TRUE,,,,IAB Betriebspanel 2015.,
+}","Die Abbildung zeigt die Entwicklung der Tarifbindung bei Beschäftigten nach Flächentarifverträgen im Zeitraum von 1996 bis 2016 für die westdeutschen und ostdeutschen Bundesländer. In den ostdeutschen Bundesländern war die Tarifbindung im gesamten Zeitraum schwächer ausgeprägt. Sowohl in den ostdeutschen als auch westdeutschen Bundesländern ist die Tarifbindung seit 1996 gesunken. 1996 waren noch 70 Prozent der Beschäftigten in Westdeutschland in tarifgebundenen Betrieben tätig, 2016 nur noch 51 Prozent. In Ostdeutschland ging der Anteil seit 1996 von 56 auf 36 Prozent im Jahr 2016 zurück.",TRUE,plotted,TRUE,TRUE,,,,"Institut für Arbeitsmarkt- und Berufsforschung, IAB Betriebspanel 2016.",
 02-05-c,Unbereinigte und bereinigte Entgeltlücke zwischen Männern und Frauen,Slope,02/05/gender-gap.csv,"{
   ""column"": ""category"",
   ""columnSort"": ""none"",
   ""color"": ""region"",
   ""numberFormat"": "".0%""
-}",,plotted,TRUE,TRUE,,,,Statistisches Bundesamt.,Die Berechnung der bereinigten Entgeltlücke zwischen Männern und Frauen erfolgt nur alle vier Jahre im Rahmen der Verdienststrukturerhebung. Die Zahlen für 2014 wurden noch nicht veröffentlicht. 
+}","Die Abbildung zeigt die Entwicklung der unbereinigten und bereinigten Entgeltlücke zwischen Männern und Frauen im Zeitraum von 2006 bis 2015. In den ostdeutschen Bundesländern ist die unbereinigte Entgeltlücke in diesem Zeitraum von 6 auf 8 Prozent gestiegen. In den westdeutschen Bundesländern ist sie von 24 auf 23 Prozent gesunken. Vergleicht man Männer und Frauen mit gleicher Qualifikation in vergleichbaren beruflichen Positionen im Jahr 2015, bleibt eine bereinigte Entgeltlücke von 9 Prozent in den ostdeutschen Bundesländern und von 7 Prozent in den westdeutschen Bundesländern.",FALSE,plotted,TRUE,TRUE,,,,Statistisches Bundesamt.,Die Berechnung der bereinigten Entgeltlücke zwischen Männern und Frauen erfolgt nur alle vier Jahre im Rahmen der Verdienststrukturerhebung. Die Zahlen für 2014 wurden noch nicht veröffentlicht. 
 02-06-a,Entwicklung der Arbeitszufriedenheit nach Einkommensgruppen,Line,02/06/income.csv,"{
   ""numberFormat"": "".2f"",
   ""color"": ""category"",
   ""confidence"": 95
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",Die Arbeitszufriedenheit wird auf einer Skala von 0 (sehr unzufrieden) bis 10 (sehr zufrieden) gemessen.
-03-01-a,Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II nach Altersgruppen und Geschlecht 2014,Bar,03/01/age-groups.csv,"{
+}","Die Abbildung zeigt die Entwicklung der Arbeitszufriedenheit insgesamt und differenziert nach Einkommensgruppen im Zeitraum von 1991 bis 2014. Seit 1991 liegt die durchschnittliche Zufriedenheit auf einer Skala von null, sehr unzufrieden, bis zehn, sehr zufrieden, bei etwa sieben. Die Arbeitszufriedenheit der höchsten Einkommensgruppe, also der oberen zehn Prozent der Einkommensverteilung, liegt höher als die der niedrigsten Einkommensgruppe, also der unteren zehn Prozent. Am größten war der Abstand 2004. In den folgenden Jahren hat sich die Arbeitszufriedenheit der Niedrigverdiener der der Gutverdiener angenähert.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",Die Arbeitszufriedenheit wird auf einer Skala von 0 (sehr unzufrieden) bis 10 (sehr zufrieden) gemessen.
+03-01-a,Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II nach Altersgruppen und Geschlecht 2015,Bar,03/01/age-groups.csv,"{
   ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Geschlecht'"",
   ""color"": ""facet_value"",
   ""colorSort"": ""none"",
@@ -187,8 +187,8 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""column"": ""age_group"",
   ""columnSort"": ""none"",
   ""columns"": 3
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
-03-01-b,Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II nach Altersgruppen und Migrationshintergrund 2014,Bar,03/01/age-groups.csv,"{
+}","Die Abbildung zeigt den Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II im Jahr 2015 differenziert nach Alter und Geschlecht. 2015 konnten insgesamt 87 Prozent der 25- bis 64-Jährigen eine Hochschulreife oder eine abgeschlossene Berufsausbildung vorweisen. Der Anteil der Frauen liegt mit 85 Prozent unter dem Anteil der Männer von 89 Prozent. Frauen weisen jedoch einen zunehmenden Bildungserfolg auf. So haben die Frauen die Männer in der Altersgruppe der 25- bis 34-Jährigen bereits eingeholt, in der der Anteil der Männer und Frauen bei rund 87 Prozent liegt.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
+03-01-b,Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II nach Altersgruppen und Migrationshintergrund 2015,Bar,03/01/age-groups.csv,"{
   ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Migrationshintergrund'"",
   ""color"": ""facet_value"",
   ""colorSort"": ""none"",
@@ -198,18 +198,18 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""column"": ""age_group"",
   ""columnSort"": ""none"",
   ""columns"": 3
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+}","Die Abbildung zeigt den Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II im Jahr 2015 differenziert nach Alter und Migrationshintergrund. Rund 92 Prozent der Menschen ohne Migrationshintergrund haben mindestens einen Abschluss im Sekundarbereich II, bei Menschen mit Migrationshintergrund liegt der Anteil bei etwa 68 Prozent. Der Anteil der Migrantinnen und Migranten mit einem Abschluss im Sekundarbereich II nimmt bei den jüngeren Altersgruppen zu. So haben etwa 74,5 Prozent der Menschen mit Migrationshintergrund im Alter von 25 bis 34 Jahren mindestens einen Abschluss im Sekundarbereich II. In der Altersgruppe der 55- bis 64-Jährigen liegt dieser Anteil bei 64,3 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
 03-02-a,Entwicklung des Anteils der frühen Schulabgänger an allen Personen im Alter von 18 bis 24 Jahren nach Geschlecht,Line,03/02/facets.csv,"{
   ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Geschlecht'"",
   ""color"": ""facet_value"",
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+}","Die Abbildung zeigt die Entwicklung des Anteils der frühen Schulabgänger an allen Personen im Alter von 18 bis 24 Jahren im Zeitraum von 1999 bis 2015 insgesamt und differenziert nach Geschlecht. In diesem Zeitraum ist der Anteil der frühen Schulabgänger von 14,9 auf 9,8 Prozent gesunken. Der Anteil der frühen Schulabgänger von Männern liegt mit knapp über zehn Prozent etwas höher als der von Frauen mit 9,5 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
 03-02-b,Entwicklung des Anteils der frühen Schulabgänger an allen Personen im Alter von 18 bis 24 Jahren nach Migrationshintergrund,Line,03/02/facets.csv,"{
   ""filter"": ""year(datum.year) >= 2005 && (datum.facet == 'Insgesamt' || datum.facet == 'Migrationshintergrund')"",
   ""color"": ""facet_value"",
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
-03-03-a,Bildungsmobilität zwischen Eltern und Kindern 2014,Bar,03/03/facets.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Anteils der frühen Schulabgänger an allen Personen im Alter von 18 bis 24 Jahren im Zeitraum von 2005 bis 2015 differenziert nach Migrationshintergrund. Der Anteil der frühen Schulabgänger mit Migrationshintergrund ist in diesem Zeitraum von 24 auf 16,3 Prozent gesunken. Er liegt damit aber immer noch deutlich über dem Anteil der frühen Schulabgänger ohne Migrationshintergrund von 7,6 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
+03-03-a,Bildungsmobilität zwischen Eltern und Kindern 2015,Bar,03/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Insgesamt'"",
   ""y"": ""children"",
   ""sort"": ""none"",
@@ -219,9 +219,9 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""columnSort"": ""none"",
   ""columns"": 3,
   ""numberFormat"": ""%""
-}",,"deprecated, replaced by static",FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
-03-03-a14,Bildungsmobilität zwischen Eltern und Kindern 2014,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
-03-03-a95,Bildungsmobilität zwischen Eltern und Kindern 1995,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
+}",-,-,"deprecated, replaced by static",FALSE,FALSE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
+03-03-a14,Bildungsmobilität zwischen Eltern und Kindern 2015,Static,03/03/facets.csv,,"Die Abbildung zeigt die Bildungsmobilität zwischen Eltern und Kindern im Jahr 2015. Sieben von zehn Kindern, deren Eltern Abitur oder Fachhochschulreife haben, erreichen dies ebenfalls. Ebenso machen zwei Drittel der Kinder, deren Eltern einen Haupt- oder Realschulabschluss haben, selbst einen solchen Abschluss. Der Anteil von Jugendlichen, die keinen Abschluss machen, ist in diesen Familien mit einem Anteil von 3,2 Prozent sehr gering. In Familien mit Eltern ohne Schulabschluss bleiben hingegen rund 15 Prozent der Kinder auf dem gleichen Bildungsniveau wie ihre Eltern. 62 Prozent erreichen einen Hauptschulabschluss oder Realschulabschluss und rund 23 Prozent die Fachhochschulreife oder Hochschulreife.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
+03-03-a95,Bildungsmobilität zwischen Eltern und Kindern 1995,Static,03/03/facets.csv,,"Die Abbildung zeigt die Bildungsmobilität zwischen Eltern und Kindern im Jahr 1995. Knapp zwei Drittel der Kinder, deren Eltern Abitur oder Fachhochschulreife haben, erreichen dies ebenfalls. Rund 79 Prozent der Kinder, deren Eltern einen Haupt- oder Realschulabschluss haben, erreichen selbst einen solchen Abschluss. Knapp 19 Prozent dieser Kinder erreichen die Fachhochschulreife oder Hochschulreife. Der Anteil von Jugendlichen, die keinen Abschluss machen, ist in diesen Familien sehr gering. In Familien mit Eltern ohne Schulabschluss bleiben hingegen mehr als 18 Prozent der Kinder auf dem gleichen niedrigen Bildungsniveau wie ihre Eltern. Rund 74 Prozent erreichen einen Hauptschulabschluss oder Realschulabschluss und rund 8 Prozent die Fachhochschulreife oder Hochschulreife.",FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
 03-03-b,Bildungsmobilität zwischen Eltern und Kindern in Familien mit Migrationshintergrund 2014,Bar,03/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Ledige Kinder in Familien mit Migrationshintergrund'"",
   ""y"": ""children"",
@@ -232,13 +232,13 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""columnSort"": ""none"",
   ""columns"": 3,
   ""numberFormat"": ""%""
-}",,"deprecated, replaced by static",FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
-03-03-b14,Bildungsmobilität zwischen Eltern und Kindern in Familien mit Migrationshintergrund 2014,Static,03/03/facets.csv,,,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
+}",-,-,"deprecated, replaced by static",FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
+03-03-b14,Bildungsmobilität zwischen Eltern und Kindern in Familien mit Migrationshintergrund 2015,Static,03/03/facets.csv,,"Die Abbildung zeigt die Bildungsmobilität zwischen Eltern und Kindern im Jahr 2015 in Familien mit Migrationshintergrund. Rund 33 Prozent der Kinder, deren Eltern die Hochschulreife haben, erreichen nur einen Haupt- oder Realschulabschluss, rund 3 Prozent schaffen gar keinen Schulabschluss. Rund zwei Drittel der Kinder, deren Eltern einen Haupt- oder Realschulabschluss haben, erreichen ebenfalls einen solchen Abschluss, rund 29 Prozent erlangen die Hochschulreife. Rund 62 Prozent der Kindern, deren Eltern keinen Schulabschluss haben, gelingt der Sprung zu einem Haupt- oder Realschulabschluss, rund 25 Prozent ein Sprung zur Fachhochschulreife oder Hochschulreife.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus, Sonderauswertung.",
 03-04-a,Weiterbildungsbeteiligung nach Altersgruppen 2007 und 2014,Slope,03/04/age-groups.csv,"{
   ""columns"": 3,
   ""column"": ""age_group"",
   ""columnSort"": ""none""
-}",,plotted,TRUE,TRUE,,,,Adult Education Survey 2007 und 2014.,Bis 2007: 19- bis 64-Jährige; ab 2010: 18- bis 64-Jährige.
+}","Die Abbildung zeigt die Weiterbildungsbeteiligung nach Altersgruppen in den Jahren 2007 und 2014. Die Weiterbildungsbeteiligung lag insgesamt bei 43 Prozent im Jahr 2007 und bei 52 Prozent im Jahr 2014. Dieser Anstieg betrifft alle Altersgruppen, besonders stark jedoch die 25- bis 34-Jährigen und die 55- bis 64-Jährigen. Bei den 25- bis 34-Jährigen hat sich die Weiterbildungsbeteiligung zwischen 2007 und 2014 von 47 auf 58 Prozent erhöht, bei den 55- bis 64-Jährigen von 27 auf 39 Prozent.",FALSE,plotted,TRUE,TRUE,,,,Adult Education Survey 2007 und 2014.,Bis 2007: 19- bis 64-Jährige; ab 2010: 18- bis 64-Jährige.
 03-04-b,Themenstruktur der verschiedenen Formen der Weiterbildung 2014,Bar,03/04/categories.csv,"{
   ""color"": ""type"",
   ""colorSort"": ""none"",
@@ -248,79 +248,82 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""y"": ""category"",
   ""columns"": 3,
   ""minInnerWidth"": 250
-}",,plotted,TRUE,TRUE,,,,Adult Education Survey 2014.,
-04-01-a,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit von Frauen und Männern 2000 bis 2014",Slope,04/01/categories.csv,"{
+}","Die Abbildung zeigt die Themenstruktur der Weiterbildung im Jahr 2014. In der betrieblichen Weiterbildung dominieren „Wirtschaft, Arbeit, Recht“ mit 41 Prozent und „Natur, Technik, Computer“ mit 24 Prozent. In der individuell berufsbezogenen Weiterbildung liegen „Wirtschaft, Arbeit, Recht“ mit 26 Prozent und „Gesundheit und Sport“ mit 21 Prozent an der Spitze. In der nicht-berufsbezogenen Weiterbildung liegen „Sprache, Kultur und Politik“ mit 32 Prozent und „Gesundheit und Sport“ mit 26 Prozent vorne.",FALSE,plotted,TRUE,TRUE,,,,Adult Education Survey 2014.,
+04-01-a,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit von Frauen und Männern 2000 bis 2015",Slope,04/01/categories.csv,"{
   ""xScale"": ""time"",
   ""unit"": ""Wochenstunden"",
-  ""filter"": ""(datum.year == 2000 || datum.year == 2005 || datum.year == 2010 || datum.year == 2014) && datum.facet == 'gender'"",
+  ""filter"": ""(datum.year == 2000 || datum.year == 2005 || datum.year == 2010 || datum.year == 2015) && datum.facet == 'gender'"",
   ""column"": ""facet_value"",
   ""color"": ""category"",
   ""numberFormat"": "".1f"",
   ""zero"": false,
   ""confidence"": 95
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
-04-01-b,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit in ost- und westdeutschen Bundesländern 2014",Lollipop,04/01/categories.csv,"{
+}","Die Abbildung zeigt die Entwicklung der gewünschten, vereinbarten und tatsächlichen Arbeitszeit von Frauen und Männern im Zeitraum von 2000 bis 2015. Die tatsächliche Arbeitszeit von Männern ist in diesem Zeitraum von 43 auf 41,7 Stunden gesunken, die der Frauen von 33,4 auf 33,1. Sowohl Männer als auch Frauen arbeiten meist länger als vertraglich vereinbart. Bei Männern ist die gewünschte Arbeitszeit seit 2005 rückläufig und von 39,2 auf 37,9 Stunden im Jahr 2015 gesunken. Bei Frauen ist die gewünschte Arbeitszeit von 30,2 Stunden im Jahr 2000 auf 30,8 Stunden im Jahr 2015 gestiegen.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
+04-01-b,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit in ost- und westdeutschen Bundesländern 2015",Lollipop,04/01/categories.csv,"{
   ""numberFormat"": "".2f"",
-  ""filter"": ""datum.year == 2014 && datum.facet == 'region'"",
+  ""filter"": ""datum.year == 2015 && datum.facet == 'region'"",
   ""y"": ""facet_value"",
   ""column"": ""category"",
   ""color"": ""facet_value""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
-04-01-c,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit nach HH-Typen und Geschlecht",,,,,data missing,,,,,,,
-04-01-d,Tatsächliche Arbeitszeit von Männern und Frauen 2014,Lollipop,04/01/categories.csv,"{
+}","Die Abbildung zeigt die gewünschte, vereinbarte und tatsächliche Arbeitszeit in den ost- und westdeutschen Bundesländern im Jahr 2015. Die Menschen in den ostdeutschen Ländern arbeiten 38,9 Wochenstunden, die Menschen in den westdeutschen Ländern 37,3. Auch die gewünschte und vertraglich vereinbarte Arbeitszeit ist in Ostdeutschland höher als in den westdeutschen Bundesländern.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
+04-01-c,"Gewünschte, vereinbarte und tatsächliche Arbeitszeit nach HH-Typen und Geschlecht",,,,-,-,data missing,,,,,,,
+04-01-d,Tatsächliche Arbeitszeit von Männern und Frauen 2015,Lollipop,04/01/categories.csv,"{
   ""unit"": ""Wochenstunden"",
-  ""filter"": ""datum.year == 2014 && datum.facet == 'gender' && datum.category == 'Tatsächliche Arbeitszeit'"",
+  ""filter"": ""datum.year == 2015 && datum.facet == 'gender' && datum.category == 'Tatsächliche Arbeitszeit'"",
   ""y"": ""facet_value"",
   ""column"": ""category"",
   ""color"": ""facet_value"",
   ""numberFormat"": "".2f""
-}",,plotted,FALSE,FALSE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+}","Die Abbildung zeigt die tatsächliche Arbeitszeit von Männern und Frauen im Jahr 2015. Männer arbeiteten durchschnittlich rund 41,6 Stunden pro Woche. Frauen arbeiteten durchschnittlich etwa 32,6 Stunden pro Woche.",TRUE,plotted,FALSE,FALSE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
 04-02-a,Entwicklung der Ganztagsquoten,Line,04/02/preschool.csv,"{
   ""numberFormat"": "".1%"",
   ""color"": ""group""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Statistiken der Kinder- und Jugendhilfe.",
-04-02-b,Ganztagsquoten der Unter-3- und der 3- bis Unter-6-Jährigen auf Kreisebene 2015,KrsMap,04/02/districts.csv,"{
+}","Die Abbildung zeigt die Entwicklung der Ganztagsquoten im Zeitraum von 2006 bis 2016. Sowohl für Kinder unter drei Jahren als auch für Kinder im Alter von drei bis unter sechs Jahren zeichnet sich seit 2006 eine positive Entwicklung ab. So ist die Ganztagsquote der Unter-3-Jährigen von 6,5 Prozent im Jahr 2006 auf 18,3 Prozent im Jahr 2016 gestiegen. Die Ganztagsquote der 3- bis Unter-6-Jährigen hat sich im gleichen Zeitraum von 22,1 auf 44,8 Prozent erhöht.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Statistik der Kinder und tätigen Personen in Tageseinrichtungen und in öffentlich geförderter Kindertagespflege.
+",
+04-02-b,Ganztagsquoten der Unter-3- und der 3- bis Unter-6-Jährigen auf Kreisebene 2016,KrsMap,04/02/districts.csv,"{
   ""column"": ""group"",
   ""columns"": 2,
+  ""columnSort"": ""descending"",
   ""numberFormat"": "".1%"",
   ""filter"": ""datum.krs !== 'DE'"",
   ""legendTitle"": ""Ganztagsquote""
-}",,"plotted, needs additional year facet, needs data update from Input/160704/Anfrage BKAmt.xlsx",TRUE,TRUE,,,,"Statistische Ämter des Bundes und der Länder, Statistiken der Kinder- und Jugendhilfe.",
+}",Die Abbildung zeigt anhand von zwei Deutschland-Karten die regionalen Unterschiede bei den Ganztagsquoten auf Kreisebene im Jahr 2016. Es zeigen sich starke Unterschiede zwischen den ost- und westdeutschen Bundesländern.,TRUE,"plotted, needs additional year facet, needs data update from Input/160704/Anfrage BKAmt.xlsx",TRUE,TRUE,,,,"Statistisches Bundesamt, Statistik der Kinder und tätigen Personen in Tageseinrichtungen und in öffentlich geförderter Kindertagespflege.
+",
 04-02-c,Entwicklung des Anteils der Kinder im Grundschulalter in Ganztagsschulen,Line,04/02/primary-school.csv,"{
   ""numberFormat"": "".1%"",
   ""xScale"": ""ordinal"",
   ""filter"": ""datum.group == 'Anteil der Kinder in Ganztagsgrundschulen'""
-}",,plotted,TRUE,TRUE,,,,"Sekretariat der Ständigen Konferenz der Kultusminister der Länder, Zusammenstellung Forschungsverbund DJI/TU Dortmund, 2016.",
+}",Die Abbildung zeigt die Entwicklung des Anteils der Kinder in Ganztagsschulen im Zeitraum von 2005/2006 bis 2015/2016. Der Anteil der Kinder in Ganztagsschulen ist in diesem Zeitraum von knapp zehn auf rund 33 Prozent gestiegen.,TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt: Statistik der Kinder und tätigen Personen in Tageseinrichtungen und in öffentlich geförderter Kindertagespflege, verschiedene Jahrgänge. Sekretariat der Ständigen Konferenz der Kultusminister der Länder. Zusammenstellung Forschungsverbund DJI/TU Dortmund, 2016.",
 04-02-d,Entwicklung des Anteils der Kinder im Grundschulalter in Horten,Line,04/02/primary-school.csv,"{
   ""filter"": ""datum.group == 'Anteil der Kinder im Grundschulalter in Horten'"",
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Statistiken der Kinder- und Jugendhilfe.",Erfasst werden Schulkinder unter elf Jahren.
-04-03-a,Einschränkung der Erwerbstätigkeit wegen Kinderbetreuung und Pflege 2006 bis 2014,TimeBar,04/03/reasons.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Anteils des Kinder im Grundschulalter in Horten im Zeitraum von 2006 bis 2016. Der Anteil hat sich in diesem Zeitraum von 10,6 rund 16,2 Prozent erhöht.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt: Statistik der Kinder und tätigen Personen in Tageseinrichtungen und in öffentlich geförderter Kindertagespflege, verschiedene Jahrgänge. Sekretariat der Ständigen Konferenz der Kultusminister der Länder. Zusammenstellung Forschungsverbund DJI/TU Dortmund, 2016.",Erfasst werden Schulkinder unter elf Jahren.
+04-03-a,Einschränkung der Erwerbstätigkeit wegen Kinderbetreuung und Pflege 2006 bis 2015,TimeBar,04/03/reasons.csv,"{
   ""filter"": ""datum.category == 'Einschränkung der Erwerbstätigkeit'"",
   ""color"": ""reason"",
   ""numberFormat"": ""%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Arbeitskräfteerhebung. ","Anteil der Teilzeitbeschäftigten, die als Hauptgrund für ihre Teilzeittätigkeit die Betreuung von pflegebedürftigen Personen, Menschen mit Behinderung oder Kindern angeben."
-04-03-b,Aufgabe der Erwerbstätigkeit wegen Kinderbetreuung und Pflege 2006 bis 2014,TimeBar,04/03/reasons.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Anteils der Personen, die ihre Erwerbstätigkeit aufgrund von Kinderbetreuung und Pflege einschränken im Zeitraum von 2006 und 2015. In diesem Zeitraum ist der Anteil von 17 auf über 24 Prozent gestiegen.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Arbeitskräfteerhebung. ","Anteil der Teilzeitbeschäftigten, die als Hauptgrund für ihre Teilzeittätigkeit die Betreuung von pflegebedürftigen Personen, Menschen mit Behinderung oder Kindern angeben."
+04-03-b,Aufgabe der Erwerbstätigkeit wegen Kinderbetreuung und Pflege 2006 bis 2015,TimeBar,04/03/reasons.csv,"{
   ""filter"": ""datum.category == 'Aufgabe der Erwerbstätigkeit'"",
   ""color"": ""reason"",
   ""numberFormat"": ""%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Arbeitskräfteerhebung. ","Anteil der Nichterwerbstätigen, die als Hauptgrund für die Beendigung der letzten Tätigkeit die Betreuung von pflegebedürftigen Personen, Menschen mit Behinderung oder Kindern angeben."
+}","Die Abbildung zeigt die Entwicklung des Anteils der Personen, die ihre Erwerbstätigkeit aufgrund von Kinderbetreuung und Pflege ganz aufgeben im Zeitraum von 2006 bis 2015. Der Anteil ist in diesem Zeitraum von rund 8 auf 12 Prozent gestiegen.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Arbeitskräfteerhebung. ","Anteil der Nichterwerbstätigen, die als Hauptgrund für die Beendigung der letzten Tätigkeit die Betreuung von pflegebedürftigen Personen, Menschen mit Behinderung oder Kindern angeben."
 04-04-aa,Entwicklung des Anteils der Erwerbstätigen mit einem Arbeitsweg über 30 Minuten,Line,04/04/germany.csv,"{
   ""filter"": ""datum.region == 'Deutschland' && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger'""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+}",Die Abbildung zeigt die Entwicklung des Anteils der Erwerbstätigen mit einem Arbeitsweg über 30 Minuten im Zeitraum von 1991 bis 2012. Der Anteil der Erwerbstätigen mit einem Arbeitsweg über 30 Minuten hat sich in diesem Zeitraum von 22 auf 26 Prozent erhöht.,FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
 04-04-ab,Entwicklung des Anteils der Erwerbstätigen mit einem Arbeitsweg über 30 Minuten nach Lagetypen,Line,04/04/germany.csv,"{
   ""filter"": ""datum.region != 'Deutschland' && datum.year >= 2000 && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger'"",
   ""column"": ""region"",
   ""columnSort"": ""none"",
   ""columns"": 2
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
+}","Die Abbildung zeigt die Entwicklung des Anteils der Erwerbstätigen mit einem Arbeitsweg über 30 Minuten im Zeitraum von 2000 bis 2012. Differenziert wird dabei nach Lagetypen. In allen vier Lagetypen, ""sehr zentral"", ""zentral"", ""peripher"" und ""sehr peripher"" hat sich der Anteil der Erwerbstätigen mit einem Arbeitsweg über 30 Minuten zwischen 2000 und 2012 erhöht. Besonders deutlich war der Anstieg in sehr zentralen Lagen. Im Jahr 2000 benötigten in zentralen Lagen rund 26 Prozent der Erwerbstätigen länger als 30 Minuten für ihren Arbeitsweg. Im Jahr 2012 waren es etwa 30 Prozent. In zentralen und sehr peripheren Lagen benötigten im Jahr 2012 23 Prozent der Erwerbstätigen länger als 30 Minuten für ihren Arbeitsweg, in peripheren Lagen 21 Prozent der Erwerbstätigen.",FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
 04-04-b,Nutzung verschiedener Verkehrsmittel durch Pendler 2000 und 2012,Slope,04/04/germany.csv,"{
   ""filter"": ""(datum.year == 2000 || datum.year == 2012) && datum.facet == 'Verkehrsmittel' && (datum.facet_value == 'Pkw' || datum.facet_value == 'Öffentliches Verkehrsmittel' || datum.facet_value == 'Fahrrad')"",
   ""column"": ""region"",
   ""columnSort"": ""none"",
   ""color"": ""facet_value"",
   ""columns"": 3
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.","Ballungsräume: ""sehr zentral"", Einzugsgebiete von Großstädten: ""zentral"", ländlicher Raum: ""peripher und sehr peripher""
+}","Die Abbildung zeigt die Nutzung verschiedener Verkehrsmittel durch Pendler in den Jahren 2000 und 2012 differenziert nach Lagetypen. 2012 fuhren 63 Prozent der Menschen mit dem eigenen Auto zur Arbeit, 13 Prozent benutzten die öffentlichen Verkehrsmittel, 9 Prozent das Fahrrad. In sehr zentralen Lagen ist ein Trend weg vom Auto hin zu öffentlichen Verkehrsmitteln und dem Fahrrad zu beobachten. Rund 56 Prozent der Pendler fuhren in sehr zentralen Lagen 2012 mit dem PKW zur Arbeit, 21 Prozent mit den öffentlichen Verkehrsmitteln und 9 Prozent mit dem Fahrrad. In peripheren und sehr peripheren Gebieten fuhren 2012 70 bzw. 67 Prozent der Pendler mit dem eigenen Auto zur Arbeit. 2002 waren es nur 67 bzw. 63 Prozent der Pendler. In den zentralen Lagen hat sich bei der Wahl der Fortbewegungsmittel nicht viel verändert. Hier pendeln 68 Prozent der Menschen mit dem eigenen PKW.",FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.","Ballungsräume: ""sehr zentral"", Einzugsgebiete von Großstädten: ""zentral"", ländlicher Raum: ""peripher und sehr peripher""
 "
 04-04-c,Nutzung verschiedener Verkehrsmittel durch Fernpendlern 2000 bis 2012,Slope,04/04/germany.csv,"{
   ""filter"": ""(datum.year == 2000 || datum.year == 2012) && datum.facet == 'Fernpendler'"",
@@ -328,71 +331,71 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""columnSort"": ""none"",
   ""color"": ""facet_value"",
   ""bandSize"": 65
-}",,plotted,TRUE,TRUE,,,,Statistisches Bundesamt.,
+}","Die Abbildung zeigt die Nutzung verschiedener Verkehrsmittel durch Fernpendler im Zeitraum von 2000 bis 2012 insgesamt und differenziert nach Lagetypen. Der Anteil an Fernpendlern, die mit der Bahn zu Arbeit fahren, ist in diesem Zeitraum von 29 auf 40 Prozent gestiegen. Der Anteil der Fernpendler, die ihren Arbeitsweg mit dem Auto zurücklegen, ist von 69 Prozent im Jahr 2000 auf 58 Prozent im Jahr 2012 gesunken. In allen vier Lagetypen ""sehr zentral"", ""zentral"", ""peripher"" und ""sehr peripher"" hat sich der Anteil der Fernpendler, die mit der Bahn zur Arbeit fahren, erhöht. Der Anteil der Bahnfahrer ist in sehr zentralen Lagen am höchsten (53 Prozent). Der Anteil der Autofahrer betrug in sehr zentralen Lagen 46 Prozent. In zentralen Lagen pendelten 65 Prozent mit dem Auto, in peripheren Lagen 72 Prozent und in sehr peripheren Lagen 79 Prozent.",FALSE,plotted,TRUE,TRUE,,,,Statistisches Bundesamt.,
 05-01-a,Entwicklung der Haushaltnettoseinkommen in Euro,Line,05/01/region.csv,"{
   ""confidence"": 95,
   ""category"": ""datum.region"",
   ""numberFormat"": ""s""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",Haushaltsnettoeinkommen in Preisen von 2010.
-05-02-a,Gini-Koeffizient der Haushaltseinkommen 1991 bis 2013,Line,05/02/germany.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Haushaltsnettoeinkommens im Zeitraum von 1991 bis 2014. In diesem Zeitraum ist das Haushaltsnettoeinkommen von 18.100 Euro auf rund 19.800 Euro gestiegen. In den westdeutschen Bundesländern lag das Haushaltsnettoeinkommen 2014 bei rund 20.460 Euro, in den ostdeutschen Bundesländern bei etwa 17.050 Euro",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",Haushaltsnettoeinkommen in Preisen von 2010.
+05-02-a,Gini-Koeffizient der Haushaltseinkommen 1991 bis 2014,Line,05/02/germany.csv,"{
   ""confidence"": 95,
   ""category"": ""datum.category"",
   ""numberFormat"": "".2f"",
   ""filter"": ""datum.category == 'Gini nach Steuern und Transfers'""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
-05-02-b,Gini-Koeffizient der Haushaltsnettoeinkommen im OECD-Vergleich 2012,Bar,05/02/oecd.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Gini-Koeffizienten der Haushaltseinkommens im Zeitraum von 1991 bis 2014. Der Gini-Koeffizient der Haushalteinkommen hat sich in diesem Zeitraum von 0,25 auf 0,29 erhöht.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
+05-02-b,Gini-Koeffizient der Haushaltsnettoeinkommen im OECD-Vergleich 2013,Bar,05/02/oecd.csv,"{
   ""y"": ""country"",
   ""numberFormat"": "".3f"",
   ""category"": ""datum.country_code == 'DEU' ? '1' : '0'""
-}",,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/inequality/income-inequality.htm,Income Inequality Indicator,"Für Kanada, Chile und Japan gibt es noch keine Werte gemäß der neuen OECD Einkommensdefinition von 2012."
-05-02-c,Gini-Koeffizient der Haushaltsnettoeinkommen vor und nach Steuern und Transfers 1991 bis 2013,Line,05/02/germany.csv,"{
+}","Die Abbildung zeigt einen OECD-Vergleich der Gini-Koeffizienten der Haushaltseinkommen im Jahr 2013. Der Gini-Koeffizient wird auf einer Skala von 0 bis 1 gemessen. Je größer der Wert, desto größer ist auch die Ungleichheit. Von den 31 dargestellten OECD-Ländern belegte Deutschland mit einem Wert von 0,29 Rang 14. Island hatte mit 0,24 den geringsten Gini-Koeffizienten der Haushaltseinkommen und Mexico mit 0,46 den höchsten.",TRUE,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/inequality/income-inequality.htm,OECD (2017): Income inequality indicator. Doi: 10.787/459aa7f1-en. ,"Für Australien, Finnland, Israel, Korea, Mexiko, Niederlande, Ungarn und die Vereinigten Staaten von Amerika beziehen sich die Werte auf das Jahr 2014. Für alle anderen Ländern auf das Jahr 2013. "
+05-02-c,Gini-Koeffizient der Haushaltsnettoeinkommen vor und nach Steuern und Transfers 1991 bis 2014,Line,05/02/germany.csv,"{
   ""confidence"": 95,
   ""category"": ""datum.category"",
   ""numberFormat"": "".2f""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1",
-05-02-d,Abgabenquote im internationalen Vergleich in Prozent des BIP 2014,Bar,05/02/contribution-ratio.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Gini-Koeffizienten der Haushaltsnettoeinkommen vor und nach Berücksichtigung von Steuern und Transfers im Zeitraum von 1991 bis 2014. Der Gini-Koeffizient wird auf einer Skala von 0 bis 1 gemessen. Je größer der Wert, desto größer ist auch die Ungleichheit. Der Gini-Koeffizient der Haushaltseinkommen nach Berücksichtigung von Steuern und Transfers lag im gesamten Zeitraum deutlich unter dem vor Berücksichtigung von Steuern und Transfers. 2014 lag der Gini-Koeffizient vor Steuern und Transfer bei 0,49, der nach Steuern und Transfers bei 0,29.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1",
+05-02-d,Abgabenquote im internationalen Vergleich in Prozent des BIP 2015,Bar,05/02/contribution-ratio.csv,"{
   ""numberFormat"": "".0%"",
   ""y"": ""country"",
   ""category"": ""datum.country == 'Deutschland' ? '1' : '0'""
-}",,plotted,TRUE,TRUE,,,,OECD 2015. Revenue Statistics 1965-2014. Bundesministerium der Finanzen 2016. Die wichtigsten Steuern im internationalen Vergleich 2015.,"* Daten für Niederlande, Japan und Polen Stand 2013."
+}","Die Abbildung zeigt einen internationalen Vergleich der Abgabenquote im Jahr 2015. Deutschland liegt mit einer Abgabenquote von 36,9 Prozent im Mittelfeld und auf ähnlichem Niveau wie die Niederlande und Slowenien. Die geringste Abgabenquote hat Irland mit 23,6 Prozent, die höchste Dänemark mit rund 46,6 Prozent.",TRUE,plotted,TRUE,TRUE,,,,OECD 2015. Revenue Statistics 1965-2014. Bundesministerium der Finanzen 2016. Die wichtigsten Steuern im internationalen Vergleich 2015.,* Daten für Japan und Polen Stand 2014.
 05-03-a,Gini-Koeffizienten der Vermögen in EU-15,Bar,05/03/euro15.csv,"{
   ""y"": ""country"",
   ""numberFormat"": "".2f"",
   ""category"": ""datum.country_code == 'DE' ? '1' : '0'"",
   ""sort"": ""descending""
-}",,plotted,TRUE,TRUE,,,,Sierminska und Medgyesi 2013. The Distributions of Wealth Between Households. European Commission Research Note 11/2013. ,"Die Daten wurden in einer für den Euro-Raum harmonisierten Haushaltsbefragung, dem Eurosystem Household Finance and Consumption Survey erhoben. Die Befragung fand in den Ländern in verschiedenen Jahren zwischen 2008 und 2011 statt."
+}","Die Abbildung zeigt einen Vergleich der Gini-Koeffizienten der Vermögen in den 15 Euro-Raum-Ländern. Deutschland belegt mit einem Gini-Koeffizienten von 0,76 Rang 14 der 15 Euro-Raum-Länder.",FALSE,plotted,TRUE,TRUE,,,,Sierminska und Medgyesi 2013. The Distributions of Wealth Between Households. European Commission Research Note 11/2013. ,"Die Daten wurden in einer für den Euro-Raum harmonisierten Haushaltsbefragung, dem Eurosystem Household Finance and Consumption Survey erhoben. Die Befragung fand in den Ländern in verschiedenen Jahren zwischen 2008 und 2011 statt."
 05-04-a,Entwicklung der Armutsrisikoquote,Line,05/04/groups.csv,"{
   ""confidence"": 95,
   ""numberFormat"": "".1%"",
   ""filter"": ""datum.facet == 'Alle'""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
-05-04-b,Armutsrisikoquote für ausgewählte Gruppen 2013,Lollipop,05/04/groups.csv,"{
+}","Die Abbildung zeigt die Entwicklung der Armutsrisikoquote im Zeitraum von 1991 bis 2014. Die Armutsrisikoquote hat sich in diesem Zeitraum von 11,3 auf 15,8 Prozent erhöht.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
+05-04-b,Armutsrisikoquote für ausgewählte Gruppen 2014,Lollipop,05/04/groups.csv,"{
   ""numberFormat"": ""%"",
-  ""filter"": ""datum.year == '2013' && ((datum.facet == 'Haushaltstyp' && (datum.facet_value == 'Alleinerziehend 1 Kind' || datum.facet_value == 'Alleinerziehend 2+ Kinder' || datum.facet_value == 'Paar 3+ Kinder')) || datum.facet == 'Herkunftsland' || datum.facet == 'Region' || datum.facet == 'Alle')"",
+  ""filter"": ""datum.year == '2014' && ((datum.facet == 'Haushaltstyp' && (datum.facet_value == 'Alleinerziehend 1 Kind' || datum.facet_value == 'Alleinerziehend 2+ Kinder' || datum.facet_value == 'Paar 3+ Kinder')) || datum.facet == 'Herkunftsland' || datum.facet == 'Region' || datum.facet == 'Alle')"",
   ""color"": ""facet"",
   ""y"": ""facet_value"",
   ""column"": ""facet"",
   ""highlight"": ""datum.facet == 'Alle'""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
-05-04-c,Armutsrisikoquote nach Altersgruppen 2013,Lollipop,05/04/groups.csv,"{
+}","Die Abbildung zeigt die Armutsrisikoquote für ausgewählte Gruppen im Jahr 2014. Menschen, deren Herkunftsland nicht Deutschland ist, sind deutlich häufiger armutsgefährdet als Menschen, deren Herkunftsland Deutschland ist. Menschen in den ostdeutschen Ländern sind mit einer Armutsrisikoquote von 21,1 Prozent häufiger armutsgefährdet als Westdeutsche mit einer Armutsrisikoquote von 14,7 Prozent. Auch Alleinerziehende und Paare mit mehr als zwei Kindern haben ein erhöhtes Armutsrisiko.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
+05-04-c,Armutsrisikoquote nach Altersgruppen 2014,Lollipop,05/04/groups.csv,"{
   ""y"": ""facet_value"",
   ""sort"": ""none"",
   ""numberFormat"": ""%"",
-  ""filter"": ""datum.year == '2013' && datum.facet == 'Altersgruppen'""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
-05-04-d,Armutsrisikoquote vor und nach Steuern und Transfers 1991 bis 2013,Line,05/04/groups.csv,"{
+  ""filter"": ""datum.year == '2014' && datum.facet == 'Altersgruppen'""
+}","Die Abbildung zeigt die Armutsrisikoquote für verschiedene Altersgruppen im Jahr 2014. Das Risiko von Armut trifft Altersgruppen unterschiedlich, aber am deutlichsten jüngere Menschen. Besonders armutsgefährdet sind die 18- bis 24- Jährigen mit einer Armutsrisikoquote von rund 24 Prozent und die unter 10 Jährigen mit einer Armutsrisikoquote von etwa 22 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
+05-04-d,Armutsrisikoquote vor und nach Steuern und Transfers 1991 bis 2014,Line,05/04/groups.csv,"{
   ""confidence"": 95,
-  ""numberFormat"": "".0%"",
+  ""numberFormat"": "".1%"",
   ""filter"": ""datum.facet == 'Alle' || datum.facet == 'Umverteilung'"",
   ""category"": ""datum.facet == 'Umverteilung' ? datum.facet_value : 'Nach Steuern und Transfers'""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
+}","Die Abbildung zeigt die Entwicklung der Armutsrisikoquote vor und nach Berücksichtigung von Steuern und Transfers im Zeitraum von 1991 bis 2014. Die Armutsrisikoquote nach Berücksichtigung von Steuern und Transfers lag im gesamten Zeitraum deutlich unter der Armutsrisikoquote vor Berücksichtigung von Steuern und Transfers. Im Jahr 2014 betrug die Armutsrisikoquote vor Steuern und Transfers rund 35 Prozent, die nach Steuern und Transfers knapp 16 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
 05-05-a,Entwicklung des Altenquotienten bis 2013 und Prognose bis 2060,Line,05/05/scenario.csv,"{
   ""numberFormat"": "".1f"",
   ""color"": ""scenario"",
   ""category"": ""datum.scenario + datum.type"",
   ""stroke"": ""datum.type == 'Prognose'"",
   ""labelFilter"": ""datum.type == 'Prognose'""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Bevölkerungsfortschreibung und 13. koordinierte Bevölkerungsvorausrechnung.",
+}","Die Abbildung zeigt die Entwicklung des Altenquotienten bis 2013 und verschiedene Prognosen bis 2060. Seit 2010 liegt der Altenquotient bei etwa 30, das heißt 100 Menschen im erwerbsfähigen Alter stehen heute etwa 30 Rentnern gegenüber. 2040 werden 100 Personen im erwerbsfähigen Alter mehr als 50 älteren Menschen gegenüberstehen. Bis 2060 wird sich das Verhältnis weiter in Richtung der Älteren verschieben. Der Altenquotient nimmt je nach Szenario, das für die Prognose gewählt wurde, Werte zwischen 51,3 und 57,4 an.",FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Bevölkerungsfortschreibung und 13. koordinierte Bevölkerungsvorausrechnung.",
 06-01-a,Kriminalitätsfurcht 2012,Bar,06/01/facets.csv,"{
   ""filter"": ""datum.facet == ''"",
   ""numberFormat"": ""%"",
@@ -404,7 +407,7 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""sort"": ""none"",
   ""colorSort"": ""none"",
   ""highlight"": ""datum.category == 'Allgemein'""
-}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
+}","Die Abbildung zeigt die Kriminalitätsfurcht im Jahr 2012. Konkret zeigt sie den Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht. Mehr als 80 Prozent der Befragten gaben an, sich nachts in ihrer Wohnumgebung allgemein ""eher sicher"" oder ""sehr sicher"" zu fühlen. Bei der Furcht vor spezifischen Straftaten verhält es sich ähnlich. Über 80 Prozent der Befragten gaben an, gar nicht oder nur leicht beunruhigt zu sein, Opfer von Raub, Einbruch, Körperverletzung oder sexueller Belästigung zu werden.",FALSE,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
 06-01-b,Kriminalitätsfurcht nach Geschlecht 2012,Bar,06/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Geschlecht'"",
   ""numberFormat"": ""%"",
@@ -418,7 +421,7 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""sort"": ""none"",
   ""colorSort"": ""none"",
   ""highlight"": ""datum.category == 'Allgemein'""
-}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
+}","Die Abbildung zeigt die Kriminalitätsfurcht differenziert nach Geschlecht im Jahr 2012. Konkret zeigt sie den Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht. Frauen fürchten sich allgemein mehr vor Kriminalität als Männer und haben auch größere Angst davor, Opfer von Raub, Einbruch, Körperverletzung oder sexueller Belästigung zu werden.",FALSE,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
 06-01-c,Kriminalitätsfurcht nach Altersgruppen 2012,Bar,06/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Alter'"",
   ""numberFormat"": ""%"",
@@ -432,33 +435,33 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""sort"": ""none"",
   ""colorSort"": ""none"",
   ""highlight"": ""datum.category == 'Allgemein'""
-}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
+}","Die Abbildung zeigt die Kriminalitätsfurcht differenziert nach Altersgruppen im Jahr 2012. Konkret zeigt sie den Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht. Ältere Menschen über 65 Jahren haben größere Angst vor Kriminalität im Allgemeinen. Vor allem die 16- bis 24-Jährigen fürchten sich davor, Opfer von Gewalt, sexueller Belästigung, Einbruch oder Raub zu werden. Ängste nehmen mit fortschreitendem Alter zunächst ab und im Rentenalter wieder zu.",FALSE,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"Anteil der Befragten mit allgemeiner und deliktspezifischer Kriminalitätsfurcht, N = 35.405 (allgemeine Kriminalitätsfurcht), 11.584 (Körperverletzung), 11.608 (Einbruch), 11.601 (Raub), 11.604 (Sexuelle Belästigung)."
 06-01-d,Anteil der Bevölkerung mit allgemeiner Kriminalitätsfurcht (ziemlich und sehr stark) in den Bundesländern 2012,StatesMap,06/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Bundesland'"",
   ""featureId"": ""datum.facet_value"",
   ""numberFormat"": "".1%"",
   ""legendTitle"": ""Ziemlich und sehr stark""
-}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,
-06-02-a,Erfasste und aufgeklärte Fälle von Gewaltkriminalität 1993 bis 2015,Line,06/02/categories.csv,"{
+}","Die Abbildung zeigt anhand einer Deutschland-Karte die Anteile der Bevölkerung in den einzelnen Bundesländern mit allgemeiner Kriminalitätsfurcht im Jahr 2012. Die Spanne reicht von 12,1 bis 26,2 Prozent. Die allgemeine Kriminalitätsfurcht zeigt regional ein uneinheitliches Bild. Die Einwohner Baden-Württembergs, Bayerns und Niedersachsens haben weniger Angst vor kriminellen Übergriffen als die Menschen im restlichen Bundesgebiet.",FALSE,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,
+06-02-a,Erfasste und aufgeklärte Fälle von Gewaltkriminalität 1993 bis 2016,Line,06/02/categories.csv,"{
   ""filter"": ""datum.category == 'Gewaltkriminalität' && datum.type != 'Aufklärungsquoten'"",
   ""numberFormat"": ""s"",
   ""color"": ""type""
-}",,plotted,TRUE,TRUE,,,,PKS.,Daten für Bundesrepublik Deutschland (ost- und westdeutsche Bundesländer) erst ab 1993 verfügbar.
-06-02-b,Erfasste und aufgeklärte Fälle von Diebstahlkriminalität 1993 bis 2015,Line,06/02/categories.csv,"{
+}","Die Abbildung zeigt die Entwicklung der erfassten und aufgeklärten Fälle von Gewaltkriminalität im Zeitraum von 1993 bis 2016. Die Gewaltkriminalität ist zwischen 1993 und 2007 stark gestiegen. 2007 gab es einen Höchststand von 217.923 registrierten Fällen. Zwischen 2007 und 2016 ist die Gewaltkriminalität auf 193.542 registrierte Fälle gesunken. Die Aufklärungsquoten haben sich zwischen 1993 und 2002 ebenfalls verbessert: Von 65,4 auf 74,4 Prozent. Seit 2002 bewegten sie sich relativ konstant zwischen 74 und 75,8 Prozent. In 2016 war die Aufklärungsquote mit 75,8 Prozent am höchsten. ",TRUE,plotted,TRUE,TRUE,,,,Polizeiliche Kriminalstatistik 2017.,Daten für Bundesrepublik Deutschland (ost- und westdeutsche Bundesländer) erst ab 1993 verfügbar.
+06-02-b,Erfasste und aufgeklärte Fälle von Diebstahlkriminalität 1993 bis 2016,Line,06/02/categories.csv,"{
   ""filter"": ""datum.category == 'Diebstahlkriminalität' && datum.type != 'Aufklärungsquoten'"",
   ""numberFormat"": ""s"",
   ""color"": ""type""
-}",,plotted,TRUE,TRUE,,,,PKS.,Daten für Bundesrepublik Deutschland (ost- und westdeutsche Bundesländer) erst ab 1993 verfügbar.
-06-02-c,Gewaltkriminalität nach Bundesländern 2015,StatesMap,06/02/states.csv,"{
-  ""filter"": ""datum.year == 2015 && datum.category == 'Gewaltkriminalität'"",
+}","Die Abbildung zeigt die Entwicklung der erfassten und aufgeklärten Fälle von Diebstahlkriminalität im Zeitraum von 1993 bis 2016. Zwischen 1993 und 2010 ist die Diebstahlkriminalität deutlich gesunken, von mehr als 2.870.000 erfasster Fälle auf rund 2.300.000 erfasste Fälle. Seit 2010 verzeichnet die Diebstahlkriminalität einen Anstieg. 2016 wurden rund 2.374.000 Fälle registriert. Die Aufklärungsquoten sind seit 1998 gesunken, von 32,3 auf 27,2 Prozent im Jahr 2016.",TRUE,plotted,TRUE,TRUE,,,,Polizeiliche Kriminalstatistik 2017.,Daten für Bundesrepublik Deutschland (ost- und westdeutsche Bundesländer) erst ab 1993 verfügbar.
+06-02-c,Gewaltkriminalität nach Bundesländern 2016,StatesMap,06/02/states.csv,"{
+  ""filter"": ""datum.year == 2016 && datum.category == 'Gewaltkriminalität'"",
   ""numberFormat"": ""d"",
   ""legendTitle"": ""Fälle pro 100.000 Einwohner""
-}",,plotted,TRUE,TRUE,,,,PKS 2015.,
-06-02-d,Diebstahlkriminalität nach Bundesländern 2015,StatesMap,06/02/states.csv,"{
-  ""filter"": ""datum.year == 2015 && datum.category == 'Diebstahlkriminalität'"",
+}","Die Abbildung zeigt anhand einer Deutschland-Karte die regionalen Unterschiede in der Gewaltkriminalität im Jahr 2016 in den Bundesländern. Es zeigen sich große regionale Unterschiede. Die Spanne reicht von 164 bis zu 481 Fällen je 100.000 Einwohnern. Die Stadtstaaten Hamburg, Bremen und Berlin waren 2016 deutlich stärker von Gewaltkriminalität betroffen als die Flächenländer. Vergleicht man hingegen die Flächenstaaten untereinander, ist ein Nord-Süd-Gefälle zu erkennen.",TRUE,plotted,TRUE,TRUE,,,,Polizeiliche Kriminalstatistik 2017.,
+06-02-d,Diebstahlkriminalität nach Bundesländern 2016,StatesMap,06/02/states.csv,"{
+  ""filter"": ""datum.year == 2016 && datum.category == 'Diebstahlkriminalität'"",
   ""numberFormat"": ""d"",
   ""legendTitle"": ""Fälle pro 100.000 Einwohner""
-}",,plotted,TRUE,TRUE,,,,PKS 2015.,
+}","Die Abbildung zeigt anhand einer Deutschlandkarte die regionalen Unterschiede in der Diebstahlkriminalität im Jahr 2016 auf Bundeslandebene. Es zeigen sich große regionale Unterschiede. Die Spanne reicht von 1.400 bis 7.700 Fällen je 100.000 Einwohner. Die Stadtstaaten Hamburg, Bremen und Berlin waren 2016 deutlich stärker von Diebstahlkriminalität betroffen als die Flächenländer. Vergleicht man hingegen die Flächenstaaten untereinander, ist ein Nord-Süd-Gefälle zu erkennen.",TRUE,plotted,TRUE,TRUE,,,,Polizeiliche Kriminalstatistik 2017.,
 06-03-a,Bewertung der örtlichen Polizeiarbeit allgemein 2012,Bar,06/03/facets.csv,"{
   ""filter"": ""datum.facet == ''"",
   ""numberFormat"": ""%"",
@@ -470,7 +473,7 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""colorSort"": ""none"",
   ""barStyle"": ""large"",
   ""highlight"": ""true""
-}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,N = 1.899
+}","Die Abbildung zeigt die Bewertung der örtlichen Polizeiarbeit im Jahr 2012. Konkret zeigt sie den Anteil der Befragten, die die Arbeit der örtlichen Polizei als ""sehr gut"", ""eher gut"", ""eher schlecht"" bzw. ""sehr schlecht"" einschätzen. Ein Großteil der Befragten rund 87 Prozent bewertete die Arbeit der örtlichen Polizei bei der Verbrechensbekämpfung als ""sehr gut"" oder ""gut"". Nur rund ein Prozent aller befragten Personen empfand die Effektivität der Polizeiarbeit als ""sehr schlecht"", und knapp zwölf Prozent als ""eher schlecht"".",FALSE,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,N = 1.899
 06-03-b,Bewertung der örtlichen Polizeiarbeit 2012,Bar,06/03/facets.csv,"{
   ""filter"": ""datum.facet != ''"",
   ""numberFormat"": ""%"",
@@ -481,38 +484,38 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""sort"": ""none"",
   ""colorSort"": ""none"",
   ""barStyle"": ""large""
-}",,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"N = 1.059 (keine Opfererfahrung), 814 (Opfererfahrung), 447 (zufrieden mit letztem Polizeikontakt), 73 (unzufrieden mit letztem Polizeikontakt), 100 (enge nachbarschaftliche Bindung), 1.161 (geringe nachbarschaftliche Bindung)."
-06-04-a,Hasskriminalität gesamt und fremdenfeindlich 2001 bis 2015,Line,06/04/categories.csv,"{
+}","Die Abbildung zeigt die Bewertung der örtlichen Polizeiarbeit im Jahr 2012. Konkret zeigt sie den Anteil der Befragten, die die Arbeit der örtlichen Polizei als ""sehr gut"" oder ""eher gut"" bzw. als ""eher schlecht"" oder ""sehr schlecht"" bewertet. Differenziert wird dabei nach der empfundenen nachbarschaftlichen Bindung und den Erfahrungen, die eine Person bisher mit Polizei und Kriminalität hatte. 90 Prozent der Befragten, die keine Opfererfahrung hatten, bewerteten die Polizeiarbeit als ""sehr gut"" oder ""eher gut"". Bei Menschen, die bereits Opfer von Kriminalität geworden sind, lag der Anteil nur bei 83 Prozent. 88 Prozent der Menschen, die mit ihrem letzten Polizeikontakt zufrieden waren, bewerteten die Arbeit der Polizei als sehr gut oder eher gut. Bei Personen, die mit dem letzten Polizeikontakt unzufrieden waren, waren es nur 73 Prozent. 89 Prozent der Bürgerinnen und Bürger, die ihre nachbarschaftliche Bindung als eng empfanden, bewerteten die Polizeiarbeit als sehr gut oder eher gut. Bei Menschen, die ihre nachbarschaftliche Bindung als gering einschätzten, waren es nur 76 Prozent.",FALSE,plotted,TRUE,TRUE,,,,Deutscher Viktimisierungssurvey 2012.,"N = 1.059 (keine Opfererfahrung), 814 (Opfererfahrung), 447 (zufrieden mit letztem Polizeikontakt), 73 (unzufrieden mit letztem Polizeikontakt), 100 (enge nachbarschaftliche Bindung), 1.161 (geringe nachbarschaftliche Bindung)."
+06-04-a,Hasskriminalität gesamt und fremdenfeindlich 2001 bis 2016,Line,06/04/categories.csv,"{
   ""filter"": ""datum.category != 'Gewalttätig'"",
   ""column"": ""category"",
   ""columnSort"": ""none"",
   ""color"": ""category"",
   ""numberFormat"": ""s""
-}",,plotted,TRUE,TRUE,,,,"Statistik zur politisch motivierten Kriminalität (PMK), BMI.",
-07-00-a,Bevölkerungsdichte nach Kreisen zum Jahresende 2014,KrsMap,07/00/density.csv,"{
+}",Die Abbildung zeigt die Entwicklung von Hasskriminalität im Zeitraum von 2001 bis 2016. In diesem Zeitraum ist die Hasskriminalität von 5.376 auf 10.751 Fälle gestiegen und hat damit 2016 den Höchstwert erreicht. Dafür war im Wesentlichen die besonders starke Zunahme von fremdenfeindlichen Straftaten verantwortlich. Diese sind im Betrachtungszeitraum von 3.548 auf 8.983 Fälle gestiegen.,TRUE,plotted,TRUE,TRUE,,,,Statistik zur Politisch Motivierten Kriminalität 2017. ,
+07-00-a,Bevölkerungsdichte nach Kreisen zum Jahresende 2015,KrsMap,07/00/density.csv,"{
   ""legendTitle"": ""Bevölkerung je km²"",
   ""thresholds"": [100, 200, 400, 600, 800]
-}",,plotted,FALSE,TRUE,,,,"Statistisches Bundesamt, Gemeindeverzeichnis.","Kreisfreie Städte und Landkreise nach Fläche, Bevölkerung und Bevölkerungsdichte am 31.12.2014. "
+}",Die Abbildung zeigt anhand einer Deutschland-Karte die regionalen Unterschiede in der Bevölkerungsdichte auf Kreisebene zum Jahresende 2015. Die Spanne reicht von 36 bis 4.668 Menschen pro Quadratkilometer. In knapp einem Fünftel der deutschen Landkreise und kreisfreien Städte leben weniger als 100 Menschen je Quadratkilometer. Im am dichtesten besiedelten Zehntel sind es über 1.500 Menschen. Besonders dicht besiedelt sind Großstädte und Ballungsräume.,TRUE,plotted,FALSE,TRUE,,,,"Statistisches Bundesamt, Gemeindeverzeichnis.","Kreisfreie Städte und Landkreise nach Fläche, Bevölkerung und Bevölkerungsdichte am 31.12.2014. "
 07-00-b,Bevölkerungsentwicklung nach Kreisen 2012 bis 2035,KrsMap,07/00/districts.csv,"{
   ""legendTitle"": ""Bevölkerungsentwicklung in Prozent"",
   ""numberFormat"": "".0%""
-}",,plotted,FALSE,TRUE,,,,"BBSR-Bevölkerungsprognose, Berechnungen: BIB.",
-07-01-a,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte 1991 bis 2013,Line,07/01/facets.csv,"{
+}","Die Abbildung zeigt anhand einer Deutschland-Karte die prognostizierte Bevölkerungsentwicklung nach Kreisen im Zeitraum von 2012 bis 2035. Die Spanne reicht von einem Bevölkerungsrückgang um bis zu 32 Prozent in strukturschwächeren Regionen bis zu einem Bevölkerungswachstum von bis zu 22 Prozent in wirtschaftsstarken Regionen, wie z.B. dem Münchner Umland.",FALSE,plotted,FALSE,TRUE,,,,"BBSR-Bevölkerungsprognose, Berechnungen: BIB.",
+07-01-a,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte 1991 bis 2014,Line,07/01/facets.csv,"{
   ""confidence"": 95,
   ""filter"": ""datum.facet == 'Gesamt'""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",Seit 2013 wird in der SOEP Befragung genauer nach den einzelnen Posten der Nebenkostenrechnung gefragt. Die Veränderung von 2012 bis 2013 kann auf diese methodische Anpassung zurückzuführen sein.
-07-01-b,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte differenziert nach Einkommensklassen 2013,Lollipop,07/01/facets.csv,"{
+}",Die Abbildung zeigt die Entwicklung des Anteils der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte im Zeitraum von 1991 bis 2014. Von 1991 bis Mitte der 2000er Jahre ist der Anteil der Wohnkosten am Haushaltsnettoeinkommen der Menschen in Deutschland von 21 auf 29 Prozent gestiegen. Anschließend hat er sich kaum noch verändert.,TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",Seit 2013 wird in der SOEP Befragung genauer nach den einzelnen Posten der Nebenkostenrechnung gefragt. Die Veränderung von 2012 bis 2013 kann auf diese methodische Anpassung zurückzuführen sein.
+07-01-b,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte differenziert nach Einkommensklassen 2014,Lollipop,07/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Einkommensposition' && datum.year == '2013'"",
   ""numberFormat"": ""%"",
   ""y"": ""facet_value"",
   ""sort"": ""none""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
-07-01-c,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte differenziert nach Haushaltstypen 2013,Lollipop,07/01/facets.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Anteils der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte im Jahr 2014 differenziert nach fünf umfanggleichen Einkommensklassen, so genannten Quintilen. Die 20 Prozent der Menschen in Deutschland mit den niedrigsten Einkommen geben im Schnitt rund 37 Prozent ihres Haushaltseinkommens für Kaltmiete, Warmwasser und Heizung aus. In der nächsten Einkommensklasse, dem 2. Quintil, sind es durchschnittlich nur 26 Prozent. Bei den oberen 20 Prozent sind es 17 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
+07-01-c,Anteil der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte differenziert nach Haushaltstypen 2014,Lollipop,07/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Haushaltstyp' && datum.year == '2013'"",
   ""numberFormat"": ""%"",
   ""y"": ""facet_value""
-}",,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv31.1.",
-07-02-a,"Fahrtzeit zu Mittel- und Oberzentren 2012, Motorisierter Individualverkehr",PointMap,07/02/center-points.csv,"{
+}","Die Abbildung zeigt die Entwicklung des Anteils der Wohnkosten am Haushaltsnettoeinkommen für Miethaushalte im Jahr 2014 differenziert nach Haushaltstypen. Ein-Personen-Haushalte unter 35 Jahre und über 60 Jahre haben die höchsten Anteile der Wohnkosten am verfügbaren Einkommen, jeweils gut ein Drittel. Bei Alleinerziehenden liegt der Wert etwas unter einem Drittel. Paare mit und ohne Kinder geben für ihre Wohnung den geringsten Teil ihres verfügbaren Einkommens aus.",TRUE,plotted,TRUE,TRUE,,,,"Berechnungen des DIW Berlin, SOEPv32.1.",
+07-02-a,"Fahrzeit zu Bildungs-, Versorgungs- und Kultureinrichtungen 2016, Motorisierter Individualverkehr",PointMap,07/02/center-points.csv,"{
   ""geotiff"": ""07-02-miv"",
   ""accessor"": ""center"",
   ""ordinalAccessor"": ""center"",
@@ -521,7 +524,7 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
   ""sizes"": [5, 10],
   ""height"": 350,
   ""colorRange"": [""#FE5072"", ""#810019""],
-  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegendTitle"": ""Fahrzeit zum nächsten Zentrum in Minuten"",
   ""geotiffLegend"": [
     {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
     {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
@@ -530,11 +533,11 @@ id,title,type,data,config,alt_text,status,dashboard,report,copyright,source_labe
     {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
     {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
   ]
-}",,deprecated,FALSE,FALSE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (Stand: 31. Dezember 2012)","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
+}",Die Abbildung zeigt anhand einer Deutschland-Karte die Fahrzeit mit dem Auto zu Mittel- und Oberzentren im Jahr 2016. Die Spanne reicht von 0 bis zu über 50 Minuten. Mit dem Auto braucht aber nur ein Prozent der deutschen Bevölkerung länger als 30 Minuten bis in das nächstgelegene Mittelzentrum.,WAHR,deprecated,FALSE,FALSE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: Kreise, Stand: 31. Dezember 2014, © GeoBasis-DE/BKG","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
 typische Ausstattung: Fachhandel, größere Banken und Kreditinstitute, 
 Fach-/Hochschule, Schwerpunktkrankenhaus, wissenschaftliche Bibliothek, 
 Sportstadion, Fernbahnhof."
-07-02-b,"Fahrtzeit zu Mittel- und Oberzentren 2012, Öffentlicher Verkehr",PointMap,07/02/center-points.csv,"{
+07-02-b,"Fahrzeit zu Bildungs-, Versorgungs- und Kultureinrichtungen 2016, Öffentlicher Verkehr",PointMap,07/02/center-points.csv,"{
   ""geotiff"": ""07-02-oev"",
   ""accessor"": ""center"",
   ""ordinalAccessor"": ""center"",
@@ -543,7 +546,7 @@ Sportstadion, Fernbahnhof."
   ""sizes"": [5, 10],
   ""height"": 350,
   ""colorRange"": [""#FE5072"", ""#810019""],
-  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegendTitle"": ""Fahrzeit zum nächsten Zentrum in Minuten"",
   ""geotiffLegend"": [
     {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
     {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
@@ -552,11 +555,11 @@ Sportstadion, Fernbahnhof."
     {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
     {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
   ]
-}",,deprecated,FALSE,FALSE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (Stand: 31. Dezember 2012)","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
+}","Die Abbildung zeigt anhand einer Deutschland-Karte die Fahrzeit mit öffentlichen Verkehrsmitteln zu Mittel- und Oberzentren im Jahr 2016. Die Spanne reicht von 0 bis zu über 50 Minuten. Fast ein Drittel der Menschen in Deutschland braucht länger als eine halbe Stunde, um die nächste größere Stadt mit öffentlichen Verkehrsmitteln zu erreichen.",WAHR,deprecated,FALSE,FALSE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: Kreise, Stand: 31. Dezember 2014, © GeoBasis-DE/BKG","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
 typische Ausstattung: Fachhandel, größere Banken und Kreditinstitute, 
 Fach-/Hochschule, Schwerpunktkrankenhaus, wissenschaftliche Bibliothek, 
 Sportstadion, Fernbahnhof."
-07-02-c,Fahrtzeit zu Mittel- und Oberzentren 2012,PointMap,07/02/center-points.csv,"{
+07-02-c,"Fahrzeit zu Bildungs-, Versorgungs- und Kultureinrichtungen 2016",PointMap,07/02/center-points.csv,"{
   ""accessor"": ""center"",
   ""ordinalAccessor"": ""center"",
   ""shape"": ""square"",
@@ -577,7 +580,7 @@ Sportstadion, Fernbahnhof."
       ""geotiff"": ""07-02-oev""
     }
   ],
-  ""geotiffLegendTitle"": ""Fahrtzeit zum nächsten Zentrum in Minuten"",
+  ""geotiffLegendTitle"": ""Fahrzeit zum nächsten Zentrum in Minuten"",
   ""geotiffLegend"": [
     {""color"": ""rgb(158,235,255)"", ""label"": ""0 - 10""},
     {""color"": ""rgb(128,207,255)"", ""label"": ""10 - 20""},
@@ -586,7 +589,7 @@ Sportstadion, Fernbahnhof."
     {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
     {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
   ]
-}",,plotted,TRUE,TRUE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: BKG, Kreise (Stand: 31. Dezember 2012)","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
+}",-,-,plotted,TRUE,TRUE,,,,"Erreichbarkeitsmodell des BBSR. Geometrische Grundlage: Kreise, Stand: 31. Dezember 2014, © GeoBasis-DE/BKG","Ein Mittelzentrum hat mindestens 30.000-40.000 Einwohner und hat die folgende typische Ausstattung: Warenhaus, Krankenhaus, Fachärzte, Hotel, Altenpflegeheim, Theater, Museum, Jugendeinrichtung, weiterführende Schule, Bibliothek, größere Sportanlage, Bahnhof. Ein Oberzentrum hat 200 000-300 000 Einwohner und hat die folgende 
 typische Ausstattung: Fachhandel, größere Banken und Kreditinstitute, 
 Fach-/Hochschule, Schwerpunktkrankenhaus, wissenschaftliche Bibliothek, 
 Sportstadion, Fernbahnhof."
@@ -596,35 +599,35 @@ Sportstadion, Fernbahnhof."
   ""columns"": 2,
   ""numberFormat"": "".0%"",
   ""legendTitle"": ""Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s""
-}",,"deprecated, print only",FALSE,FALSE,"© BMVI, TÜV Rheinland",,,"BMVI, TÜV Rheinland.",Graue Flächen sind nicht-bewohnte Gemeinden in Deutschland.
+}","Die Abbildung zeigt anhand von zwei Deutschland-Karten für die Jahre 2010 und 2015, wie viele Haushalte Zugang zu einem Internetanschluss mit über 50 Megabit pro Sekunde haben. Im Vergleich zu 2010 ist der Anteil der Haushalte, die Zugang zu schnellem Internet haben gestiegen. Es gibt aber noch viele Kreise gerade in ländlichen Regionen, an denen schnelles Internet nur für einen kleinen Teil der Menschen verfügbar ist. ",FALSE,"deprecated, print only",FALSE,FALSE,"© BMVI, TÜV Rheinland",,,"Bundesministerium für Verkehr und Infrastruktur, TÜV Rheinland.",Graue Flächen sind nicht-bewohnte Gemeinden in Deutschland.
 07-03-b,Verfügbarkeit von Internetzugängen mit mindestens 50 Mbit/s in Deutschland auf Kreisebene,KrsMap,07/03/districts.csv,"{
   ""filter"": ""datum.year == '2010' || datum.year == '2015'"",
   ""column"": ""year"",
   ""columns"": 2,
   ""numberFormat"": "".0%"",
   ""legendTitle"": ""Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s""
-}",,plotted,TRUE,TRUE,"© BMVI, TÜV Rheinland",,,"BMVI, TÜV Rheinland.",
-08-01-a,Familien- und Lebensformen 1996 und 2014,Slope,08/01/facets.csv,"{
+}","Die Abbildung zeigt anhand von zwei Deutschland-Karten für die Jahre 2010 und 2015, wie viele Haushalte Zugang zu einem Internetanschluss mit über 50 Megabit pro Sekunde haben. Im Vergleich zu 2010 ist der Anteil der Haushalte, die Zugang zu schnellem Internet haben gestiegen. Es gibt aber noch viele Kreise gerade in ländlichen Regionen, an denen schnelles Internet nur für einen kleinen Teil der Menschen verfügbar ist. ",FALSE,plotted,TRUE,TRUE,"© BMVI, TÜV Rheinland",,,"Bundesministerium für Verkehr und Infrastruktur, TÜV Rheinland.",
+08-01-a,Familien- und Lebensformen 1996 und 2015,Slope,08/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Erwachsene'"",
   ""columns"": 1,
   ""numberFormat"": "".1%"",
   ""color"": ""category""
-}",,"plotted, new data available",TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.","Das Gesetz über die eingetragene Lebenspartnerschaft trat erst 2001 in Kraft, so dass für 1996 ausschließlich gleichgeschlechtliche Lebenspartnerschaften berücksichtigt wurden."
-08-01-b,Anteil der im Haushalt lebenden ledigen Kinder an der jeweiligen Familien- und Lebensform 1996 und 2014,Slope,08/01/facets.csv,"{
+}","Die Abbildung zeigt die Familien- und Lebensformen in den Jahren 1996 und 2015. 56 Prozent der Menschen in Deutschland lebten 2015 mit einem Ehepartner oder einer Ehepartnerin zusammen, 1996 waren es noch 66 Prozent. Der Anteil an Männern und Frauen, die in einer nicht-ehelichen Lebensgemeinschaft zusammenlebten, betrug 1996 sechs Prozent und 2015 neun Prozent. 1996 lebten rund 28 Prozent der Menschen ohne Partner, 2015 waren es rund 34 Prozent. Deutlich weniger als ein Prozent aller Männer oder Frauen lebten 1996 und 2015 mit ihrem Partner bzw. ihrer Partnerin in gleichgeschlechtlichen Lebensgemeinschaften oder in einer eingetragenen Lebenspartnerschaft.",TRUE,"plotted, new data available",TRUE,TRUE,,,,"Statistisches Bundesamt (2017), Ergebnisse des Mikrozensus 2015. ","Das Gesetz über die eingetragene Lebenspartnerschaft trat erst 2001 in Kraft, so dass für 1996 ausschließlich gleichgeschlechtliche Lebenspartnerschaften berücksichtigt wurden."
+08-01-b,Anteil der im Haushalt lebenden ledigen Kinder an der jeweiligen Familien- und Lebensform 1996 und 2015,Slope,08/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Kinder'"",
   ""column"": ""region"",
   ""columnSort"": ""none"",
   ""bandSize"": ""70"",
   ""color"": ""category""
-}",,"plotted, new data available",TRUE,TRUE,,,,"Statistisches Bundesamt, Mikrozensus.",
-08-01-c,Familien- und Lebensformen in Deutschland 2014,Bar,08/01/facets.csv,"{
-  ""filter"": ""datum.facet == 'Erwachsene' && datum.year ==  '2014'"",
+}","Die Abbildung zeigt den Anteil der im Haushalt lebenden ledigen Kinder an der jeweiligen Familien- und Lebensform in den Jahren 1996 und 2015. Mit 72 Prozent wuchs der Großteil der Kinder 2015 nach wie vor bei verheirateten Eltern auf. Dies sind mehr als zehn Prozent weniger als 1996. Rund 21 Prozent der Kinder wuchsen 2015 bei Alleinerziehenden und 7 Prozent bei Eltern in nicht ehelicher Lebensgemeinschaft auf. In den ostdeutschen Flächenländern lebten mit rund 58 Prozent deutlich weniger Kinder bei verheirateten Eltern als in den westdeutschen Flächenländern, wo der Anteil bei rund 75 Prozent lag. In Stadtstaaten betrug dieser Anteil knapp 60 Prozent.",TRUE,"plotted, new data available",TRUE,TRUE,,,,"Statistisches Bundesamt (2017), Ergebnisse des Mikrozensus 2015. ",
+08-01-c,Familien- und Lebensformen in Deutschland 2015,Bar,08/01/facets.csv,"{
+  ""filter"": ""datum.facet == 'Erwachsene' && datum.year ==  '2015'"",
   ""numberFormat"": ""%"",
   ""y"": ""facet"",
   ""color"": ""category"",
   ""colorLegend"": true
-}",,"plotted, new data available",FALSE,FALSE,,,,"Statistisches Bundesamt, Mikrozensus.",
-08-02-a,"Anteil der Personen, die angeben, Hilfe durch andere erhalten zu können 2013 ",Bar,08/02/facets.csv,"{
+}",Die Abbildung zeigt die Familien- und Lebensformen in Deutschland im Jahr 2015. 56 Prozent der Menschen in Deutschland lebten mit einem Ehepartner oder einer Ehepartnerin zusammen. Knapp 34 Prozent lebten ohne einen Partner. Rund sechs Prozent der Menschen lebten in einer nicht ehelichen Lebensgemeinschaft. Deutlich weniger als ein Prozent aller Männer oder Frauen lebten mit ihrem Partner bzw. ihrer Partnerin in einer gleichgeschlechtlichen Lebensgemeinschaften oder in einer eingetragenen Lebenspartnerschaft.,TRUE,"plotted, new data available",FALSE,FALSE,,,,"Statistisches Bundesamt (2017), Ergebnisse des Mikrozensus 2015. ",
+08-02-a,"Anteil der Personen, die angeben, Hilfe durch andere erhalten zu können 2015 ",Bar,08/02/facets.csv,"{
   ""numberFormat"": ""%"",
   ""y"": ""facet"",
   ""domain"": [0, 1],
@@ -636,7 +639,7 @@ Sportstadion, Fernbahnhof."
   ""column"": ""category"",
   ""colorLegend"": true,
   ""highlight"": ""datum.facet == 'Insgesamt'""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, EU-SILC.",
+}","Die Abbildung zeigt den Anteil der Personen, die angeben, Hilfe durch andere erhalten zu können, im Jahr 2014. Differenziert wird zudem nach Alter, Erwerbsstatus und Geschlecht. In Deutschland sagten rund 97 Prozent der Bürgerinnen und Bürger, dass sie eine konkrete Bezugsperson haben, die sie um Hilfe bitten können, wenn es darauf ankommt. Lediglich drei Prozent sahen gar keine Möglichkeit, andere bei Bedarf um Hilfe zu fragen. Bei Männern und Frauen sowie in verschiedenen Altersgruppen zeigte sich ein weitgehend übereinstimmendes Bild. Unterschiede gab es allerdings mit Blick auf den Erwerbsstatus. Für Arbeitslose war es deutlich schwieriger, Freunde, Nachbarn oder Verwandte zu finden, die ihnen helfen.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt (2017), Ergebnisse von EU-SILC 2015.",
 08-03-a,Entwicklung des Anteils ehrenamtlich Engagierter insgesamt und nach Altersgruppen,Line,08/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Alter'"",
   ""numberFormat"": "".1%"",
@@ -648,7 +651,7 @@ Sportstadion, Fernbahnhof."
     {""title"": ""Nach Altersgruppen"", ""test"": ""datum.facet_value != 'Insgesamt'""}
   ],
   ""endLabel"": true
-}",,plotted,TRUE,TRUE,,,,Freiwilligensurveys 1999 bis 2014.,
+}","Die Abbildung zeigt die Entwicklung des Anteils ehrenamtlich Engagierter insgesamt und differenziert nach Altersgruppen für den Zeitraum von 1999 bis 2014. In diesem Zeitraum hat sich der Anteil ehrenamtlich Engagierter von 34 auf 43,6 Prozent erhöht. Der Anstieg zeigt sich über alle Altersgruppen. Besonders stark fiel der Zuwachs bei den Jüngsten und in der ältesten Altersgruppe aus. In der Altersgruppe der 14- bis 29- Jährigen hat sich der Anteil ehrenamtlich Engagierter von 35 auf fast 47 Prozent erhöht, bei den über 65-Jährigen von 23 auf 34 Prozent.",FALSE,plotted,TRUE,TRUE,,,,Freiwilligensurveys 1999 bis 2014.,
 08-03-b,Ehrenamtliches Engagement nach Einzelbereichen 2014 ,Bar,08/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Einzelbereichen' && (datum.year == '2014' || datum.year == '1999')"",
   ""column"": ""facet_value"",
@@ -658,14 +661,14 @@ Sportstadion, Fernbahnhof."
   ""color"": ""year"",
   ""minInnerWidth"": 270,
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,Freiwilligensurvey 2014.,
+}","Die Abbildung zeigt ehrenamtliches Engagement nach Einzelbereichen im Jahr 2014. Der Bereich Sport und Bewegung verzeichnet mit 16,3 Prozent den höchsten Anteil von Freiwilligen insgesamt. In den Bereichen ""Schule und Kindergarten"",  ""Kultur und Musik"" und im ""Sozialen Bereich""  engagieren sich jeweils rund 9 Prozent der Freiwilligen. Der Rest verteilt sich auf die Bereiche ""Justiz oder Kriminalitätsprobleme"", ""berufliche Interessenvertretung"", ""Gesundheitsbereich"",  ""Unfalldienst, Rettungsdienst, Freiwillige Feuerwehr"", ""Umwelt, Naturschutz oder Tierschutz"", ""Politik und politische Interessenvertretung"", ""Jugendarbeit, Bildungsarbeit für Erwachsene"", ""Freizeit und Geselligkeit"", ""kirchlicher oder religiöser Bereich"" und ""Sonstiger Bereich"".",FALSE,plotted,TRUE,TRUE,,,,Freiwilligensurvey 2014.,
 08-03-c,Ehrenamtlich Engagierte nach Art des Migrationshintergrundes 2014,Bar,08/03/migration-background.csv,"{
   ""color"": ""citizenship"",
   ""numberFormat"": ""%"",
   ""y"": ""category"",
   ""column"": ""citizenship""
-}",,plotted,TRUE,TRUE,,,,Freiwilligensurvey 2014.,
-08-04-a,Mitglieder in Sportvereinen nach Altersgruppen und Region 2015,Bar,08/04/regions.csv,"{
+}","Die Abbildung zeigt den Anteil ehrenamtlich Engagierter nach Art des Migrationshintergrundes im Jahr 2014. 31,5 Prozent der Migranten engagieren sich insgesamt ehrenamtlich. Menschen mit Migrationshintergrund bringen sich am aktivsten ein, wenn sie bereits in Deutschland geboren wurden und die deutsche Staatsangehörigkeit besitzen. Hier beträgt der Anteil ehrenamtlich Engagierter rund 43 Prozent. Bürgerinnen und Bürger, die nicht in Deutschland geboren wurden, vor allem aber Menschen ohne deutsche Staatsbürgerschaft, sind seltener ehrenamtlich aktiv. Hier beträgt der Anteil ehrenamtlich Engagierter nur rund 22 Prozent.",FALSE,plotted,TRUE,TRUE,,,,Freiwilligensurvey 2014.,
+08-04-a,Mitglieder in Sportvereinen nach Altersgruppen und Region 2016,Bar,08/04/regions.csv,"{
   ""color"": ""region"",
   ""numberFormat"": ""%"",
   ""y"": ""region"",
@@ -674,51 +677,52 @@ Sportstadion, Fernbahnhof."
   ""columnSort"": ""none"",
   ""columns"": 3,
   ""highlight"": ""datum.age == 'Insgesamt'""
-}",,plotted,TRUE,TRUE,,,,"Deutscher Olympischer Sportbund, Bestandserhebung 2015.",Ausgewiesen wird der Anteil der Mitglieder in den Sportvereinen der Landessportbünde an der jeweiligen Altersgruppe. Stand: 1. Januar 2015.
-08-04-b,Mitglieder in Sportvereinen nach Altersgruppen 2015,Bar,08/04/regions.csv,"{
+}","Die Abbildung zeigt den Anteil der Mitglieder in den Sportvereinen der Landessportbünde an der jeweiligen Altersgruppe im Jahr 2016. Differenziert wird zudem nach ost- und westdeutschen Bundesländern. Insgesamt drei von zehn Personen in der Bevölkerung Mitglied in einem Sportverein. Mit einem Anteil von rund 71 Prozent haben Kinder im Alter von 7 bis 14 Jahren die höchste Mitgliedsquote, gefolgt von der Altersgruppe der 15- bis 18-Jährigen mit einer Mitgliedsquote von rund 56 Prozent. Mit der Volljährigkeit gehen die Mitgliedschaften in Sportvereinen spürbar zurück. In den ostdeutschen Bundesländern sind etwas mehr als 15 Prozent der Menschen Mitglied in einem Sportverein, in den westdeutschen Bundesländern hingegen rund 31 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Deutscher Olympischer Sportbund (2016), Bestandserhebung 2016.",Ausgewiesen wird der Anteil der Mitglieder in den Sportvereinen der Landessportbünde an der jeweiligen Altersgruppe. Stand: 1. Januar 2015.
+08-04-b,Mitglieder in Sportvereinen nach Altersgruppen 2016,Bar,08/04/regions.csv,"{
   ""numberFormat"": ""%"",
   ""filter"": ""datum.region == 'Deutschland'"",
   ""y"": ""age"",
   ""sort"": ""none"",
   ""highlight"": ""datum.age == 'Insgesamt'""
-}",,plotted,FALSE,FALSE,,,,"Deutscher Olympischer Sportbund, Bestandserhebung 2015.",
-09-01-a,Entwicklung des Bruttoinlandsproduktes pro Kopf in Euro (preisbereinigt),Line,09/01/years.csv,"{
+}","Die Abbildung zeigt den Anteil der Mitglieder in den Sportvereinen der Landessportbünde an der jeweiligen Altersgruppe im Jahr 2016. Insgesamt ist etwa ein Drittel der Bevölkerung Mitglied in einem Sportverein. Mit einem Anteil von rund 71 Prozent haben Kinder im Alter von 7 bis 14 Jahren die höchste Mitgliedsquote, gefolgt von der Altersgruppe der 15- bis 18-Jährigen mit einer Mitgliedsquote von rund 56 Prozent. Mit der Volljährigkeit gehen die Mitgliedschaften in Sportvereinen deutlich zurück.",TRUE,plotted,FALSE,FALSE,,,,"Deutscher Olympischer Sportbund (2016), Bestandserhebung 2016.",
+09-01-a,"Entwicklung des Bruttoinlandsproduktes pro Kopf in Euro (preisbereinigt, Index 2010=100)",Line,09/01/years.csv,"{
   ""numberFormat"": ""s""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+}",Die Abbildung zeigt die Entwicklung des realen Bruttoinlandsproduktes pro Kopf im Zeitraum von 1991 bis 2016. In diesem Zeitraum hat sich das reale Bruttoinlandsprodukt pro Kopf von knapp 25.500 auf rund 34.360 Euro erhöht.,TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt (2017), Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
 09-02-a,Entwicklung der Bruttoanlageinvestitionen in Prozent des BIP,Line,09/02/sectors.csv,"{
   ""filter"": ""datum.sector == 'gesamt'"",
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+}",Die Abbildung zeigt die Entwicklung der Bruttoanlageinvestitionen in Prozent des Bruttoinlandsproduktes im Zeitraum von 1991 bis 2016. Die Investitionsquote ist in diesem Zeitraum von knapp 25 auf 20 Prozent gesunken.,TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt (2017), Volkswirtschaftliche Gesamtrechnungen 2016, Fachserie 18, Reihe 1.4.",
 09-02-b,Entwicklung der Bruttoanlageinvestitionen in Prozent des BIP nach staatlichem und privatem Sektor,Line,09/02/sectors.csv,"{
   ""filter"": ""datum.sector != 'gesamt'"",
   ""numberFormat"": "".1%"",
   ""color"": ""sector""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+}","Die Abbildung zeigt die Entwicklung der Bruttoanlageinvestitionen in Prozent des Bruttoinlandsproduktes differenziert nach staatlichem und privatem Sektor im Zeitraum von 1991 bis 2016. Die Investitionsquote des privaten Sektor ist in diesem Zeitraum von etwa 22 auf knapp 18 Prozent gesunken, die Investitionsquote des staatlichen Sektor ist von etwa 3 auf rund 2 Prozent gesunken.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt (2017), Volkswirtschaftliche Gesamtrechnungen 2016, Fachserie 18, Reihe 1.4.",
 09-03-a,Entwicklung der Schuldenstandsquote,Line,09/03/years.csv,"{
   ""yAnnotations"": [
     {""value"": 0.6, ""label"": ""Maastricht-Referenzwert""}
   ]
-}",,plotted,TRUE,TRUE,,Bundesbank 2016.,https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Oeffentliche_Finanzen_in_Deutschland/oeffentliche_finanzen_in_deutschland_details_value_node.html?tsId=BBK01.BJ9959&listId=www_v27_web011_21a,Verschuldungen gemäß Maastricht-Vertrag – Deutschland – Gesamtstaat in % des BIP. ,Vorläufige Werte für 2014 und 2015. Stand 19.09.2016.
+}",Die Abbildung zeigt die Entwicklung der Schuldenstandsquote im Zeitraum von 1991 bis 2016. Zwischen 1991 und 2010 ist die Schuldenstandsquote von etwa 39 auf 81 Prozent gestiegen. Seit dem Höchststand im Jahr 2010 ist die Schuldenstandsquote gesunken und lag 2016 bei rund 68 Prozent. Damit befindet sich die Schuldenstandsquote aber immer noch über dem Maastricht-Referenzwert von 60 Prozent.,TRUE,plotted,TRUE,TRUE,,Bundesbank (2017).,https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Oeffentliche_Finanzen_in_Deutschland/oeffentliche_finanzen_in_deutschland_details_value_node.html?tsId=BBK01.BJ9959&listId=www_v27_web011_21a,Verschuldungen gemäß Maastricht-Vertrag – Deutschland – Gesamtstaat in % des BIP. ,Vorläufiger Wert für 2016. Stand 24 April 2017.
 09-04-a,Entwicklung der Ausgaben für Forschung und Entwicklung in Prozent des BIP,Line,09/04/fue.csv,"{
   ""color"": ""country"",
   ""numberFormat"": "".2%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Bundesministerium für Bildung und Forschung, Stifterverband-Wissenschaftsstatistik.",
-09-04-b,Entwicklung der Innovatorenquote,Line,09/04/inno.csv,,,plotted,FALSE,TRUE,,,,"Mannheimer Innovationspanel 2015, ZEW.
-",Mit der Einführung des Unternehmensregisters hat sich seit 2006 die Grundgesamtheit für die Stichprobenziehung der Unternehmen geändert.
-09-05-a,Entwicklung der Dauer von Unternehmensgründungen in Tagen,Line,09/05/days.csv,"{
+}","Die Abbildung zeigt die Entwicklung der Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes im Zeitraum von 1995 bis 2015. Die Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes sind in diesem Zeitraum von 2,2 auf knapp 3,0 Prozent gestiegen. Die deutschen Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes lagen im gesamten Zeitraum über dem OECD-Durchschnitt. Dieser betrug 2015 2,4 Prozent.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Bundesministerium für Bildung und Forschung, Stifterverband-Wissenschaftsstatistik. OECD (2017): Ausgaben für Forschung und Entwicklung in Prozent des BIP. doi: 10.1787/d8b068b4-en (Stand: Juni 2017).",
+09-04-b,Entwicklung der Innovatorenquote,Line,09/04/inno.csv,,Die Abbildung zeigt die Entwicklung der Innovatorenquote im Zeitraum von 1992 bis 2015. Sie ist von 53 auf 35 Prozent gesunken.,TRUE,plotted,FALSE,TRUE,,,,"Innovationsverhalten der deutschen Wirtschaft, Indikatorenbericht zur Innovationserhebung 2016 (ZEW, infas, Fraunhofer ISI).
+","Durch die Anwendung der neuen Wirtschaftszweigsystematik 2008, die Umstellung der Grundgesamtheitszahlen auf Angaben aus dem Unternehmensregister und Verbesserungen bei Imputations- und Hochrechnungsverfahren kommt es mit dem Berichtsjahr 2006 zu einem Bruch der Zeitreihe. Mit der Einführung des Unternehmensregisters hat sich seit 2006 die Grundgesamtheit für die Stichprobenziehung der Unternehmen geändert.
+"
+09-05-a,Dauer von Unternehmensgründungen in Tagen,Line,09/05/days.csv,"{
   ""unit"": ""Tage"",
   ""numberFormat"": "".1f""
-}",,plotted,TRUE,TRUE,,,,"EU-Kommission, Generaldirektion Wachstum, SME Performance Review.",
-09-05-b,Entwicklung der Kosten von Unternehmensgründungen in Euro,Line,09/05/costs.csv,"{
+}","Die Abbildung zeigt die Entwicklung der Dauer von Unternehmensgründungen im Zeitraum von 2007 bis 2016. 2007 und 2008 hat eine Unternehmensgründung in Deutschland durchschnittlich 6,5 Tage gedauert, im Jahr 2009 nur 4,5 Tage. Seit 2009 hat sich die Dauer von Unternehmensgründungen wieder erhöht und lag 2016 bei 6,9 Tagen.",TRUE,plotted,TRUE,TRUE,,,,"EU-Kommission, Generaldirektion Wachstum, SME Performance Review.",
+09-05-b,Kosten von Unternehmensgründungen in Euro,Line,09/05/costs.csv,"{
   ""numberFormat"": ""s""
-}",,plotted,TRUE,TRUE,,,,"EU-Kommission, Generaldirektion Wachstum, SME Performance Review.",
+}","Die Abbildung zeigt die Entwicklung der Kosten von Unternehmensgründungen im Zeitraum von 2007 bis 2015. 2007 und 2008 hat eine Unternehmensgründung in Deutschland durchschnittlich 783 Euro gekostet, im Jahr 2009 nur 166 Euro. Seit 2009 haben sich die Kosten von Unternehmensgründungen wieder erhöht und lagen 2016 bei 383 Euro.",TRUE,plotted,TRUE,TRUE,,,,"EU-Kommission, Generaldirektion Wachstum, SME Performance Review.",
 10-01-a,Entwicklung der Luftschadstoffe kombiniert (Index),Line,10/01/categories.csv,"{
   ""filter"": ""year(datum.year) >= 2000 && datum.category == 'Luftschadstoffe (+ PM<sub>2,5</sub>)'"",
   ""numberFormat"": "".2f"",
   ""yAnnotations"": [
     {""value"": 100, ""formattedValue"": ""100"", ""label"": """", ""dy"": ""1.1em"", ""x"": ""2005""}
   ]
-}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Basisjahr (Index=100) ist 2005.
+}","Die Abbildung zeigt die Entwicklung der Luftschadstoffe im Zeitraum von 2000 bis 2014. In diesem Zeitraum ist der Index von etwa 121 auf rund 84 gesunken. Das Basisjahr, in dem der Index den Wert 100 annimmt, ist 2005.",FALSE,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Basisjahr (Index=100) ist 2005.
 10-01-b,Entwicklung verschiedener Luftschadstoffe (Index),Line,10/01/categories.csv,"{
   ""filter"": ""year(datum.year) >= 2000 && datum.category != 'Luftschadstoffe (+ PM<sub>2,5</sub>)'"",
   ""numberFormat"": "".2f"",
@@ -729,25 +733,25 @@ Sportstadion, Fernbahnhof."
   ""yAnnotations"": [
     {""value"": 100, ""formattedValue"": ""100"", ""label"": """", ""dy"": ""1.1em"", ""x"": ""2005""}
   ]
-}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Basisjahr (Index=100) ist 2005.
+}","Die Abbildung zeigt die Entwicklung verschiedener Luftschadstoffe im Zeitraum von 2000 bis 2014. In diesem Zeitraum konnte für flüchtige organische Verbindungen ohne Methan, Stickstoffoxide, Feinstaub und Schwefeldioxid ein Rückgang erreicht werden. Bei Ammoniak kam es zu einem Anstieg des Index von 103 auf 109. Das Basisjahr, in dem der Index den Wert 100  annehmen, ist 2005.",FALSE,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Basisjahr (Index=100) ist 2005.
 10-01-c,Jahresmittelwerte der Stickstoffdioxidbelastung 2015,PointMap,10/01/no2-points.csv,"{
   ""filter"": ""datum.value != '-999'"",
   ""geotiff"": ""10-01-no2"",
   ""legendTitle"": ""NO₂ Jahresmittelwert in Mikrogramm pro Kubikmeter (µg/m³)"",
   ""thresholds"": [10, 20, 30, 40, 50, 60, 70, 80],
   ""colorRange"": [""#95da3f"", ""#74b917"", ""#5ca200"", ""#3f8800"", ""#f2bf18"", ""#d4a500"", ""#b68b00"", ""#987200"", ""#7b5900""]
-}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Jahresmittelwerte gemessen an den Messstationen der Luftmessnetze der Länder und des Umweltbundesamtes.
-10-01-d,Überschreitung bzw. Einhaltung des gesetzlichen Stickstoffdioxid-Grenzwerts 2015,DotPlot,10/01/no2-points.csv,,,"flagship, print export only",FALSE,TRUE,,,,Umweltbundesamt 2015.,Jahresmittelwerte gemessen an den Messstationen der Luftmessnetze der Länder und des Umweltbundesamtes. Messstationen im so genannten Hintergrund stehen nicht in der näheren Umgebung eines Industriebetriebs und auch an nicht an einer viel befahrenen Straße. 
+}",Die Abbildung zeigt auf einer Deutschland-Karte die Jahresmittelwerte der Stickstoffbelastung an den Messstationen der Luftmessnetze der Länder und des Bundesumweltamtes im Jahr 2015. Die Spanne reicht von 3 bis 87 Mikrogramm pro Kubikmeter.,FALSE,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Jahresmittelwerte gemessen an den Messstationen der Luftmessnetze der Länder und des Umweltbundesamtes.
+10-01-d,Überschreitung bzw. Einhaltung des gesetzlichen Stickstoffdioxid-Grenzwerts 2015,DotPlot,10/01/no2-points.csv,,"Die Abbildung zeigt auf einer Deutschland-Karte an welchen Messstationen der gesetzlich festgelegte Stickstoffdioxid-Grenzwert von 40 Mikrogramm pro Kubikmeter im Jahr 2015 überschritten bzw. eingehalten wurde. 2015 wurde der Grenzwert an 27 Prozent der Messstationen überschritten. Unterschieden wird zwischen verkehrsnahen Messstationen, Stationen in der näheren Umgebung von Industrieanlagen und Messstationen im Hintergrund. Alle Überschreitungen des Stickstoffdioxid-Jahresgrenzwertes traten in verkehrsnahen Stationen auf.",FALSE,"flagship, print export only",FALSE,TRUE,,,,Umweltbundesamt 2015.,Jahresmittelwerte gemessen an den Messstationen der Luftmessnetze der Länder und des Umweltbundesamtes. Messstationen im so genannten Hintergrund stehen nicht in der näheren Umgebung eines Industriebetriebs und auch an nicht an einer viel befahrenen Straße. 
 10-01-e,Stickstoffdioxid (NO<sub>2</sub>) im EU-Vergleich 2013,BoxPlot,10/01/eu-categories.csv,"{
   ""filter"": ""datum.category == 'NO2'"",
   ""highlight"": ""datum.country == 'Deutschland'"",
   ""label"": ""country""
-}",,plotted,TRUE,TRUE,,,,Europäische Umweltagentur.,
+}","Die Abbildung zeigt einen EU-Vergleich der Stickstoffdioxidbelastung im Jahr 2013. Im europäischen Vergleich liegt Deutschland im hinteren Drittel, ähnlich wie Schweden und Italien. Finnland, Estland und Luxemburg belegen die ersten Ränge.",FALSE,plotted,TRUE,TRUE,,,,Europäische Umweltagentur.,
 10-01-f,"Feinstaub (PM<sub>2,5</sub>) im EU-Vergleich 2013",BoxPlot,10/01/eu-categories.csv,"{
   ""filter"": ""datum.category == 'PM2.5'"",
   ""highlight"": ""datum.country == 'Deutschland'"",
   ""label"": ""country""
-}",,plotted,TRUE,TRUE,,,,Europäische Umweltagentur.,
+}","Die Abbildung zeigt einen EU-Vergleich der Feinstaubbelastung im Jahr 2013. Deutschland liegt im Mittelfeld, ähnlich wie die Niederlande und Frankreich. Schweden, Estland und Finnland belegen die ersten Ränge, Kroatien und Polen die letzten.",FALSE,plotted,TRUE,TRUE,,,,Europäische Umweltagentur.,
 10-02-a,Entwicklung der Artenvielfalt und Landschaftsqualität aggregiert ,TimeBar,10/02/categories.csv,"{
   ""filter"": ""datum.facet == 'Gesamtindikator'"",
   ""numberFormat"": "".1f"",
@@ -761,30 +765,31 @@ Sportstadion, Fernbahnhof."
     {""x"": ""1975"", ""value"": 101.3745362439},
     {""x"": ""2013"", ""value"": 68.5}
   ]
-}",,plotted,TRUE,TRUE,,,,Bundesamt für Naturschutz 2015.,Abbildung enthält auch rekonstruierte historische Werte.
+}","Die Abbildung zeigt die Entwicklung der Artenvielfalt und Landschaftsqualität im Zeitraum von 1970 bis 2013. Ziel ist es, einen Wert von 100 zu erreichen. Der Indikator ist in diesem Zeitraum von 106,9 auf 68,5 gesunken.",FALSE,plotted,TRUE,TRUE,,,,Bundesamt für Naturschutz 2015.,Abbildung enthält auch rekonstruierte historische Werte.
 10-02-b,"Entwicklung der Artenvielfalt und Landschaftsqualität, aggregiert und Teilindikatoren",Slope,10/02/categories.csv,"{
   ""filter"": ""datum.year == 1990 || datum.year == 2013"",
   ""color"": ""facet_value"",
   ""column"": ""facet"",
   ""numberFormat"": "".1f"",
   ""endLabel"": true
-}",,plotted,TRUE,TRUE,,,,Bundesamt für Naturschutz 2015.,
-10-03-a,Entwicklung der Energieproduktivität (preisbereinigtes BIP je Einheit Primärenergieverbrauch),Line,10/03/years.csv,"{
+}","Die Abbildung zeigt die Entwicklung der Artenvielfalt und Landschaftsqualität insgesamt und in den fünf Teilindikatoren. Zwischen 1990 und 2013 ist der Gesamtindikator von 76,5 auf 68,5 gesunken. Auch die Teilindikatoren ""Siedlungen"", ""Agrarland"" sowie ""Küsten und Meere"" haben sich zwischen 1990 und 2013 verschlechtert. Die Teilindikatoren ""Wälder"" und ""Binnengewässer"" haben sich hingegen verbessert und sind von 81,6 auf 86,9 bzw. von 64,1 auf 71,9 gestiegen.",FALSE,plotted,TRUE,TRUE,,,,Bundesamt für Naturschutz 2015.,
+10-03-a,"Entwicklung der Energieproduktivität (preisbereinigtes BIP (2010) je Einheit Primärenergieverbrauch) 
+",Line,10/03/years.csv,"{
   ""x"": ""year"",
   ""y"": ""value"",
   ""numberFormat"": "".2f""
-}",,plotted,TRUE,TRUE,,,,Arbeitsgemeinschaft Energiebilanzen e.V. und Statistisches Bundesamt.,Basisjahr (Index=100) ist 1990.
+}","Die Abbildung zeigt die Entwicklung der Energieproduktivität im Zeitraum von 1990 bis 2016. Im Vergleich zum Basisjahr 1990, in dem der Indikator einen Wert von 100 annimmt, hat sich die Energieproduktivität deutlich erhöht und erreichte 2016 einen Wert von rund 163.",TRUE,plotted,TRUE,TRUE,,,,Arbeitsgemeinschaft Energiebilanzen e.V. und Statistisches Bundesamt.,Basisjahr (Index=100) ist 1990.
 11-01-a,Entwicklung der Wahlbeteiligung bei Bundestagswahlen in Prozent aller Wahlberechtigten,Line,11/01/federation.csv,"{
   ""color"": ""region"",
   ""numberFormat"": "".1%""
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",Bis 1987 Wahlbeteiligung nur für die westdeutschen Bundesländer und Berlin-West.
+}","Die Abbildung zeigt die Entwicklung der Wahlbeteiligung bei Bundestagswahlen im Zeitraum von 1949 bis 2013. Ausgehend von einer hohen Wahlbeteiligung bis in die 1980er Jahre ist die Wahlbeteiligung seit der Bundestagswahl 1987 gesunken. 2009 erreichte sie mit 70,8 Prozent ihren bisherigen Tiefstand. Bei der Bundestagswahl 2013 lag sie bei 71,5 Prozent insgesamt und bei 72,4 Prozent in den westdeutschen Bundesländern und bei 67,6 Prozent in den ostdeutschen Bundesländern.",FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",Bis 1987 Wahlbeteiligung nur für die westdeutschen Bundesländer und Berlin-West.
 11-01-b,Wahlbeteiligung bei den jeweils letzten und vorletzten Landtagswahlen in Prozent aller Wahlberechtigten,Slope,11/01/states.csv,"{
   ""column"": ""state"",
   ""color"": ""state"",
   ""x"": ""election"",
   ""xSort"": ""none""
-}",,plotted,FALSE,FALSE,,,,"Statistisches Bundesamt, Wahlen. ",
-11-01-c,Entwicklung der Wahlbeteiligung bei Europawahlen in Deutschland in Prozent aller Wahlberechtigten,Line,11/01/eu.csv,{},,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",
+}",-,TRUE,plotted,FALSE,FALSE,,,,"Statistisches Bundesamt, Wahlen. ",
+11-01-c,Entwicklung der Wahlbeteiligung bei Europawahlen in Deutschland in Prozent aller Wahlberechtigten,Line,11/01/eu.csv,{},Die Abbildung zeigt die Entwicklung der Wahlbeteiligung bei Europawahlen in Deutschland im Zeitraum von 1997 bis 2014. Sie ist von 66 auf 48 Prozent gesunken.,FALSE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",
 11-01-d,Wahlbeteiligung bei den jeweils letzten und vorletzten Landtagswahlen in Prozent aller Wahlberechtigten,Slope,11/01/states.csv,"{
   ""xScale"": ""time"",
   ""endLabel"": true,
@@ -792,13 +797,13 @@ Sportstadion, Fernbahnhof."
   ""columnSort"": ""none"",
   ""color"": ""state"",
   ""minWidth"": 120,
-  ""xTicks"": [""2006"", ""2011"", ""2016""],
+  ""xTicks"": [""2006"", ""2011"", ""2017""],
   ""columnFilter"": [
-    {""title"": ""Gestiegen"", ""test"": ""indexof(['Baden-Württemberg', 'Bayern', 'Hessen', 'Rheinland-Pfalz', 'Sachsen-Anhalt'], datum.state) > -1""},
-    {""title"": ""Stagniert"", ""test"": ""indexof(['Berlin', 'Hamburg', 'Nordrhein-Westfalen', 'Niedersachsen'], datum.state) > -1""},
-    {""title"": ""Gesunken"", ""test"": ""indexof(['Brandenburg', 'Bremen', 'Mecklenburg-Vorpommern', 'Saarland', 'Sachsen', 'Schleswig-Holstein', 'Thüringen'], datum.state) > -1""}
+    {""title"": ""Gestiegen"", ""test"": ""indexof(['Baden-Württemberg', 'Bayern', 'Hessen', 'Mecklenburg-Vorpommern', 'Rheinland-Pfalz', 'Sachsen-Anhalt', 'Saarland', 'Nordrhein-Westfalen', 'Sachsen-Anhalt', 'Berlin', 'Schleswig-Holstein'], datum.state) > -1""},
+    {""title"": ""Stagniert"", ""test"": ""indexof(['Hamburg', 'Niedersachsen'], datum.state) > -1""},
+    {""title"": ""Gesunken"", ""test"": ""indexof(['Brandenburg', 'Bremen', 'Sachsen', 'Thüringen'], datum.state) > -1""}
   ]
-}",,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen. ",
+}","Die Abbildung zeigt die Wahlbeteiligung bei den jeweils letzten und vorletzten Landtagswahlen in Prozent aller Wahlberechtigten. In Hessen, Baden-Württemberg, Rheinland-Pfalz, Bayern, Berlin, Saarland, Sachsen-Anhalt, Mecklenburg-Vorpommern, Schleswig-Holstein und Nordrhein-Westfalen ist die Wahlbeteiligung gestiegen. In diesen Ländern lag die Wahlbeteiligung bei den letzten Landtagswahlen zwischen 61 Prozent in Sachsen-Anhalt und 73 Prozent in Hessen. In Thüringen, Bremen, Sachsen und Brandenburg ist sie gesunken und lag zwischen 48 Prozent in Brandenburg und 53 Prozent in Thüringen. In Niedersachsen und Hamburg hat sie sich kaum verändert und lag bei 56 Prozent in Hamburg und 59 Prozent in Niedersachsen.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Wahlen, Datenstand: 7. Juni 2017. ",
 11-02-a,Wahrgenommene Einflussmöglichkeit der Bürgerinnen und Bürger auf Politik 2014,Bar,11/02/facets.csv,"{
   ""numberFormat"": ""%"",
   ""color"": ""answer"",
@@ -810,28 +815,31 @@ Sportstadion, Fernbahnhof."
   ""column"": ""category"",
   ""columnSort"": ""none"",
   ""highlight"": ""datum.facet == 'Insgesamt'""
-}",,plotted,TRUE,TRUE,,,,European Social Survey.,
+}","Die Abbildung zeigt die wahrgenommenen Einflussmöglichkeiten der Bürgerinnen und Bürger auf Politik im Jahr 2014. Differenziert wird dabei nach west- und ostdeutschen Bundesländern sowie nach Bildungsniveau. Insgesamt sagten rund 46 Prozent der Befragten, dass sie keinen oder nur sehr geringen Einfluss auf politische Entscheidungen haben. Nur 19 Prozent schätzen den Einfluss auf politische Entscheidungen als stark ein. In den ostdeutschen Bundesländern schätzen die Bürgerinnen und Bürger ihre Einflussmöglichkeiten als geringer ein als in den westdeutschen Bundesländern. Menschen mit einem höheren Bildungsabschluss schätzten ihre Mitwirkungschancen optimistischer ein.",FALSE,plotted,TRUE,TRUE,,,,European Social Survey.,
 11-03-a,Entwicklung von acht ausgewählten freiheitsbezogenen Grundrechten in Deutschland,Slope,11/03/categories.csv,"{
-  ""filter"": ""datum.year != '2014'"",
   ""height"": 310,
   ""color"": ""category"",
   ""numberFormat"": "".2f"",
   ""zero"": false,
   ""endLabel"": true,
   ""columns"": 1
-}",,plotted,TRUE,TRUE,,World Justice Project.,http://worldjusticeproject.org/historical-data,,
-12-01-a,"Entwicklung der globalen Treibhausgas-Emissionen (in Milliarden Tonnen CO<sub>2</sub>eq pro Jahr)
+}","Die Abbildung zeigt acht ausgewählte Grundrechte in den Jahren 2012/2013 und 2016. Die acht ausgewählten Grundrechte sind: Versammlungsfreiheit, Recht auf Leben und körperliche Unversehrtheit, Meinungsfreiheit, Grundprinzipien der Kernarbeitsnormen, Religions- und Glaubensfreiheit, Recht auf Privatsphäre, Sicherstellung rechtsstaatlicher Verfahren und Gleichbehandlung. Gemessen werden die Grundrechte auf einer Skala von 0 bis 1, wobei 1  den Optimal-Zustand darstellt. Sieben der Grundrechte und der Gesamtindex sind im Betrachtungszeitraum gestiegen und haben 2016 Werte zwischen 0,81 und 0,93 angenommen. Nur das Grundrecht auf Gleichbehandlung blieb zwischen 2012/2013 und 2016 nahezu unverändert.",TRUE,plotted,TRUE,TRUE,,World Justice Project.,http://worldjusticeproject.org/historical-data,Rule of Law Index 2016. ,
+12-01-a,"Entwicklung der globalen Treibhausgas-Emissionen (in Milliarden Tonnen CO<sub>2eq</sub> pro Jahr)
 ",Slope,12/01/global.csv,"{
   ""filter"": ""datum.category == 'GHG' && (datum.year == 1990 || datum.year == 2012)"",
   ""numberFormat"": ""s"",
   ""unit"": ""Tonnen"",
   ""columns"": 1
-}",,plotted,TRUE,TRUE,,,,Edgar JRC/PBL und FAOSTAT.,
+}","Die Abbildung zeigt die globalen Treibhausgas-Emissionen in den Jahren 1990 und 2012. Die globalen Treibhausgas-Emissionen lagen im Jahr 1990 bei 37,2 Milliarden Tonnen CO2-Äquivalente. Im Jahr 2012 betrugen sie 50,8 Milliarden Tonnen CO2-Äquivalente.",FALSE,plotted,TRUE,TRUE,,,,"Janssens-Maenhout, G., Crippa, M., Guizzardi, D., Muntean, M., Schaaf, 
+E., Dentener, F., Bergamaschi, P., Pagliari, V., Olivier, J.G.J., 
+Peters, J.A.H.W., van Aardenne, J.A., Monni, S., Doering, U., Petrescu, 
+A.M.R. (2017), The 1970-2012 emissions atlas of EDGARv4.3.2: Part I – 
+Greenhouse gas emissions, Earth System Science Data.",
 12-01-b,Entwicklung der globalen CO<sub>2</sub>-Emissionen (in Milliarden Tonnen pro Jahr),Line,12/01/global.csv,"{
   ""filter"": ""datum.category == 'CO2'"",
   ""numberFormat"": ""s"",
   ""unit"": ""Tonnen""
-}",,plotted,TRUE,TRUE,,,,Edgar JRC/PBL.,"Der Edgar-Datensatz zu CO<sub>2</sub>-Emissionen enthält keine Emissionen aus CO<sub>2</sub>-neutraler Bioenergie und aus Landnutzungsveränderung oder Bränden von Wäldern, Mooren, usw."
+}","Die Abbildung zeigt die Entwicklung der globalen CO2-Emissionen im Zeitraum von 1990 bis 2015. Die globalen CO2-Emissionen haben sich in diesem Zeitraum von 22,67 auf 36,25 Milliarden Tonnen erhöht.",TRUE,plotted,TRUE,TRUE,,,,"Olivier, J.G.J., G. Janssens-Maenhout, M. Muntean, and J.A.H.W. Peters (2016): Trends in global CO2 emissions: 2016 Report, JRC 103428, PBL2315.  ","Der Edgar-Datensatz zu CO<sub>2</sub>-Emissionen enthält keine Emissionen aus CO<sub>2</sub>-neutraler Bioenergie und aus Landnutzungsveränderung oder Bränden von Wäldern, Mooren, usw."
 12-01-c,Entwicklung der Treibhausgas-Emissionen in Deutschland (in Millionen Tonnen CO<sub>2</sub>eq pro Jahr),TimeBar,12/01/germany.csv,"{
   ""color"": ""gas"",
   ""unit"": ""Tonnen"",
@@ -842,7 +850,10 @@ Sportstadion, Fernbahnhof."
     {""x"": ""2050"", ""value"": 249600000, ""label"": ""Ziel 2050"", ""valuePrefix"": ""max: "", ""ghost"": true}
   ],
   ""padding"": 55
-}",,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,"*ohne Kohlendioxid aus Landnutzung, Landnutzungsänderungen und Forstwirtschaft"
+}","Die Abbildung zeigt die Entwicklung der Treibhausgas-Emissionen in Deutschland im Zeitraum von 1990 bis 2015. Die Treibhausgas-Emissionen in Deutschland sind in diesem Zeitraum von rund 1.200 auf 908 Millionen Tonnen CO2-Äquivalente gesunken. Bis 2020 sollen die Treibhausgas-Emissionen auf 749 Millionen Tonnen sinken, bis 2050 auf 250 Millionen Tonnen.",FALSE,plotted,TRUE,TRUE,,,,"Umweltbundesamt, Nationale Treibhausgas-Inventare 1990 bis 2015 (Stand 02/2017) und Schätzung für 2016 (Stand 03/2017).","*ohne Kohlendioxid aus Landnutzung, Landnutzungsänderungen und Forstwirtschaft"
 12-02-a,Entwicklung des Anteils der öffentlichen Ausgaben für Entwicklungszusammenarbeit am Bruttonationaleinkommen (ODA-Quote),Line,12/02/values.csv,"{
   ""numberFormat"": "".2%""
-}",,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/oda/net-oda.htm,Net ODA indicator.,Werte für 2015 sind vorläufig.
+}","Die Abbildung zeigt die Entwicklung des Anteils der Ausgaben für Entwicklungszusammenarbeit am Bruttonationaleinkommen im Zeitraum von 1960 bis 2016. Er hat sich von 0,31 auf 0,7 Prozent erhöht.",TRUE,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/oda/net-oda.htm,Net ODA indicator.,Werte für 2016 sind vorläufig.
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,"How to cite: Janssens-Maenhout, G., Crippa, M., Guizzardi, D., Muntean, M., Schaaf, E., Dentener, F., Bergamaschi, P., Pagliari, V., Olivier, J.G.J., Peters, J.A.H.W., van Aardenne, J.A., Monni, S., Doering, U., Petrescu, A.M.R. (2017), The 1970-2012 emissions atlas of EDGARv4.3.2: Part I – Greenhouse gas emissions, J. Earth Syst. Science Data",

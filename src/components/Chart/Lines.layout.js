@@ -8,8 +8,8 @@ import subsup from 'utils/subsup';
 
 // import {valueFont, labelFont} from './Lines';
 import {sansBold12 as VALUE_FONT} from 'theme/typeface';
-export {sansBold12 as VALUE_FONT} from 'theme/typeface';
 import {sansRegular12 as LABEL_FONT} from 'theme/typeface';
+export {sansBold12 as VALUE_FONT} from 'theme/typeface';
 export {sansRegular12 as LABEL_FONT} from 'theme/typeface';
 
 const datumExpr = vgExpr.compiler(['datum']);
@@ -42,7 +42,7 @@ export default (props) => {
   if (props.xScale === 'time') {
     xParser = timeParse(props.timeParse);
   }
-  data = data.filter(d => d.value.length > 0).map(d => ({
+  data = data.filter(d => d.value && d.value.length > 0).map(d => ({
     datum: d,
     x: xParser(d[props.x]),
     value: +d.value

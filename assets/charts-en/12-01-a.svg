@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="438" style="height:438px;width:640px;">
+    <desc style="">
+        The chart shows global greenhouse gas emissions in the years 1990 and 2012. In 1990, global greenhouse gas emissions stood at 37.2 billion tonnes of CO2 equivalents. In 2012, they stood at 50.8 billion tonnes of CO2 equivalents.
+    </desc>
     <g transform="translate(47,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -17,17 +19,17 @@
             </g>
             <g style="">
                 <g style="">
-                    <line x1="-4" x2="-10" y1="115.19268783320001" y2="115.19268783320001" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="-14" y="115.19268783320001" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:33.296875px;fill:#666666;text-anchor:end;">
-                        37,20b
+                    <line x1="-4" x2="-10" y1="114.76802542520002" y2="114.76802542520002" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="114.76802542520002" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:33.21875px;fill:#666666;text-anchor:end;">
+                        37.31b
                     </text>
                 </g>
-                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,115.19268783320001L545,64.40693256639997" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
+                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,114.76802542520002L545,60.87425710279999" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="549" x2="555" y1="64.40693256639997" y2="64.40693256639997" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="559" y="64.40693256639997" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:33.296875px;fill:#666666;">
+                    <line x1="549" x2="555" y1="60.87425710279999" y2="60.87425710279999" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="559" y="60.87425710279999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:33.21875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            49,90b
+                            50.78b
                         </tspan>
                     </text>
                 </g>
@@ -52,16 +54,20 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="150" style="display:block;height:150px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:150px;width:640px;">
+            <div style="display:block;height:150px;width:640px;">
                 <div style="display:block;height:0px;padding-left:47px;padding-right:47px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Edgar JRC/PBL and FAOSTAT.
+                <div style="display:block;height:150px;width:640px;">
+                    <div style="clear:both;display:block;height:150px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:150px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:126px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Janssens-Maenhout, G., Crippa, M., Guizzardi, D., Muntean, M., Schaaf, 
+E., Dentener, F., Bergamaschi, P., Pagliari, V., Olivier, J.G.J., 
+Peters, J.A.H.W., van Aardenne, J.A., Monni, S., Doering, U., Petrescu, 
+A.M.R. (2017), The 1970-2012 emissions atlas of EDGARv4.3.2: Part I – 
+Greenhouse gas emissions, Earth System Science Data.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

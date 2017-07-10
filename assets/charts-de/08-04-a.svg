@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="629" style="height:629px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="665" style="height:665px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt den Anteil der Mitglieder in den Sportvereinen der Landessportbünde an der jeweiligen Altersgruppe im Jahr 2016. Differenziert wird zudem nach ost- und westdeutschen Bundesländern. Insgesamt drei von zehn Personen in der Bevölkerung Mitglied in einem Sportverein. Mit einem Anteil von rund 71 Prozent haben Kinder im Alter von 7 bis 14 Jahren die höchste Mitgliedsquote, gefolgt von der Altersgruppe der 15- bis 18-Jährigen mit einer Mitgliedsquote von rund 56 Prozent. Mit der Volljährigkeit gehen die Mitgliedschaften in Sportvereinen spürbar zurück. In den ostdeutschen Bundesländern sind etwas mehr als 15 Prozent der Menschen Mitglied in einem Sportverein, in den westdeutschen Bundesländern hingegen rund 31 Prozent.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:60.953125px;fill:#666666;">
             Insgesamt
@@ -25,7 +27,7 @@
                 Ostdeutsche Bundesländer
             </text>
             <g transform="translate(0,155)" style="">
-                <rect x="0" fill="#00849e" width="39" height="24" style="fill:#00849e;"/>
+                <rect x="0" fill="#00849e" width="40" height="24" style="fill:#00849e;"/>
             </g>
         </g>
         <g transform="translate(0,187)" style="">
@@ -62,7 +64,7 @@
                 Deutschland
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#2aaec9" width="65" height="16" style="fill:#2aaec9;"/>
+                <rect x="0" fill="#2aaec9" width="63" height="16" style="fill:#2aaec9;"/>
             </g>
         </g>
         <g style="">
@@ -70,7 +72,7 @@
                 Westdeutsche Bundesländer
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#00526b" width="70" height="16" style="fill:#00526b;"/>
+                <rect x="0" fill="#00526b" width="68" height="16" style="fill:#00526b;"/>
             </g>
         </g>
         <g style="">
@@ -78,7 +80,7 @@
                 Ostdeutsche Bundesländer
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#00849e" width="35" height="16" style="fill:#00849e;"/>
+                <rect x="0" fill="#00849e" width="34" height="16" style="fill:#00849e;"/>
             </g>
         </g>
         <g transform="translate(0,187)" style="">
@@ -107,15 +109,15 @@
         </g>
     </g>
     <g transform="translate(438,0)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:62.265625px;fill:#666666;">
-            7–14 Jahre
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:60.21875px;fill:#666666;">
+            7-14 Jahre
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:61.5625px;fill:#666666;">
                 Deutschland
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#2aaec9" width="182" height="16" style="fill:#2aaec9;"/>
+                <rect x="0" fill="#2aaec9" width="179" height="16" style="fill:#2aaec9;"/>
             </g>
         </g>
         <g style="">
@@ -123,7 +125,7 @@
                 Westdeutsche Bundesländer
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#00526b" width="192" height="16" style="fill:#00526b;"/>
+                <rect x="0" fill="#00526b" width="189" height="16" style="fill:#00526b;"/>
             </g>
         </g>
         <g style="">
@@ -131,7 +133,7 @@
                 Ostdeutsche Bundesländer
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#00849e" width="116" height="16" style="fill:#00849e;"/>
+                <rect x="0" fill="#00849e" width="115" height="16" style="fill:#00849e;"/>
             </g>
         </g>
         <g transform="translate(0,187)" style="">
@@ -160,15 +162,15 @@
         </g>
     </g>
     <g transform="translate(0,209)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:69.265625px;fill:#666666;">
-            15–18 Jahre
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:67.21875px;fill:#666666;">
+            15-18 Jahre
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:61.5625px;fill:#666666;">
                 Deutschland
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#2aaec9" width="144" height="16" style="fill:#2aaec9;"/>
+                <rect x="0" fill="#2aaec9" width="142" height="16" style="fill:#2aaec9;"/>
             </g>
         </g>
         <g style="">
@@ -176,7 +178,7 @@
                 Westdeutsche Bundesländer
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#00526b" width="151" height="16" style="fill:#00526b;"/>
+                <rect x="0" fill="#00526b" width="149" height="16" style="fill:#00526b;"/>
             </g>
         </g>
         <g style="">
@@ -184,7 +186,7 @@
                 Ostdeutsche Bundesländer
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#00849e" width="88" height="16" style="fill:#00849e;"/>
+                <rect x="0" fill="#00849e" width="86" height="16" style="fill:#00849e;"/>
             </g>
         </g>
         <g transform="translate(0,149)" style="">
@@ -213,15 +215,15 @@
         </g>
     </g>
     <g transform="translate(219,209)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:69.265625px;fill:#666666;">
-            19–26 Jahre
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:67.21875px;fill:#666666;">
+            19-26 Jahre
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:61.5625px;fill:#666666;">
                 Deutschland
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#2aaec9" width="83" height="16" style="fill:#2aaec9;"/>
+                <rect x="0" fill="#2aaec9" width="82" height="16" style="fill:#2aaec9;"/>
             </g>
         </g>
         <g style="">
@@ -229,7 +231,7 @@
                 Westdeutsche Bundesländer
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#00526b" width="88" height="16" style="fill:#00526b;"/>
+                <rect x="0" fill="#00526b" width="86" height="16" style="fill:#00526b;"/>
             </g>
         </g>
         <g style="">
@@ -237,7 +239,7 @@
                 Ostdeutsche Bundesländer
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#00849e" width="47" height="16" style="fill:#00849e;"/>
+                <rect x="0" fill="#00849e" width="46" height="16" style="fill:#00849e;"/>
             </g>
         </g>
         <g transform="translate(0,149)" style="">
@@ -266,15 +268,15 @@
         </g>
     </g>
     <g transform="translate(438,209)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:69.265625px;fill:#666666;">
-            27–40 Jahre
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:67.21875px;fill:#666666;">
+            27-40 Jahre
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:61.5625px;fill:#666666;">
                 Deutschland
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#2aaec9" width="61" height="16" style="fill:#2aaec9;"/>
+                <rect x="0" fill="#2aaec9" width="60" height="16" style="fill:#2aaec9;"/>
             </g>
         </g>
         <g style="">
@@ -282,7 +284,7 @@
                 Westdeutsche Bundesländer
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#00526b" width="65" height="16" style="fill:#00526b;"/>
+                <rect x="0" fill="#00526b" width="64" height="16" style="fill:#00526b;"/>
             </g>
         </g>
         <g style="">
@@ -290,7 +292,7 @@
                 Ostdeutsche Bundesländer
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#00849e" width="37" height="16" style="fill:#00849e;"/>
+                <rect x="0" fill="#00849e" width="38" height="16" style="fill:#00849e;"/>
             </g>
         </g>
         <g transform="translate(0,149)" style="">
@@ -319,8 +321,8 @@
         </g>
     </g>
     <g transform="translate(0,380)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:69.265625px;fill:#666666;">
-            41–60 Jahre
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:67.21875px;fill:#666666;">
+            41-60 Jahre
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:61.5625px;fill:#666666;">
@@ -335,7 +337,7 @@
                 Westdeutsche Bundesländer
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#00526b" width="72" height="16" style="fill:#00526b;"/>
+                <rect x="0" fill="#00526b" width="71" height="16" style="fill:#00526b;"/>
             </g>
         </g>
         <g style="">
@@ -343,7 +345,7 @@
                 Ostdeutsche Bundesländer
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#00849e" width="34" height="16" style="fill:#00849e;"/>
+                <rect x="0" fill="#00849e" width="35" height="16" style="fill:#00849e;"/>
             </g>
         </g>
         <g transform="translate(0,149)" style="">
@@ -396,7 +398,7 @@
                 Ostdeutsche Bundesländer
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#00849e" width="24" height="16" style="fill:#00849e;"/>
+                <rect x="0" fill="#00849e" width="25" height="16" style="fill:#00849e;"/>
             </g>
         </g>
         <g transform="translate(0,149)" style="">
@@ -424,14 +426,19 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="551" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Deutscher Olympischer Sportbund, Bestandserhebung 2015.
+    <foreignObject x="0" y="551" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Deutscher Olympischer Sportbund (2016), Bestandserhebung 2016.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

@@ -1,6 +1,7 @@
+import PropTypes from 'prop-types';
 /* eslint-disable react/no-multi-comp */
 
-import React, {Component, PropTypes} from 'react';
+import React, { Component } from 'react';
 import {StyleSheet, css} from 'aphrodite';
 import {Link} from 'react-router';
 
@@ -246,7 +247,7 @@ const stageStyles = {
 
     ...cardPosition('01', -130, -250),
     ...cardPosition('02', 10, -150),
-    ...cardPosition('03', -170, -110),
+    ...cardPosition('03', -170, -140),
     ...cardPosition('04', -40, -35),
     ...cardPosition('05', -130, 50),
 
@@ -292,7 +293,7 @@ const stageStyles = {
 
     ...cardPosition('01', -130 - 135, -250),
     ...cardPosition('02', 10 - 135, -150),
-    ...cardPosition('03', -170 - 135, -110),
+    ...cardPosition('03', -170 - 135, -140),
     ...cardPosition('04', -40 - 135, -35),
     ...cardPosition('05', -130 - 135, 50),
 
@@ -342,7 +343,7 @@ const stageStyles = {
 
     ...cardPosition('01', -130 - 290, -250),
     ...cardPosition('02', 10 - 290, -150),
-    ...cardPosition('03', -170 - 290, -110),
+    ...cardPosition('03', -170 - 290, -140),
     ...cardPosition('04', -40 - 290, -35),
     ...cardPosition('05', -130 - 290, 50),
 

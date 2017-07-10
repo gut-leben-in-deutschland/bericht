@@ -23,7 +23,7 @@ Bildung fördert die Orientierung und das Urteilsvermögen der Menschen. Bildung
 Der Indikator **Anteil der Menschen mit einem Abschluss der Sekundarstufe II** zeigt, wie viele Menschen mindestens eine **abgeschlossene Berufsausbildung oder eine Hochschulreife** haben. Damit wird der Bildungserfolg, also das Bildungsniveau einer 
 Gesellschaft und näherungsweise auch die Qualität des deutschen Bildungssystems gemessen.
 
-Wer heute in Deutschland die Hochschulreife erlangt oder eine Berufsausbildung abschließt, hat gute Chancen auf dem Arbeitsmarkt. Im Jahr 2014 verfügten in Deutschland fast neun von zehn Menschen im Alter von 25 bis 64 Jahren über mindestens eine dieser Qualifikationen - gut zehn Prozent mehr als im Durchschnitt der OECD Länder. Erfreulich ist auch: Jüngere Frauen haben den Rückstand zu den Männern mittlerweile aufgeholt.
+Wer heute in Deutschland die Hochschulreife erlangt oder eine Berufsausbildung abschließt, hat gute Chancen auf dem Arbeitsmarkt. Im Jahr 2015 verfügten in Deutschland fast neun von zehn Menschen im Alter von 25 bis 64 Jahren über mindestens eine dieser Qualifikationen - gut sechs Prozentpunkte mehr als im Durchschnitt der [OECD Länder](http://dx.doi.org/10.1787/888933396529). Erfreulich ist auch: Jüngere Frauen haben den Rückstand zu den Männern mittlerweile aufgeholt. Der Anteil junger Frauen mit Abschluss der Sekundarstufe II liegt sogar knapp über dem Anteil der jungen Männer.
 
 ```chart
 03-01-a
@@ -60,9 +60,9 @@ Als Indikator dient hier die **Risikogruppe der frühen Schulabgänger**. Sie si
 
 <!-- ColumnLeft start -->
 
-Ihr Anteil ist in den letzten Jahren gesunken – von rund 13 Prozent im Jahr 2003 auf unter zehn Prozent in 2014. Allerdings bleiben junge Männer in Deutschland mit zehn Prozent etwas stärker gefährdet als junge Frauen mit neun Prozent. Damit hat Deutschland ein Kernziel der „EU-2020-Strategie für Beschäftigung und intelligentes, nachhaltiges und integratives Wachstum“ erreicht.
+Ihr Anteil ist in den letzten Jahren gesunken – von rund 13 Prozent im Jahr 2003 auf unter zehn Prozent in 2015. Allerdings bleiben junge Männer in Deutschland mit knapp über zehn Prozent etwas stärker gefährdet als junge Frauen mit 9,5 Prozent. Damit hat Deutschland ein Kernziel der „EU-2020-Strategie für Beschäftigung und intelligentes, nachhaltiges und integratives Wachstum“ erreicht.
 
-[Europaweit](http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=edat_lfse_01&lang=en) sank der Anteil der frühen Schulabgänger von über 16 auf mittlerweile knapp über elf Prozent. Deutschland liegt damit unter dem europäischen Durchschnitt.    
+[Europaweit](http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=t2020_40&plugin=1) sank der Anteil der frühen Schulabgänger von 16 Prozent im Jahr 2004 auf mittlerweile auf knapp unter elf Prozent im Jahr 2016. Deutschland liegt damit unter dem europäischen Durchschnitt.[^1]    
 
 <!-- ColumnLeft end -->
 
@@ -80,7 +80,7 @@ Ihr Anteil ist in den letzten Jahren gesunken – von rund 13 Prozent im Jahr 20
 
 <!-- ColumnLeft start -->
 
-Auch unter jungen Migrantinnen und Migranten in Deutschland gibt es weniger frühe Schulabgänger. 2005 gehörte noch fast jeder Vierte dazu, 2014 nur noch jeder Sechste.
+Auch unter jungen Migrantinnen und Migranten in Deutschland gibt es weniger frühe Schulabgänger. 2005 gehörte noch fast jeder Vierte dazu, 2015 nur noch jeder Sechste.
 
 Trotz dieser Verbesserung bleibt ein deutlicher Abstand zu den Menschen ohne Migrationshintergrund. Damit **Bildung als Motor der Integration** funktioniert, sind besondere Anstrengungen nötig – nicht zuletzt, weil 2015 und 2016 viele Flüchtlinge mit geringer formaler Bildung in Deutschland Schutz gesucht haben.
 
@@ -115,9 +115,9 @@ Bildungsgerechtigkeit gehörte zu den Themen, die im Bürgerdialog besonders int
 
 Der Indikator **Bildungsmobilität zwischen Eltern und Kindern** vergleicht den **höchsten** allgemeinbildenden **Schulabschluss der Eltern mit dem ihrer Kinder**.
 
-Der **Zusammenhang zwischen dem Bildungsniveau der Eltern und dem ihrer Kinder** ist in Deutschland stark ausgeprägt. Zwei von drei Kindern, von denen zumindest ein Elternteil Abitur oder Fachhochschulreife hat, erreichen diesen Abschluss ebenfalls. Der Anteil von Jugendlichen, die das Bildungssystem ohne formalen Abschluss verlassen, ist in diesen Familien sehr gering.
+Der **Zusammenhang zwischen dem Bildungsniveau der Eltern und dem ihrer Kinder** ist in Deutschland stark ausgeprägt. Sieben von zehn Kindern, von denen zumindest ein Elternteil Abitur oder Fachhochschulreife hat, erreichen diesen Abschluss ebenfalls. Der Anteil von Jugendlichen, die das Bildungssystem ohne formalen Abschluss verlassen, ist in diesen Familien sehr gering.
 
-Andererseits belegen die Zahlen auch: Viele Kinder schaffen den Aufstieg im deutschen Schulsystem. Gerade in bildungsfernen Familien ist die aufwärtsgerichtete Bildungsmobilität am größten: Über 80 Prozent der Kinder machen qualifizierte Abschlüsse, über 20 Prozent erreichen sogar die Fachhochschulreife oder das Abitur. Blickt man auf die vergangenen 20 Jahre zurück, so zeigt sich eine **deutlich positive Entwicklung**. Im Jahr 2014 schaffte jedes fünfte Kind von Eltern ohne Schulabschluss die Hochschulreife. Zwanzig Jahre früher war es nur etwa jedes 13. Kind.
+Andererseits belegen die Zahlen auch: Viele Kinder schaffen den Aufstieg im deutschen Schulsystem. Gerade in bildungsfernen Familien, in denen kein Elternteil einen Schulabschluss hat, ist die aufwärtsgerichtete Bildungsmobilität am größten: Über 85 Prozent der Kinder machen qualifizierte Abschlüsse, knapp 23 Prozent erreichen sogar die Fachhochschulreife oder das Abitur. Blickt man auf die vergangenen 20 Jahre zurück, so zeigt sich eine **deutlich positive Entwicklung**. Im Jahr 2015 schaffte knapp jedes vierte Kind von Eltern ohne Schulabschluss die Hochschulreife. Zwanzig Jahre früher war es nur etwa jedes 13. Kind.
 
 Es bleibt weiterer Handlungsbedarf. Denn immer noch verlässt jedes siebte Kind aus bildungsfernem Elternhaus die Schule ohne Abschluss und hat damit schlechtere Aussichten auf gute Arbeit, ein befriedigendes Einkommen, kurz auf ein gutes Leben.
 
@@ -198,6 +198,7 @@ Erwachsenen, die sich weiterbilden wollen, eröffnet etwa das Bundesprogramm Bil
 
 <!-- GovernmentMeasures end -->
 
+[^1]: Die geringfügigen Abweichungen zwischen den von Eurostat veröffentlichten und den nationalen Kennzahlen sind auf methodische Unterschiede in den Berechnungen zurückzuführen.
 
 <!-- ExternalLink title='Nationaler Bildungsbericht' href='http://www.bildungsbericht.de/de/bildungsberichte-seit-2006/bildungsbericht-2016' -->
 

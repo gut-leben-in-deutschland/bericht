@@ -17,7 +17,7 @@ export const configureI18n = ({defaultLocale, locales, translationKeySeparator},
   });
 
   function formatterForLocale(locale) {
-    return (key, replacements, emptyValue) => {
+    const formatter = (key, replacements, emptyValue) => {
       let message = messages.getIn([locale, key]) || (emptyValue !== undefined ? emptyValue : `[missing translation '${key}' for ${locale}]`);
       if (replacements) {
         Object.keys(replacements).forEach(replacementKey => {
@@ -26,6 +26,8 @@ export const configureI18n = ({defaultLocale, locales, translationKeySeparator},
       }
       return message;
     };
+    formatter.localeString = locale;
+    return formatter;
   }
 
   const defaultLocaleFormatter = formatterForLocale(defaultLocale);

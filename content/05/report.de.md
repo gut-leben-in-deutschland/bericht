@@ -38,7 +38,7 @@ Das Nettoeinkommen gibt an, was dem Haushalt nach Abzug von Steuern und Abgaben 
 }
 ```
 
-Das reale Haushaltsnettoeinkommen ist in Deutschland **seit der Wiedervereinigung** um knapp acht Prozent von rund 18.200 Euro auf rund 19.600 Euro **gestiegen**. Dieser Anstieg ist vor allem auf einen **Aufholprozess in den ostdeutschen Bundesländern** zurückzuführen, wo das Haushaltsnettoeinkommen um mehr als 15 Prozent von rund 14.800 Euro auf etwa 17.100 Euro gestiegen ist.
+Das reale Haushaltsnettoeinkommen ist in Deutschland **seit der Wiedervereinigung** um rund neuneinhalb Prozent von rund 18.100 Euro auf rund 19.800 Euro **gestiegen**. Dieser Anstieg ist vor allem auf einen **Aufholprozess in den ostdeutschen Bundesländern** zurückzuführen, wo das Haushaltsnettoeinkommen um knapp 15 Prozent von rund 14.860 Euro auf etwa 17.050 Euro gestiegen ist.
 
 <!--PercentilesScrollContainer start data=05/01/percentiles.csv -->
 
@@ -56,7 +56,7 @@ Angeordnet sind 100 Punkte von geringen bis zu hohen Haushaltsnettoeinkommen. Je
 
 Da die Bedürfnisse eines Haushalts nicht proportional mit der Anzahl der darin lebenden Personen wachsen, wird das Nettoeinkommen jedes Haushalts entsprechend seiner Zusammensetzung so gewichtet, dass die Einkommen unterschiedlicher Haushalte miteinander vergleichbar sind. Grundlage hierfür ist die [modifizierte OECD-Äquivalenzskala](http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Equivalised_disposable_income/de).
 
-Um ihr eigenes Haushaltseinkommen mit dem Rest der Bevölkerung zu vergleichen, müssen Sie neben dem Jahreseinkommen ihres Haushalts auch angeben, wie viele Erwachsene und wie viele Kinder in Ihrem Haushalt leben. Das resultierende (äquivalenzgewichtete) Einkommen kann dann mit dem eines Singlehaushalts verglichen werden.
+Um ihr eigenes Haushaltseinkommen mit dem Rest der Bevölkerung zu vergleichen, müssen Sie neben dem Jahreseinkommen ihres Haushalts auch angeben, wie viele Erwachsene und wie viele Kinder in Ihrem Haushalt leben. Das so äquivalenzgewichtete Einkommen eines Mehrpersonenhaushalts ist dann mit dem Einkommen eines Singlehaushalts vergleichbar.
 
 <!--ScrollBlock end-->
 
@@ -118,15 +118,15 @@ Die **Wirksamkeit von Umverteilungsmaßnahmen** wird durch den Vergleich des Gin
 
 <!-- ColumnRight start -->
 
-Die Ungleichheit der Haushaltsnettoeinkommen in Deutschland war in den 1990er Jahren relativ konstant. Zwischen 2000 und 2005 ist der Gini-Koeffizient allerdings von 0,25 auf 0,29 gestiegen. **In den letzten zehn Jahren blieb die Einkommensverteilung weitgehend stabil**.
+Die Ungleichheit der Haushaltsnettoeinkommen in Deutschland war in den 1990er Jahren relativ konstant. Zwischen 2000 und 2005 ist der Gini-Koeffizient allerdings von 0,26 auf 0,29 gestiegen. **In den letzten zehn Jahren blieb die Einkommensverteilung weitgehend stabil**.
 
-Wichtig ist, dass der Gini-Koeffizient der Haushaltseinkommen nach Steuern und Transfers (0,29 in 2013) deutlich unter dem der am Markt erzielten Einkommen (0,49 in 2013) liegt. Das zeigt: Das **deutsche Steuer- und soziale Sicherungssystem bewirkt eine erhebliche Reduktion der Ungleichheit**. Es entlastet insbesondere Geringverdiener und Familien und führt zu höherer Einkommensgleichheit.
+Wichtig ist, dass der Gini-Koeffizient der Haushaltseinkommen nach Steuern und Transfers (0,29 in 2014) deutlich unter dem der am Markt erzielten Einkommen (0,49 in 2014) liegt. Das zeigt: Das **deutsche Steuer- und soziale Sicherungssystem bewirkt eine erhebliche Reduktion der Ungleichheit**. Es entlastet insbesondere Geringverdiener und Familien und führt zu höherer Einkommensgleichheit.
 
 <!-- ColumnRight end -->
 
 <!-- ColumnContainer end -->
 
-Im **internationalen Vergleich der Gini-Koeffizienten** der Haushaltsnettoeinkommen liegt **Deutschland** auf **Platz 13 von 31 OECD-Staaten**. Die geringste Ungleichheit (bis zu 0,25) weisen unter anderen die skandinavischen Länder auf. Die verfügbaren Einkommen in Spanien (0,34), Großbritannien (0,35), den USA (0,39) oder Mexiko (0,46) sind hingegen deutlich ungleicher verteilt als in Deutschland. Unter den größten Industrie- und Schwellenländern (G 20) weist Deutschland die geringste Ungleichheit bei den Haushaltsnettoeinkommen auf.
+Im **internationalen Vergleich der Gini-Koeffizienten** der Haushaltsnettoeinkommen liegt **Deutschland** auf **Platz 14 von 31 OECD-Staaten**. Die geringste Ungleichheit (rund 0,25) weisen unter anderen nordeuropäische Länder wie Island oder Norwegen auf. Die verfügbaren Einkommen in Spanien (0,35), Großbritannien (0,356), den USA (0,39) oder Mexiko (0,46) sind hingegen deutlich ungleicher verteilt als in Deutschland. Unter den größten Industrie- und Schwellenländern (G20) weist Deutschland die geringste Ungleichheit bei den Haushaltsnettoeinkommen auf.
 
 ```chart
 05-02-b
@@ -147,7 +147,7 @@ Das **Steuer- und Abgabensystem** muss ausreichende Einnahmen zur Finanzierung �
 }
 ```
 
-**Die Abgabenquote** – d. h. die Höhe der Steuern und Sozialabgaben im Verhältnis zum Bruttoinlandsprodukt – betrug in der Abgrenzung der OECD im Jahr 2014 **in Deutschland 36,6 Prozent**. Im **internationalen Vergleich** liegt die Abgabenquote in Deutschland im Mittelfeld. Zum einen werden dadurch Bürger und Unternehmen finanziell nicht überfordert. Zum anderen stehen dem Niveau der Steuern und Abgaben ein für ein hochentwickeltes Industrieland angemessenes Niveau an öffentlichen Leistungen und ein gut ausgebautes soziales Sicherungssystem gegenüber.
+**Die Abgabenquote** – d. h. die Höhe der Steuern und Sozialabgaben im Verhältnis zum Bruttoinlandsprodukt – betrug in der Abgrenzung der OECD im Jahr 2015 **in Deutschland 36,9 Prozent**. Im **internationalen Vergleich** liegt die Abgabenquote in Deutschland im Mittelfeld. Zum einen werden dadurch Bürger und Unternehmen finanziell nicht überfordert. Zum anderen stehen dem Niveau der Steuern und Abgaben ein für ein hochentwickeltes Industrieland angemessenes Niveau an öffentlichen Leistungen und ein gut ausgebautes soziales Sicherungssystem gegenüber.
 
 
 <!-- GovernmentMeasures start -->
@@ -188,7 +188,7 @@ Allerdings sind bei einem internationalen Vergleich der Vermögensungleichheit v
 Die Bundesregierung legt besonderen Wert darauf, dass alle Erträge, auch Vermögenserträge, gerecht besteuert werden. Ein effizienter Steuervollzug sichert dabei die Durchsetzung von Steueransprüchen. Auch auf internationaler Ebene setzt sich die Bundesregierung gegen Steueroasen, Steuerhinterziehung und Steuerumgehung ein. Die Reform der Erbschaftssteuer sichert zudem eine verfassungsgemäße Besteuerung von Vermögen bei Erbe oder Schenkung.
 
 - [Steuern - ein Beitrag für die Gemeinschaft](http://www.bundesfinanzministerium.de/Web/DE/Themen/Steuern/steuern.html)
-- [Aktionsplan gegen Steuerbetrug und Geldwäsche](http://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Weitere_Steuerthemen/Informationsaustausch/2016-04-11-Aktionsplan.html)
+- [Aktionsplan gegen Steuerbetrug und Geldwäsche](http://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Weitere_Steuerthemen/Informationsaustausch/2017-02-23-Aktionsplan.html)
 
 
 <!-- GovernmentMeasures end -->
@@ -215,7 +215,7 @@ Mit der **Armutsrisikoquote** wird der Anteil der Bevölkerung gemessen, der in 
 
 <!-- ColumnRight start -->
 
-**Nach der Wiedervereinigung** ist die Armutsrisikoquote von rund 11 Prozent auf rund 15 Prozent gestiegen. Im Jahr 2013 betrug die Armutsrisikoquote 15,3 Prozent.  
+**Nach der Wiedervereinigung** ist die Armutsrisikoquote von rund 11 Prozent auf rund 15 Prozent gestiegen. Im Jahr 2014 betrug die Armutsrisikoquote 15,8 Prozent.  
 
 <!-- ColumnRight end -->
 
@@ -248,7 +248,7 @@ Im Vergleich zu jüngeren Altersgruppen haben **Seniorinnen und Senioren** ein *
 
 <!-- ColumnContainer end -->
 
-Die **staatlichen Umverteilungsmechanismen** zeigen auch bei der Armutsrisikoquote ihre Wirkung. Werden allein die Markteinkommen betrachtet, d.h. Steuern und Transfers vernachlässigt, lag die Armutsrisikoquote im Jahr 2013 bei 35 Prozent. Nach dem Abzug von Steuern und der Hinzurechnung von Sozialtransfers betrug die Quote dagegen 15,3 Prozent.
+Die **staatlichen Umverteilungsmechanismen** zeigen auch bei der Armutsrisikoquote ihre Wirkung. Werden allein die Markteinkommen betrachtet, d.h. Steuern und Transfers vernachlässigt, lag die Armutsrisikoquote im Jahr 2014 bei 35,2 Prozent. Nach dem Abzug von Steuern und der Hinzurechnung von Sozialtransfers betrug die Quote dagegen 15,8 Prozent.
 
 ```chart
 05-04-d
@@ -303,7 +303,7 @@ Für die Rentenversicherung verschlechtert sich damit das Verhältnis von Beitra
 
 <!-- ColumnContainer end -->
 
-Zum heutigen Zeitpunkt ist die **große Mehrheit der Rentnerinnen und Rentner** in Deutschland **nicht auf staatliche Unterstützung im Alter angewiesen**. Leistungen der Grundsicherung im Alter bezogen im Dezember 2015 rund 536.000 Menschen – das sind rund drei Prozent der gleichaltrigen Bevölkerung.
+Zum heutigen Zeitpunkt ist die **große Mehrheit der Rentnerinnen und Rentner** in Deutschland **nicht auf staatliche Unterstützung im Alter angewiesen**. Leistungen der Grundsicherung im Alter bezogen im Dezember 2016 rund 526.000 Menschen.
 
 Für künftige Rentnergenerationen weisen verschiedene wissenschaftliche Studien auf die **Gefahr steigender Altersarmut** hin. Mögliche Ursachen für ein in Zukunft steigendes Armutsrisiko sind vielfältig. Beispielsweise haben sich im langfristigen Trend Erwerbsbiographien und Haushaltskontexte verändert.
 
@@ -321,5 +321,5 @@ Für die Bundesregierung ist das sogenannte Drei-Säulenmodell, bestehend aus ge
 
 
 [^1]: Der Median beschreibt den Haushalt in der Mitte einer Einkommensverteilung. 50 Prozent der Haushalte in Deutschland haben ein geringeres verfügbares Einkommen als dieser Haushalt und 50 Prozent der Haushalte in Deutschland haben ein höheres verfügbares Einkommen als dieser Haushalt.
-[^2]: In der Statistik wird zwischen der **Grundgesamtheit** und der **Stichprobe** unterschieden. Bezogen auf die deutsche Wohnbevölkerung umfasst die Grundgesamtheit alle Personen, die zu einem bestimmten Stichtag in Deutschland wohnen. Von einer Stichprobe spricht man, wenn beispielsweise für den Zweck einer Umfrage aus der Grundgesamtheit Personen ausgewählt werden. Dieser Auswahlprozess erfolgt nach dem Zufallsprinzip, das heißt es steht nicht im vorhinein fest, welche Person an der Befragung teilnimmt. Eines der zentralen statistischen Gesetze stellt sicher, dass auf Basis von ausreichend großen Stichproben Rückschlüsse auf die Grundgesamtheit gezogen werden können. 
+[^2]: In der Statistik wird zwischen der **Grundgesamtheit** und der **Stichprobe** unterschieden. Bezogen auf die deutsche Wohnbevölkerung umfasst die Grundgesamtheit alle Personen, die zu einem bestimmten Stichtag in Deutschland wohnen. Von einer Stichprobe spricht man, wenn beispielsweise für den Zweck einer Umfrage aus der Grundgesamtheit Personen ausgewählt werden. Dieser Auswahlprozess erfolgt nach dem Zufallsprinzip, das heißt es steht nicht im Vorhinein fest, welche Person an der Befragung teilnimmt. Eines der zentralen statistischen Gesetze stellt sicher, dass auf Basis von ausreichend großen Stichproben Rückschlüsse auf die Grundgesamtheit gezogen werden können. 
 

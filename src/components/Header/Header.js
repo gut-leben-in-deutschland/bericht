@@ -1,4 +1,5 @@
-import React, {Component, PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import {withCabinet} from 'cabinet';
 import Link from 'components/ButtonLink/Link';
 import {CONTENT_MAX_WIDTH, CONTENT_PADDING} from 'components/Grid/Grid';
@@ -110,20 +111,12 @@ class Header extends Component {
   render() {
     const {routeKey, cabinet: {t, locale, locales}, dimensionId, section} = this.props;
 
-    let alternates;
-    if (locales.length === 1 && locale === 'de') {
-      alternates = [{
-        path: t('route/coming-soon'),
-        locale: 'en'
-      }];
-    } else {
-      alternates = locales
-        .filter(l => l !== locale)
-        .map(l => ({
-          path: t.locale(l)(routeKey),
-          locale: l
-        }));
-    }
+    const alternates = locales
+      .filter(l => l !== locale)
+      .map(l => ({
+        path: t.locale(l)(routeKey),
+        locale: l
+      }));
 
     const metaLinks = [
       ...alternates.map((route) => ({

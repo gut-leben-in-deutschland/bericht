@@ -115,6 +115,10 @@ Ostdeutsche Bundesländer,2012,Frau,0,82.95
 Ostdeutsche Bundesländer,2012,Frau,65,20.77
 Ostdeutsche Bundesländer,2013,Frau,0,82.82
 Ostdeutsche Bundesländer,2013,Frau,65,20.65
+Ostdeutsche Bundesländer,2014,Frau,0,83.39
+Ostdeutsche Bundesländer,2014,Frau,65,21.1
+Ostdeutsche Bundesländer,2015,Frau,0,83.03
+Ostdeutsche Bundesländer,2015,Frau,65,20.89
 Ostdeutsche Bundesländer,1956,Mann,0,66.39
 Ostdeutsche Bundesländer,1956,Mann,65,12.84
 Ostdeutsche Bundesländer,1957,Mann,0,65.84
@@ -231,6 +235,10 @@ Ostdeutsche Bundesländer,2012,Mann,0,77.03
 Ostdeutsche Bundesländer,2012,Mann,65,17.29
 Ostdeutsche Bundesländer,2013,Mann,0,76.98
 Ostdeutsche Bundesländer,2013,Mann,65,17.24
+Ostdeutsche Bundesländer,2014,Mann,0,77.42
+Ostdeutsche Bundesländer,2014,Mann,65,17.57
+Ostdeutsche Bundesländer,2015,Mann,0,77.05
+Ostdeutsche Bundesländer,2015,Mann,65,17.34
 Ostdeutsche Bundesländer,1956,Total,0,68.78
 Ostdeutsche Bundesländer,1956,Total,65,13.77
 Ostdeutsche Bundesländer,1957,Total,0,68.33
@@ -347,6 +355,10 @@ Ostdeutsche Bundesländer,2012,Total,0,80.01
 Ostdeutsche Bundesländer,2012,Total,65,19.19
 Ostdeutsche Bundesländer,2013,Total,0,79.91
 Ostdeutsche Bundesländer,2013,Total,65,19.1
+Ostdeutsche Bundesländer,2014,Total,0,80.41
+Ostdeutsche Bundesländer,2014,Total,65,19.48
+Ostdeutsche Bundesländer,2015,Total,0,80.02
+Ostdeutsche Bundesländer,2015,Total,65,19.24
 Westdeutsche Bundesländer,1956,Frau,0,70.89
 Westdeutsche Bundesländer,1956,Frau,65,13.9
 Westdeutsche Bundesländer,1957,Frau,0,71.06
@@ -463,6 +475,10 @@ Westdeutsche Bundesländer,2012,Frau,0,82.94
 Westdeutsche Bundesländer,2012,Frau,65,20.81
 Westdeutsche Bundesländer,2013,Frau,0,82.87
 Westdeutsche Bundesländer,2013,Frau,65,20.77
+Westdeutsche Bundesländer,2014,Frau,0,83.32
+Westdeutsche Bundesländer,2014,Frau,65,21.14
+Westdeutsche Bundesländer,2015,Frau,0,82.96
+Westdeutsche Bundesländer,2015,Frau,65,20.81
 Westdeutsche Bundesländer,1956,Mann,0,65.93
 Westdeutsche Bundesländer,1956,Mann,65,12.22
 Westdeutsche Bundesländer,1957,Mann,0,65.82
@@ -579,6 +595,10 @@ Westdeutsche Bundesländer,2012,Mann,0,78.19
 Westdeutsche Bundesländer,2012,Mann,65,17.65
 Westdeutsche Bundesländer,2013,Mann,0,78.22
 Westdeutsche Bundesländer,2013,Mann,65,17.64
+Westdeutsche Bundesländer,2014,Mann,0,78.66
+Westdeutsche Bundesländer,2014,Mann,65,18.01
+Westdeutsche Bundesländer,2015,Mann,0,78.38
+Westdeutsche Bundesländer,2015,Mann,65,17.74
 Westdeutsche Bundesländer,1956,Total,0,68.49
 Westdeutsche Bundesländer,1956,Total,65,13.14
 Westdeutsche Bundesländer,1957,Total,0,68.53
@@ -695,6 +715,10 @@ Westdeutsche Bundesländer,2012,Total,0,80.62
 Westdeutsche Bundesländer,2012,Total,65,19.35
 Westdeutsche Bundesländer,2013,Total,0,80.58
 Westdeutsche Bundesländer,2013,Total,65,19.31
+Westdeutsche Bundesländer,2014,Total,0,81.04
+Westdeutsche Bundesländer,2014,Total,65,19.69
+Westdeutsche Bundesländer,2015,Total,0,80.69
+Westdeutsche Bundesländer,2015,Total,65,19.37
 Gesamt,1990,Frau,0,78.42
 Gesamt,1990,Frau,65,17.58
 Gesamt,1991,Frau,0,78.68
@@ -743,6 +767,10 @@ Gesamt,2012,Frau,0,82.94
 Gesamt,2012,Frau,65,20.8
 Gesamt,2013,Frau,0,82.86
 Gesamt,2013,Frau,65,20.74
+Gesamt,2014,Frau,0,83.33
+Gesamt,2014,Frau,65,21.13
+Gesamt,2015,Frau,0,82.97
+Gesamt,2015,Frau,65,20.82
 Gesamt,1990,Mann,0,71.91
 Gesamt,1990,Mann,65,13.94
 Gesamt,1991,Mann,0,72.09
@@ -791,6 +819,10 @@ Gesamt,2012,Mann,0,77.97
 Gesamt,2012,Mann,65,17.58
 Gesamt,2013,Mann,0,77.99
 Gesamt,2013,Mann,65,17.56
+Gesamt,2014,Mann,0,78.43
+Gesamt,2014,Mann,65,17.93
+Gesamt,2015,Mann,0,78.13
+Gesamt,2015,Mann,65,17.66
 Gesamt,1990,Total,0,75.35
 Gesamt,1990,Total,65,16.17
 Gesamt,1991,Total,0,75.56
@@ -839,3 +871,7 @@ Gesamt,2012,Total,0,80.5
 Gesamt,2012,Total,65,19.32
 Gesamt,2013,Total,0,80.46
 Gesamt,2013,Total,65,19.27
+Gesamt,2014,Total,0,80.92
+Gesamt,2014,Total,65,19.65
+Gesamt,2015,Total,0,80.57
+Gesamt,2015,Total,65,19.34

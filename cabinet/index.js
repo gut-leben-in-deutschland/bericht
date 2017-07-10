@@ -1,11 +1,11 @@
 import {createSelector} from 'reselect';
-export {default as withCabinet} from './components/withCabinet';
-export {default as Cabinet} from './components/CabinetContext';
-export {default as contentFromRequireContext} from './state/contentFromRequireContext';
 import {configureI18n} from './i18n';
 import {configureApi} from './api';
 import {configureStore} from './state/configureStore';
 import {selectContent} from './state/reducer';
+export {default as withCabinet} from './components/withCabinet';
+export {default as Cabinet} from './components/CabinetContext';
+export {default as contentFromRequireContext} from './state/contentFromRequireContext';
 
 const baseConfig = {
   defaultLocale: undefined,

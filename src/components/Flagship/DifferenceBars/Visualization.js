@@ -1,5 +1,6 @@
-import React, {PropTypes, Component} from 'react';
-import {select, mouse} from 'd3-selection';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
+import {select, mouse, event} from 'd3-selection';
 import 'd3-transition';
 import {nest} from 'd3-collection';
 import {scaleLinear, scaleQuantize, scalePoint} from 'd3-scale';

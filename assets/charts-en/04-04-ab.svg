@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="684" style="height:684px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows the proportion of persons in employment commuting more than 30 minutes in the period 2000 to 2012. Distinctions are made between location categories. In all four categories, “very central”, “central”, “peripheral” and “very peripheral”, the proportion of persons in employment commuting more than 30 minutes increased between 2000 and 2012. The growth was particularly clear in very central locations. In 2000, some 26 percent of persons in employment were commuting more than 30 minutes in central locations. In 2012, the relevant figure was some 30 percent. In central and very peripheral locations, 23 percent of persons in employment were commuting more than 30 minutes in 2012, in peripheral locations the figure was 21 percent.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:68.4375px;fill:#666666;">
@@ -249,7 +251,7 @@
                     <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt, Microcensus.
+                                Source:  German Federal Statistical Office, Microcensus.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

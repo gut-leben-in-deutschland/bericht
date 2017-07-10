@@ -1,27 +1,5 @@
 import {createElement} from 'react';
 
-export default input => {
-  if (!input) {
-    return input;
-  }
-  return input.split(/(<sub>|<sup>)([^<]+)<\/su[bp]>/g).reduce(
-    (elements, text, i) => {
-      if (text === '<sub>' || text === '<sup>') {
-        elements.nextElement = text.replace('<', '').replace('>', '');
-      } else {
-        if (elements.nextElement) {
-          elements.push(createElement(elements.nextElement, {key: elements.nextElement + i}, text));
-          elements.nextElement = null;
-        } else {
-          elements.push(text);
-        }
-      }
-      return elements;
-    },
-    []
-  );
-};
-
 const splitter = (createTag) => {
   return input => {
     if (!input) {

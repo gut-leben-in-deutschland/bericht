@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="366" style="height:366px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="438" style="height:438px;width:640px;">
+    <desc style="">
+        Die Abbildung zeigt die Entwicklung der Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes im Zeitraum von 1995 bis 2015. Die Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes sind in diesem Zeitraum von 2,2 auf knapp 3,0 Prozent gestiegen. Die deutschen Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes lagen im gesamten Zeitraum über dem OECD-Durchschnitt. Dieser betrug 2015 2,4 Prozent.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1995
                 </text>
             </g>
-            <g transform="translate(167.7164265129683,264)" style="">
+            <g transform="translate(185.8681724845996,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2001
+                    2002
                 </text>
             </g>
-            <g transform="translate(363.28357348703173,264)" style="">
+            <g transform="translate(345.1318275154004,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2008
@@ -24,16 +26,16 @@
             <g transform="translate(531,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,93.56670639999999L55.93097982708934,89.466276L111.78544668587897,75.7332848L139.71268011527377,71.88789599999998L167.7164265129683,72.29485279999997L195.64365994236312,70.08770959999998L223.57089337175793,66.78976879999999L251.49812680115272,69.8798888L279.50187319884725,69.71133999999998L307.4291066282421,66.88996400000002L335.3563400576369,68.22990879999998L363.28357348703173,56.03478480000001L391.28731988472623,45.884611199999995L419.2145533141211,46.90673039999999L447.14178674351587,40.35067280000001L475.06902017291065,34.267011199999985L503.0727665706052,37.883216799999985L531,32.27495759999999" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,93.56670639999999L53.13634496919918,89.466276L106.2,75.7332848L132.73182751540043,71.88789599999998L159.3363449691992,72.29485279999997L185.8681724845996,70.08770959999998L212.4,66.78976879999999L238.9318275154004,69.8798888L265.53634496919915,69.71133999999998L292.0681724845996,66.88996400000002L318.59999999999997,68.22990879999998L345.1318275154004,56.03478480000001L371.7363449691992,45.884611199999995L398.2681724845996,46.90673039999999L424.8,40.35067280000001L451.3318275154004,34.267011199999985L477.9363449691992,37.883216799999985L504.4681724845996,33.49854207999999L531,25.90635359999999" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="535" x2="541" y1="32.27495759999999" y2="32.27495759999999" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
-                    <text dy="0.3em" x="545" y="32.27495759999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:94.546875px;fill:#666666;">
+                    <line x1="535" x2="541" y1="25.90635359999999" y2="25.90635359999999" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="545" y="25.90635359999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:94.546875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            2,90%
+                            2,98%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Deutschland
@@ -42,12 +44,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#54bbb1" stroke-width="3" stroke-dasharray="none" d="M0,105.14635279999999L55.93097982708934,101.45921999999999L111.78544668587897,96.2159624L139.71268011527377,92.93954480000002L167.7164265129683,89.9667536L195.64365994236312,91.85000319999997L223.57089337175793,91.62827039999999L251.49812680115272,93.8273696L279.50187319884725,91.56762799999998L307.4291066282421,89.06717520000001L335.3563400576369,86.56697840000001L363.28357348703173,80.739228L391.28731988472623,77.12288559999999L419.2145533141211,80.08425359999998L447.14178674351587,77.5818376L475.06902017291065,77.15150159999999L503.0727665706052,74.3997568L531,73.8161744" style="fill:none;stroke:#54bbb1;stroke-width:3px;"/>
+                <path fill="none" stroke="#54bbb1" stroke-width="3" stroke-dasharray="none" d="M0,106.71872892151438L26.531827515400412,104.5332406938384L53.13634496919918,102.95559925890879L79.6681724845996,100.110688599112L106.2,96.72658562239039L132.73182751540043,93.35799548465602L159.3363449691992,90.35393906178558L185.8681724845996,92.361840393936L212.4,92.1744383594824L238.9318275154004,94.2953005244504L265.53634496919915,91.8316774111224L292.0681724845996,89.34192132298L318.59999999999997,86.59069885152161L345.1318275154004,80.82502602289281L371.7363449691992,77.0398119430568L398.2681724845996,80.11446652795442L424.8,77.37867508874479L451.3318275154004,76.9915915069416L477.9363449691992,74.66086720690481L504.4681724845996,72.43553586640238L531,71.7630146647848" style="fill:none;stroke:#54bbb1;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="535" x2="541" y1="73.8161744" y2="73.8161744" stroke="#54bbb1" stroke-width="3" style="stroke:#54bbb1;stroke-width:3px;"/>
-                    <text dy="0.3em" x="545" y="73.8161744" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:63.171875px;fill:#666666;">
+                    <line x1="535" x2="541" y1="71.7630146647848" y2="71.7630146647848" stroke="#54bbb1" stroke-width="3" style="stroke:#54bbb1;stroke-width:3px;"/>
+                    <text dy="0.3em" x="545" y="71.7630146647848" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:63.171875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            2,38%
+                            2,40%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              OECD
@@ -75,16 +77,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="78" style="display:block;height:78px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:78px;width:640px;">
-            <div style="display:block;height:78px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="150" style="display:block;height:150px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:150px;width:640px;">
+            <div style="display:block;height:150px;width:640px;">
                 <div style="display:block;height:0px;padding-right:108px;width:640px;">
                 </div>
-                <div style="display:block;height:78px;width:640px;">
-                    <div style="clear:both;display:block;height:78px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Bundesministerium für Bildung und Forschung, Stifterverband-Wissenschaftsstatistik.
+                <div style="display:block;height:150px;width:640px;">
+                    <div style="clear:both;display:block;height:150px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:150px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:126px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Statistisches Bundesamt, Bundesministerium für Bildung und Forschung, Stifterverband-Wissenschaftsstatistik. OECD (2017): Ausgaben für Forschung und Entwicklung in Prozent des BIP. doi: 10.1787/d8b068b4-en (Stand: Juni 2017).
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

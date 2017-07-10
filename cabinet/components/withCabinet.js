@@ -1,6 +1,7 @@
 /* eslint-disable react/no-multi-comp */
 
-import React, {Component, PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import {connect} from 'react-redux';
 import {loadContent} from '../state/actions';
 import {selectContent, CONTENT_STATUS_REQUESTED, CONTENT_STATUS_RECEIVED, CONTENT_STATUS_FAILED} from '../state/reducer';

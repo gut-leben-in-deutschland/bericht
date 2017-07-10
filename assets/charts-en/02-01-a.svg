@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
+    <desc style="">
+        The chart shows the average annual unemployment rate from 1992 to 2016. Two historic peaks in 1997 and 2005 with an unemployment rate of over 11 percent are followed by periods of significant recovery. In 2016, national unemployment stood at 6.1 percent, with a figure of 5.6 percent in West German federal states and 8.5 percent in East German federal states.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,31 +11,31 @@
                     1992
                 </text>
             </g>
-            <g transform="translate(161.73431734317342,264)" style="">
+            <g transform="translate(155,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2000
                 </text>
             </g>
-            <g transform="translate(303.2656826568266,264)" style="">
+            <g transform="translate(310,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2007
+                    2008
                 </text>
             </g>
             <g transform="translate(465,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,171.60000000000002L20.25830258302583,157.20000000000002L40.46125461254613,148.8L60.664206642066425,151.2L80.86715867158671,139.20000000000002L101.12546125461255,127.20000000000002L121.32841328413285,130.8L141.53136531365314,138.00000000000003L161.73431734317342,148.8L181.99261992619924,151.2L202.19557195571954,146.4L222.39852398523985,138.00000000000003L242.60147601476015,138.00000000000003L262.859778597786,123.60000000000002L283.0627306273063,134.4L303.2656826568266,156L323.46863468634683,170.4L343.7269372693727,166.8L363.929889298893,171.60000000000002L384.1328413284133,178.8L404.33579335793354,182.39999999999998L424.5940959409594,181.2L444.7970479704797,183.6L465,187.2" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,171.60000000000002L19.41478439425051,157.20000000000002L38.776522929500345,148.8L58.13826146475017,151.2L77.5,139.20000000000002L96.91478439425052,127.20000000000002L116.27652292950035,130.8L135.63826146475017,138.00000000000003L155,148.8L174.41478439425052,151.2L193.77652292950035,146.4L213.13826146475017,138.00000000000003L232.5,138.00000000000003L251.91478439425055,123.60000000000002L271.27652292950035,134.4L290.63826146475014,156L310,170.4L329.4147843942505,166.8L348.77652292950035,171.60000000000002L368.1382614647502,178.8L387.5,182.39999999999998L406.9147843942505,181.2L426.27652292950035,183.6L445.63826146475014,187.2L465,190.8" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="469" x2="475" y1="187.2" y2="187.2" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="479" y="187.2" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:71.140625px;fill:#666666;">
+                    <line x1="469" x2="475" y1="190.8" y2="190.8" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="479" y="190.8" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:71.0625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            6,4%
+                            6.1%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Germany
@@ -42,12 +44,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#822900" stroke-width="3" stroke-dasharray="none" d="M40.46125461254613,166.8L60.664206642066425,166.8L80.86715867158671,157.20000000000002L101.12546125461255,148.8L121.32841328413285,153.60000000000002L141.53136531365314,160.8L161.73431734317342,172.8L181.99261992619924,177.60000000000002L202.19557195571954,172.8L222.39852398523985,163.2L242.60147601476015,162L262.859778597786,145.2L283.0627306273063,154.8L303.2656826568266,175.20000000000002L323.46863468634683,187.2L343.7269372693727,181.2L363.929889298893,184.8L384.1328413284133,192L404.33579335793354,193.2L424.5940959409594,192L444.7970479704797,193.2L465,195.60000000000002" style="fill:none;stroke:#822900;stroke-width:3px;"/>
+                <path fill="none" stroke="#822900" stroke-width="3" stroke-dasharray="none" d="M38.776522929500345,166.8L58.13826146475017,166.8L77.5,157.20000000000002L96.91478439425052,148.8L116.27652292950035,153.60000000000002L135.63826146475017,160.8L155,172.8L174.41478439425052,177.60000000000002L193.77652292950035,172.8L213.13826146475017,163.2L232.5,162L251.91478439425055,145.2L271.27652292950035,154.8L290.63826146475014,175.20000000000002L310,187.2L329.4147843942505,181.2L348.77652292950035,184.8L368.1382614647502,192L387.5,193.2L406.9147843942505,192L426.27652292950035,193.2L445.63826146475014,195.60000000000002L465,196.8" style="fill:none;stroke:#822900;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="469" x2="475" y1="199.2" y2="199.2" stroke="#822900" stroke-width="3" style="stroke:#822900;stroke-width:3px;"/>
-                    <text dy="0.3em" x="479" y="199.2" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:161.609375px;fill:#666666;">
+                    <line x1="469" x2="475" y1="202.8" y2="202.8" stroke="#822900" stroke-width="3" style="stroke:#822900;stroke-width:3px;"/>
+                    <text dy="0.3em" x="479" y="202.8" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:161.53125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            5,7%
+                            5.6%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              West German federal states
@@ -56,12 +58,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#be5b00" stroke-width="3" stroke-dasharray="none" d="M40.46125461254613,86.40000000000003L60.664206642066425,97.19999999999999L80.86715867158671,78.00000000000003L101.12546125461255,51.60000000000002L121.32841328413285,50.400000000000034L141.53136531365314,56.400000000000034L161.73431734317342,58.80000000000001L181.99261992619924,56.400000000000034L202.19557195571954,51.60000000000002L222.39852398523985,42.00000000000003L242.60147601476015,43.20000000000002L262.859778597786,39.60000000000002L283.0627306273063,56.400000000000034L303.2656826568266,84.00000000000003L323.46863468634683,106.79999999999998L343.7269372693727,108L363.929889298893,120L384.1328413284133,128.4L404.33579335793354,135.60000000000002L424.5940959409594,140.40000000000003L444.7970479704797,146.4L465,153.60000000000002" style="fill:none;stroke:#be5b00;stroke-width:3px;"/>
+                <path fill="none" stroke="#be5b00" stroke-width="3" stroke-dasharray="none" d="M38.776522929500345,86.40000000000003L58.13826146475017,97.19999999999999L77.5,78.00000000000003L96.91478439425052,51.60000000000002L116.27652292950035,50.400000000000034L135.63826146475017,56.400000000000034L155,58.80000000000001L174.41478439425052,56.400000000000034L193.77652292950035,51.60000000000002L213.13826146475017,42.00000000000003L232.5,43.20000000000002L251.91478439425055,39.60000000000002L271.27652292950035,56.400000000000034L290.63826146475014,84.00000000000003L310,106.79999999999998L329.4147843942505,108L348.77652292950035,120L368.1382614647502,128.4L387.5,135.60000000000002L406.9147843942505,140.40000000000003L426.27652292950035,146.4L445.63826146475014,153.60000000000002L465,162" style="fill:none;stroke:#be5b00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="469" x2="475" y1="153.60000000000002" y2="153.60000000000002" stroke="#be5b00" stroke-width="3" style="stroke:#be5b00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="479" y="153.60000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:157.3125px;fill:#666666;">
+                    <line x1="469" x2="475" y1="162" y2="162" stroke="#be5b00" stroke-width="3" style="stroke:#be5b00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="479" y="162" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:157.234375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            9,2%
+                            8.5%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              East German federal states
@@ -89,16 +91,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-right:174px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Bundesagentur für Arbeit.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Statistics of the Federal Employment Agency.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 import {scaleLinear} from 'd3-scale';
 import vgExpr from 'vega-expression';

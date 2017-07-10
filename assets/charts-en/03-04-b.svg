@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="642" style="height:642px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows types of further education by topic in 2014. In company-related further education, the topics “economy, work, law” led the field with 41 percent followed by “nature, technology, IT” with 24 percent. In individual profession-related further education, “economy, work, law” was highest with 26 percent followed by “health and sport” with 21 percent. In non-profession-related further education, the category “languages, culture, politics” was highest with 32 percent followed by “health and sport” with 26 percent.
+    </desc>
     <g transform="translate(0,0)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:159.171875px;fill:#666666;">
-            In-house further education
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:207.8125px;fill:#666666;">
+            Company-related further education
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:131.71875px;fill:#666666;">
@@ -78,8 +80,8 @@
         </g>
     </g>
     <g transform="translate(329,0)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:244.6875px;fill:#666666;">
-            Individual work-related further education
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:276.625px;fill:#666666;">
+            Individual profession-related further education
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:131.71875px;fill:#666666;">
@@ -155,8 +157,8 @@
         </g>
     </g>
     <g transform="translate(0,291)" style="">
-        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:259.03125px;fill:#666666;">
-            Not work-related further training/education
+        <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:244.09375px;fill:#666666;">
+            Non-profession-related further education
         </text>
         <g style="">
             <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:131.71875px;fill:#666666;">

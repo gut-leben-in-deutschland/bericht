@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="435" style="height:435px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows the perceived ability for citizens to influence politics in 2014. Distinctions were made between West German and East German federal states and depending on education levels. All in all, some 46 percent of those interviewed said they had no or only little impact on political decisions. Only 19 percent felt they had a strong impact on political decisions. Influence was perceived to be higher by citizens in West German federal states than by citizens in East German federal states. People with higher education levels were more optimistic when assessing their influence.
+    </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:40.53125px;fill:#666666;">
             Region
@@ -76,8 +78,8 @@
             Education
         </text>
         <g style="">
-            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:168.171875px;fill:#666666;">
-                Up to and including "Hauptschule"
+            <text y="30" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:266.25px;fill:#666666;">
+                Up to and including secondary modern school diploma
             </text>
             <g transform="translate(0,45)" style="">
                 <rect x="0" fill="#4d7a3b" width="399" height="16" style="fill:#4d7a3b;"/>
@@ -90,8 +92,8 @@
             </g>
         </g>
         <g style="">
-            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:74.25px;fill:#666666;">
-                "Mittlere Reife"
+            <text y="70" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:111.40625px;fill:#666666;">
+                Middle school diploma
             </text>
             <g transform="translate(0,85)" style="">
                 <rect x="0" fill="#4d7a3b" width="310" height="16" style="fill:#4d7a3b;"/>
@@ -104,8 +106,8 @@
             </g>
         </g>
         <g style="">
-            <text y="110" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:37.875px;fill:#666666;">
-                "Abitur"
+            <text y="110" dy="0.9em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:157.53125px;fill:#666666;">
+                University entrance qualification 
             </text>
             <g transform="translate(0,125)" style="">
                 <rect x="0" fill="#4d7a3b" width="213" height="16" style="fill:#4d7a3b;"/>

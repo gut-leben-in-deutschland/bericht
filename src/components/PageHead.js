@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import Helmet from 'react-helmet';
 import urlJoin from 'url-join';
 
@@ -17,22 +18,20 @@ const PageHead = ({t, route, title, description, keywords, sharingImage}) => {
     ? description
     : t('meta/description');
   return (
-    <Helmet
-      title={title}
-      meta={[
-        {name: 'author', content: t('meta/author')},
-        {name: 'keywords', content: keywordsContent},
-        {name: 'description', content: descriptionContent},
-        {property: 'og:type', content: 'website'},
-        {property: 'og:url', content: routePublicURL(t, route)},
-        {property: 'og:title', content: title},
-        {property: 'og:description', content: descriptionContent},
-        {property: 'og:image', content: fullPublicPath(sharingImage)},
-        {name: 'twitter:card', content: 'summary_large_image'},
-        {name: 'twitter:site', content: '@RegSprecher'},
-        {name: 'twitter:creator', content: '@RegSprecher'},
-      ]}
-    />
+    <Helmet>
+      <title>{title}</title>
+      <meta name='author' content={t('meta/author')} />
+      <meta name='keywords' content={keywordsContent} />
+      <meta name='description' content={descriptionContent} />
+      <meta property='og:type' content={'website'} />
+      <meta property='og:url' content={routePublicURL(t, route)} />
+      <meta property='og:title' content={title || t('title')} />
+      <meta property='og:description' content={descriptionContent} />
+      <meta property='og:image' content={fullPublicPath(sharingImage)} />
+      <meta name='twitter:card' content={'summary_large_image'} />
+      <meta name='twitter:site' content={'@RegSprecher'} />
+      <meta name='twitter:creator' content={'@RegSprecher'} />
+    </Helmet>
   );
 };
 

@@ -44,6 +44,7 @@ export default (locals, callback) => {
   const location = locals.path;
 
   match({routes, history, location}, (error, redirectLocation, renderProps) => {
+    console.log('Rendering route', renderProps.location.pathname); // eslint-disable-line no-console
     const maybeDimensionId = renderProps.location.pathname === '/404.html'
       ? null
       : getDimensionIdFromRouteKey(getRouteKey(renderProps.location.pathname));
@@ -58,7 +59,7 @@ export default (locals, callback) => {
       );
     });
 
-    const head = Helmet.rewind();
+    const head = Helmet.renderStatic();
 
     callback(error, htmlTemplate(
       {common: locals.assets.common, app: locals.assets.app, dimensionContent: dimensionContentAsset, style: stylePath, favicon: '', ogImage: ''},

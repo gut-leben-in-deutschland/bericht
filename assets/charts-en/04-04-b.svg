@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="702" style="height:702px;width:640px;">
-    <desc style=""/>
+    <desc style="">
+        The chart shows types of transport used by commuters in 2000 and 2012 by location categories. In 2012, 63 percent used their own car to go to work, 13 percent used public transport and 9 percent cycled. In very central locations, there was a trend away from using cars and towards the use of public transport and bicycles. In 2012, some 56 percent of commuters in very central locations used their car to go to work, 21 percent used public transport and 9 percent cycled. In peripheral and very peripheral locations, 70 and 67 percent respectively used their own car to travel to work in 2012. In 2002, the comparable figures were only 67 and 63 percent. In central locations, there has been little change when it comes to transport choices. Here, 68 percent of people commuted in their own cars.
+    </desc>
     <g transform="translate(51,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.796875px;line-height:21px;white-space:nowrap;width:52.6875px;fill:#666666;">
@@ -466,7 +468,7 @@
                     <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Statistisches Bundesamt, Microcensus.
+                                Source:  German Federal Statistical Office, Microcensus.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
@@ -475,7 +477,7 @@
                         </div>
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                Conurbations: "very central", catchment areas of large cities: "central", rural areas: "peripheral and very peripheral"
+                                Conurbations: “very central”, outskirts of major cities: “central”, rural regions: “peripheral and very peripheral”.
                             </p>
                         </div>
                     </div>

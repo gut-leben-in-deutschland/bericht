@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
-    <desc style=""/>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
+    <desc style="">
+        The chart shows recorded and solved cases of property crime in the period 1993 to 2016. Between 1993 and 2010, property crime fell considerably from more than 2,870,000 recorded cases to some 2,300,000. Since 2010, property crime has been rising. In 2016, some 2,374,000 were recorded. Clearance rates have dropped since 1998 from 32.3 to 27.2 percent in 2016.
+    </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
             <text dy="1.7em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:0px;line-height:21px;white-space:nowrap;width:0px;fill:#666666;"/>
@@ -9,13 +11,13 @@
                     1993
                 </text>
             </g>
-            <g transform="translate(161.59900435594275,264)" style="">
+            <g transform="translate(176.71142857142857,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2000
+                    2001
                 </text>
             </g>
-            <g transform="translate(346.33777224642193,264)" style="">
+            <g transform="translate(331.2885714285714,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2008
@@ -24,16 +26,16 @@
             <g transform="translate(508,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#467aaf" stroke-width="3" stroke-dasharray="none" d="M0,97.95652000000001L23.07654013690106,109.34655999999998L46.15308027380212,110.06768L69.22962041070316,117.09379999999999L92.36938394523958,122.4956L115.44592408214064,131.04044L138.5224642190417,138.66328000000001L161.59900435594275,144.66924L184.73876789047915,145.13092L207.8153080273802,140.39383999999998L230.89184816428127,142.8244L253.96838830118233,145.5588L277.10815183571873,154.91807999999997L300.1846919726198,159.92392L323.26123210952085,161.53235999999998L346.33777224642193,166.2688L369.4775357809583,170.21416L392.5540759178594,171.92856L415.6306160547604,167.84876L438.7071561916615,168.811L461.8469197261979,168.69028L484.9234598630989,166.3976L508,164.65224" style="fill:none;stroke:#467aaf;stroke-width:3px;"/>
+                <path fill="none" stroke="#467aaf" stroke-width="3" stroke-dasharray="none" d="M0,97.95652000000001L22.073809523809523,109.34655999999998L44.147619047619045,110.06768L66.22142857142858,117.09379999999999L88.35571428571428,122.4956L110.4295238095238,131.04044L132.50333333333333,138.66328000000001L154.57714285714286,144.66924L176.71142857142857,145.13092L198.7852380952381,140.39383999999998L220.8590476190476,142.8244L242.93285714285713,145.5588L265.06714285714287,154.91807999999997L287.14095238095234,159.92392L309.21476190476193,161.53235999999998L331.2885714285714,166.2688L353.42285714285714,170.21416L375.49666666666667,171.92856L397.5704761904762,167.84876L419.64428571428573,168.811L441.7785714285714,168.69028L463.85238095238094,166.3976L485.92619047619047,164.65224L508,169.04904" style="fill:none;stroke:#467aaf;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="512" x2="518" y1="164.65224" y2="164.65224" stroke="#467aaf" stroke-width="3" style="stroke:#467aaf;stroke-width:3px;"/>
-                    <text dy="0.3em" x="522" y="164.65224" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:114.1875px;fill:#666666;">
+                    <line x1="512" x2="518" y1="169.04904" y2="169.04904" stroke="#467aaf" stroke-width="3" style="stroke:#467aaf;stroke-width:3px;"/>
+                    <text dy="0.3em" x="522" y="169.04904" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:114.109375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            2,484m
+                            2.374m
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Recorded cases
@@ -42,12 +44,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#004f80" stroke-width="3" stroke-dasharray="none" d="M0,218.85488L23.07654013690106,223.21396L46.15308027380212,221.31124L69.22962041070316,219.9938L92.36938394523958,219.41072L115.44592408214064,221.09756L138.5224642190417,224.4974L161.59900435594275,226.71895999999998L184.73876789047915,227.40788L207.8153080273802,226.72296L230.89184816428127,228.02668L253.96838830118233,228.6788L277.10815183571873,231.8126L300.1846919726198,233.13064L323.26123210952085,233.70568L346.33777224642193,234.9214L369.4775357809583,235.73984000000002L392.5540759178594,236.37472L415.6306160547604,236.24284L438.7071561916615,237.3708L461.8469197261979,237.79296L484.9234598630989,237.62036L508,237.17444" style="fill:none;stroke:#004f80;stroke-width:3px;"/>
+                <path fill="none" stroke="#004f80" stroke-width="3" stroke-dasharray="none" d="M0,218.85488L22.073809523809523,223.21396L44.147619047619045,221.31124L66.22142857142858,219.9938L88.35571428571428,219.41072L110.4295238095238,221.09756L132.50333333333333,224.4974L154.57714285714286,226.71895999999998L176.71142857142857,227.40788L198.7852380952381,226.72296L220.8590476190476,228.02668L242.93285714285713,228.6788L265.06714285714287,231.8126L287.14095238095234,233.13064L309.21476190476193,233.70568L331.2885714285714,234.9214L353.42285714285714,235.73984000000002L375.49666666666667,236.37472L397.5704761904762,236.24284L419.64428571428573,237.3708L441.7785714285714,237.79296L463.85238095238094,237.62036L485.92619047619047,237.17444L508,238.14016" style="fill:none;stroke:#004f80;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="512" x2="518" y1="237.17444" y2="237.17444" stroke="#004f80" stroke-width="3" style="stroke:#004f80;stroke-width:3px;"/>
-                    <text dy="0.3em" x="522" y="237.17444" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:102.671875px;fill:#666666;">
+                    <line x1="512" x2="518" y1="238.14016" y2="238.14016" stroke="#004f80" stroke-width="3" style="stroke:#004f80;stroke-width:3px;"/>
+                    <text dy="0.3em" x="522" y="238.14016" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:102.75px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            670.639
+                            646,496
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Solved cases
@@ -75,16 +77,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-right:131px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  PKS.
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Police Crime Statistics 2017.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government
@@ -93,7 +100,7 @@
                         </div>
                         <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
-                                Data for the Federal Republic of Germany (East and West German federal states) only available from 1993
+                                Data for the Federal Republic of Germany (eastern and western federal states) only available starting 1993.
                             </p>
                         </div>
                     </div>

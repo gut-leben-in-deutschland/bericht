@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import ImmutablePropTypes from 'react-immutable-proptypes';
 import {scaleLinear, scaleOrdinal} from 'd3-scale';
 import vgExpr from 'vega-expression';
@@ -120,7 +121,7 @@ const BarChart = (props) => {
     const filter = datumExpr(props.filter);
     data = data.filter(filter.fn);
   }
-  data = data.filter(d => d.value.length > 0).map(d => ({
+  data = data.filter(d => d.value && d.value.length > 0).map(d => ({
     datum: d,
     label: d[props.y],
     value: +d.value

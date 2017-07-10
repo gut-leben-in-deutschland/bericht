@@ -17,7 +17,7 @@ Der Indikator zur **ärztlichen Versorgungsdichte** misst, wie viele Einwohner e
 
 Er ist ein Maß für die **Güte der medizinischen Versorgung**.
 
-**Allgemeine Fachärzte** sind Augenärzte, Chirurgen, Frauenärzte, Hautärzte, Hals-Nasen-Ohren-Ärzte, Nervenärzte, Orthopäden, Psychotherapeuten, Urologen und Kinderärzte. 
+**Allgemeine Fachärzte** sind Augenärzte, Chirurgen, Frauenärzte, Hautärzte, Hals-Nasen-Ohren-Ärzte, Nervenärzte, Orthopäden, Psychotherapeuten, Urologen und Kinderärzte. Fachinternisten, wie beispielsweise Kardiologen oder Gastroenterologen, zählen nicht zu den allgemeinen, sondern zu den spezialisierten Fachärzten. Diese Gruppe wird hier nicht dargestellt. 
 
 In Kreisregionen werden kleinere kreisfreie Städte unter 100.000 Einwohnern mit Landkreisen zusammengefasst. Die Daten basieren auf Angaben aus dem **Bundesarztregister**, das alle Ärzte und Psychotherapeuten in der vertragsärztlichen Versorgung erfasst. Diese Daten sind auch Grundlage für die Bedarfsplanung im Gesundheitssystem, deren Ziel eine ausgewogene haus- und fachärztliche Versorgung ist.
 

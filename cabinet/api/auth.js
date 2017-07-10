@@ -19,7 +19,7 @@ export const configureAuth = (config) => {
       window.history.replaceState(
         {},
         document.title,
-        location.href.substr(0, location.href.length - location.hash.length)
+        window.location.href.substr(0, window.location.href.length - window.location.hash.length)
       );
     }
   };

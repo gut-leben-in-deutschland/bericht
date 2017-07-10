@@ -1,4 +1,5 @@
-import React, {PropTypes} from 'react';
+import PropTypes from 'prop-types';
+import React from 'react';
 import CabinetChart from 'components/Chart/CabinetChart';
 import {StyleSheet, css} from 'aphrodite';
 

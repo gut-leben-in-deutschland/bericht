@@ -25,7 +25,7 @@ Der medizinische Fortschritt macht es möglich: Krankheiten und altersbedingte S
 
 <!-- ColumnLeft start -->
 
-Die **Lebenserwartung bei Geburt** eignet sich gut als Maßeinheit für den allgemeinen Gesundheitszustand einer Gesellschaft. Die Lebenserwartung bei Geburt gibt die durchschnittlich zu **erwartende Lebensdauer eines neugeborenen Kindes** an. Grundlage für die Berechnung der Lebenserwartung sind die aktuellen Sterbetafeln und Bevölkerungszahlen. 2013 lag die durchschnittliche Lebenserwartung von Frauen in Deutschland knapp unter 83 Jahren. Männer wurden im Schnitt 78 Jahre alt.
+Die **Lebenserwartung bei Geburt** eignet sich gut als Maßeinheit für den allgemeinen Gesundheitszustand einer Gesellschaft. Die Lebenserwartung bei Geburt gibt die durchschnittlich zu **erwartende Lebensdauer eines neugeborenen Kindes** an. Grundlage für die Berechnung der Lebenserwartung sind die aktuellen Sterbetafeln und Bevölkerungszahlen. 2015 lag die durchschnittliche Lebenserwartung von Frauen in Deutschland knapp unter 83 Jahren. Männer wurden im Schnitt 78 Jahre alt.
 
 Seit den späten 1950er Jahren steigt die Lebenserwartung in Deutschland an, Jahr für Jahr um knapp drei Monate. Ein Datenvergleich der deutschen Gesamtbevölkerung mit anderen [OECD-Ländern](http://dx.doi.org/10.1787/27e0fc9d-en) zeigt: Deutschland liegt mit einer durchschnittlichen Lebenserwartung im Mittelfeld – ein halbes Jahr über dem OECD-Durchschnitt.
 
@@ -42,13 +42,13 @@ Seit den späten 1950er Jahren steigt die Lebenserwartung in Deutschland an, Jah
 <!-- ColumnContainer end -->
 
 
-<!--DifferenceBarScrollContainer start data=01/01/districts.csv geography=mpidr-396 startYear=1995/97 endYear=2009/11 numberFormat=.2f diffFormat=+.2f -->
+<!--DifferenceBarScrollContainer start data=01/01/districts.csv geography=mpidr-396 startYear=1995/97 endYear=2013/15 numberFormat=.2f diffFormat=+.2f -->
 
 <!--ScrollBlock start stage=choropleth skipMobileVisualization-->
 
-**Lebenserwartung regional – große Unterschiede im deutschlandweiten Vergleich:** In den knapp [400 Landkreisen und kreisfreien Städten in Deutschland](http://www.demogr.mpg.de/go/lebenserwartung) unterschied sich die Lebenserwartung bei Geburt in den Jahren 2009 bis 2011[^1] regional deutlich: Spitzenreiter war der Landkreis Starnberg mit 82,7 Jahren. Die Menschen im Landkreis Pirmasens lebten mit 77,3 Jahren im Schnitt rund fünf Jahre kürzer.
+**Lebenserwartung regional – große Unterschiede im deutschlandweiten Vergleich:** In den knapp 400 Landkreisen und kreisfreien Städten in Deutschland unterschied sich die Lebenserwartung bei Geburt in den Jahren 2013 bis 2015[^1] regional deutlich: Spitzenreiter war der Landkreis Starnberg mit 83,3 Jahren. Die Menschen in Bremerhaven lebten mit 77,6 Jahren im Schnitt fast sechs Jahre kürzer.
 
-In allen Landkreisen und kreisfreien Städten **leben Frauen deutlich länger als Männer**. Frauen im Landkreis Tübingen erreichten mit 84,5 Jahren das höchste durchschnittliche Lebensalter. Die Frauen im Landkreis Pirmasens hatten mit 79,1 Jahren die niedrigste Lebenserwartung bei Geburt. Bei den Männern wurden die Bewohner im Landkreis Starnberg mit 81,3 Jahren am ältesten. Männer in Gelsenkirchen lebten durchschnittlich 74,6 Jahre.
+In allen Landkreisen und kreisfreien Städten **leben Frauen deutlich länger als Männer**. Frauen im Landkreis Breisgau-Hochschwarzwald erreichten mit knapp 85 Jahren das höchste durchschnittliche Lebensalter. Die Frauen im Landkreis Pirmasens hatten mit 80 Jahren die geringste Lebenserwartung bei Geburt. Bei den Männern wurden die Bewohner im Landkreis Starnberg mit 81,5 Jahren am ältesten. Männer in Bremerhaven lebten durchschnittlich 74,3 Jahre.
 
 <!--ScrollBlock end-->
 
@@ -69,19 +69,19 @@ Wählen Sie ihre Gemeinde oder Stadt aus:
 
 <!--ScrollBlock start stage=endValue-->
 
-Die Punkte ordnen die Lebenserwartung bei Geburt in den Jahren 2009 bis 2011 für knapp 400 Landkreise und kreisfreie Städte in Deutschland an - von links nach rechts, von der niedrigsten bis zur höchsten Lebenserwartung. Jeder interaktive Punkt steht für einen Landkreis oder eine kreisfreie Stadt.
+Die Punkte ordnen die Lebenserwartung bei Geburt in den Jahren 2013 bis 2015 für knapp 400 Landkreise und kreisfreie Städte in Deutschland an - von links nach rechts, von der niedrigsten bis zur höchsten Lebenserwartung. Jeder interaktive Punkt steht für einen Landkreis oder eine kreisfreie Stadt.
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=values-->
 
-Die transparenten Punkte zeigen die Lebenserwartung in den Landkreisen und kreisfreien Städten für die Jahre 1995 bis 1997. Wie viele Lebensjahre haben die Menschen seitdem, also in rund 14 Jahren, hinzugewonnen?
+Die transparenten Punkte zeigen die Lebenserwartung in den Landkreisen und kreisfreien Städten für die Jahre 1995 bis 1997. Wie viele Lebensjahre haben die Menschen seitdem, also in rund 18 Jahren, hinzugewonnen?
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights='09764,11000' tooltips='09764,11000'-->
+<!--ScrollBlock start stage=difference highlights='03402,11000' tooltips='03402,11000'-->
 
-**Größter Zugewinn an Lebensjahren in Berlin:** Je länger die verbindende Linie zwischen den Datenpunkten desto mehr Lebensjahre haben die Bewohner in den Landkreisen und kreisfreien Städten hinzugewonnen. In Berlin waren das ganze sechs Jahre. Die Hauptstadt war damit Spitzenreiter. In Memmingen stieg die Lebenserwartung im gleichen Zeitraum um weniger als ein Jahr. Mit 80,39 Jahren in Berlin und 79,86 Jahren in Memmingen lag die Lebenserwartung hier nun gleich auf.
+**Größter Zugewinn an Lebensjahren in Berlin:** Je länger die verbindende Linie zwischen den Datenpunkten desto mehr Lebensjahre haben die Bewohner in den Landkreisen und kreisfreien Städten hinzugewonnen. In Berlin waren das mehr als sechs Jahre. Die Hauptstadt war damit Spitzenreiter. Im Landkreis Emden stieg die Lebenserwartung im gleichen Zeitraum um 1,5 Jahre. Mit 80,5 Jahren lag die Lebenserwartung bei Geburt in Berlin zwischen 2013 und 2015 zwei Jahre höher als im Landkreis Emden mit 78,5 Jahren.
 
 <!--ScrollBlock end-->
 
@@ -91,17 +91,17 @@ Die transparenten Punkte zeigen die Lebenserwartung in den Landkreisen und kreis
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights='09188,08315,09184,08435,08416,08115,08311,06434,08116,08111,05314,09679,08118,08337,06436,09173,09181,08221,08235,09175,08335,08415,08135,08421,09176,07316,06438,08336,09678,09162,08117,08316,09780,14612,08236,06439,09172,09179,09771,08119'-->
+<!--ScrollBlock start stage=difference highlights='09188,08315,09184,08416,09162,06434,08221,09175,09179,08115,08435,09679,09181,08415,08116,09780,08118,08236,08111,05515,06436,09174,05314,14612,16053,08421,09777,09189,08316,08119,06438,08235,09182,09173,09771,09177,08425,08436,09180,09775'-->
 
-**Regional höchste Lebenserwartung überwiegend in Süddeutschland:** Von den 40 Landkreisen und kreisfreien Städten mit der höchsten Lebenserwartung in den Jahren 2009 bis 2011 liegen 33 in Süddeutschland – in Baden-Württemberg oder Bayern.
+**Regional höchste Lebenserwartung überwiegend in Süddeutschland:** Von den 40 Landkreisen und kreisfreien Städten mit der höchsten Lebenserwartung in den Jahren 2013 bis 2015 liegen 33 in Süddeutschland – in Baden-Württemberg oder Bayern.
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights='07317,05513,16065,15090,04012,05112,01004,13073,15081,12070,13076,15992,05119,09263,09476,12051,12066,05116,16072,12073,15083,15991,15002,15087,05913,03452,05916,15084,03405,03461,10041,03354,05113,09479,12053,03255,05914,12062,13991,05512' yAxisLabel='80,80 Jahre'-->
+<!--ScrollBlock start stage=difference highlights='03360,16066,13991,09479,09263,16064,09464,03405,07134,12070,05116,15991,03457,15002,01051,05113,10041,10043,01004,03156,16072,12066,03154,05913,16068,03452,03102,05112,01509,05914,15081,05119,15992,05916,03402,16065,01001,05513,07317,04012' yAxisLabel='80,80 Jahre'-->
 
-**Niedrige Lebenserwartung – regionale Schwerpunkte verschieben sich:** Von den 40 Landkreisen mit der geringsten Lebenserwartung im Jahr 1995 bis 1997 lagen 39 in Ostdeutschland. 2010 waren es nur noch 19 Landkreise.
+**Niedrige Lebenserwartung – regionale Schwerpunkte verschieben sich:** Von den 40 Landkreisen mit der geringsten Lebenserwartung in den Jahren 1995 bis 1997 lagen 39 in Ostdeutschland. Zwischen 2013 und 2015 waren es nur noch 13 Landkreise.
 
-Neun der 40 Landkreise mit der geringsten Lebenserwartung in den Jahren 2009 bis 2011 lagen in Nordrhein-Westfalen. In Niedersachsen lagen fünf und in Bayern drei der Landkreise mit der geringsten Lebenserwartung. Aber auch in Bremen, Rheinland-Pfalz, Schleswig-Holstein und im Saarland gab es einzelne Landkreise mit einer unterdurchschnittlichen Lebenserwartung.
+Jeweils acht der 40 Landkreise und kreisfreien Städte mit der geringsten Lebenserwartung in den Jahren 2013 bis 2015 lagen in Nordrhein-Westfalen und Niedersachsen. In Bayern und Schleswig-Holstein lagen je drei der Landkreise mit der geringsten Lebenserwartung. Aber auch in Rheinland-Pfalz, im Saarland und im Bremen gab es einzelne Landkreise mit einer unterdurchschnittlichen Lebenserwartung.
 
 <!--ScrollBlock end-->
 
@@ -181,13 +181,13 @@ Der Indikator zur **Versorgung mit Haus- und Fachärzten** misst, wie viele Einw
 }
 ```
 
-Ein Hausarzt versorgte 2015 in Deutschland im Durchschnitt 1.580 Einwohner. Regional gab es jedoch große Unterschiede. In Freiburg kümmerte sich ein Hausarzt um knapp 1.100 Einwohner, in Gütersloh hingegen um 2.066 Einwohner. Im Vergleich zu 2010 versorgte ein Hausarzt 2015 im Durchschnitt 41 Einwohner mehr als fünf Jahre früher.
+Ein Hausarzt versorgte 2016 in Deutschland im Durchschnitt 1.572 Einwohner. Regional gab es jedoch große Unterschiede. In der Kreisregion Garmisch-Partenkirchen kümmerte sich ein Hausarzt um rund 1.100 Einwohner, in Gütersloh hingegen um 2.037 Einwohner. Im Vergleich zu 2010 versorgte ein Hausarzt 2016 im Durchschnitt 33 Einwohner mehr als sechs Jahre früher.
 
 Eine bessere Planung sorgt[^3] für eine gute flächendeckende Versorgung. In Gebieten mit vielen Hausärzten können sich keine weiteren Ärzte mehr niederlassen. In unterversorgten Gebieten werden Anreize gesetzt, damit sich dort mehr Ärzte niederlassen. In vermeintlich unterversorgten Gebieten hilft auch die Nähe zur Großstadt; Hausärzte dort versorgen das Umland mit.
 
-Der nächstgelegene Hausarzt ist in allen Kreisregionen Deutschlands durchschnittlich **innerhalb von zehn Minuten mit dem PKW erreichbar**.
+Einwohner in allen Kreisregionen Deutschland erreichen den nächstgelegenen Hausarzt **durchschnittlich innerhalb von knapp sechs Minuten**. Für einige Einwohner kann der Weg zum nächsten Hausarzt allerdings auch deutlich mehr Zeit in Anspruch nehmen.
 
-Die kürzesten Anfahrtswege haben Bewohner von Großstädten. Den längsten Anfahrtsweg zum nächstgelegenen Hausarzt haben Bewohner in flächengroßen Landkreisen. So erreichen Bewohner Münchens im Schnitt in 2,3 Minuten Fahrtzeit den nächsten Hausarzt. Die Bewohner im Eifelkreis Bitburg-Prüm in Rheinland-Pfalz sind fast vier Mal so lange unterwegs – knapp zehn Minuten.
+Die kürzesten Anfahrtswege haben Bewohner von Großstädten. Den längsten Anfahrtsweg zum nächstgelegenen Hausarzt haben Bewohner in flächengroßen Landkreisen. So erreichen Bewohner Münchens im Schnitt in 2,4 Minuten Fahrzeit den nächsten Hausarzt. Die Bewohner im Eifelkreis Bitburg-Prüm in Rheinland-Pfalz sind mehr als vier Mal so lange unterwegs – knapp über zehn Minuten.
 
 
 ```chart
@@ -204,9 +204,9 @@ Die kürzesten Anfahrtswege haben Bewohner von Großstädten. Den längsten Anfa
 
 Das Prinzip der **freien Arztwahl** bedeutet: Jeder Versicherte in Deutschland kann seinen Hausarzt frei wählen. Der Indikator kann die allgemeine Erreichbarkeit von Hausärzten abbilden, nicht aber weitere wichtige Aspekte der ärztlichen Versorgung.
 
-Bei **allgemeinen Fachärzten** sind die regionalen Unterschiede deutlich ausgeprägter: Im Durchschnitt versorgt ein allgemeiner Facharzt 1.451 Einwohner. Im Jahr 2015 reichte die Spannbreite von 447 Einwohnern pro allgemeinem Facharzt in Heidelberg bis 2.348 Einwohnern in Gifhorn. Bei den allgemeinen Fachärzten konzentriert sich die Versorgung viel stärker auf die Städte. Sie müssen das Umland entsprechend mitversorgen.
+Bei **allgemeinen Fachärzten** sind die regionalen Unterschiede deutlich ausgeprägter: Im Durchschnitt versorgt ein allgemeiner Facharzt 1.438 Einwohner. Im Jahr 2016 reichte die Spannbreite von 440 Einwohnern pro allgemeinem Facharzt in Heidelberg bis 2270 Einwohnern in der Kreisregion Gifhorn. Bei den allgemeinen Fachärzten konzentriert sich die Versorgung viel stärker auf die Städte. Sie müssen das Umland entsprechend mitversorgen.
 
-Zu den allgemeinen Fachärzten zählen Augenärzte, Chirurgen, Frauenärzte, Hautärzte, Hals-Nasen-Ohren-Ärzte, Nervenärzte, Orthopäden, Psychotherapeuten, Urologen und Kinderärzte.
+Zu den allgemeinen Fachärzten zählen Augenärzte, Chirurgen, Frauenärzte, Hautärzte, Hals-Nasen-Ohren-Ärzte, Nervenärzte, Orthopäden, Psychotherapeuten, Urologen und Kinderärzte. Fachinternisten, wie beispielsweise Kardiologen oder Gastroenterologen, zählen nicht zu den allgemeinen Fachärzten, sondern zu den spezialisierten Fachärzten. Diese Gruppe wird hier nicht dargestellt. 
 
 ```chart
 01-03-c
@@ -232,7 +232,7 @@ Auf Pflege angewiesen zu sein, gehört zu den Lebenssituationen, die jeden Mensc
 
 <!-- Quote text='Sollte ich in ein Pflegeheim müssen [...] möchte ich menschlich - nicht nach Minuten - gepflegt werden. Sondern nach geistigem & körperlichem Bedarf.' source='aus einer Online-Antwort vom 12. September 2015' -->
 
-Insgesamt waren zum Jahresende 2013 rund 2,6 Millionen Menschen in Deutschland pflegebedürftig. Der Großteil der Pflegebedürftigen wird zu Hause und dabei mehrheitlich von ihren Angehörigen allein versorgt. Rund 600.000 Angehörige werden von einem Pflegedienst unterstützt. Ein Drittel aller Pflegebedürftigen lebt dauerhaft in einem Pflege- oder Altenheim.
+Insgesamt waren zum Jahresende 2015 knapp 2,9 Millionen Menschen in Deutschland pflegebedürftig. Der Großteil der Pflegebedürftigen wird zu Hause und dabei mehrheitlich von ihren Angehörigen allein versorgt. Knapp 700.000 Angehörige werden von einem Pflegedienst unterstützt. Etwas weniger als ein Drittel aller Pflegebedürftigen lebt dauerhaft in einem Pflege- oder Altenheim.
 
 ```chart
 01-00-b
@@ -268,7 +268,7 @@ Der Indikator **Verhältnis von subjektiv eingeschätzter Gesundheit und Einkomm
 01-05-a
 ```
 
-Je geringer das Einkommen, desto häufiger wird die eigene Gesundheit als **„schlecht“ oder „weniger gut“** eingestuft. In der untersten Einkommensgruppe schätzt jeder Vierte seinen Gesundheitszustand als „weniger gut“ oder „schlecht“ ein. An der Spitze der Einkommensverteilung ist es dagegen nur jeder Achte. Die meisten Menschen schätzen ihre Gesundheit jedoch als **gut oder sehr gut** ein. Bei Menschen mit geringen Einkommen[^5] ist das jede zweite Person. Bei Menschen mit besonders hohen Einkommen sind es rund 60 Prozent. Kausale Schlussfolgerungen sind nur bedingt möglich: Eine schlechte Gesundheit kann die Einkommenschancen beeinträchtigen. Gleichzeitig kann ein geringes Einkommen eine schlechte Gesundheit nach sich ziehen.  
+Je geringer das Einkommen, desto häufiger wird die eigene Gesundheit als **„weniger gut“ oder „schlecht“** eingestuft. In der untersten Einkommensgruppe schätzt jeder Vierte seinen Gesundheitszustand als „weniger gut“ oder „schlecht“ ein. An der Spitze der Einkommensverteilung ist es dagegen nur jeder Zehnte. Die meisten Menschen schätzen ihre Gesundheit jedoch als **„gut“ oder „sehr gut“** ein. Bei Menschen mit geringen Einkommen[^5] sind das 45 Prozent. Bei Menschen mit besonders hohen Einkommen sind es rund 58 Prozent. Kausale Schlussfolgerungen sind nur bedingt möglich: Eine schlechte Gesundheit kann die Einkommenschancen beeinträchtigen. Gleichzeitig kann ein geringes Einkommen eine schlechte Gesundheit nach sich ziehen. 
 
 Eine universelle Gesundheitsversorgung aller Menschen zu sichern – das ist Ziel des Sozialstaates. Deshalb sind so gut wie alle Menschen in Deutschland krankenversichert. Gesundheitliche Einschränkungen sollen nicht zu Einkommensarmut führen und umgekehrt.
 
@@ -282,7 +282,7 @@ Das Solidarprinzip stellt sicher: Alle Versicherten haben einen gleichen Leistun
 <!-- GovernmentMeasures end -->
 
 
-[^1]: Um die Lebenserwartung regional auf Kreisebene darstellen zu können, werden Sterbefälle für die Jahre 2009 bis 2011 sowie 1995 bis 1997 zusammengefasst.
+[^1]: Um die Lebenserwartung regional auf Kreisebene darstellen zu können, werden Sterbefälle für die Jahre 2013 bis 2015 sowie 1995 bis 1997 zusammengefasst.
 [^2]: Kreisregionen fassen Kreisstädte und umliegende Landkreise zusammen. Für die Messung der Versorgungsdichte ist diese regionale Differenzierung geeignet, da Ärzte in Städten häufig Patienten aus umliegenden Landkreisen mitversorgen. Insgesamt gibt es 361 Kreisregionen und 402 Kreise und kreisfreie Städte in Deutschland.
 [^3]: Die Bedarfsplanung im Gesundheitswesen legt fest, wie viele Einwohner ein Haus- oder Facharzt regional versorgen muss.
 [^4]: Die berechneten Werte sind eine statistische Annäherung. Um etwaige statistische Schwankungen aufgrund der Zusammensetzung der Stichprobe abzubilden, werden die obere und untere Grenze des 95-Prozent-Konfidenzintervalls markiert.
