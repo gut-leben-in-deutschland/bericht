@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="442" style="height:442px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Entwicklung der Erwerbstätigenquote der 20- bis 64-Jährigen insgesamt und differenziert nach Geschlecht im Zeitraum von 1991 bis 2015. In diesem Zeitraum ist die Erwerbstätigenquote insgesamt von 70,4 Prozent auf 77,8 Prozent gestiegen. Die Erwerbstätigenquote der Frauen ist seit 1991 von rund 59 auf 73,5 Prozent im Jahr 2015 gestiegen. Die der Männer lag 2015 bei 82 Prozent.
+        Die Abbildung zeigt die Entwicklung der Erwerbstätigenquote der 20- bis 64-Jährigen insgesamt und differenziert nach Geschlecht im Zeitraum von 1991 bis 2016. In diesem Zeitraum ist die Erwerbstätigenquote insgesamt von 70,4 Prozent auf 78.4 Prozent gestiegen. Die Erwerbstätigenquote der Frauen ist seit 1991 von rund 59 auf 74,3 Prozent im Jahr 2016 gestiegen. Die der Männer lag 2015 bei 82,3 Prozent.
     </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
@@ -14,31 +14,31 @@
                     1991
                 </text>
             </g>
-            <g transform="translate(180.66666666666666,304)" style="">
+            <g transform="translate(173.4447486584164,304)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1999
                 </text>
             </g>
-            <g transform="translate(361.3333333333333,304)" style="">
+            <g transform="translate(368.5552513415836,304)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2007
+                    2008
                 </text>
             </g>
             <g transform="translate(542,304)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#be5b00" stroke-width="3" stroke-dasharray="none" d="M0,141.60000000000002L22.567875884097653,149.40000000000003L45.19758156513803,157.79999999999995L67.76545744923568,159.59999999999997L90.33333333333333,158.39999999999998L112.90120921743099,159.59999999999997L135.53091489847137,162.59999999999997L158.09879078256904,161.39999999999998L180.66666666666666,155.39999999999998L203.2345425507643,152.39999999999998L225.86424823180468,149.40000000000003L248.43212411590235,151.20000000000005L271,153.59999999999997L293.56787588409765,156.59999999999997L316.1975815651381,148.20000000000005L338.76545744923567,138.00000000000003L361.3333333333333,127.20000000000002L383.90120921743096,120.60000000000002L406.5309148984714,120L429.09879078256904,115.19999999999999L451.6666666666667,106.20000000000002L474.23454255076433,103.80000000000001L496.8642482318047,101.4L519.4321241159023,99L542,97.19999999999999" style="fill:none;stroke:#be5b00;stroke-width:3px;"/>
+                <path fill="none" stroke="#be5b00" stroke-width="3" stroke-dasharray="none" d="M0,141.60000000000002L21.665754024750846,149.40000000000003L43.39086627970649,157.79999999999995L65.05662030445734,159.59999999999997L86.7223743292082,158.39999999999998L108.38812835395905,159.59999999999997L130.11324060891468,162.59999999999997L151.77899463366555,161.39999999999998L173.4447486584164,155.39999999999998L195.11050268316725,152.39999999999998L216.8356149381229,149.40000000000003L238.50136896287373,151.20000000000005L260.16712298762457,153.59999999999997L281.83287701237543,156.59999999999997L303.5579892673311,148.20000000000005L325.2237432920819,138.00000000000003L346.8894973168328,127.20000000000002L368.5552513415836,120.60000000000002L390.2803635965393,120L411.9461176212901,115.19999999999999L433.611871646041,106.20000000000002L455.2776256707918,103.80000000000001L477.00273792574745,101.4L498.6684919504983,99L520.3342459752491,97.19999999999999L542,93.6" style="fill:none;stroke:#be5b00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="546" x2="552" y1="97.19999999999999" y2="97.19999999999999" stroke="#be5b00" stroke-width="3" style="stroke:#be5b00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="556" y="97.19999999999999" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:83.78125px;fill:#666666;">
+                    <line x1="546" x2="552" y1="93.6" y2="93.6" stroke="#be5b00" stroke-width="3" style="stroke:#be5b00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="556" y="93.6" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:83.78125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            77,8%
+                            78,4%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Insgesamt
@@ -47,12 +47,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#822900" stroke-width="3" stroke-dasharray="none" d="M0,74.40000000000003L22.567875884097653,83.39999999999998L45.19758156513803,94.79999999999998L67.76545744923568,99.6L90.33333333333333,99L112.90120921743099,105.6L135.53091489847137,110.4L158.09879078256904,111L180.66666666666666,107.4L203.2345425507643,105L225.86424823180468,105L248.43212411590235,109.80000000000001L271,115.80000000000001L293.56787588409765,120L316.1975815651381,111L338.76545744923567,102L361.3333333333333,89.99999999999997L383.90120921743096,83.99999999999997L406.5309148984714,87.59999999999997L429.09879078256904,84.6L451.6666666666667,75.60000000000005L474.23454255076433,73.20000000000005L496.8642482318047,73.20000000000005L519.4321241159023,72.00000000000006L542,72.00000000000006" style="fill:none;stroke:#822900;stroke-width:3px;"/>
+                <path fill="none" stroke="#822900" stroke-width="3" stroke-dasharray="none" d="M0,74.40000000000003L21.665754024750846,83.39999999999998L43.39086627970649,94.79999999999998L65.05662030445734,99.6L86.7223743292082,99L108.38812835395905,105.6L130.11324060891468,110.4L151.77899463366555,111L173.4447486584164,107.4L195.11050268316725,105L216.8356149381229,105L238.50136896287373,109.80000000000001L260.16712298762457,115.80000000000001L281.83287701237543,120L303.5579892673311,111L325.2237432920819,102L346.8894973168328,89.99999999999997L368.5552513415836,83.99999999999997L390.2803635965393,87.59999999999997L411.9461176212901,84.6L433.611871646041,75.60000000000005L455.2776256707918,73.20000000000005L477.00273792574745,73.20000000000005L498.6684919504983,72.00000000000006L520.3342459752491,72.00000000000006L542,70.20000000000002" style="fill:none;stroke:#822900;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="546" x2="552" y1="72.00000000000006" y2="72.00000000000006" stroke="#822900" stroke-width="3" style="stroke:#822900;stroke-width:3px;"/>
-                    <text dy="0.3em" x="556" y="72.00000000000006" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:70.765625px;fill:#666666;">
+                    <line x1="546" x2="552" y1="70.20000000000002" y2="70.20000000000002" stroke="#822900" stroke-width="3" style="stroke:#822900;stroke-width:3px;"/>
+                    <text dy="0.3em" x="556" y="70.20000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:70.765625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            82,0%
+                            82,3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Männer
@@ -61,12 +61,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,210.60000000000002L22.567875884097653,217.20000000000002L45.19758156513803,223.20000000000005L67.76545744923568,221.40000000000003L90.33333333333333,219.00000000000003L112.90120921743099,215.40000000000003L135.53091489847137,216.00000000000003L158.09879078256904,213.60000000000002L180.66666666666666,205.20000000000002L203.2345425507643,200.4L225.86424823180468,194.4L248.43212411590235,193.2L271,192.60000000000002L293.56787588409765,193.8L316.1975815651381,186L338.76545744923567,174.6L361.3333333333333,164.39999999999998L383.90120921743096,157.79999999999995L406.5309148984714,152.39999999999998L429.09879078256904,147.00000000000003L451.6666666666667,137.40000000000003L474.23454255076433,135.00000000000003L496.8642482318047,130.20000000000002L519.4321241159023,126L542,123.00000000000003" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
+                <path fill="none" stroke="#f28502" stroke-width="3" stroke-dasharray="none" d="M0,210.60000000000002L21.665754024750846,217.20000000000002L43.39086627970649,223.20000000000005L65.05662030445734,221.40000000000003L86.7223743292082,219.00000000000003L108.38812835395905,215.40000000000003L130.11324060891468,216.00000000000003L151.77899463366555,213.60000000000002L173.4447486584164,205.20000000000002L195.11050268316725,200.4L216.8356149381229,194.4L238.50136896287373,193.2L260.16712298762457,192.60000000000002L281.83287701237543,193.8L303.5579892673311,186L325.2237432920819,174.6L346.8894973168328,164.39999999999998L368.5552513415836,157.79999999999995L390.2803635965393,152.39999999999998L411.9461176212901,147.00000000000003L433.611871646041,137.40000000000003L455.2776256707918,135.00000000000003L477.00273792574745,130.20000000000002L498.6684919504983,126L520.3342459752491,123.00000000000003L542,118.20000000000002" style="fill:none;stroke:#f28502;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="546" x2="552" y1="123.00000000000003" y2="123.00000000000003" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
-                    <text dy="0.3em" x="556" y="123.00000000000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:66.703125px;fill:#666666;">
+                    <line x1="546" x2="552" y1="118.20000000000002" y2="118.20000000000002" stroke="#f28502" stroke-width="3" style="stroke:#f28502;stroke-width:3px;"/>
+                    <text dy="0.3em" x="556" y="118.20000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:66.703125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            73,5%
+                            74,3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Frauen
@@ -103,7 +103,7 @@
                     <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.
+                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2016.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
                                     <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
                                         Aktualisierte Daten

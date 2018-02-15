@@ -77,7 +77,7 @@ Political measures can only have an indirect effect on people's subjective sense
 
 <!-- GovernmentMeasures end -->
 
-## Decline of violent crime nationwide
+## First increase in violent crime since 2007
 
 <!-- Quote text='Safety in my daily life is important to me. I want to be able to use public transportation without fear, and to feel safe in parks and side streets. To do this, police presence needs to be considerably strengthened.' source='from an online response submitted on 25 August 2015' -->
 

@@ -210,7 +210,7 @@ Kroatien,Croatia
 Lettland,Latvia
 Agrarland,Agricultural land
 Binnengewässer,Inland waters
-Gesamtindikator,Aggregated indicator
+Gesamtindikator,Aggregate indicator
 Küsten/Meere,Coasts/oceans
 Siedlungen,Settlements
 Wälder,Forests
@@ -223,6 +223,7 @@ Saarland,Saarland
 Sachsen,Saxony
 Gestiegen,Increased
 Stagniert,Stagnated
+Stagniert oder gesunken,Stagnated or decreased
 Gesunken,Decreased
 Bildung,Education
 Bis einschl. Hauptschule,Up to and including secondary modern school diploma
@@ -343,3 +344,5 @@ Birkenfeld,Birkenfeld
 19-26 Jahre,aged 19-26
 27-40 Jahre,aged 27-40
 41-60 Jahre,aged 41-60
+30 Minuten oder länger,More than 30 minutes
+"Luftschadstoffe (+ PM<sub>2,5</sub>)","Air pollutants (+ PM<sub>2,5</sub>)"

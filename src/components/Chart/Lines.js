@@ -163,7 +163,7 @@ const LineGroup = (props) => {
         linesWithLayout.map(({line, startValue, endValue, endLabel, highlighted, stroked, start, startX, startY, startLabelY, end, endX, endY, endLabelY, lineColor}, i) => {
           return (
             <g key={i}>
-              {startValue && (
+              {startValue && (startValue !== endValue) && (
                 <g>
                   <line
                     x1={startX - Y_CONNECTOR_PADDING}

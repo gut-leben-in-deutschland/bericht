@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="372" style="height:372px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="426" style="height:426px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Entwicklung der Artenvielfalt und Landschaftsqualität insgesamt und in den fünf Teilindikatoren. Zwischen 1990 und 2013 ist der Gesamtindikator von 76,5 auf 68,5 gesunken. Auch die Teilindikatoren "Siedlungen", "Agrarland" sowie "Küsten und Meere" haben sich zwischen 1990 und 2013 verschlechtert. Die Teilindikatoren "Wälder" und "Binnengewässer" haben sich hingegen verbessert und sind von 81,6 auf 86,9 bzw. von 64,1 auf 71,9 gestiegen.
+        Die Abbildung zeigt die Entwicklung der Artenvielfalt und Landschaftsqualität insgesamt und in den fünf Teilindikatoren. Zwischen 1990 und 2014 ist der Gesamtindikator von 76,5 auf 67,2 gesunken. Auch die Teilindikatoren "Siedlungen", "Agrarland" sowie "Küsten und Meere" haben sich zwischen 1990 und 2014 verschlechtert. Die Teilindikatoren "Wälder" und "Binnengewässer" haben sich hingegen verbessert und sind von 81,6 auf 83,9 bzw. von 64,1 auf 73,6 gestiegen.
     </desc>
     <g transform="translate(50,0)" style="">
         <g style="">
@@ -16,7 +16,7 @@
             <g transform="translate(136,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2014
                 </text>
             </g>
             <g style="">
@@ -26,12 +26,12 @@
                         76,5
                     </text>
                 </g>
-                <path fill="none" stroke="#a4d38e" stroke-width="3" stroke-dasharray="none" d="M0,104.4L136,123.6" style="fill:none;stroke:#a4d38e;stroke-width:3px;"/>
+                <path fill="none" stroke="#a4d38e" stroke-width="3" stroke-dasharray="none" d="M0,104.4L136,126.72" style="fill:none;stroke:#a4d38e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="140" x2="146" y1="123.6" y2="123.6" stroke="#a4d38e" stroke-width="3" style="stroke:#a4d38e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="150" y="123.6" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:104.484375px;fill:#666666;">
+                    <line x1="140" x2="146" y1="126.72" y2="126.72" stroke="#a4d38e" stroke-width="3" style="stroke:#a4d38e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="150" y="126.72" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:104.484375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            68,5
+                            67,2
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Gesamtindikator
@@ -73,7 +73,7 @@
             <g transform="translate(136,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2014
                 </text>
             </g>
             <g style="">
@@ -83,12 +83,12 @@
                         74,2
                     </text>
                 </g>
-                <path fill="none" stroke="#74b917" stroke-width="3" stroke-dasharray="none" d="M0,109.92000000000002L136,145.92" style="fill:none;stroke:#74b917;stroke-width:3px;"/>
+                <path fill="none" stroke="#74b917" stroke-width="3" stroke-dasharray="none" d="M0,109.92000000000002L136,150.24" style="fill:none;stroke:#74b917;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="140" x2="146" y1="145.92" y2="145.92" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
-                    <text dy="0.3em" x="150" y="145.92" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:71.578125px;fill:#666666;">
+                    <line x1="140" x2="146" y1="150.24" y2="150.24" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
+                    <text dy="0.3em" x="150" y="150.24" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:71.578125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            59,2
+                            57,4
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Agrarland
@@ -103,12 +103,12 @@
                         81,6
                     </text>
                 </g>
-                <path fill="none" stroke="#987200" stroke-width="3" stroke-dasharray="none" d="M0,92.16000000000003L136,79.43999999999997" style="fill:none;stroke:#987200;stroke-width:3px;"/>
+                <path fill="none" stroke="#987200" stroke-width="3" stroke-dasharray="none" d="M0,92.16000000000003L136,86.63999999999999" style="fill:none;stroke:#987200;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="140" x2="146" y1="79.43999999999997" y2="79.43999999999997" stroke="#987200" stroke-width="3" style="stroke:#987200;stroke-width:3px;"/>
-                    <text dy="0.3em" x="150" y="79.43999999999997" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:58.78125px;fill:#666666;">
+                    <line x1="140" x2="146" y1="86.63999999999999" y2="86.63999999999999" stroke="#987200" stroke-width="3" style="stroke:#987200;stroke-width:3px;"/>
+                    <text dy="0.3em" x="150" y="86.63999999999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:58.78125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            86,9
+                            83,9
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Wälder
@@ -123,12 +123,12 @@
                         80,8
                     </text>
                 </g>
-                <path fill="none" stroke="#79b8a1" stroke-width="3" stroke-dasharray="none" d="M0,94.08000000000001L136,129.12" style="fill:none;stroke:#79b8a1;stroke-width:3px;"/>
+                <path fill="none" stroke="#79b8a1" stroke-width="3" stroke-dasharray="none" d="M0,94.08000000000001L136,119.03999999999999" style="fill:none;stroke:#79b8a1;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="140" x2="146" y1="129.12" y2="129.12" stroke="#79b8a1" stroke-width="3" style="stroke:#79b8a1;stroke-width:3px;"/>
-                    <text dy="0.3em" x="150" y="129.12" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:77.96875px;fill:#666666;">
+                    <line x1="140" x2="146" y1="123.36000000000001" y2="123.36000000000001" stroke="#79b8a1" stroke-width="3" style="stroke:#79b8a1;stroke-width:3px;"/>
+                    <text dy="0.3em" x="150" y="123.36000000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:77.96875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            66,2
+                            70,4
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Siedlungen
@@ -143,12 +143,12 @@
                         64,1
                     </text>
                 </g>
-                <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,134.16000000000003L136,115.43999999999997" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
+                <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,134.16000000000003L136,111.36000000000001" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="140" x2="146" y1="115.43999999999997" y2="115.43999999999997" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="150" y="115.43999999999997" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:102.8125px;fill:#666666;">
+                    <line x1="140" x2="146" y1="111.36000000000001" y2="111.36000000000001" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="150" y="111.36000000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:102.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            71,9
+                            73,6
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Binnengewässer
@@ -163,12 +163,12 @@
                         78,1
                     </text>
                 </g>
-                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,100.56000000000003L136,148.32" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
+                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,100.56000000000003L136,153.11999999999998" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="140" x2="146" y1="157.92" y2="157.92" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="150" y="157.92" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:93.765625px;fill:#666666;">
+                    <line x1="140" x2="146" y1="162.24" y2="162.24" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="150" y="162.24" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:93.765625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            58,2
+                            56,2
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Küsten/Meere
@@ -196,16 +196,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="312" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="312" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
                 <div style="display:block;height:0px;padding-left:50px;padding-right:133px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Bundesamt für Naturschutz 2015.
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Bundesamt für Naturschutz 2017. Daten vom Dachverband Deutscher Avifaunisten 2017. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

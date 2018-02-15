@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="438" style="height:438px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Familien- und Lebensformen in den Jahren 1996 und 2015. 56 Prozent der Menschen in Deutschland lebten 2015 mit einem Ehepartner oder einer Ehepartnerin zusammen, 1996 waren es noch 66 Prozent. Der Anteil an Männern und Frauen, die in einer nicht-ehelichen Lebensgemeinschaft zusammenlebten, betrug 1996 sechs Prozent und 2015 neun Prozent. 1996 lebten rund 28 Prozent der Menschen ohne Partner, 2015 waren es rund 34 Prozent. Deutlich weniger als ein Prozent aller Männer oder Frauen lebten 1996 und 2015 mit ihrem Partner bzw. ihrer Partnerin in gleichgeschlechtlichen Lebensgemeinschaften oder in einer eingetragenen Lebenspartnerschaft.
+        Die Abbildung zeigt die Familien- und Lebensformen in den Jahren 1996 und 2016. 56 Prozent der Menschen in Deutschland lebten 2016 mit einem Ehepartner oder einer Ehepartnerin zusammen, 1996 waren es noch 66 Prozent. Der Anteil an Männern und Frauen, die in einer nicht-ehelichen Lebensgemeinschaft zusammenlebten, betrug 1996 sechs Prozent und 2016 neun Prozent. 1996 lebten rund 28 Prozent der Menschen ohne Partner, 2016 waren es rund 34 Prozent. Deutlich weniger als ein Prozent aller Männer oder Frauen lebten 1996 und 2016 mit ihrem Partner bzw. ihrer Partnerin in gleichgeschlechtlichen Lebensgemeinschaften oder in einer eingetragenen Lebenspartnerschaft.
     </desc>
     <g transform="translate(45,0)" style="">
         <g style="">
@@ -14,7 +14,7 @@
             <g transform="translate(549,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
@@ -24,12 +24,12 @@
                         66,1%
                     </text>
                 </g>
-                <path fill="none" stroke="#71d7cc" stroke-width="3" stroke-dasharray="none" d="M0,65.69999999999999L549,94.80000000000004" style="fill:none;stroke:#71d7cc;stroke-width:3px;"/>
+                <path fill="none" stroke="#71d7cc" stroke-width="3" stroke-dasharray="none" d="M0,65.69999999999999L549,95.10000000000002" style="fill:none;stroke:#71d7cc;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="553" x2="559" y1="94.80000000000004" y2="94.80000000000004" stroke="#71d7cc" stroke-width="3" style="stroke:#71d7cc;stroke-width:3px;"/>
-                    <text dy="0.3em" x="563" y="94.80000000000004" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
+                    <line x1="553" x2="559" y1="95.10000000000002" y2="95.10000000000002" stroke="#71d7cc" stroke-width="3" style="stroke:#71d7cc;stroke-width:3px;"/>
+                    <text dy="0.3em" x="563" y="95.10000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            56,4%
+                            56,3%
                         </tspan>
                     </text>
                 </g>
@@ -41,12 +41,12 @@
                         6,1%
                     </text>
                 </g>
-                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,245.7L549,236.7" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,245.7L549,236.1" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="553" x2="559" y1="236.7" y2="236.7" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
-                    <text dy="0.3em" x="563" y="236.7" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:24.28125px;fill:#666666;">
+                    <line x1="553" x2="559" y1="236.1" y2="236.1" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="563" y="236.1" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:24.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            9,1%
+                            9,3%
                         </tspan>
                     </text>
                 </g>
@@ -75,12 +75,12 @@
                         27,7%
                     </text>
                 </g>
-                <path fill="none" stroke="#1f6e00" stroke-width="3" stroke-dasharray="none" d="M0,180.9L549,161.4" style="fill:none;stroke:#1f6e00;stroke-width:3px;"/>
+                <path fill="none" stroke="#1f6e00" stroke-width="3" stroke-dasharray="none" d="M0,180.9L549,161.7" style="fill:none;stroke:#1f6e00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="553" x2="559" y1="161.4" y2="161.4" stroke="#1f6e00" stroke-width="3" style="stroke:#1f6e00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="563" y="161.4" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:30.28125px;fill:#666666;">
+                    <line x1="553" x2="559" y1="161.7" y2="161.7" stroke="#1f6e00" stroke-width="3" style="stroke:#1f6e00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="563" y="161.7" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:30.28125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            34,2%
+                            34,1%
                         </tspan>
                     </text>
                 </g>
@@ -136,7 +136,7 @@
                     <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt (2017), Ergebnisse des Mikrozensus 2015. 
+                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2016. 
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
                                     <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
                                         Aktualisierte Daten

@@ -17,7 +17,7 @@ DEPLOY_PRODUCTION_URL := $(PRODUCTION_PUBLIC_URL)
 # Standard targets
 #
 
-.PHONY: all install setup update server build build-test dist deploy test clean clobber charts charts-publish topojson geodata
+.PHONY: all install setup update server build build-test release dist deploy test clean clobber charts charts-publish topojson geodata
 
 all: server
 
@@ -31,16 +31,20 @@ update: install
 	@echo "No environment update is required in this project"
 
 server: install
-	@env=development BABEL_ENV=development $$(yarn bin)/nodemon -q --watch script/server.js --watch webpack.config.js script/server.js
+	@env=development BABEL_ENV=development $$(npm bin)/nodemon -q --watch script/server.js --watch webpack.config.js script/server.js
 
 build: clean install
-	@env=$(env) BABEL_ENV=production $$(yarn bin)/webpack --colors --progress
+	@env=$(env) BABEL_ENV=production $$(npm bin)/webpack --colors
 
 build-test: clean install
-	@env=test BABEL_ENV=production $$(yarn bin)/webpack --colors --progress
+	@env=test BABEL_ENV=production $$(npm bin)/webpack --colors
 
 build.zip: build
 	zip -r $@ build
+
+release: build.zip
+	@rsync -avz --exclude-from=.rsyncexclude $< $(BUILD_DESTINATION_PATH)
+	@echo -e "$(CLI_SUCCESS) Deployed to $(BUILD_PUBLIC_URL)$(CLI_RESET)"
 
 dist: build
 	@script/dist
@@ -61,7 +65,7 @@ charts:
 	@env=phantom BABEL_ENV=production node script/charts.js --id=$(id) --type=$(type) --locale=$(locale)
 
 indicators-overview:
-	BABEL_ENV=development BABEL_ENV=development $$(yarn bin)/babel-node script/indicators-overview.js
+	BABEL_ENV=development BABEL_ENV=development $$(npm bin)/babel-node script/indicators-overview.js
 
 charts-publish:
 	@echo -e "Uploading charts-output"
@@ -174,7 +178,7 @@ geodata: geobase/vg250_2016-01-01.utm32s.shape.ebenen
 			WHERE GF != 2" \
 		/dev/stdout \
 		geobase/vg250_2016-01-01.utm32s.shape.ebenen/vg250_ebenen/VG250_GEM.shp \
-	  | BABEL_ENV=development $$(yarn bin)/babel-node script/municipalities-no2.js > src/data/municipalities.csv
+	  | BABEL_ENV=test $$(npm bin)/babel-node script/municipalities-no2.js > src/data/municipalities.csv
 
 krsnames: geobase/vg250_2015-12-31.utm32w.shape.ebenen geobase/vg250_2014-01-01.utm32s.shape.ebenen
 	( \
@@ -186,6 +190,16 @@ krsnames: geobase/vg250_2015-12-31.utm32w.shape.ebenen geobase/vg250_2014-01-01.
 			FROM 'MPIDR_Lebenserwartung_regional_WGS84_UTF-8'" \
 		/dev/stdout \
 		geobase/4647_main_MPIDR_Lebenserwartung_regional_SHAPE_MODIFIED/MPIDR_Lebenserwartung_regional_WGS84_UTF-8.shp \
+		&& \
+		ogr2ogr -f CSV -t_srs crs:84 -dialect sqlite -sql "SELECT \
+				'2016' AS ds, \
+				AGS * 1 AS id, \
+				GEN AS plainName, \
+				GEN || ' (' || BEZ || ')' AS name \
+			FROM VG250_KRS \
+			WHERE GF != 2" \
+		/dev/stdout \
+		geobase/vg250_2015-12-31.utm32w.shape.ebenen/vg250_ebenen/VG250_KRS.shp \
 		&& \
 		ogr2ogr -f CSV -t_srs crs:84 -dialect sqlite -sql "SELECT \
 				'2015' AS ds, \
@@ -207,24 +221,24 @@ krsnames: geobase/vg250_2015-12-31.utm32w.shape.ebenen geobase/vg250_2014-01-01.
 		/dev/stdout \
 		geobase/vg250_2014-01-01.utm32s.shape.ebenen/vg250_ebenen/VG250_KRS.shp \
 	) | \
-	BABEL_ENV=development $$(yarn bin)/babel-node script/clean-krs-names.js > src/data/krs-names.csv
+	BABEL_ENV=test $$(npm bin)/babel-node script/clean-krs-names.js > src/data/krs-names.csv
 
 topojson: geobase/kreg-2014.geojson geobase/krs-mpidr-396.geojson geobase/krs-2014.geojson geobase/krs-2015.geojson geobase/krs-2016.geojson geobase/germany.geojson geobase/states.geojson
-	$$(yarn bin)/topojson -o src/data/kreg-2014.json --id-property KREG1214 -p name=NAME -- geobase/kreg-2014.geojson
+	$$(npm bin)/topojson -o src/data/kreg-2014.json --id-property KREG1214 -p name=NAME -- geobase/kreg-2014.geojson
 
-	$$(yarn bin)/topojson -o src/data/krs.json --id-property +RS -p name=GEN -s 7e-8 --filter=small -- \
+	$$(npm bin)/topojson -o src/data/krs.json --id-property +RS -p name=GEN -s 7e-8 --filter=small -- \
 		geobase/krs-mpidr-396.geojson \
 		geobase/krs-2014.geojson \
 		geobase/krs-2015.geojson \
 		geobase/krs-2016.geojson
 
-	$$(yarn bin)/topojson -o src/data/germany.json --id-property GEN -s 7e-8 -- \
+	$$(npm bin)/topojson -o src/data/germany.json --id-property GEN -s 7e-8 -- \
 		geobase/germany.geojson \
 		geobase/states.geojson
 
 bundle-size:
 	@echo -e "$(CLI_NOTICE) Sizes are not minified$(CLI_RESET)"
-	@env=production BABEL_ENV=production $$(yarn bin)/webpack --progress --json | $$(yarn bin)/webpack-bundle-size-analyzer
+	@env=production BABEL_ENV=production $$(npm bin)/webpack --progress --json | $$(npm bin)/webpack-bundle-size-analyzer
 
 a11y:
 	@node script/a11y.js --url=$(url) --path=$(path)
@@ -244,12 +258,12 @@ clobber:
 #
 
 lint:
-	@$$(yarn bin)/eslint src
-	@$$(yarn bin)/eslint cabinet
+	@$$(npm bin)/eslint src
+	@$$(npm bin)/eslint cabinet
 
 node_modules: package.json
-	@yarn
-	@touch $@
+	@yarn install
+	@/usr/bin/touch $@
 
 -include *.mk
 

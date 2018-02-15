@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="462" style="height:462px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="444" style="height:444px;width:640px;">
     <desc style="">
         Die Abbildung zeigt anhand von zwei Deutschland-Karten, wie viele Einwohner ein allgemeiner Facharzt durchschnittlich in einer Kreisregion in den Jahren 2010 und 2016 versorgte. Hierbei zeigen sich sehr große regionale Unterschiede. Die Spanne reichte 2016 von 440 Einwohnern pro allgemeinem Facharzt in der Kreisregion Heidelberg bis 2.270 Einwohnern in der Kreisregion Gifhorn. Bei den allgemeinen Fachärzten konzentriert sich die Versorgung in den Städten, die das Umland mitversorgen. Zu den allgemeinen Fachärzten zählen Augenärzte, Chirurgen, Frauenärzte, Hautärzte, Hals-Nasen-Ohren-Ärzte, Nervenärzte, Orthopäden, Psychotherapeuten, Urologen und Kinderärzte.
     </desc>
     <g transform="translate(243.57923545232353,0)" style="">
-        <text dy="1.5em" x="106.78961772616177" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:28.015625px;fill:#666666;text-anchor:middle;">
+        <text dy="1.5em" x="106.78961772616177" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:13.984375px;line-height:21px;white-space:nowrap;width:31.140625px;fill:#666666;text-anchor:middle;">
             2016
         </text>
         <g transform="translate(0,30)" style="">
@@ -371,7 +371,7 @@
         </g>
     </g>
     <g transform="translate(0,0)" style="">
-        <text dy="1.5em" x="106.78961772616177" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:28.015625px;fill:#666666;text-anchor:middle;">
+        <text dy="1.5em" x="106.78961772616177" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:13.984375px;line-height:21px;white-space:nowrap;width:31.140625px;fill:#666666;text-anchor:middle;">
             2010
         </text>
         <g transform="translate(0,30)" style="">
@@ -738,55 +738,55 @@
             <path fill="#614200" d="M113.93795785555044,84.64175196138603L113.91937603431063,85.22043706894101L114.62489702740953,86.31717297098885L114.795485313795,87.67621408607693L115.47654785077854,87.55760229634325L115.62347825055255,88.07768191716877L116.4355713964272,89.34670580705415L116.47721307967005,89.40435504092284L117.18730492618191,90.70243683423496L117.73032040691731,91.56724541533595L118.63718616350974,90.92529860687364L118.86538770153913,91.01062172975344L118.23317723352893,92.54783046227067L118.34601866495461,94.05141244197648L119.62237022182217,95.72088052034997L119.60161594062689,95.72102406561362L118.5014558026314,95.69933487737626L118.27351514533855,95.75859870099885L117.94674011638891,96.65731209864589L117.51114475966615,96.74661173936374L117.30555146185756,97.12381262801318L116.9732026688051,97.12561563847976L116.95227718022636,97.09679994546605L115.28606419590889,96.06344536576853L114.47559395027591,95.83532728502132L113.93797190490868,96.4158396548055L113.60853573882,97.25583926080344L113.40236445331743,97.74826007958427L112.92343013499158,97.40259474044115L112.44469468174204,97.0567904075051L112.05004647861651,97.05777153262943L111.42824334111506,97.72443849032697L111.99487799004676,100.12408135984924L111.9740687595253,100.12412971717777L110.66290897275633,100.01094996330266L110.60264617486818,101.45731918032607L109.6860343344667,101.16918303577359L108.74936445158376,102.0375637577281L108.70770859632414,102.06650436714608L108.68655502300001,101.14090262332411L108.20765085314852,101.14099951250364L107.66628091434505,101.14094351623407L107.77016120945086,102.26905294989365L106.39531232249928,101.95003064549792L105.91724018217504,101.13956210769811L106.41764083769705,100.47485756148217L106.37634434112502,100.15663287453435L105.52270085657914,100.44478394773478L105.33658463980353,99.72134106864814L104.65316757596952,98.21590708900294L104.65322760375493,98.18698088875044L103.38706331718144,97.5764160951253L103.28460165457311,97.08436933523944L103.36884058478012,96.67963649745525L102.95486028726086,96.24450164996324L103.33096593662556,95.4067383456013L102.97865627922631,95.26105210498417L102.66809104114407,95.05757319216855L102.6683750978782,94.97079191825696L102.68912001784022,94.97085969210411L103.72682467397786,94.80035517901251L104.97423334361326,93.29894046540994L105.86513358725733,93.4739503425958L106.09375443373935,92.95354214982353L105.51337555367743,93.09737572748509L105.43109615840581,92.72118138513588L106.21949001695168,91.70977963298083L105.4340833339037,90.86977180269605L105.55829029450224,90.84103888479058L105.97350041506022,89.80018728553523L105.12789665159622,88.52599328925999L105.10954010583504,87.25305153221734L105.93711922185265,86.01034712278033L105.77287248506363,85.43151249088851L106.47532606886259,84.24619118105875L106.82600684521229,83.87039591782514L107.1967620232657,84.15995417810245L108.84515002745287,83.23424124429175L109.71076188678092,83.72546210186056L110.16521466497389,84.65075462578034L111.94088232414256,85.80482157478082Z" style="fill:#614200;"/>
         </g>
     </g>
-    <foreignObject x="0" y="330" width="640" height="132" style="display:block;height:132px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
-            <div style="display:block;height:132px;width:640px;">
-                <div style="display:block;height:154px;left:487.1584777832031px;position:absolute;top:80px;width:110.265625px;">
-                    <div style="display:block;height:144px;margin-bottom:10px;width:110.265625px;">
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);width:110.265625px;">
+    <foreignObject x="0" y="330" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
+                <div style="display:block;height:154px;left:487.1584777832031px;position:absolute;top:80px;width:117.3125px;">
+                    <div style="display:block;height:144px;margin-bottom:10px;width:117.3125px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);width:117.3125px;">
                             Anzahl der Einwohner
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:110.265625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.3125px;">
                             <div style="background-color:rgb(255, 219, 62);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             421 - 722 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:110.265625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.3125px;">
                             <div style="background-color:rgb(242, 191, 24);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             722 - 1.022 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:110.265625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.3125px;">
                             <div style="background-color:rgb(212, 165, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1.022 - 1.323 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:110.265625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.3125px;">
                             <div style="background-color:rgb(182, 139, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1.323 - 1.623 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:110.265625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.3125px;">
                             <div style="background-color:rgb(152, 114, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1.623 - 1.924 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:110.265625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.3125px;">
                             <div style="background-color:rgb(123, 89, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1.924 - 2.224 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:110.265625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.3125px;">
                             <div style="background-color:rgb(97, 66, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             2.224 - 2.525 
                         </div>
                     </div>
                 </div>
-                <div style="display:block;height:132px;width:640px;">
-                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle:  Kassenärztliche Bundesvereinigung, Sonderauswertung. Datenstand Arztzahlen: 31.12.2016; Quelle: Bundesarztregister. 
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
@@ -798,19 +798,14 @@
                                          2016.
                                     </span>
                                 </span>
-                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
-                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
-                                        Aktualisierte Daten
-                                    </span>
-                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung
                                 </span>
                             </p>
                         </div>
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
+                        <div style="display:block;float:left;height:78px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:54px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);text-align:right;width:310px;">
                                 Die Kreisregionen sind nach der Gebietssystematik des BBSR zugeordnet, Datenstand Gebiete und Einwohner 31.12.2014. 
                             </p>
                         </div>

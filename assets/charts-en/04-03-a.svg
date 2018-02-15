@@ -1,103 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="height:420px;width:640px;">
     <desc style="">
-        The chart shows the proportion of people employed part-time due to childcare and other care responsibilities in the period 2006 to 2015. In this period, the rate increased from 17 to more than 24 percent.
+        The chart shows the proportion of people employed part-time due to childcare and other care responsibilities in the period 2006 to 2016. In this period, the rate increased from 17 to slightly below 25 percent.
     </desc>
     <g transform="translate(0,24)" style="">
         <g transform="translate(0,241)" style="">
             <line x1="0" x2="640" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-            <g transform="translate(87,0)" style="">
+            <g transform="translate(80,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2006
                 </text>
             </g>
-            <g transform="translate(139,0)" style="">
+            <g transform="translate(560,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2007
-                </text>
-            </g>
-            <g transform="translate(191,0)" style="">
-                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2008
-                </text>
-            </g>
-            <g transform="translate(243,0)" style="">
-                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2009
-                </text>
-            </g>
-            <g transform="translate(295,0)" style="">
-                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2010
-                </text>
-            </g>
-            <g transform="translate(347,0)" style="">
-                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2011
-                </text>
-            </g>
-            <g transform="translate(399,0)" style="">
-                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2012
-                </text>
-            </g>
-            <g transform="translate(451,0)" style="">
-                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2013
-                </text>
-            </g>
-            <g transform="translate(503,0)" style="">
-                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2014
-                </text>
-            </g>
-            <g transform="translate(555,0)" style="">
-                <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-                <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2015
+                    2016
                 </text>
             </g>
         </g>
-        <g transform="translate(275,0)" style="">
-            <rect y="46.400000000000034" width="39" height="193.59999999999997" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(254,0)" style="">
+            <rect y="46.400000000000006" width="36" height="193.6" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(327,0)" style="">
-            <rect y="53.60000000000002" width="39" height="186.39999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(302,0)" style="">
+            <rect y="53.599999999999994" width="36" height="186.4" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(379,0)" style="">
-            <rect y="56" width="39" height="184" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(542,0)" style="">
+            <rect y="54.39999999999998" width="36" height="185.60000000000002" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
+            <rect y="41.599999999999994" width="36" height="12.799999999999983" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(223,0)" style="">
-            <rect y="56" width="39" height="184" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(350,0)" style="">
+            <rect y="56" width="36" height="184" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(535,0)" style="">
-            <rect y="60.00000000000003" width="39" height="179.99999999999997" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
-            <rect y="47.04000000000005" width="39" height="12.95999999999998" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
+        <g transform="translate(206,0)" style="">
+            <rect y="56" width="36" height="184" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(171,0)" style="">
-            <rect y="62.400000000000034" width="39" height="177.59999999999997" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(494,0)" style="">
+            <rect y="60" width="36" height="180" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
+            <rect y="47.03999999999999" width="36" height="12.960000000000008" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(483,0)" style="">
-            <rect y="64" width="39" height="176" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
-            <rect y="50.08000000000004" width="39" height="13.919999999999959" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
+        <g transform="translate(158,0)" style="">
+            <rect y="62.400000000000006" width="36" height="177.6" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(431,0)" style="">
-            <rect y="72.80000000000004" width="39" height="167.19999999999996" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
-            <rect y="52.00000000000003" width="39" height="20.80000000000001" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
+        <g transform="translate(446,0)" style="">
+            <rect y="64" width="36" height="176" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
+            <rect y="50.08000000000001" width="36" height="13.919999999999987" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(119,0)" style="">
-            <rect y="89.60000000000002" width="39" height="150.39999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(398,0)" style="">
+            <rect y="72.80000000000001" width="36" height="167.2" shape-rendering="crispEdges" fill="#c44d79" style="fill:#c44d79;shape-rendering:crispedges;"/>
+            <rect y="52" width="36" height="20.80000000000001" shape-rendering="crispEdges" fill="#ff83ae" style="fill:#ff83ae;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(67,0)" style="">
-            <rect y="103.20000000000002" width="39" height="136.79999999999998" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        <g transform="translate(110,0)" style="">
+            <rect y="89.6" width="36" height="150.4" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(62,0)" style="">
+            <rect y="103.19999999999999" width="36" height="136.8" shape-rendering="crispEdges" fill="#890d48" style="fill:#890d48;shape-rendering:crispedges;"/>
         </g>
         <g transform="translate(0,240)" style="">
             <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">

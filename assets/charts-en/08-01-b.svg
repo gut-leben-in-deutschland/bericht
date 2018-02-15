@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="756" style="height:756px;width:640px;">
     <desc style="">
-        The chart shows the proportion of unmarried children within their parents’ household by family form in 1996 and 2015. In 2015, most children, 72 percent, were still growing up in a household with married parents. This is more than 10 percent fewer than in 1996. In 2015, some 21 percent of children were growing up with a single parent and 7 percent in an unmarried partnership. In the East German larger, rural states, some 58 percent of children were living with married parents. This is far fewer than in West German larger, rural states where the figure stood at some 75 percent. In city-states, the comparable figure was just under 60 percent.
+        The chart shows the proportion of unmarried children within their parents’ household by family form in 1996 and 2016. In 2016, most children, 72 percent, were still growing up in a household with married parents. This is more than 10 percent fewer than in 1996. In 2016, one in five children grew up with a single parent and 7 percent in an unmarried partnership. The share of children growing up with a signle parent was much higher in east German Flächenstaaten (25 per cent) than in the west German Flächenstaaten (19 per cent). The share was highest in the city states with 27 per cent of children growing up with a single parent. In the East German larger, rural states, some 57 percent of children were living with married parents in 2016. This is far fewer than in West German larger, rural states where the figure stood at some 76 percent. In the city states, the comparable figure was just under 62 percent.
     </desc>
     <g transform="translate(51,0)" style="">
         <g style="">
@@ -16,7 +16,7 @@
             <g transform="translate(217,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
@@ -26,10 +26,10 @@
                         82%
                     </text>
                 </g>
-                <path fill="none" stroke="#00526b" stroke-width="3" stroke-dasharray="none" d="M0,90.48000000000002L217,115.20000000000002" style="fill:none;stroke:#00526b;stroke-width:3px;"/>
+                <path fill="none" stroke="#00526b" stroke-width="3" stroke-dasharray="none" d="M0,90.48000000000002L217,114.24000000000001" style="fill:none;stroke:#00526b;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="115.20000000000002" y2="115.20000000000002" stroke="#00526b" stroke-width="3" style="stroke:#00526b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="115.20000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="114.24000000000001" y2="114.24000000000001" stroke="#00526b" stroke-width="3" style="stroke:#00526b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="114.24000000000001" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             72%
                         </tspan>
@@ -43,12 +43,12 @@
                         3%
                     </text>
                 </g>
-                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,279.84L217,270.24" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
+                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,279.84L217,270" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="270.24" y2="270.24" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="270.24" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="270" y2="270" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="270" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            7%
+                            8%
                         </tspan>
                     </text>
                 </g>
@@ -60,12 +60,12 @@
                         14%
                     </text>
                 </g>
-                <path fill="none" stroke="#00849e" stroke-width="3" stroke-dasharray="none" d="M0,253.68L217,238.56" style="fill:none;stroke:#00849e;stroke-width:3px;"/>
+                <path fill="none" stroke="#00849e" stroke-width="3" stroke-dasharray="none" d="M0,253.68L217,239.76" style="fill:none;stroke:#00849e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="238.56" y2="238.56" stroke="#00849e" stroke-width="3" style="stroke:#00849e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="238.56" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="239.76" y2="239.76" stroke="#00849e" stroke-width="3" style="stroke:#00849e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="239.76" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            21%
+                            20%
                         </tspan>
                     </text>
                 </g>
@@ -104,7 +104,7 @@
             <g transform="translate(217,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
@@ -114,12 +114,12 @@
                         85%
                     </text>
                 </g>
-                <path fill="none" stroke="#00526b" stroke-width="3" stroke-dasharray="none" d="M0,84.72L217,107.28" style="fill:none;stroke:#00526b;stroke-width:3px;"/>
+                <path fill="none" stroke="#00526b" stroke-width="3" stroke-dasharray="none" d="M0,84.72L217,106.32" style="fill:none;stroke:#00526b;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="107.28" y2="107.28" stroke="#00526b" stroke-width="3" style="stroke:#00526b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="107.28" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="106.32" y2="106.32" stroke="#00526b" stroke-width="3" style="stroke:#00526b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="106.32" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            75%
+                            76%
                         </tspan>
                     </text>
                 </g>
@@ -131,10 +131,10 @@
                         2%
                     </text>
                 </g>
-                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,282.72L217,274.56" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
+                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,282.72L217,274.8" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="274.56" y2="274.56" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="274.56" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="274.8" y2="274.8" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="274.8" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:15.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             6%
                         </tspan>
@@ -148,10 +148,10 @@
                         13%
                     </text>
                 </g>
-                <path fill="none" stroke="#00849e" stroke-width="3" stroke-dasharray="none" d="M0,256.56L217,242.4" style="fill:none;stroke:#00849e;stroke-width:3px;"/>
+                <path fill="none" stroke="#00849e" stroke-width="3" stroke-dasharray="none" d="M0,256.56L217,243.12" style="fill:none;stroke:#00849e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="242.4" y2="242.4" stroke="#00849e" stroke-width="3" style="stroke:#00849e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="242.4" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="243.12" y2="243.12" stroke="#00849e" stroke-width="3" style="stroke:#00849e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="243.12" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             19%
                         </tspan>
@@ -192,7 +192,7 @@
             <g transform="translate(217,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
@@ -202,10 +202,10 @@
                         76%
                     </text>
                 </g>
-                <path fill="none" stroke="#00526b" stroke-width="3" stroke-dasharray="none" d="M0,105.12L217,150" style="fill:none;stroke:#00526b;stroke-width:3px;"/>
+                <path fill="none" stroke="#00526b" stroke-width="3" stroke-dasharray="none" d="M0,105.12L217,151.92000000000002" style="fill:none;stroke:#00526b;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="150" y2="150" stroke="#00526b" stroke-width="3" style="stroke:#00526b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="150" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="151.92000000000002" y2="151.92000000000002" stroke="#00526b" stroke-width="3" style="stroke:#00526b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="151.92000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             57%
                         </tspan>
@@ -219,12 +219,12 @@
                         8%
                     </text>
                 </g>
-                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,269.52L217,247.2" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
+                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,269.52L217,244.32" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="247.2" y2="247.2" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="247.2" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="244.32" y2="244.32" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="244.32" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            17%
+                            18%
                         </tspan>
                     </text>
                 </g>
@@ -236,12 +236,12 @@
                         16%
                     </text>
                 </g>
-                <path fill="none" stroke="#00849e" stroke-width="3" stroke-dasharray="none" d="M0,249.36L217,226.8" style="fill:none;stroke:#00849e;stroke-width:3px;"/>
+                <path fill="none" stroke="#00849e" stroke-width="3" stroke-dasharray="none" d="M0,249.36L217,228" style="fill:none;stroke:#00849e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="226.8" y2="226.8" stroke="#00849e" stroke-width="3" style="stroke:#00849e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="226.8" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="228" y2="228" stroke="#00849e" stroke-width="3" style="stroke:#00849e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="228" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            26%
+                            25%
                         </tspan>
                     </text>
                 </g>
@@ -280,7 +280,7 @@
             <g transform="translate(217,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
@@ -290,12 +290,12 @@
                         71%
                     </text>
                 </g>
-                <path fill="none" stroke="#00526b" stroke-width="3" stroke-dasharray="none" d="M0,118.32000000000002L217,144.72" style="fill:none;stroke:#00526b;stroke-width:3px;"/>
+                <path fill="none" stroke="#00526b" stroke-width="3" stroke-dasharray="none" d="M0,118.32000000000002L217,138.48" style="fill:none;stroke:#00526b;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="144.72" y2="144.72" stroke="#00526b" stroke-width="3" style="stroke:#00526b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="144.72" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="138.48" y2="138.48" stroke="#00526b" stroke-width="3" style="stroke:#00526b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="138.48" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            60%
+                            62%
                         </tspan>
                     </text>
                 </g>
@@ -307,12 +307,12 @@
                         6%
                     </text>
                 </g>
-                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,274.8L217,263.04" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
+                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,274.8L217,262.8" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="263.04" y2="263.04" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="263.04" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="262.8" y2="262.8" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="262.8" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            10%
+                            11%
                         </tspan>
                     </text>
                 </g>
@@ -324,12 +324,12 @@
                         24%
                     </text>
                 </g>
-                <path fill="none" stroke="#00849e" stroke-width="3" stroke-dasharray="none" d="M0,230.88L217,216.72" style="fill:none;stroke:#00849e;stroke-width:3px;"/>
+                <path fill="none" stroke="#00849e" stroke-width="3" stroke-dasharray="none" d="M0,230.88L217,222.72" style="fill:none;stroke:#00849e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="216.72" y2="216.72" stroke="#00849e" stroke-width="3" style="stroke:#00849e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="216.72" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="222.72" y2="222.72" stroke="#00849e" stroke-width="3" style="stroke:#00849e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="222.72" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            30%
+                            27%
                         </tspan>
                     </text>
                 </g>
@@ -380,7 +380,7 @@
                     <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  German Federal Statistical Office (2017), Results of the Microcensus 2015.
+                                Source:  German Federal Statistical Office, Results of the Microcensus 2016.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
                                     <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
                                         Updated data

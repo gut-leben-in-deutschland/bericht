@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="300px" height="152px" viewBox="0 0 300 152" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
-    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>03-03-mini.de.chart</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
@@ -12,20 +12,20 @@
                 <path d="M3.5,0 L3.5,8" id="Shape"></path>
                 <polyline id="Shape" transform="translate(3.500000, 1.701681) rotate(180.000000) translate(-3.500000, -1.701681) " points="7 0 3.5 3.40336134 0 0"></polyline>
             </g>
-            <text id="23,5%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
-                <tspan x="223.017" y="29">23,5</tspan>
+            <text id="23,8%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
+                <tspan x="223.017" y="29">23,8</tspan>
                 <tspan x="261.319" y="29" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal">%</tspan>
             </text>
-            <text id="65,4%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
-                <tspan x="223.017" y="83">65,4</tspan>
+            <text id="64,6%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
+                <tspan x="223.017" y="83">64,6</tspan>
                 <tspan x="261.319" y="83" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal">%</tspan>
             </text>
             <text id="100%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
                 <tspan x="30.336" y="79">100</tspan>
                 <tspan x="63.336" y="79" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal">%</tspan>
             </text>
-            <text id="11,0%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
-                <tspan x="223.017" y="135">11,0</tspan>
+            <text id="11,6%" font-family="BundesSans-Bold, BundesSans" font-size="22" font-weight="bold" fill="#454545">
+                <tspan x="223.017" y="135">11,6</tspan>
                 <tspan x="261.319" y="135" font-family="BundesSans-Regular, BundesSans" font-size="12" font-weight="normal">%</tspan>
             </text>
             <rect id="parents" fill="#454545" x="79" y="37" width="40" height="71"></rect>

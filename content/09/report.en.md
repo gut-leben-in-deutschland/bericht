@@ -46,7 +46,7 @@ In the **states of eastern Germany** the amount of goods and services produced e
 
 <!-- ColumnContainer end -->
 
-[**Compared to other countries**](http://databank.worldbank.org/data/reports.aspx?source=2&series=NY.GDP.PCAP.PP.CD&country), Germany has a relatively high GDP per capita, placing 15th out of 180 countries in 2015. The German economy recovered quickly from the effects of the **global economic and financial crisis** in 2008. Two economic packages introduced by the federal government involving a short-time working scheme and support measures to shore up the banking sector contributed to the recovery. By 2011, GDP per capita had already returned to pre-crisis levels.
+[**Compared to other countries**](https://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=55&pr.y=10&sy=2016&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C946%2C914%2C137%2C612%2C546%2C614%2C962%2C311%2C674%2C213%2C676%2C911%2C548%2C193%2C556%2C122%2C678%2C912%2C181%2C313%2C867%2C419%2C682%2C513%2C684%2C316%2C273%2C913%2C868%2C124%2C921%2C339%2C948%2C638%2C943%2C514%2C686%2C218%2C688%2C963%2C518%2C616%2C728%2C223%2C836%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C142%2C156%2C449%2C626%2C564%2C628%2C565%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C359%2C960%2C453%2C423%2C968%2C935%2C922%2C128%2C714%2C611%2C862%2C321%2C135%2C243%2C716%2C248%2C456%2C469%2C722%2C253%2C942%2C642%2C718%2C643%2C724%2C939%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C726%2C646%2C199%2C648%2C733%2C915%2C184%2C134%2C524%2C652%2C361%2C174%2C362%2C328%2C364%2C258%2C732%2C656%2C366%2C654%2C734%2C336%2C144%2C263%2C146%2C268%2C463%2C532%2C528%2C944%2C923%2C176%2C738%2C534%2C578%2C536%2C537%2C429%2C742%2C433%2C866%2C178%2C369%2C436%2C744%2C136%2C186%2C343%2C925%2C158%2C869%2C439%2C746%2C916%2C926%2C664%2C466%2C826%2C112%2C542%2C111%2C967%2C298%2C443%2C927%2C917%2C846%2C544%2C299%2C941%2C582%2C446%2C474%2C666%2C754%2C668%2C698%2C672&s=NGDPDPC&grp=0&a=), Germany has a relatively high GDP per capita, placing 17th out of 190 countries in 2016. The German economy recovered quickly from the effects of the **global economic and financial crisis** in 2008. Two economic packages introduced by the federal government involving a short-time working scheme and support measures to shore up the banking sector contributed to the recovery. By 2011, GDP per capita had already returned to pre-crisis levels.
 
 <!-- GovernmentMeasures start -->
 
@@ -78,7 +78,7 @@ The **investment rate** reflects the percentage of economic output that flows in
 
 The **investment rate** in Germany has stabilised at around 20 per cent since 2002. This is below the level of the early 1990s, when investment was high in the wake of German reunification.
 
-[**Compared to other industrialised nations**](https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InvestitionenPDF_5811108.pdf?__blob=publicationFile) Germany is just above the EU average of 19.7 per cent, with a total investment rate of 20 per cent in 2016.
+[**Compared to other industrialised nations**](https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InvestitionenPDF_5811108.pdf?__blob=publicationFile) Germany is just above the EU average of 19.8 per cent, with a total investment rate of 20 per cent in 2016.
 
 <!-- ColumnRight end -->
 
@@ -166,7 +166,7 @@ Economists agree that **investment in research and development** increases **pro
 
 A major, established and internationally comparable **indicator for an economy's ability to innovate** is the **research and development (R&D) spending as a percentage of GDP**.
 
-Expenditure on R&D increased from 2.2 to 3.0 per cent between 1995 and 2015. In 2015, Germany spent more than 90 billion euros on research and development. This was 7 per cent more than in the previous year.
+Expenditure on R&D increased from 2.2 to 2.9 per cent between 1995 and 2015. In 2015, Germany spent about 89 billion euros on research and development. This was five per cent more than in the previous year.
 
 A glance at other [**EU Member States**](http://ec.europa.eu/eurostat/documents/2995521/7752015/9-30112016-BP-DE.pdf/4a567899-61d5-4921-a0a0-ea7bdbba39aa) shows how well Germany fares in terms of overall expenditure on R&D. In 2015, Germany placed fifth among other EU countries, but internationally its spending on R&D lags behind countries such as South Korea or Japan. 
 

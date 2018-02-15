@@ -172,7 +172,7 @@ The indicator at least provides a rough measurement of the **need for care**. Mo
 
 <!-- ColumnRight start -->
 
-**More and more people are working fewer hours because of care responsibilities**. This proportion grew from 17 to 24 per cent between 2006 and 2015. The overwhelming majority of respondents said the main reason for reducing their working hours was to **look after their children**.
+**More and more people are working fewer hours because of care responsibilities**. This proportion grew from 17 to 25 per cent between 2006 and 2016. The overwhelming majority of respondents said the main reason for reducing their working hours was to **look after their children**.
 
 
 <!-- ColumnRight end -->
@@ -190,7 +190,7 @@ The indicator at least provides a rough measurement of the **need for care**. Mo
 
 <!-- ColumnRight start -->
 
-The number of people who have **completely given up work because of childcare and other care responsibilities** has also increased. In 2006, 8 of 100 respondents reported that they have completely given up work because of childcare and other care responsibilities. In 2015 it was 12 of 100 respondents. 
+The number of people who have **completely given up work because of childcare and other care responsibilities** has also increased. In 2006, 8 of 100 respondents reported that they have completely given up work because of childcare and other care responsibilities. In 2016 it was 12 of 100 respondents. 
 
 It is generally **women who shoulder these responsibilities**. In future **demographic change** will make the situation more acute. More people are facing the challenge of having to reconcile their work and care responsibilities.  
 
@@ -229,7 +229,7 @@ The ** proportion of employed persons in Germany whose commute is longer than 30
 
 <!-- ColumnRight start -->
 
-In Germany there is a **trend towards longer commuting times**. More than **a quarter of German workers travelled more than 30 minutes to work each day in 2012**. Almost **one in 20 workers in Germany is a long-distance commuter**, i.e. almost 1.8 million people travel more than one hour to work every day.
+In Germany there is a **trend towards longer commuting times**. **About 27 per cent of employees in Germany travelled more than 30 minutes to work each day in 2016**. Almost **one in 20 workers in Germany is a long-distance commuter**, i.e. almost 1.6 million people travel more than one hour to work every day.
 
 At the same time, fewer and fewer people in Germany are willing to move house in order to accommodate their job. They want to stay in their familiar surroundings, so they are prepared to put up with longer commuting times. Commuting is clearly an individual choice. But the state can create conditions that makes it easier, even for long-distance commuters.
 

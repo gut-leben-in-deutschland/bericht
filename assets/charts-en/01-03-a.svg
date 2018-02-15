@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" style="height:480px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="462" style="height:462px;width:640px;">
     <desc style="">
         Using two maps of Germany, the diagram shows the number of residents per county looked after by one GP in 2010 and 2016. It reveals great regional differences. The figures range from 1,101 residents per GP in Garmisch-Partenkirchen to 2,037 in Gütersloh.
     </desc>
     <g transform="translate(243.57923545232353,0)" style="">
-        <text dy="1.5em" x="106.78961772616177" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:28.015625px;fill:#666666;text-anchor:middle;">
+        <text dy="1.5em" x="106.78961772616177" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:13.984375px;line-height:21px;white-space:nowrap;width:31.140625px;fill:#666666;text-anchor:middle;">
             2016
         </text>
         <g transform="translate(0,30)" style="">
@@ -371,7 +371,7 @@
         </g>
     </g>
     <g transform="translate(0,0)" style="">
-        <text dy="1.5em" x="106.78961772616177" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:28.015625px;fill:#666666;text-anchor:middle;">
+        <text dy="1.5em" x="106.78961772616177" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:13.984375px;line-height:21px;white-space:nowrap;width:31.140625px;fill:#666666;text-anchor:middle;">
             2010
         </text>
         <g transform="translate(0,30)" style="">
@@ -738,55 +738,55 @@
             <path fill="#987200" d="M157.62043442534042,151.3580899788417L157.8338046651188,152.79851629760378L158.52043544055735,153.50183330415985L158.2408238454912,154.23330167364156L157.761492558348,154.01573846294878L156.92943589177656,154.24205723007572L156.9079512903233,154.2426663457927L156.65176562739867,154.3077713724265L156.60879477681425,154.3089824053277L155.46369446311996,154.10941339836427L155.2432069076005,154.69407657915372L154.89857666102074,154.67454443418865L154.64069619860732,154.6815319918719L154.10587687682224,155.5927343299477L153.68272749000943,155.86434871516803L153.68032784651473,156.5876623725694L153.12398415928664,156.71799821762988L152.97833246081558,156.08534134701767L151.9117592309026,156.45992977386095L151.4486611397911,156.87664191589283L151.09871527623636,157.52183956500812L151.09799472095142,157.49292854060332L150.31530116761593,157.1940429778365L149.86001832144564,157.95726566730036L149.83778808747448,157.92887497674292L149.18429406582058,157.6263464436156L149.19962165266207,157.3656275758599L149.15244598747282,157.1931818585008L149.30596105461348,156.4084602491971L149.2844494180412,156.40897422728767L148.3950328908992,156.11178422305693L148.31701447088534,155.53505149964303L148.1194787230092,155.3660843603334L148.1188072411741,155.33717233295647L148.56662904786987,154.25638615571006L148.5853947070068,154.14023411914786L149.06574802249045,153.55031473653662L148.45153702334323,153.0151978370218L148.82087149897444,152.2833036050356L148.7877815541047,151.7923156024999L149.3524671666039,151.17137500719036L149.66157396132792,150.64322455368574L149.88897140404487,150.29057239457552L149.90899951293852,150.23222892066224L149.84715304732117,149.45267527821989L148.98671258758824,149.32873948948873L148.98395885970007,149.21309427881806L149.2368638938545,149.03348673824257L149.15738814156435,148.39897872585016L149.4080637530733,148.13261257867725L149.72077130973014,147.77792031351737L149.7358592116011,147.51720248055426L149.77795804590195,147.48725207841198L151.22734703709818,147.21999201617746L151.69431252023406,147.90247607115953L152.30985312208605,147.68422113236193L152.7056236323838,148.0789847419128L152.82803974775533,147.84436360862037L153.60013991828163,147.88191871551362L153.7224200554577,147.64723383256842L154.1056335740132,148.36024526528217L154.31818791331452,148.29667382846173L154.81219909999334,148.34115744366136L154.9525010651419,148.77128634883684L154.9055882422516,149.4090315815597L154.9887992533438,150.1010884911434L155.03166507927384,150.09991789315018L155.73173150145843,149.82027282788204L155.47865339332816,150.75305003613812L156.78393291866226,151.38198346747822L156.826011316496,151.3518600806292L157.30359928171154,150.78855929062638Z" style="fill:#987200;"/>
         </g>
     </g>
-    <foreignObject x="0" y="330" width="640" height="150" style="display:block;height:150px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:150px;width:640px;">
-            <div style="display:block;height:150px;width:640px;">
-                <div style="display:block;height:154px;left:487.1584777832031px;position:absolute;top:80px;width:113.109375px;">
-                    <div style="display:block;height:144px;margin-bottom:10px;width:113.109375px;">
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);width:113.109375px;">
+    <foreignObject x="0" y="330" width="640" height="132" style="display:block;height:132px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
+            <div style="display:block;height:132px;width:640px;">
+                <div style="display:block;height:154px;left:487.1584777832031px;position:absolute;top:80px;width:117.296875px;">
+                    <div style="display:block;height:144px;margin-bottom:10px;width:117.296875px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);width:117.296875px;">
                             Number of inhabitants
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:113.109375px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.296875px;">
                             <div style="background-color:rgb(255, 219, 62);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1,045 - 1,187 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:113.109375px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.296875px;">
                             <div style="background-color:rgb(242, 191, 24);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1,187 - 1,329 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:113.109375px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.296875px;">
                             <div style="background-color:rgb(212, 165, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1,329 - 1,470 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:113.109375px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.296875px;">
                             <div style="background-color:rgb(182, 139, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1,470 - 1,612 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:113.109375px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.296875px;">
                             <div style="background-color:rgb(152, 114, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1,612 - 1,754 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:113.109375px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.296875px;">
                             <div style="background-color:rgb(123, 89, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1,754 - 1,895 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:113.109375px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:117.296875px;">
                             <div style="background-color:rgb(97, 66, 0);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             1,895 - 2,037 
                         </div>
                     </div>
                 </div>
-                <div style="display:block;height:150px;width:640px;">
-                    <div style="clear:both;display:block;height:150px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:150px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:126px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Source:  National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. 
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
@@ -796,11 +796,6 @@
                                             BKG
                                         </a>
                                          2016.
-                                    </span>
-                                </span>
-                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
-                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
-                                        Updated data
                                     </span>
                                 </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">

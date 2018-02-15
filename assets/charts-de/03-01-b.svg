@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="456" style="height:456px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt den Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II im Jahr 2015 differenziert nach Alter und Migrationshintergrund. Rund 92 Prozent der Menschen ohne Migrationshintergrund haben mindestens einen Abschluss im Sekundarbereich II, bei Menschen mit Migrationshintergrund liegt der Anteil bei etwa 68 Prozent. Der Anteil der Migrantinnen und Migranten mit einem Abschluss im Sekundarbereich II nimmt bei den jüngeren Altersgruppen zu. So haben etwa 74,5 Prozent der Menschen mit Migrationshintergrund im Alter von 25 bis 34 Jahren mindestens einen Abschluss im Sekundarbereich II. In der Altersgruppe der 55- bis 64-Jährigen liegt dieser Anteil bei 64,3 Prozent.
+        Die Abbildung zeigt den Anteil der Personen mit mindestens einem Abschluss im Sekundarbereich II im Jahr 2016 differenziert nach Alter und Migrationshintergrund. Rund 92 Prozent der Menschen ohne Migrationshintergrund haben mindestens einen Abschluss im Sekundarbereich II, bei Menschen mit Migrationshintergrund liegt der Anteil bei etwa 68 Prozent. Der Anteil der Migrantinnen und Migranten mit einem Abschluss im Sekundarbereich II nimmt bei den jüngeren Altersgruppen zu. So haben rund 74 Prozent der Menschen mit Migrationshintergrund im Alter von 25 bis 34 Jahren mindestens einen Abschluss im Sekundarbereich II. In der Altersgruppe der 55- bis 64-Jährigen liegt dieser Anteil bei 63,8 Prozent.
     </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:60.953125px;fill:#666666;">
@@ -80,7 +80,7 @@
                 mit Migrationshintergrund
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#810019" width="150" height="16" style="fill:#810019;"/>
+                <rect x="0" fill="#810019" width="149" height="16" style="fill:#810019;"/>
             </g>
         </g>
         <g transform="translate(0,149)" style="">
@@ -117,7 +117,7 @@
                 Insgesamt
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#c40046" width="174" height="16" style="fill:#c40046;"/>
+                <rect x="0" fill="#c40046" width="172" height="16" style="fill:#c40046;"/>
             </g>
         </g>
         <g style="">
@@ -186,7 +186,7 @@
                 mit Migrationshintergrund
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#810019" width="130" height="16" style="fill:#810019;"/>
+                <rect x="0" fill="#810019" width="129" height="16" style="fill:#810019;"/>
             </g>
         </g>
         <g transform="translate(0,149)" style="">
@@ -223,7 +223,7 @@
                 Insgesamt
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#c40046" width="173" height="16" style="fill:#c40046;"/>
+                <rect x="0" fill="#c40046" width="172" height="16" style="fill:#c40046;"/>
             </g>
         </g>
         <g style="">
@@ -274,7 +274,7 @@
                     <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.
+                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2016.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
                                     <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
                                         Aktualisierte Daten

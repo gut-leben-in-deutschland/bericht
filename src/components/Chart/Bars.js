@@ -6,7 +6,7 @@ import vgExpr from 'vega-expression';
 import {StyleSheet, css} from 'aphrodite';
 import {sansRegular12, sansBold14} from 'theme/typeface';
 import {lightGrey, softGrey, midGrey, softBeige, transparentAxisStroke} from 'theme/constants';
-import {calculateAxis} from './utils';
+import {calculateAxis, getFormat} from './utils';
 import ColorLegend from './ColorLegend';
 import {Map} from 'immutable';
 
@@ -109,7 +109,8 @@ const BarChart = (props) => {
     t,
     tLabel,
     description,
-    confidence
+    confidence,
+    showBarValues
   } = props;
 
   const possibleColumns = Math.floor(width / (props.minInnerWidth + COLUMN_PADDING));
@@ -230,6 +231,7 @@ const BarChart = (props) => {
     x.nice(3);
   }
   const xAxis = calculateAxis(props.numberFormat, t, x.domain());
+  const formatValue = getFormat(props.numberFormat, t);
 
   groupedData.forEach(group => {
     group.bars.forEach(bar => {
@@ -294,6 +296,15 @@ const BarChart = (props) => {
                               fill={softBeige}
                               stroke={segment.color}
                               strokeWidth={bar.style.stroke} />}
+                            {showBarValues && (<text
+                              className={css(styles.barLabel)}
+                              x={segment.x + segment.width + 4}
+                              y={bar.height / 2}
+                              dy={'.35em'}
+                            >
+                             {formatValue(segment.value)}
+                            </text>
+                            )}
                           </g>
                         ))
                       }
@@ -382,7 +393,8 @@ BarChart.propTypes = {
   columns: PropTypes.number.isRequired,
   t: PropTypes.func.isRequired,
   tLabel: PropTypes.func.isRequired,
-  description: PropTypes.string
+  description: PropTypes.string,
+  showBarValues: PropTypes.bool
 };
 
 BarChart.defaultProps = {

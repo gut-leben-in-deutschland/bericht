@@ -274,10 +274,13 @@ flagship/08/source_label,,
 flagship/08/source_annotation,Freiwilligensurvey 2014,Freiwilligensurvey 2014.
 flagship/10/source_url,,
 flagship/10/source_label,,
-flagship/10/source_annotation,Umweltbundesamt 2015.,German Environment Agency 2015.
+flagship/10/source_annotation,Umweltbundesamt 2017.,German Environment Agency 2017.
 flagship/11/source_url,,
 flagship/11/source_label,,
 flagship/11/source_annotation,"Allgemeine Bundestagswahlstatistik des Bundes und der Länder, Laufende Raumbeobachtung des BBSR","General Bundestag election statistics by the federal and state governments, ongoing spatial observation by the BSSR."
+,,
+flagship/07/new_data,TRUE,TRUE
+flagship/10/new_data,TRUE,TRUE
 ,,
 flagship/location-select/no-result,Keine Gemeinde gefunden,No municipality found
 flagship/location-select/minimum-input,Min. drei Buchstaben,At least three letters

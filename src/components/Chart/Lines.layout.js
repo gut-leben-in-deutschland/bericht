@@ -73,7 +73,7 @@ export default (props) => {
   const lineGroup =  props.category ? d => d.category : d => d.datum[props.color];
 
   const yCutHeight = mini ? 25 : AXIS_BOTTOM_CUTOFF_HEIGHT;
-  const paddingTop = AXIS_TOP_HEIGHT + (groupedData.size > 1 ? COLUMN_TITLE_HEIGHT : 0);
+  const paddingTop = AXIS_TOP_HEIGHT + (props.column ? COLUMN_TITLE_HEIGHT : 0);
   const paddingBottom = AXIS_BOTTOM_HEIGHT + (props.zero ? 0 : yCutHeight);
   const innerHeight = mini ? props.height - paddingTop - paddingBottom : props.height;
   const columnHeight = innerHeight + paddingTop + paddingBottom;

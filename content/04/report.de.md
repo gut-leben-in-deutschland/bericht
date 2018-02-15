@@ -170,7 +170,7 @@ Der Indikator misst zumindest annäherungsweise den **Betreuungsbedarf**. Um zuk
 
 <!-- ColumnRight start -->
 
-**Immer mehr Menschen schränken ihre Erwerbstätigkeit aufgrund von Betreuungsaufgaben ein**. Der Anteil ist zwischen 2006 und 2015 von 17 auf mehr als 24 Prozent gestiegen. Der überwiegende Anteil der Befragten nennt als Hauptgrund für die Einschränkung der Erwerbstätigkeit die **Betreuung von Kindern**.
+**Immer mehr Menschen schränken ihre Erwerbstätigkeit aufgrund von Betreuungsaufgaben ein**. Der Anteil ist zwischen 2006 und 2016 von 17 auf knapp 25 Prozent gestiegen. Der überwiegende Anteil der Befragten nennt als Hauptgrund für die Einschränkung der Erwerbstätigkeit die **Betreuung von Kindern**.
 
 
 <!-- ColumnRight end -->
@@ -188,7 +188,7 @@ Der Indikator misst zumindest annäherungsweise den **Betreuungsbedarf**. Um zuk
 
 <!-- ColumnRight start -->
 
-Erhöht hat sich auch der Anteil der Personen, die ihre **Erwerbstätigkeit wegen Kinderbetreuung und Pflege ganz aufgeben**. Im Jahr 2006 gaben noch 8 von 100 Befragten an, dass sie ihre Erwerbstätigkeit wegen Betreuungsaufgaben ganz aufgegeben haben. 2015 waren das 12 von 100 Befragten.
+Erhöht hat sich auch der Anteil der Personen, die ihre **Erwerbstätigkeit wegen Kinderbetreuung und Pflege ganz aufgeben**. Im Jahr 2006 gaben noch 8 von 100 Befragten an, dass sie ihre Erwerbstätigkeit wegen Betreuungsaufgaben ganz aufgegeben haben. 2016 waren das 12 von 100 Befragten.
 
 Vorwiegend **Frauen übernehmen diese Betreuungsaufgaben**. Der **demografische Wandel** wird die Situation zukünftig verschärfen. Mehr Menschen stehen vor der Herausforderung, Erwerbstätigkeit und die Pflege von Angehörigen zu vereinbaren.  
 
@@ -226,7 +226,7 @@ Als Indikator für die **Pendeldauer** wird der **Anteil der Erwerbstätigen in 
 
 <!-- ColumnRight start -->
 
-In Deutschland gibt es einen **Trend zur längeren Pendeldauer**. Mehr als **ein Viertel der deutschen Erwerbstätigen pendelte 2012 täglich länger als eine halbe Stunde** von ihrem Wohnort zur Arbeit. Fast **jeder zwanzigste berufstätige Deutsche ist Fernpendler**, d.h.: Rund 1,8 Millionen Menschen pendeln tagtäglich über eine Stunde zur Arbeit.
+In Deutschland gibt es einen **Trend zur längeren Pendeldauer**. Knapp **27 Prozent der Erwerbstätigen in Deutschland pendelte 2016 täglich länger als eine halbe Stunde** von ihrem Wohnort zur Arbeit. **Jeder Zwanzigste unter den Berufstätigen ist Fernpendler**, das heißt knapp 1,6 Millionen Menschen pendeln tagtäglich über eine Stunde zur Arbeit.
 
 Die Deutschen ziehen aber auch immer seltener für die Arbeit um. Sie wollen im gewohnten Umfeld bleiben und nehmen dafür längere Pendeldauern in Kauf. Hier zeigt sich, Pendeln ist eine individuelle Entscheidung. Der Staat kann aber Rahmenbedingungen schaffen, die den Menschen auch längere Wege zum Arbeitsplatz erleichtern.
 

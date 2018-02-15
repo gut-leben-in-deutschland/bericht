@@ -24,6 +24,7 @@ facet,facet_value,gender,year,value
 ,,Insgesamt,2013,0.771
 ,,Insgesamt,2014,0.775
 ,,Insgesamt,2015,0.778
+,,Insgesamt,2016,0.784
 ,,Männer,1991,0.816
 ,,Männer,1992,0.801
 ,,Männer,1993,0.782
@@ -49,6 +50,7 @@ facet,facet_value,gender,year,value
 ,,Männer,2013,0.818
 ,,Männer,2014,0.82
 ,,Männer,2015,0.82
+,,Männer,2016,0.823
 ,,Frauen,1991,0.589
 ,,Frauen,1992,0.578
 ,,Frauen,1993,0.568
@@ -74,6 +76,7 @@ facet,facet_value,gender,year,value
 ,,Frauen,2013,0.723
 ,,Frauen,2014,0.73
 ,,Frauen,2015,0.735
+,,Frauen,2016,0.743
 Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2005,0.713
 Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2006,0.732
 Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2007,0.749
@@ -85,6 +88,7 @@ Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2012,0.785
 Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2013,0.79
 Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2014,0.79
 Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2015,0.80
+Migrationshintergrund,Ohne Migrationshintergrund,Insgesamt,2016,0.810
 Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2005,0.604
 Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2006,0.617
 Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2007,0.639
@@ -96,6 +100,7 @@ Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2012,0.691
 Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2013,0.694
 Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2014,0.696
 Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2015,0.697
+Migrationshintergrund,Mit Migrationshintergrund,Insgesamt,2016,0.694
 Migrationshintergrund,Ohne Migrationshintergrund,Männer,2005,0.77
 Migrationshintergrund,Ohne Migrationshintergrund,Männer,2006,0.786
 Migrationshintergrund,Ohne Migrationshintergrund,Männer,2007,0.804
@@ -107,6 +112,7 @@ Migrationshintergrund,Ohne Migrationshintergrund,Männer,2012,0.827
 Migrationshintergrund,Ohne Migrationshintergrund,Männer,2013,0.828
 Migrationshintergrund,Ohne Migrationshintergrund,Männer,2014,0.831
 Migrationshintergrund,Ohne Migrationshintergrund,Männer,2015,0.832
+Migrationshintergrund,Ohne Migrationshintergrund,Männer,2016,0.842
 Migrationshintergrund,Mit Migrationshintergrund,Männer,2005,0.689
 Migrationshintergrund,Mit Migrationshintergrund,Männer,2006,0.704
 Migrationshintergrund,Mit Migrationshintergrund,Männer,2007,0.727
@@ -118,6 +124,7 @@ Migrationshintergrund,Mit Migrationshintergrund,Männer,2012,0.776
 Migrationshintergrund,Mit Migrationshintergrund,Männer,2013,0.778
 Migrationshintergrund,Mit Migrationshintergrund,Männer,2014,0.776
 Migrationshintergrund,Mit Migrationshintergrund,Männer,2015,0.777
+Migrationshintergrund,Mit Migrationshintergrund,Männer,2016,0.763
 Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2005,0.656
 Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2006,0.677
 Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2007,0.693
@@ -129,6 +136,7 @@ Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2012,0.741
 Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2013,0.751
 Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2014,0.76
 Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2015,0.767
+Migrationshintergrund,Ohne Migrationshintergrund,Frauen,2016,0.778
 Migrationshintergrund,Mit Migrationshintergrund,Frauen,2005,0.515
 Migrationshintergrund,Mit Migrationshintergrund,Frauen,2006,0.527
 Migrationshintergrund,Mit Migrationshintergrund,Frauen,2007,0.548
@@ -140,6 +148,7 @@ Migrationshintergrund,Mit Migrationshintergrund,Frauen,2012,0.608
 Migrationshintergrund,Mit Migrationshintergrund,Frauen,2013,0.612
 Migrationshintergrund,Mit Migrationshintergrund,Frauen,2014,0.616
 Migrationshintergrund,Mit Migrationshintergrund,Frauen,2015,0.616
+Migrationshintergrund,Mit Migrationshintergrund,Frauen,2016,0.622
 Behinderung,Menschen ohne Behinderung,Insgesamt,2005,0.717
 Behinderung,Menschen ohne Behinderung,Insgesamt,2009,0.767
 Behinderung,Menschen ohne Behinderung,Insgesamt,2013,0.801

@@ -62,7 +62,7 @@ export const ChartFromConfig = withCabinet(
 ChartFromConfig.propTypes = {
   config: ImmutablePropTypes.map.isRequired,
   description: PropTypes.object.isRequired,
-  newData: PropTypes.bool.isRequired,
+  newData: PropTypes.bool,
   license: PropTypes.object
 };
 

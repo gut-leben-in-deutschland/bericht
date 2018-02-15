@@ -129,17 +129,17 @@
             </g>
             <g style="">
                 <g style="">
-                    <line x1="-4" x2="-10" y1="116.70000000000002" y2="116.70000000000002" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
-                    <text dy="0.3em" x="-14" y="116.70000000000002" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
-                        57%
+                    <line x1="-4" x2="-10" y1="109.80000000000001" y2="109.80000000000001" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="109.80000000000001" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                        59%
                     </text>
                 </g>
-                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,116.70000000000002L217,109.87862073" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
+                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,109.80000000000001L217,98.70000000000002" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="221" x2="227" y1="109.87862073" y2="109.87862073" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
-                    <text dy="0.3em" x="231" y="109.87862073" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">
+                    <line x1="221" x2="227" y1="98.70000000000002" y2="98.70000000000002" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="231" y="98.70000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.375px;white-space:nowrap;width:21.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            59%
+                            63%
                         </tspan>
                     </text>
                 </g>
@@ -831,12 +831,12 @@
             </g>
             <g style="">
                 <g style="">
-                    <line x1="-4" x2="-10" y1="109.26589941000003" y2="109.26589941000003" stroke="#ff6e8b" stroke-width="3" style="stroke:#ff6e8b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="-14" y="109.26589941000003" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
+                    <line x1="-4" x2="-10" y1="109.20000000000002" y2="109.20000000000002" stroke="#ff6e8b" stroke-width="3" style="stroke:#ff6e8b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="-14" y="109.20000000000002" text-anchor="end" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;text-anchor:end;">
                         60%
                     </text>
                 </g>
-                <path fill="none" stroke="#ff6e8b" stroke-width="3" stroke-dasharray="none" d="M0,109.26589941000003L217,92.4" style="fill:none;stroke:#ff6e8b;stroke-width:3px;"/>
+                <path fill="none" stroke="#ff6e8b" stroke-width="3" stroke-dasharray="none" d="M0,109.20000000000002L217,92.4" style="fill:none;stroke:#ff6e8b;stroke-width:3px;"/>
                 <g style="">
                     <line x1="221" x2="227" y1="92.4" y2="92.4" stroke="#ff6e8b" stroke-width="3" style="stroke:#ff6e8b;stroke-width:3px;"/>
                     <text dy="0.3em" x="231" y="92.4" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:21.390625px;fill:#666666;">

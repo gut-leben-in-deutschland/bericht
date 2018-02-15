@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
     <desc style="">
-        The chart shows early school leavers as a proportion of those aged 18-24 by migration background in the period 2005 to 2015. The proportion of early school leavers with a migration background fell from 24 to 16.3 percent in this period. However it remained much higher than the figure for early school leavers without a migration background (7.6 percent).
+        The chart shows early school leavers as a proportion of those aged 18-24 by migration background in the period 2005 to 2016. The proportion of early school leavers with a migration background fell from 24 to 18.3 percent in this period. The gap between the share of early school leavers with and without a migration background (7.3 percent) has increased by two percentage points last year.
     </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
@@ -11,13 +11,13 @@
                     2005
                 </text>
             </g>
-            <g transform="translate(132.5273822562979,264)" style="">
+            <g transform="translate(160.75728155339806,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2008
+                    2009
                 </text>
             </g>
-            <g transform="translate(309.3515881708653,264)" style="">
+            <g transform="translate(281.24271844660194,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2012
@@ -26,16 +26,16 @@
             <g transform="translate(442,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,153.36168944000002L44.17579408543264,151.28578120000003L88.35158817086528,162.12891456L132.5273822562979,169.56190760000004L176.82420591456736,175.20000000000002L221,169.12447928000003L265.17579408543264,171.5171056L309.3515881708653,181.05747872L353.6484118291347,185.53715992000002L397.82420591456736,187.77394672000003L442,185.45698383270923" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
+                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,153.36168944L40.16181229773463,151.28578119999997L80.32362459546925,162.12891456L120.48543689320388,169.56190759999998L160.75728155339806,175.2L200.9190938511327,169.12447928L241.0809061488673,171.51710559999998L281.24271844660194,181.05747872L321.5145631067961,185.53715992000002L361.67637540453075,187.77394672L401.8381877022654,185.4569838327092L442,181.3982214278448" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="446" x2="452" y1="185.45698383270923" y2="185.45698383270923" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
-                    <text dy="0.3em" x="456" y="185.45698383270923" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:51.390625px;fill:#666666;">
+                    <line x1="446" x2="452" y1="181.3982214278448" y2="181.3982214278448" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="456" y="181.3982214278448" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:57.390625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            9.8%
+                            10.3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Total
@@ -44,12 +44,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#810019" stroke-width="3" stroke-dasharray="none" d="M0,177.21827704000003L44.17579408543264,176.73534560000002L88.35158817086528,183.14475120000003L132.5273822562979,192.67754000000002L176.82420591456736,195.97580224L221,189.44584176L265.17579408543264,189.65512920000003L309.3515881708653,198.61761832000002L353.6484118291347,203.25956352L397.82420591456736,204.91207048L442,203.58802163054378" style="fill:none;stroke:#810019;stroke-width:3px;"/>
+                <path fill="none" stroke="#810019" stroke-width="3" stroke-dasharray="none" d="M0,177.21827704L40.16181229773463,176.73534560000002L80.32362459546925,183.1447512L120.48543689320388,192.67754L160.75728155339806,195.97580224L200.9190938511327,189.44584176L241.0809061488673,189.6551292L281.24271844660194,198.61761832000002L321.5145631067961,203.25956352L361.67637540453075,204.91207048L401.8381877022654,203.58802163054375L442,205.28862587427608" style="fill:none;stroke:#810019;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="446" x2="452" y1="203.58802163054378" y2="203.58802163054378" stroke="#810019" stroke-width="3" style="stroke:#810019;stroke-width:3px;"/>
-                    <text dy="0.3em" x="456" y="203.58802163054378" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:177.9375px;fill:#666666;">
+                    <line x1="446" x2="452" y1="205.28862587427608" y2="205.28862587427608" stroke="#810019" stroke-width="3" style="stroke:#810019;stroke-width:3px;"/>
+                    <text dy="0.3em" x="456" y="205.28862587427608" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:177.9375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            7.6%
+                            7.3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Without migration background
@@ -58,12 +58,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#fe5072" stroke-width="3" stroke-dasharray="none" d="M0,69.28465160000002L44.17579408543264,68.52681624000002L88.35158817086528,86.28732688000002L132.5273822562979,94.05120624000003L176.82420591456736,105.67962672000004L221,101.33859072000004L265.17579408543264,111.94385744000002L309.3515881708653,125.99331440000003L353.6484118291347,131.71871960000001L397.82420591456736,135.07263713339762L442,133.8395331637312" style="fill:none;stroke:#fe5072;stroke-width:3px;"/>
+                <path fill="none" stroke="#fe5072" stroke-width="3" stroke-dasharray="none" d="M0,69.28465160000002L40.16181229773463,68.52681624000002L80.32362459546925,86.28732688L120.48543689320388,94.05120624L160.75728155339806,105.67962672000002L200.9190938511327,101.33859072000001L241.0809061488673,111.94385743999999L281.24271844660194,125.9933144L321.5145631067961,131.7187196L361.67637540453075,135.0726371333976L401.8381877022654,133.83953316373118L442,117.8171046779712" style="fill:none;stroke:#fe5072;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="446" x2="452" y1="133.8395331637312" y2="133.8395331637312" stroke="#fe5072" stroke-width="3" style="stroke:#fe5072;stroke-width:3px;"/>
-                    <text dy="0.3em" x="456" y="133.8395331637312" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:167.375px;fill:#666666;">
+                    <line x1="446" x2="452" y1="117.8171046779712" y2="117.8171046779712" stroke="#fe5072" stroke-width="3" style="stroke:#fe5072;stroke-width:3px;"/>
+                    <text dy="0.3em" x="456" y="117.8171046779712" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:167.375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            16.3%
+                            18.3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              With migration background
@@ -100,7 +100,7 @@
                     <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  German Federal Statistical Office, Results of the 2015 Microcensus.
+                                Source:  German Federal Statistical Office, Results of the 2016 Microcensus.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
                                     <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
                                         Updated data

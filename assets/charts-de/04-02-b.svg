@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" style="height:480px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="444" style="height:444px;width:640px;">
     <desc style="">
         Die Abbildung zeigt anhand von zwei Deutschland-Karten die regionalen Unterschiede bei den Ganztagsquoten auf Kreisebene im Jahr 2016. Es zeigen sich starke Unterschiede zwischen den ost- und westdeutschen Bundesländern.
     </desc>
     <g transform="translate(0,0)" style="">
-        <text dy="1.5em" x="106.91040511179634" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:92.875px;fill:#666666;text-anchor:middle;">
+        <text dy="1.5em" x="106.91040511179634" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:13.984375px;line-height:21px;white-space:nowrap;width:97.203125px;fill:#666666;text-anchor:middle;">
             Unter-3-Jährige
         </text>
         <g transform="translate(0,30)" style="">
@@ -412,7 +412,7 @@
         </g>
     </g>
     <g transform="translate(243.82081022359267,0)" style="">
-        <text dy="1.5em" x="106.91040511179634" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:127.640625px;fill:#666666;text-anchor:middle;">
+        <text dy="1.5em" x="106.91040511179634" text-anchor="middle" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:13.984375px;line-height:21px;white-space:nowrap;width:135.28125px;fill:#666666;text-anchor:middle;">
             3- bis Unter-6-Jährige
         </text>
         <g transform="translate(0,30)" style="">
@@ -820,55 +820,55 @@
             <path fill="#6e0033" d="M153.09972967457963,147.7117717957908L153.27117967228165,147.70728312777283L153.59264720639337,147.69882073691133L153.61484357213138,147.7272079567042L154.86886381341392,148.09924589836874L155.17590120775876,149.9162730264975L155.89827032649873,149.63562364126255L155.86276747510286,150.6797014957083L156.90470549989402,151.05618727232195L156.92208122429406,150.91081883617153L157.79009625820177,151.20476501837356L158.68951468086246,153.2938904221246L158.01737290058963,153.86399049351257L154.74295541435197,154.56394241813723L153.84442108235507,156.41332228679448L152.01056810335967,156.34492317507375L151.6231559936732,157.22390618973895L150.18984361906553,157.69392333712176L149.36519838035576,157.48198177186077L148.81250393664143,155.9885083321883L148.57359196834727,155.9071952415443L148.29836997802704,155.18931299436372L149.16731323800437,153.69132780814016L148.63147132387624,152.86379179405412L149.30349828426785,151.28340571884155L149.4919196944732,151.07609314312595L149.67680664566996,150.72398335309572L149.7799539919457,150.5476618373732L149.85432643777668,149.1841708508273L149.19214443743704,149.31596883773045L149.5690518616981,148.03217502115558L149.91798244339142,147.38635318912702L149.91727934429167,147.35739810507903L149.8944470106303,147.30000808336217L150.08728199619654,147.29531715776466L150.99705291569978,146.80933201925563L152.02889563544102,147.7683923517402Z" style="fill:#6e0033;"/>
         </g>
     </g>
-    <foreignObject x="0" y="330" width="640" height="150" style="display:block;height:150px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:150px;width:640px;">
-            <div style="display:block;height:150px;width:640px;">
-                <div style="display:block;height:154px;left:487.6416320800781px;position:absolute;top:80px;width:80.625px;">
-                    <div style="display:block;height:144px;margin-bottom:10px;width:80.625px;">
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);width:80.625px;">
+    <foreignObject x="0" y="330" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
+                <div style="display:block;height:154px;left:487.6416320800781px;position:absolute;top:80px;width:90.640625px;">
+                    <div style="display:block;height:144px;margin-bottom:10px;width:90.640625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);width:90.640625px;">
                             Ganztagsquote
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:80.625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:90.640625px;">
                             <div style="background-color:rgb(255, 159, 201);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             0,9% - 15,0% 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:80.625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:90.640625px;">
                             <div style="background-color:rgb(255, 131, 174);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             15,0% - 29,0% 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:80.625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:90.640625px;">
                             <div style="background-color:rgb(226, 104, 147);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             29,0% - 43,1% 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:80.625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:90.640625px;">
                             <div style="background-color:rgb(196, 77, 121);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             43,1% - 57,1% 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:80.625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:90.640625px;">
                             <div style="background-color:rgb(167, 49, 97);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             57,1% - 71,2% 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:80.625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:90.640625px;">
                             <div style="background-color:rgb(137, 13, 72);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             71,2% - 85,2% 
                         </div>
-                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:80.625px;">
+                        <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:90.640625px;">
                             <div style="background-color:rgb(110, 0, 51);border-bottom-color:rgb(69, 69, 69);border-bottom-left-radius:50%;border-bottom-right-radius:50%;border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);border-top-left-radius:50%;border-top-right-radius:50%;color:rgb(69, 69, 69);display:block;font-family:BundesSans-Regular;font-size:12px;height:8px;left:0px;outline-color:rgb(69, 69, 69);position:absolute;top:5px;width:8px;">
                             </div>
                             85,2% - 99,3% 
                         </div>
                     </div>
                 </div>
-                <div style="display:block;height:150px;width:640px;">
-                    <div style="clear:both;display:block;height:150px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:150px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:126px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle:  Statistisches Bundesamt, Statistik der Kinder und tätigen Personen in Tageseinrichtungen und in öffentlich geförderter Kindertagespflege.
 
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
@@ -879,11 +879,6 @@
                                             BKG
                                         </a>
                                          2016.
-                                    </span>
-                                </span>
-                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
-                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
-                                        Aktualisierte Daten
                                     </span>
                                 </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">

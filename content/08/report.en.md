@@ -41,9 +41,9 @@ The **life and family forms** indicator shows how living arrangements and family
 
 <!-- ColumnRight start -->
 
-**Life and family forms** have changed over recent years, and today more than one in three adults live alone. In 2015, this are more than 34 per cent. The number of non-marital partnerships has also increased. The same holds true for stable same-sex relationships.
+**Life and family forms** have changed over recent years, and today more than one in three adults live alone. In 2016, this are more than 34 per cent. The number of non-marital partnerships has also increased. The same holds true for stable same-sex relationships.
 
-However, more than half of all people in Germany still live with their husband or wife. In 2015, 56 of 100 persons live in a marriage. In 1996, it were 66 of 100 persons. 
+However, more than half of all people in Germany still live with their husband or wife. In 2016, 56 of 100 persons live in a marriage. In 1996, it were 66 of 100 persons. 
 
 <!-- ColumnRight end -->
 
@@ -51,7 +51,7 @@ However, more than half of all people in Germany still live with their husband o
 
 **Most children** still grow up with married parents. However, the proportion has gone down by ten per cent over the last ten years. The **number of single parents is continuing to increase**, with one in five children in Germany now being brought up by one parent.
 
-It is worth noting that there are **regional differences**. In the **less densely populated states of eastern Germany**, so-called *Flächenstaaten* fewer children grow up with married parents (57.5 per cent) than in similar states in western Germany (75.3). In the east German *Flächenstaaten* the share of children brought up by a single parent amounts to 25.5 per cent. In the **city states**, Berlin, Bremen and Hamburg, almost thirty per cent of the children were brought up by a single parent.
+It is worth noting that there are **regional differences**. In the **less densely populated states of eastern Germany**, so-called *Flächenstaaten* fewer children grow up with married parents (about 57 per cent) than in similar states in western Germany (about 76 per cent). In the east German *Flächenstaaten* the share of children brought up by a single parent is significantly higher (25 per cent) than in the west German *Flächenstaaten* with less than 19 per cent. In the **city states**, Berlin, Bremen and Hamburg, the share is highest with 27 per cent of the children being brought up by a single parent.
 
 ```chart
 08-01-b

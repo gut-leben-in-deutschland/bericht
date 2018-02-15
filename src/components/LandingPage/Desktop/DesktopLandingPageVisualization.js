@@ -25,9 +25,9 @@ const maxTransitionDelay = 0.13;
 const allStages = [1, 2, 3, 4];
 
 
-function dimensionCardBaseStyle() {
+function dimensionCardBaseStyle(delay = 1) {
   return {
-    transitionDelay: `${Math.random() * maxTransitionDelay}s`,
+    transitionDelay: `${delay * maxTransitionDelay}s`,
   };
 }
 
@@ -83,18 +83,18 @@ const styles = StyleSheet.create({
     ...serifBold18,
   },
 
-  dimensionCard01: dimensionCardBaseStyle(),
-  dimensionCard02: dimensionCardBaseStyle(),
-  dimensionCard03: dimensionCardBaseStyle(),
-  dimensionCard04: dimensionCardBaseStyle(),
-  dimensionCard05: dimensionCardBaseStyle(),
-  dimensionCard06: dimensionCardBaseStyle(),
-  dimensionCard07: dimensionCardBaseStyle(),
-  dimensionCard08: dimensionCardBaseStyle(),
-  dimensionCard09: dimensionCardBaseStyle(),
-  dimensionCard10: dimensionCardBaseStyle(),
-  dimensionCard11: dimensionCardBaseStyle(),
-  dimensionCard12: dimensionCardBaseStyle(),
+  dimensionCard01: dimensionCardBaseStyle(0.5680994226546925),
+  dimensionCard02: dimensionCardBaseStyle(0.6786456440836353),
+  dimensionCard03: dimensionCardBaseStyle(0.35427871496074714),
+  dimensionCard04: dimensionCardBaseStyle(0.2818384917419725),
+  dimensionCard05: dimensionCardBaseStyle(0.941664014217177),
+  dimensionCard06: dimensionCardBaseStyle(0.9937879646666892),
+  dimensionCard07: dimensionCardBaseStyle(0.30426153480532236),
+  dimensionCard08: dimensionCardBaseStyle(0.6155216321430139),
+  dimensionCard09: dimensionCardBaseStyle(0.11425278004731876),
+  dimensionCard10: dimensionCardBaseStyle(0.5726821500885624),
+  dimensionCard11: dimensionCardBaseStyle(0.3883142379389406),
+  dimensionCard12: dimensionCardBaseStyle(0.12613115004264563),
 
   centeredDimensionCard: {
     top: '50%',

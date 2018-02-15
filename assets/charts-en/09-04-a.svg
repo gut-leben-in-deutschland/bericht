@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="456" style="height:456px;width:640px;">
     <desc style="">
-        The chart shows research and development spending as a percentage of GDP in the period 1995 to 2015. In this period, spending on research and development (R&amp;D) as a percentage of GDP increased from 2.2 percent to just under 3.0 percent. Throughout the entire period, Germany's R&amp;D spending as a percentage of GDP remained above the OECD average which stood at 2.4 percent in 2015.
+        The chart shows research and development spending as a percentage of GDP in the period 1995 to 2015. In this period, spending on research and development (R&amp;D) as a percentage of GDP increased from 2.2 percent to just below 3.0 percent. Throughout the entire period, Germany's R&amp;D spending as a percentage of GDP remained above the OECD average which stood at 2.4 percent in 2015.
     </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
@@ -30,12 +30,12 @@
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,93.56670639999999L54.63737166324435,89.466276L109.2,75.7332848L136.48131416837782,71.88789599999998L163.83737166324437,72.29485279999997L191.1186858316222,70.08770959999998L218.4,66.78976879999999L245.68131416837784,69.8798888L273.03737166324436,69.71133999999998L300.3186858316222,66.88996400000002L327.59999999999997,68.22990879999998L354.88131416837786,56.03478480000001L382.2373716632444,45.884611199999995L409.5186858316222,46.90673039999999L436.8,40.35067280000001L464.08131416837784,34.267011199999985L491.43737166324433,37.883216799999985L518.7186858316222,33.49854207999999L546,25.90635359999999" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,93.56670639999999L54.63737166324435,89.466276L109.2,75.7332848L136.48131416837782,71.88789599999998L163.83737166324437,72.29485279999997L191.1186858316222,70.08770959999998L218.4,66.78976879999999L245.68131416837784,69.8798888L273.03737166324436,69.71133999999998L300.3186858316222,66.88996400000002L327.59999999999997,68.22990879999998L354.88131416837786,56.03478480000001L382.2373716632444,45.884611199999995L409.5186858316222,46.90673039999999L436.8,40.35067280000001L464.08131416837784,34.267011199999985L491.43737166324433,37.883216799999985L518.7186858316222,33.49854207999999L546,29.81051567999998" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="550" x2="556" y1="25.90635359999999" y2="25.90635359999999" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
-                    <text dy="0.3em" x="560" y="25.90635359999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:77.0625px;fill:#666666;">
+                    <line x1="550" x2="556" y1="29.81051567999998" y2="29.81051567999998" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="560" y="29.81051567999998" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:77.0625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            2.98%
+                            2.93%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Germany

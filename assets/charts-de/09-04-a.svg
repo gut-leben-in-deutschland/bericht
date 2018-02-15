@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="438" style="height:438px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Entwicklung der Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes im Zeitraum von 1995 bis 2015. Die Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes sind in diesem Zeitraum von 2,2 auf knapp 3,0 Prozent gestiegen. Die deutschen Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes lagen im gesamten Zeitraum über dem OECD-Durchschnitt. Dieser betrug 2015 2,4 Prozent.
+        Die Abbildung zeigt die Entwicklung der Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes im Zeitraum von 1995 bis 2015. Die Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes sind in diesem Zeitraum von 2,2 auf gut 2,9 Prozent gestiegen. Die deutschen Ausgaben für Forschung und Entwicklung in Prozent des Bruttoinlandsproduktes lagen im gesamten Zeitraum über dem OECD-Durchschnitt. Dieser betrug 2015 2,4 Prozent.
     </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
@@ -30,12 +30,12 @@
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,93.56670639999999L53.13634496919918,89.466276L106.2,75.7332848L132.73182751540043,71.88789599999998L159.3363449691992,72.29485279999997L185.8681724845996,70.08770959999998L212.4,66.78976879999999L238.9318275154004,69.8798888L265.53634496919915,69.71133999999998L292.0681724845996,66.88996400000002L318.59999999999997,68.22990879999998L345.1318275154004,56.03478480000001L371.7363449691992,45.884611199999995L398.2681724845996,46.90673039999999L424.8,40.35067280000001L451.3318275154004,34.267011199999985L477.9363449691992,37.883216799999985L504.4681724845996,33.49854207999999L531,25.90635359999999" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,93.56670639999999L53.13634496919918,89.466276L106.2,75.7332848L132.73182751540043,71.88789599999998L159.3363449691992,72.29485279999997L185.8681724845996,70.08770959999998L212.4,66.78976879999999L238.9318275154004,69.8798888L265.53634496919915,69.71133999999998L292.0681724845996,66.88996400000002L318.59999999999997,68.22990879999998L345.1318275154004,56.03478480000001L371.7363449691992,45.884611199999995L398.2681724845996,46.90673039999999L424.8,40.35067280000001L451.3318275154004,34.267011199999985L477.9363449691992,37.883216799999985L504.4681724845996,33.49854207999999L531,29.81051567999998" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="535" x2="541" y1="25.90635359999999" y2="25.90635359999999" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
-                    <text dy="0.3em" x="545" y="25.90635359999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:94.546875px;fill:#666666;">
+                    <line x1="535" x2="541" y1="29.81051567999998" y2="29.81051567999998" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="545" y="29.81051567999998" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:94.546875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            2,98%
+                            2,93%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Deutschland

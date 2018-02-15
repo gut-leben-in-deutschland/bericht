@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="642" style="height:642px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="678" style="height:678px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Themenstruktur der Weiterbildung im Jahr 2014. In der betrieblichen Weiterbildung dominieren „Wirtschaft, Arbeit, Recht“ mit 41 Prozent und „Natur, Technik, Computer“ mit 24 Prozent. In der individuell berufsbezogenen Weiterbildung liegen „Wirtschaft, Arbeit, Recht“ mit 26 Prozent und „Gesundheit und Sport“ mit 21 Prozent an der Spitze. In der nicht-berufsbezogenen Weiterbildung liegen „Sprache, Kultur und Politik“ mit 32 Prozent und „Gesundheit und Sport“ mit 26 Prozent vorne.
+        Die Abbildung zeigt die Themenstruktur der Weiterbildung im Jahr 2016. In der betrieblichen Weiterbildung dominieren „Wirtschaft, Arbeit, Recht“ mit 39 Prozent und „Natur, Technik, Computer“ mit 24 Prozent. In der individuell berufsbezogenen Weiterbildung liegen „Wirtschaft, Arbeit, Recht“ und „Sprachen, Kultur und Politik“ mit jeweils 23 Prozent an der Spitze. In der nicht-berufsbezogenen Weiterbildung belegen die Teilnehmer am häufigsten Kurse im Bereich „Sprache, Kultur und Politik“ mit 38 Prozent sowie „Gesundheit und Sport“ mit 26 Prozent.
     </desc>
     <g transform="translate(0,0)" style="">
         <text dy="1.5em" style="display:block;font-family:BundesSans-Bold;font-size:14px;height:16.78125px;line-height:21px;white-space:nowrap;width:157.3125px;fill:#666666;">
@@ -11,7 +11,7 @@
                 Sprachen, Kultur, Poltik
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#810019" width="27" height="16" style="fill:#810019;"/>
+                <rect x="0" fill="#810019" width="48" height="16" style="fill:#810019;"/>
             </g>
         </g>
         <g style="">
@@ -19,7 +19,7 @@
                 Pädagogik und Sozialkompetenz
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#810019" width="38" height="16" style="fill:#810019;"/>
+                <rect x="0" fill="#810019" width="79" height="16" style="fill:#810019;"/>
             </g>
         </g>
         <g style="">
@@ -27,7 +27,7 @@
                 Gesundheit und Sport
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#810019" width="99" height="16" style="fill:#810019;"/>
+                <rect x="0" fill="#810019" width="133" height="16" style="fill:#810019;"/>
             </g>
         </g>
         <g style="">
@@ -35,7 +35,7 @@
                 Wirtschaft, Arbeit, Recht
             </text>
             <g transform="translate(0,165)" style="">
-                <rect x="0" fill="#810019" width="213" height="16" style="fill:#810019;"/>
+                <rect x="0" fill="#810019" width="303" height="16" style="fill:#810019;"/>
             </g>
         </g>
         <g style="">
@@ -43,7 +43,7 @@
                 Natur, Technik, Computer
             </text>
             <g transform="translate(0,205)" style="">
-                <rect x="0" fill="#810019" width="125" height="16" style="fill:#810019;"/>
+                <rect x="0" fill="#810019" width="187" height="16" style="fill:#810019;"/>
             </g>
         </g>
         <g style="">
@@ -51,7 +51,7 @@
                 nicht oder nur einstellig klassifizierbar
             </text>
             <g transform="translate(0,245)" style="">
-                <rect x="0" fill="#810019" width="22" height="16" style="fill:#810019;"/>
+                <rect x="0" fill="#810019" width="40" height="16" style="fill:#810019;"/>
             </g>
         </g>
         <g transform="translate(0,269)" style="">
@@ -67,14 +67,14 @@
                 <line y1="-224" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
-                    30
+                    20
                 </text>
             </g>
             <g transform="translate(309,0)" style="">
                 <line y1="-224" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.65625px;fill:#666666;text-anchor:end;">
-                    60% 
+                    40% 
                 </text>
             </g>
         </g>
@@ -88,7 +88,7 @@
                 Sprachen, Kultur, Poltik
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#fe5072" width="79" height="16" style="fill:#fe5072;"/>
+                <rect x="0" fill="#fe5072" width="179" height="16" style="fill:#fe5072;"/>
             </g>
         </g>
         <g style="">
@@ -96,7 +96,7 @@
                 Pädagogik und Sozialkompetenz
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#fe5072" width="89" height="16" style="fill:#fe5072;"/>
+                <rect x="0" fill="#fe5072" width="94" height="16" style="fill:#fe5072;"/>
             </g>
         </g>
         <g style="">
@@ -104,7 +104,7 @@
                 Gesundheit und Sport
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#fe5072" width="110" height="16" style="fill:#fe5072;"/>
+                <rect x="0" fill="#fe5072" width="125" height="16" style="fill:#fe5072;"/>
             </g>
         </g>
         <g style="">
@@ -112,7 +112,7 @@
                 Wirtschaft, Arbeit, Recht
             </text>
             <g transform="translate(0,165)" style="">
-                <rect x="0" fill="#fe5072" width="135" height="16" style="fill:#fe5072;"/>
+                <rect x="0" fill="#fe5072" width="179" height="16" style="fill:#fe5072;"/>
             </g>
         </g>
         <g style="">
@@ -120,7 +120,7 @@
                 Natur, Technik, Computer
             </text>
             <g transform="translate(0,205)" style="">
-                <rect x="0" fill="#fe5072" width="89" height="16" style="fill:#fe5072;"/>
+                <rect x="0" fill="#fe5072" width="171" height="16" style="fill:#fe5072;"/>
             </g>
         </g>
         <g style="">
@@ -128,7 +128,7 @@
                 nicht oder nur einstellig klassifizierbar
             </text>
             <g transform="translate(0,245)" style="">
-                <rect x="0" fill="#fe5072" width="22" height="16" style="fill:#fe5072;"/>
+                <rect x="0" fill="#fe5072" width="32" height="16" style="fill:#fe5072;"/>
             </g>
         </g>
         <g transform="translate(0,269)" style="">
@@ -144,14 +144,14 @@
                 <line y1="-224" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
-                    30
+                    20
                 </text>
             </g>
             <g transform="translate(309,0)" style="">
                 <line y1="-224" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.65625px;fill:#666666;text-anchor:end;">
-                    60% 
+                    40% 
                 </text>
             </g>
         </g>
@@ -165,7 +165,7 @@
                 Sprachen, Kultur, Poltik
             </text>
             <g transform="translate(0,45)" style="">
-                <rect x="0" fill="#c40046" width="166" height="16" style="fill:#c40046;"/>
+                <rect x="0" fill="#c40046" width="295" height="16" style="fill:#c40046;"/>
             </g>
         </g>
         <g style="">
@@ -173,7 +173,7 @@
                 Pädagogik und Sozialkompetenz
             </text>
             <g transform="translate(0,85)" style="">
-                <rect x="0" fill="#c40046" width="38" height="16" style="fill:#c40046;"/>
+                <rect x="0" fill="#c40046" width="56" height="16" style="fill:#c40046;"/>
             </g>
         </g>
         <g style="">
@@ -181,7 +181,7 @@
                 Gesundheit und Sport
             </text>
             <g transform="translate(0,125)" style="">
-                <rect x="0" fill="#c40046" width="135" height="16" style="fill:#c40046;"/>
+                <rect x="0" fill="#c40046" width="202" height="16" style="fill:#c40046;"/>
             </g>
         </g>
         <g style="">
@@ -189,7 +189,7 @@
                 Wirtschaft, Arbeit, Recht
             </text>
             <g transform="translate(0,165)" style="">
-                <rect x="0" fill="#c40046" width="63" height="16" style="fill:#c40046;"/>
+                <rect x="0" fill="#c40046" width="48" height="16" style="fill:#c40046;"/>
             </g>
         </g>
         <g style="">
@@ -197,7 +197,7 @@
                 Natur, Technik, Computer
             </text>
             <g transform="translate(0,205)" style="">
-                <rect x="0" fill="#c40046" width="120" height="16" style="fill:#c40046;"/>
+                <rect x="0" fill="#c40046" width="148" height="16" style="fill:#c40046;"/>
             </g>
         </g>
         <g style="">
@@ -205,7 +205,7 @@
                 nicht oder nur einstellig klassifizierbar
             </text>
             <g transform="translate(0,245)" style="">
-                <rect x="0" fill="#c40046" width="7" height="16" style="fill:#c40046;"/>
+                <rect x="0" fill="#c40046" width="32" height="16" style="fill:#c40046;"/>
             </g>
         </g>
         <g transform="translate(0,269)" style="">
@@ -221,26 +221,31 @@
                 <line y1="-224" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:12px;fill:#666666;text-anchor:middle;">
-                    30
+                    20
                 </text>
             </g>
             <g transform="translate(309,0)" style="">
                 <line y1="-224" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.65625px;fill:#666666;text-anchor:end;">
-                    60% 
+                    40% 
                 </text>
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="582" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Adult Education Survey 2014.
+    <foreignObject x="0" y="582" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Adult Education Survey 2016.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

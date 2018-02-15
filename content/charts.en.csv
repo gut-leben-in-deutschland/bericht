@@ -13,8 +13,8 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""colorSort"": ""none"",
   ""sort"": ""none"",
   ""highlight"": ""datum.type == 'Total'""
-}",,TRUE,"deprecated, replaced by static",FALSE,FALSE,,,,German Federal Statistical Office (2017): Pflegestatistik 2015 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. German Federal Statistical Office: Wiesbaden.,"Data on December 31, 2015 on the basis of the Census 2011. "
-01-00-b,Number of persons in need of care by type of care provision by end of year 2015,Static,01/00/categories.csv,,"The chart shows the number of persons in need of care by type of care provision by end of year 2015. Of the almost 2.9 million persons in need of care in 2015, some 2.1 million were looked after at home and some 800,000 lived permanently in a retirement or nursing home. Of the persons cared for at home, almost 1.4 million were looked after exclusively by family members and 700,000 using assistance services in addition.",TRUE,plotted,FALSE,TRUE,,,,German Federal Statistical Office (2017): Pflegestatistik 2015 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. German Federal Statistical Office: Wiesbaden.,"Data on December 31, 2015 on the basis of the Census 2011. "
+}",,FALSE,"deprecated, replaced by static",FALSE,FALSE,,,,German Federal Statistical Office (2017): Pflegestatistik 2015 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. German Federal Statistical Office: Wiesbaden.,"Data for December 31, 2015."
+01-00-b,Number of persons in need of care by type of care provision by end of year 2015,Static,01/00/categories.csv,,"The chart shows the number of persons in need of care by type of care provision by end of year 2015. Of the almost 2.9 million persons in need of care in 2015, some 2.1 million were looked after at home and some 800,000 lived permanently in a retirement or nursing home. Of the persons cared for at home, almost 1.4 million were looked after exclusively by family members and 700,000 using assistance services in addition.",FALSE,plotted,FALSE,TRUE,,,,German Federal Statistical Office (2017): Pflegestatistik 2015 – Pflege im Rahmen der Pflegeversicherung Deutschlandergebnisse. German Federal Statistical Office: Wiesbaden.,"Data for December 31, 2015. "
 01-01-a,Life expectancy at birth,Line,01/01/regions.csv,"{
   ""filter"": ""datum.at_age == 0 && datum.region != 'Gesamt' && datum.gender != 'Total'"",
   ""unit"": ""Jahre"",
@@ -22,7 +22,7 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""zero"": false,
   ""colorRange"": [""#F2BF18"", ""#F28502"", ""#C40046"", ""#890D48""],
   ""category"": ""datum.gender + ' ' + datum.region""
-}","The chart shows life expectancy at birth in the period 1956 to 2015. Distinction is made between men and women and between East and West German federal states. In this period, life expectancy increased significantly for all groups. Life expectancy of men was lower than that of women throughout the entire period. In 2015, the life expectancy of women in both West and East German federal states was approximately 83 years. Life expectancy of men stood at 78.4 years in West German federal states and 77 years in East German federal states.",TRUE,plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and the Max Planck Institute for Demographic Research (Germany).",
+}","The chart shows life expectancy at birth in the period 1956 to 2015. Distinction is made between men and women and between East and West German federal states. In this period, life expectancy increased significantly for all groups. Life expectancy of men was lower than that of women throughout the entire period. In 2015, the life expectancy of women in both West and East German federal states was approximately 83 years. Life expectancy of men stood at 78.4 years in West German federal states and 77 years in East German federal states.",FALSE,plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and the Max Planck Institute for Demographic Research (Germany).",
 01-01-b,Increases in life expectancy at birth since German reunification by gender,Slope,01/01/regions.csv,"{
   ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2015) && datum.region != 'Gesamt' && datum.gender != 'Total'"",
   ""numberFormat"": "".1f"",
@@ -30,14 +30,14 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""column"": ""gender"",
   ""color"": ""region"",
   ""zero"": false
-}","The chart shows the increase in life expectancy at birth since German reunification by gender. In 1990, life expectancy of men in East Germany stood at approximately 69 years, in 2015 at 77 years. In West Germany, life expectancy of men stood at 73 years in 1990 and 78.4 years in 2015. Since 1990, life expectancy of women in East German federal states moved closer to that of women in West German federal states and reached the same level of approximately 83 years by 2015.",TRUE,plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and the Max Planck Institute for Demographic Research (Germany).",
+}","The chart shows the increase in life expectancy at birth since German reunification by gender. In 1990, life expectancy of men in East Germany stood at approximately 69 years, in 2015 at 77 years. In West Germany, life expectancy of men stood at 73 years in 1990 and 78.4 years in 2015. Since 1990, life expectancy of women in East German federal states moved closer to that of women in West German federal states and reached the same level of approximately 83 years by 2015.",FALSE,plotted,TRUE,TRUE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and the Max Planck Institute for Demographic Research (Germany).",
 01-01-c,Increases in life expectancy at birth since German reunification,Slope,01/01/regions.csv,"{
   ""filter"": ""datum.at_age == 0 && (datum.year == 1990 || datum.year == 2015) && datum.region == 'Gesamt' && datum.gender == 'Total'"",
   ""numberFormat"": "".1f"",
   ""unit"": ""Jahre"",
   ""columns"": 1,
   ""zero"": false
-}","The chart shows life expectancy at birth in 1990 and 2015. In 1990, this was 75.3 years. In 2013, it stood at 80.6 years.",TRUE,plotted,TRUE,FALSE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and the Max Planck Institute for Demographic Research (Germany).",
+}","The chart shows life expectancy at birth in 1990 and 2015. In 1990, this was 75.3 years. In 2013, it stood at 80.6 years.",FALSE,plotted,TRUE,FALSE,,Human Mortality Database.,http://www.humanmortality.de/,"University of California, Berkeley (USA) and the Max Planck Institute for Demographic Research (Germany).",
 01-02-a,Obesity prevalence among adults by age group,Slope,01/02/age-groups.csv,"{
   ""filter"": ""(datum.year == 1999 || datum.year == 2013) && datum.age_group != 'Zusammen' && datum.age_group != '65 und älter'"",
   ""column"": ""gender"",
@@ -63,11 +63,11 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""legendTitle"": ""Anzahl der Einwohner"",
   ""column"": ""year"",
   ""columns"": 2
-}","Using two maps of Germany, the diagram shows the number of residents per county looked after by one GP in 2010 and 2016. It reveals great regional differences. The figures range from 1,101 residents per GP in Garmisch-Partenkirchen to 2,037 in Gütersloh.",TRUE,plotted,TRUE,TRUE,,,,"National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. ","Regions based on German counties according to the classification of the BBSR, reference date of areas and population 31.12.2014 "
+}","Using two maps of Germany, the diagram shows the number of residents per county looked after by one GP in 2010 and 2016. It reveals great regional differences. The figures range from 1,101 residents per GP in Garmisch-Partenkirchen to 2,037 in Gütersloh.",FALSE,plotted,TRUE,TRUE,,,,"National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. ","Regions based on German counties according to the classification of the BBSR, reference date of areas and population 31.12.2014 "
 01-03-b,Travel time by car to the nearest GP within a county 2016,KRegMap,01/03/distance.csv,"{
   ""legendTitle"": ""Fahrzeit in Minuten mit PKW"",
   ""numberFormat"": "".2f""
-}","Using a map of Germany, the diagram shows the average travel time by car to the nearest GP within a county. In all counties, the nearest GP is reachable by car within an average of 6 minutes. There are however regional differences. The travel time ranges from 2.4 minutes to just over 10 minutes. People living in cities have the shortest travel time.",TRUE,plotted,TRUE,TRUE,,,,"National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. ","Regions based on German counties according to the classification of the BBSR, reference date of areas and population 31.12.2014 "
+}","Using a map of Germany, the diagram shows the average travel time by car to the nearest GP within a county. In all counties, the nearest GP is reachable by car within an average of 6 minutes. There are however regional differences. The travel time ranges from 2.4 minutes to just over 10 minutes. People living in cities have the shortest travel time.",FALSE,plotted,TRUE,TRUE,,,,"National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. ","Regions based on German counties according to the classification of the BBSR, reference date of areas and population 31.12.2014 "
 01-03-bb,Shortest and longest journey to nearest GP 2016,Bar,01/03/distance.csv,"{
   ""y"": ""name"",
   ""category"": ""datum.value <= 2.86 ? 'Top 5' : (datum.value >= 9.11 ? 'Bottom 5' : '')"",
@@ -78,24 +78,24 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
     {""title"": ""Längste Fahrzeit"", ""test"": ""datum.value >= 9.11""}
   ],
   ""numberFormat"": "".2f""
-}","The chart shows the five counties in Germany with the shortest and longest journey to the nearest GP in minutes in 2016. People living in Munich, Freiburg, Berlin, Bonn and Darmstadt have the shortest journey. People living in the counties Eifelkreis Bitburg-Prüm, Ostprignitz-Ruppin, Cochem-Zell, Vulkaneifel and Birkenfeld have the longest journey.",TRUE,plotted,FALSE,TRUE,,,,"National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. ","Regions based on German counties according to the classification of the BBSR, reference date of areas and population 31.12.2014 "
+}","The chart shows the five counties in Germany with the shortest and longest journey to the nearest GP in minutes in 2016. People living in Munich, Freiburg, Berlin, Bonn and Darmstadt have the shortest journey. People living in the counties Eifelkreis Bitburg-Prüm, Ostprignitz-Ruppin, Cochem-Zell, Vulkaneifel and Birkenfeld have the longest journey.",FALSE,plotted,FALSE,TRUE,,,,"National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. ","Regions based on German counties according to the classification of the BBSR, reference date of areas and population 31.12.2014 "
 01-03-c,Number of persons per county looked after by one general specialist 2016,KRegMap,01/03/density.csv,"{
   ""legendTitle"": ""Anzahl der Einwohner"",
   ""filter"": ""datum.category == 'ALLGFA'"",
   ""column"": ""year"",
   ""columns"": 2
-}","Using two maps of Germany, the diagram shows the number of residents per county looked after by one general specialist in 2010 and 2016. There are major regional differences. In 2016, the figures ranged from 440 residents per general specialist in Heidelberg to 2,270 in Gifhorn. When it comes to general specialists, care is concentrated in cities, whereby the general specialist also look after patients from the surrounding region. General specialists include eye specialists, surgeons, gynaecologists, dermatologists, ear, nose and throat specialists, neurologists, orthopaedists, psychotherapists, urologists and paediatricians.",TRUE,plotted,TRUE,TRUE,,,,"National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. ","Regions based on German counties according to the classification of the BBSR, reference date of areas and population 31.12.2014 "
+}","Using two maps of Germany, the diagram shows the number of residents per county looked after by one general specialist in 2010 and 2016. There are major regional differences. In 2016, the figures ranged from 440 residents per general specialist in Heidelberg to 2,270 in Gifhorn. When it comes to general specialists, care is concentrated in cities, whereby the general specialist also look after patients from the surrounding region. General specialists include eye specialists, surgeons, gynaecologists, dermatologists, ear, nose and throat specialists, neurologists, orthopaedists, psychotherapists, urologists and paediatricians.",FALSE,plotted,TRUE,TRUE,,,,"National Association of Statutory Health Insurance Physicians, special analysis. Data for general practitioners December 31, 2016; Source: Federal Registry of Physicians. ","Regions based on German counties according to the classification of the BBSR, reference date of areas and population 31.12.2014 "
 01-05-a,"Proportion of persons assessing their health to be ""bad"" or ""poor"" vs. ""good"" or ""very good"" by income groups 2014",Lollipop,01/05/quintile.csv,"{
   ""numberFormat"": ""%"",
   ""column"": ""quintile"",
   ""y"": ""category"",
   ""color"": ""category"",
   ""sort"": ""none""
-}","The chart shows the proportion of persons assessing their health to be “bad or poor” vs. “good or very good” in 2014 by 5 different income groups of the same size, so-called quintiles. The lower the income level, the higher the percentage of people who describe their health as “bad or poor”. On the lower end of the income scale, the 20 percent of people in Germany with the lowest incomes, one in four people consider their health to be “bad or poor”. On the top end of the scale, the top 20 percent in terms of income, it was only one in ten. Regardless of income, the percentage of people who report their health to be “good or very good” is higher than the share of those who assess their health as “bad or poor”.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",The calculations refer to individuals aged 20-64 living in private households in Germany. 
+}","The chart shows the proportion of persons assessing their health to be “bad or poor” vs. “good or very good” in 2014 by 5 different income groups of the same size, so-called quintiles. The lower the income level, the higher the percentage of people who describe their health as “bad or poor”. On the lower end of the income scale, the 20 percent of people in Germany with the lowest incomes, one in four people consider their health to be “bad or poor”. On the top end of the scale, the top 20 percent in terms of income, it was only one in ten. Regardless of income, the percentage of people who report their health to be “good or very good” is higher than the share of those who assess their health as “bad or poor”.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",The calculations refer to individuals aged 20-64 living in private households in Germany. 
 02-01-a,Average annual unemployment rate,Line,02/01/regions.csv,"{
   ""color"": ""region"",
   ""numberFormat"": "".1%""
-}","The chart shows the average annual unemployment rate from 1992 to 2016. Two historic peaks in 1997 and 2005 with an unemployment rate of over 11 percent are followed by periods of significant recovery. In 2016, national unemployment stood at 6.1 percent, with a figure of 5.6 percent in West German federal states and 8.5 percent in East German federal states.",TRUE,plotted,TRUE,TRUE,,,,Statistics of the Federal Employment Agency.,
+}","The chart shows the average annual unemployment rate from 1992 to 2016. Two historic peaks in 1997 and 2005 with an unemployment rate of over 11 percent are followed by periods of significant recovery. In 2016, national unemployment stood at 6.1 percent, with a figure of 5.6 percent in West German federal states and 8.5 percent in East German federal states.",FALSE,plotted,TRUE,TRUE,,,,Statistics of the Federal Employment Agency.,
 02-01-b,Regional distribution of unemployment by county 2005 and 2016,KrsMap,02/01/districts.csv,"{
   ""accessor"": ""value"",
   ""filter"": ""datum.year == 2005 || datum.year == 2016"",
@@ -104,27 +104,27 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""krsYear"": 2015,
   ""numberFormat"": "".1%"",
   ""legendTitle"": ""Arbeitslosenquote""
-}","Using two maps of Germany, the diagram shows the regional distribution of unemployment by county in 2005 and 2016. In 2005, the rates range from 4.3 to 27.6 percent. In 2016, there is a range of 1.4 percent in Eichstätt to 14.7 percent in Gelsenkirchen. All in all, an east-west and a north-south divide can be recognised. The two maps also show that unemployment has fallen considerably since 2005.",TRUE,plotted,TRUE,TRUE,,,,"Spatial monitoring system of the Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR); Federal Employment Agency.",
+}","Using two maps of Germany, the diagram shows the regional distribution of unemployment by county in 2005 and 2016. In 2005, the rates range from 4.3 to 27.6 percent. In 2016, there is a range of 1.4 percent in Eichstätt to 14.7 percent in Gelsenkirchen. All in all, an east-west and a north-south divide can be recognised. The two maps also show that unemployment has fallen considerably since 2005.",FALSE,plotted,TRUE,TRUE,,,,"Spatial monitoring system of the Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR); Federal Employment Agency.",
 02-01-c,Long-term unemployment,Line,02/01/long-term.csv,"{
   ""numberFormat"": ""s""
-}","The chart shows long-term unemployment in the period 1998 to 2016. The number of long-term unemployed persons peaked in 2006 at approximately 1,864,000 and has since dropped by some 800,000. In 2016, the number of long-term unemployed persons stood at approximately 993,000.",TRUE,plotted,TRUE,TRUE,,,,Statistics of the Federal Employment Agency.,
+}","The chart shows long-term unemployment in the period 1998 to 2016. The number of long-term unemployed persons peaked in 2006 at approximately 1,864,000 and has since dropped by some 800,000. In 2016, the number of long-term unemployed persons stood at approximately 993,000.",FALSE,plotted,TRUE,TRUE,,,,Statistics of the Federal Employment Agency.,
 02-01-d,Youth unemployment,Line,02/01/youth.csv,"{
   ""numberFormat"": "".1%""
-}",The chart shows youth unemployment in the period 2008 to 2016. The proportion of young unemployed persons in the age group 15 to 24 years fell from 7 to 5.3 percent in this period.,TRUE,plotted,TRUE,TRUE,,,,Statistics of the Federal Employment Agency.,
+}",The chart shows youth unemployment in the period 2008 to 2016. The proportion of young unemployed persons in the age group 15 to 24 years fell from 7 to 5.3 percent in this period.,FALSE,plotted,TRUE,TRUE,,,,Statistics of the Federal Employment Agency.,
 02-03-a,Employment rate of persons aged 20-64 by gender,Line,02/03/facets.csv,"{
   ""filter"": ""datum.facet == ''"",
   ""numberFormat"": "".1%"",
   ""color"": ""gender"",
   ""zero"": false
-}","The chart shows the employment rate of persons aged 20-64 in total and by gender in the period 1991 to 2015. In this period, the total employment rate increased from 70.4 to 77.8 percent. Women's employment rate increased from some 59 percent in 1991 to 73.5 percent in 2015. In 2015, 82 percent of men were employed.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2015.",
+}","The chart shows the employment rate of persons aged 20-64 in total and by gender in the period 1991 to 2016. In this period, the total employment rate increased from 70.4 to 78.4 percent. Women's employment rate increased from some 59 percent in 1991 to 74.3 percent in 2016. In 2016, 82 percent of men were employed.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2016.",
 02-03-b,Employment rate of persons with migration background,Slope,02/03/facets.csv,"{
-  ""filter"": ""datum.facet == 'Migrationshintergrund' && (datum.year == 2005 || datum.year == 2015)"",
+  ""filter"": ""datum.facet == 'Migrationshintergrund' && (datum.year == 2005 || datum.year == 2016)"",
   ""column"": ""gender"",
   ""columnSort"": ""none"",
   ""columns"": 3,
   ""color"": ""facet_value"",
   ""bandSize"": 80
-}","The chart shows the employment rate of persons with and without a migration background in the years 2005 and 2015. The employment rate of people with a migration background stood at some 60 percent in 2005 and almost 70 percent in 2015. The employment rate of people without a migration background was around 80 percent in 2015 and thus 10 percentage points higher than the rate of people with a migration background. There are also clear differences between men and women. The employment rate of men with a migration background stood at 78 percent in 2015, only 5.5 percentage points behind the employment rate of men without a migration background. Women with a migration background chalked up an employment rate of only some 62 percent in 2015 compared with almost 77 percent for women without a migration background.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2015.",
+}",The chart shows the employment rate of persons with and without a migration background in the years 2005 and 2016. The employment rate of people with a migration background stood at some 60 percent in 2005 and almost 70 percent in 2016. The employment rate of people without a migration background was around 81 percent in 2016 and thus more than 10 percentage points higher than the rate of people with a migration background. There are also clear differences between men and women. The employment rate of men with a migration background stood at 76 percent in 2016 about eight percentage points behind the employment rate of men without a migration background. Women with a migration background chalked up an employment rate of only some 62 percent in 2016 compared with almost 78 percent for women without a migration background.,TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2016.",
 02-03-c,Employment rate of persons with and without disability,Slope,02/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Behinderung'"",
   ""columns"": 1,
@@ -134,7 +134,7 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
 02-04-aa,Non-standard employment as a share of dependent employment,Line,02/04/percentages.csv,"{
   ""filter"": ""datum.category == 'Insgesamt'"",
   ""numberFormat"": "".1%""
-}","The chart shows non-standard employment as a share of dependent employment in the period 1991 to 2015. In 1991, non-standard employment made up a share of around 14 percent of dependent employment. This share increased considerably between 1991 and 2007, when it reached an all-time high of 25.5 percent. Since this peak in 2007, the proportion has dropped and stood at some 23.2 percent in 2015.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.",
+}","The chart shows non-standard employment as a share of dependent employment in the period 1991 to 2016. In 1991, non-standard employment made up a share of around 14 percent of dependent employment. This share increased considerably between 1991 and 2007, when it reached an all-time high of 25.5 percent. Since this peak in 2007, the proportion has dropped and stood at some 22.9 percent in 2016.",TRUE,plotted,TRUE,TRUE,,,,"Statistisches Bundesamt, Ergebnisse des Mikrozensus 2016.",
 02-04-ab,Different forms of non-standard employment as a share of dependent employment,Line,02/04/percentages.csv,"{
   ""filter"": ""datum.category != 'Insgesamt'"",
   ""column"": ""category"",
@@ -142,13 +142,13 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""columns"": 2,
   ""columnSort"": ""none"",
   ""numberFormat"": "".1%""
-}","The chart shows the proportion of different forms of non-standard employment as a share of dependent employment in the period 1991 to 2015. Non-standard employment includes fixed-term employment contracts, marginal employment, part-time employment of up to 20 hours per week and temp work. Fixed-term, marginal and part-time employment as a share of dependent employment has increased since 1991. In 2015, the figures were 7.7 percent for fixed-term employment, 7.2 percent for marginal employment and 14.9 percent for part-time employment. Figures for temp work are only available for the period 2006 to 2015. The proportion of temp work as a share of dependent employment was around two percent in this period. ",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2015.","It should be noted that the various forms of non-standard employment are not distinct, and that individuals in a non-standard employment relationship might even be counted twice if they work part-time and have a fixed-term employment contract, for example. "
+}","The chart shows the proportion of different forms of non-standard employment as a share of dependent employment in the period 1991 to 2016. Non-standard employment includes fixed-term employment contracts, marginal employment, part-time employment of up to 20 hours per week and temp work. Fixed-term, marginal and part-time employment as a share of dependent employment has increased since 1991. In 2016, the figures were 7.8 percent for fixed-term employment, 6.5 percent for marginal employment and 14.4 percent for part-time employment. Figures for temp work are only available for the period 2006 to 2016. The proportion of temp work as a share of dependent employment was around two percent in this period. ",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2016.","It should be noted that the various forms of non-standard employment are not distinct, and that individuals in a non-standard employment relationship might even be counted twice if they work part-time and have a fixed-term employment contract, for example. "
 02-04-b,Number of persons in non-standard and standard employment,TimeBar,02/04/absolute.csv,"{
   ""filter"": ""datum.gender == 'Insgesamt'"",
   ""color"": ""category"",
   ""numberFormat"": ""s""
-}","The chart shows the number of persons in non-standard and standard employment in the period 1991 to 2015. The figures for both non-standard and standard employment have increased in Germany since 2000. The number of persons in a non-standard employment relationship rose from 5.9 to 7.5 million, the number of persons in standard employment increased from 23.7 to 24.7 million.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2015.",
-02-04-c,Number of persons in different forms of non-standard employment by gender 2015,Bar,02/04/absolute.csv,"{
+}","The chart shows the number of persons in non-standard and standard employment in the period 1991 to 2016. The figures for both non-standard and standard employment have increased in Germany since 2000. The number of persons in a non-standard employment relationship rose from 5.9 to 7.6 million, the number of persons in standard employment increased from 23.7 to 25.6 million.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2016.",
+02-04-c,Number of persons in different forms of non-standard employment by gender 2016,Bar,02/04/absolute.csv,"{
   ""filter"": ""datum.gender != 'Insgesamt' && datum.year == 2014"",
   ""color"": ""gender"",
   ""numberFormat"": ""s"",
@@ -156,16 +156,16 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""column"": ""category"",
   ""columns"": 2,
   ""highlight"": ""datum.category == 'Atypisch Beschäftigte'""
-}","The chart shows the number of persons in different forms of non-standard employment by gender in 2015. All in all, non-standard employment is much more common among women than men. In 2015, for example, 5,264,000 women but only 2,210,000 men were in non-standard employment. This is mainly due to part-time work and marginal employment. In 2015, 4,129,000 women were working part-time and 1,790,000 women were in marginal employment relationships. By way of comparison, only 687,000 men were working part-time and only 525,000 men were in marginal employment relationships. There are hardly any gender differences when it comes to fixed-term employment contracts. Compared to women, men are more often employed as temporary workers, in 2015 the figure for men stood at 452,000 and for women at 210,000.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2015.",
+}","The chart shows the number of persons in different forms of non-standard employment by gender in 2016. All in all, non-standard employment is much more common among women than men. In 2016, for example, 5,278,000 women but only 2,308,000 men were in non-standard employment. This is mainly due to part-time work and marginal employment. In 2016, 4,082,000 women were working part-time and 1,632,000 women were in marginal employment relationships. By way of comparison, only 696,000 men were working part-time and only 511,000 men were in marginal employment relationships. There are hardly any gender differences when it comes to fixed-term employment contracts. Compared to women, men are more often employed as temporary workers, in 2016 the figure for men stood at 496,000 and for women at 236,000.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2016.",
 02-05-a,"Net wages and salaries per employee (adjusted for price changes, in euros)",Line,02/05/years.csv,"{
   ""numberFormat"": ""s"",
   ""zero"": false,
   ""height"": 120
-}","The chart shows real net wages and salaries per employee in the period 1991 to 2016. Real net wages and salaries increased from 19,800 euros to around 20,600 euros in this period.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
+}","The chart shows real net wages and salaries per employee in the period 1991 to 2016. Real net wages and salaries increased from 19,800 euros to around 20,640 euros in this period.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office 2016, Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
 02-05-b,Coverage of employees by collective agreements,Line,02/05/collective-agreements.csv,"{
   ""color"": ""region"",
   ""numberFormat"": "".0%""
-}","The chart shows the coverage of employees by collective agreements for West German and East German federal states in the period 1996 to 2016. Collective agreements were less prevalent in East German federal states all through this period. Both in East German and West German federal states, coverage by collective agreements has dropped since 1996. In 1996, 70 percent of all employees in West Germany worked in businesses covered by collective agreements compared to only 51 percent in 2016. In East Germany, the figure dropped from 56 percent in 1996 to 36 percent in 2016.",TRUE,plotted,TRUE,TRUE,,,,"Institute for Employment Research, IAB Betriebspanel 2016.",
+}","The chart shows the coverage of employees by collective agreements for West German and East German federal states in the period 1996 to 2016. Collective agreements were less prevalent in East German federal states all through this period. Both in East German and West German federal states, coverage by collective agreements has dropped since 1996. In 1996, 70 percent of all employees in West Germany worked in businesses covered by collective agreements compared to only 51 percent in 2016. In East Germany, the figure dropped from 56 percent in 1996 to 36 percent in 2016.",FALSE,plotted,TRUE,TRUE,,,,"Institute for Employment Research, IAB Betriebspanel 2016.",
 02-05-c,"Pay gap between men and women, unadjusted and adjusted",Slope,02/05/gender-gap.csv,"{
   ""column"": ""category"",
   ""columnSort"": ""none"",
@@ -176,8 +176,8 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""numberFormat"": "".2f"",
   ""color"": ""category"",
   ""confidence"": 95
-}","The chart shows job satisfaction as a whole and by income group in the period 1991 to 2014. Average job satisfaction on a scale of zero (very dissatisfied) to ten (very satisfied) has remained at around seven since 1991. In the highest income group, the top ten percent of earners, job satisfaction was higher than it is in the lowest income group, the bottom ten percent of earners. The biggest difference was recorded in 2004. Thereafter, the job satisfaction of low eaners converged to the job satisfaction of high earners.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",Job satisfaction is measured on a scale of zero (very dissatisfied) to ten (very satisfied).
-03-01-a,Proportion of persons with at least secondary school (II) graduation by age group and gender 2015,Bar,03/01/age-groups.csv,"{
+}","The chart shows job satisfaction as a whole and by income group in the period 1991 to 2014. Average job satisfaction on a scale of zero (very dissatisfied) to ten (very satisfied) has remained at around seven since 1991. In the highest income group, the top ten percent of earners, job satisfaction was higher than it is in the lowest income group, the bottom ten percent of earners. The biggest difference was recorded in 2004. Thereafter, the job satisfaction of low eaners converged to the job satisfaction of high earners.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",Job satisfaction is measured on a scale of zero (very dissatisfied) to ten (very satisfied).
+03-01-a,Proportion of persons with at least secondary school (II) graduation by age group and gender 2016,Bar,03/01/age-groups.csv,"{
   ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Geschlecht'"",
   ""color"": ""facet_value"",
   ""colorSort"": ""none"",
@@ -187,8 +187,8 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""column"": ""age_group"",
   ""columnSort"": ""none"",
   ""columns"": 3
-}","The chart shows the proportion of persons with at least secondary school (II) graduation by age group and gender in 2015. In that year, a total of 87 percent of those aged 25-64 had completed a university entrance qualification or vocational training. The figure for women stood at 85 percent and for men at 89 percent. Women were however demonstrating increasing success in education. Women aged 25-34 have completely caught up with their male counterparts, chalking up some 87 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2015 Microcensus.",
-03-01-b,Proportion of persons with at least secondary school (II) graduation by age group and migration background 2015,Bar,03/01/age-groups.csv,"{
+}","The chart shows the proportion of persons with at least secondary school (II) graduation by age group and gender in 2016. In that year, a total of 87 percent of those aged 25-64 had completed a university entrance qualification or vocational training. The figure for women stood at 85 percent and for men at 88 percent. Women were however demonstrating increasing success in education. Women aged 25-34 have completely caught up with their male counterparts. Ín 2017, the share of men with at least secondary school (II) graduation was slightly below and that of women slightly higher than 87 percent. ",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
+03-01-b,Proportion of persons with at least secondary school (II) graduation by age group and migration background 2016,Bar,03/01/age-groups.csv,"{
   ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Migrationshintergrund'"",
   ""color"": ""facet_value"",
   ""colorSort"": ""none"",
@@ -198,18 +198,18 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""column"": ""age_group"",
   ""columnSort"": ""none"",
   ""columns"": 3
-}","The chart shows the proportion of persons with at least secondary school (II) graduation by age group and migration background in 2015. Some 92 percent of people without a migration background have at least one secondary school (II) graduation, for people with a migration background the figure is some 68 percent. The proportion of migrants with a secondary school (II) graduation increases in younger age brackets. For example, 74.5 percent of people with a migration background aged 25-34 have at least one secondary school (II) graduation. In the 55-64 age group, the figure was 64.3 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2015 Microcensus.",
+}","The chart shows the proportion of persons with at least secondary school (II) graduation by age group and migration background in 2016. Some 92 percent of people without a migration background have at least one secondary school (II) graduation, for people with a migration background the figure is some 68 percent. The proportion of migrants with a secondary school (II) graduation increases in younger age brackets. For example, 74 percent of people with a migration background aged 25-34 have at least one secondary school (II) graduation. In the 55-64 age group, the figure was 63.8 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
 03-02-a,Early school leavers as proportion of age group 18 to 24 by gender,Line,03/02/facets.csv,"{
   ""filter"": ""datum.facet == 'Insgesamt' || datum.facet == 'Geschlecht'"",
   ""color"": ""facet_value"",
   ""numberFormat"": "".1%""
-}","The chart shows early school leavers as a proportion of age group 18-24 in total and by gender in the period 1999 to 2015. In this period, the proportion of early school leavers dropped from 14.9 to 9.8 percent. The proportion of early school leavers among men (just over 10 percent) was slightly higher than that of women (9.5 percent).",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2015 Microcensus.",
+}","The chart shows early school leavers as a proportion of age group 18-24 in total and by gender in the period 1999 to 2016. In this period, the proportion of early school leavers dropped from 14.9 to 10.3 percent. The proportion of early school leavers among men (just below 11 percent) was slightly higher than that of women (9.8 percent).",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
 03-02-b,Early school leavers as proportion of age group 18 to 24 by migration background,Line,03/02/facets.csv,"{
   ""filter"": ""year(datum.year) >= 2005 && (datum.facet == 'Insgesamt' || datum.facet == 'Migrationshintergrund')"",
   ""color"": ""facet_value"",
   ""numberFormat"": "".1%""
-}",The chart shows early school leavers as a proportion of those aged 18-24 by migration background in the period 2005 to 2015. The proportion of early school leavers with a migration background fell from 24 to 16.3 percent in this period. However it remained much higher than the figure for early school leavers without a migration background (7.6 percent).,TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2015 Microcensus.",
-03-03-a,Educational mobility between parents and children 2015,Bar,03/03/facets.csv,"{
+}",The chart shows early school leavers as a proportion of those aged 18-24 by migration background in the period 2005 to 2016. The proportion of early school leavers with a migration background fell from 24 to 18.3 percent in this period. The gap between the share of early school leavers with and without a migration background (7.3 percent) has increased by two percentage points last year.,TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
+03-03-a,Educational mobility between parents and children 2016,Bar,03/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Insgesamt'"",
   ""y"": ""children"",
   ""sort"": ""none"",
@@ -219,10 +219,10 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""columnSort"": ""none"",
   ""columns"": 3,
   ""numberFormat"": ""%""
-}",,-,"deprecated, replaced by static",FALSE,FALSE,,,,"German Federal Statistical Office, Results of the 2015 Microcensus.",
-03-03-a14,Educational mobility between parents and children 2015,Static,03/03/facets.csv,,"The chart shows educational mobility between parents and children in 2015. Seven out of ten children whose parents attained a university entrance qualification or university of applied sciences entrance qualification earned the same qualification. Similarly, two-thirds of children whose parents had only a middle school or secondary modern school diploma earned the same qualification. The percentage of young people who failed to acquire a diploma is very low (3.2 percent) in such families. In families where the parents earned no school-leaving qualification, however, some 15 percent of children remained at the same low level of education as their parents, 62 percent acquired a middle school or secondary modern school diploma and some 23 percent a university entrance qualification or university of applied sciences entrance qualification.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2015 Microcensus.",
-03-03-a95,Educational mobility between parents and children 1995,Static,03/03/facets.csv,,"The chart shows educational mobility between parents and children in 1995. Almost two-thirds of children whose parents attained a university entrance qualification or university of applied sciences entrance qualification earned the same qualification. Some 79 percent of children whose parents acquired a middle school or secondary modern school diploma earned the same qualification. Almost 19 percent of these children attained a university entrance qualification or university of applied sciences entrance qualification. The percentage of young people who failed to acquire a diploma is very low in such families. In families where the parents earned no school-leaving qualification, however, more than18 percent of the children remained at the same low level of education as their parents, some 74 percent acquired a middle school or secondary modern school diploma and some 8 percent a university entrance qualification or university of applied sciences entrance qualification.",FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2015 Microcensus.",
-03-03-b,Educational mobility between parents and children in families with migration background 2014,Bar,03/03/facets.csv,"{
+}",,,"deprecated, replaced by static",FALSE,FALSE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
+03-03-a14,Educational mobility between parents and children 2016,Static,03/03/facets.csv,,"The chart shows educational mobility between parents and children in 2016. Seven out of ten children whose parents attained a university entrance qualification or university of applied sciences entrance qualification earned the same qualification. Similarly, about two-thirds of children whose parents had only a middle school or secondary modern school diploma earned the same qualification. The percentage of young people who failed to acquire a diploma is very low (3.4 percent) in such families. In families where the parents earned no school-leaving qualification, however, almost 20 percent of children remained at the same low level of education as their parents, 56 percent acquired a middle school or secondary modern school diploma and some 24 percent a university entrance qualification or university of applied sciences entrance qualification.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
+03-03-a95,Educational mobility between parents and children 1995,Static,03/03/facets.csv,,"The chart shows educational mobility between parents and children in 1995. Almost two-thirds of children whose parents attained a university entrance qualification or university of applied sciences entrance qualification earned the same qualification. Some 79 percent of children whose parents acquired a middle school or secondary modern school diploma earned the same qualification. Almost 19 percent of these children attained a university entrance qualification or university of applied sciences entrance qualification. The percentage of young people who failed to acquire a diploma is very low in such families. In families where the parents earned no school-leaving qualification, however, more than18 percent of the children remained at the same low level of education as their parents, some 74 percent acquired a middle school or secondary modern school diploma and some 8 percent a university entrance qualification or university of applied sciences entrance qualification.",FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus.",
+03-03-b,Educational mobility between parents and children in families with migration background 2016,Bar,03/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Ledige Kinder in Familien mit Migrationshintergrund'"",
   ""y"": ""children"",
   ""sort"": ""none"",
@@ -232,14 +232,15 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""columnSort"": ""none"",
   ""columns"": 3,
   ""numberFormat"": ""%""
-}",,-,"deprecated, replaced by static",FALSE,FALSE,,,,"German Federal Statistical Office, Microcensus, special analysis.",
-03-03-b14,Educational mobility between parents and children in families with migration background 2015,Static,03/03/facets.csv,,"The chart shows educational mobility between parents and children in families with a migration background in 2015. Some 33 percent of children whose parents had a university entrance qualification only acquired a middle school or secondary modern school diploma, some 3 percent left school with no diploma. Some two-thirds of children whose parents acquired a middle school or secondary modern school diploma earned the same qualification, some 29 percent completed a university entrance qualification. Some 62 percent of children whose parents had no school-leaving qualification managed to acquire a middle school or secondary modern school diploma, some 25 percent achieved a university entrance qualification.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Microcensus, special analysis.",
-03-04-a,Participation in further education by age group,Slope,03/04/age-groups.csv,"{
+}",,,"deprecated, replaced by static",FALSE,FALSE,,,,"German Federal Statistical Office, Microcensus, special analysis.",
+03-03-b14,Educational mobility between parents and children in families with migration background 2016,Static,03/03/facets.csv,,"The chart shows educational mobility between parents and children in families with a migration background in 2015. Some 33 percent of children whose parents had a university entrance qualification only acquired a middle school or secondary modern school diploma, some 3 percent left school with no diploma. Some two-thirds of children whose parents acquired a middle school or secondary modern school diploma earned the same qualification, some 29 percent completed a university entrance qualification. Some 62 percent of children whose parents had no school-leaving qualification managed to acquire a middle school or secondary modern school diploma, some 25 percent achieved a university entrance qualification.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Microcensus, special analysis.",
+03-04-a,Participation in further education by age group 2007 and 2016,Slope,03/04/age-groups.csv,"{
   ""columns"": 3,
   ""column"": ""age_group"",
-  ""columnSort"": ""none""
-}","The chart shows participation in further education by age group in 2007 and 2014. Participation in further training stood at 43 percent in 2007 and 52 percent in 2014. This increase can be recognised in all age groups, but is particularly pronounced in the age groups 25-34 and 55-64. Between 2007 and 2014, participation increased from 47 to 58 percent for those aged 25-34 and from 27 to 39 percent for those aged 55-64.",FALSE,plotted,TRUE,TRUE,,,,Adult Education Survey 2007 and 2014.,Up until 2007: 19-64-year-olds; from 2010: 18-64-year-olds.
-03-04-b,Types of further education by topic 2014,Bar,03/04/categories.csv,"{
+  ""columnSort"": ""none"",
+  ""filter"": ""datum.age_group !== '65-69 Jahre'""
+}","The chart shows participation in further education by age group in 2007 and 2016. Participation in further training stood at 43 percent in 2007 and 50 percent in 2016. This increase can be recognised in all age groups, but is particularly pronounced in the age group 55-64. Between 2007 and 2016, participation increased from 27 to 44 percent for those aged 55-64.",TRUE,plotted,TRUE,TRUE,,,,Adult Education Survey 2007 and 2016.,Up until 2007: 19-64-year-olds; from 2010: 18-64-year-olds.
+03-04-b,Types of further education by topic 2016,Bar,03/04/categories.csv,"{
   ""color"": ""type"",
   ""colorSort"": ""none"",
   ""numberFormat"": ""%"",
@@ -248,7 +249,7 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""y"": ""category"",
   ""columns"": 3,
   ""minInnerWidth"": 250
-}","The chart shows types of further education by topic in 2014. In company-related further education, the topics “economy, work, law” led the field with 41 percent followed by “nature, technology, IT” with 24 percent. In individual profession-related further education, “economy, work, law” was highest with 26 percent followed by “health and sport” with 21 percent. In non-profession-related further education, the category “languages, culture, politics” was highest with 32 percent followed by “health and sport” with 26 percent.",FALSE,plotted,TRUE,TRUE,,,,Adult Education Survey 2014.,
+}","The chart shows types of further education by topic in 2016. In company-related further education, the topics “economy, work, law” led the field with 39 percent followed by “nature, technology, IT” with 24 percent. In individual profession-related further education, “economy, work, law” and ""languages, culture, politics"" was highest both with 23 percent. In non-profession-related further education, the category “languages, culture, politics” was highest with 38 percent followed by “health and sport” with 26 percent.",TRUE,plotted,TRUE,TRUE,,,,Adult Education Survey 2016.,
 04-01-a,"Preferred, agreed and actual working hours of women and men",Slope,04/01/categories.csv,"{
   ""xScale"": ""time"",
   ""unit"": ""Wochenstunden"",
@@ -258,14 +259,14 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""numberFormat"": "".1f"",
   ""zero"": false,
   ""confidence"": 95
-}","The chart shows the preferred, agreed and actual working hours of women and men in the period 2000 to 2015. The actual working hours of men fell in this period from 43 to 41.7 hours, that of women from 33.4 to 33.1 hours. Both men and women usually worked longer than their contractually agreed working hours. For men, preferred working hours have dropped from 39.2 hours in 2005 to 37.9 hours in 2015. For women, preferred working hours have increased from 30.2 hours in 2000 to 30.8 hours in 2015.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}","The chart shows the preferred, agreed and actual working hours of women and men in the period 2000 to 2015. The actual working hours of men fell in this period from 43 to 41.7 hours, that of women from 33.4 to 33.1 hours. Both men and women usually worked longer than their contractually agreed working hours. For men, preferred working hours have dropped from 39.2 hours in 2005 to 37.9 hours in 2015. For women, preferred working hours have increased from 30.2 hours in 2000 to 30.8 hours in 2015.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 04-01-b,"Preferred, agreed and actual working hours in east and west German federal states 2015",Lollipop,04/01/categories.csv,"{
   ""numberFormat"": "".2f"",
   ""filter"": ""datum.year == 2015 && datum.facet == 'region'"",
   ""y"": ""facet_value"",
   ""column"": ""category"",
   ""color"": ""facet_value""
-}","The chart depicts the preferred, agreed and actual working hours in East German and West German federal states in 2015. People in federal states in East Germany worked 38.9 hours per week, people in federal states in West Germany worked 37.3 hours per week. The preferred and contractually agreed working hours in East Germany were also higher than the comparable figure for West German federal states.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}","The chart depicts the preferred, agreed and actual working hours in East German and West German federal states in 2015. People in federal states in East Germany worked 38.9 hours per week, people in federal states in West Germany worked 37.3 hours per week. The preferred and contractually agreed working hours in East Germany were also higher than the comparable figure for West German federal states.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 04-01-c,"Preferred, agreed and actual working hours by type of household and gender",,,,,-,data missing,,,,,,,
 04-01-d,Actual working hours of men and women 2015,Lollipop,04/01/categories.csv,"{
   ""unit"": ""Wochenstunden"",
@@ -274,11 +275,11 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""column"": ""category"",
   ""color"": ""facet_value"",
   ""numberFormat"": "".2f""
-}",The chart shows the actual working hours of men and women in 2015. Men worked an average of some 41.6 hours per week. Women worked an average of approximately 32.6 hours per week.,TRUE,plotted,FALSE,FALSE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}",The chart shows the actual working hours of men and women in 2015. Men worked an average of some 41.6 hours per week. Women worked an average of approximately 32.6 hours per week.,FALSE,plotted,FALSE,FALSE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 04-02-a,Full-time childcare enrolment rate,Line,04/02/preschool.csv,"{
   ""numberFormat"": "".1%"",
   ""color"": ""group""
-}","The chart shows the full-time childcare enrolment rate in the period 2006 to 2016. Both for children aged under 3 and children aged 3 to 6, an upward trend can be identified since 2006. For example, the full-time childcare enrolment of children aged under 3 increased from 6.5 percent in 2006 to 18.3 percent in 2016. The full-time childcare enrolment of children aged 3 to 6 increased from 22.1 to 44.8 percent in the same period.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Statistics on children and staff in childcare centres and day care by child minders.
+}","The chart shows the full-time childcare enrolment rate in the period 2006 to 2016. Both for children aged under 3 and children aged 3 to 6, an upward trend can be identified since 2006. For example, the full-time childcare enrolment of children aged under 3 increased from 6.5 percent in 2006 to 18.3 percent in 2016. The full-time childcare enrolment of children aged 3 to 6 increased from 22.1 to 44.8 percent in the same period.",FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Statistics on children and staff in childcare centres and day care by child minders.
 ",
 04-02-b,Full-time childcare enrolment rate for children aged under three and those aged three to six by district 2016,KrsMap,04/02/districts.csv,"{
   ""column"": ""group"",
@@ -287,87 +288,91 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""numberFormat"": "".1%"",
   ""filter"": ""datum.krs !== 'DE'"",
   ""legendTitle"": ""Ganztagsquote""
-}","Using two maps of Germany, the chart depicts the regional differences in full-time childcare enrolment rates at district level in 2016. It reveals stark differences between East German and West German federal states.",TRUE,"plotted, needs additional year facet, needs data update from Input/160704/Anfrage BKAmt.xlsx",TRUE,TRUE,,,,"German Federal Statistical Office, Statistics on children and staff in childcare centres and day care by child minders.
+}","Using two maps of Germany, the chart depicts the regional differences in full-time childcare enrolment rates at district level in 2016. It reveals stark differences between East German and West German federal states.",FALSE,"plotted, needs additional year facet, needs data update from Input/160704/Anfrage BKAmt.xlsx",TRUE,TRUE,,,,"German Federal Statistical Office, Statistics on children and staff in childcare centres and day care by child minders.
 ",
 04-02-c,Primary school age children in all-day schools,Line,04/02/primary-school.csv,"{
   ""numberFormat"": "".1%"",
   ""xScale"": ""ordinal"",
   ""filter"": ""datum.group == 'Anteil der Kinder in Ganztagsgrundschulen'""
-}",The chart shows the percentage of children in all-day schools in the period 2005/06 to 2015/16. The proportion of children in all-day schools increased from almost 10 percent to some 33 percent in this period.,TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office; Statistics on children and staff in childcare centres and day care by child minders. Standing Conference of the Ministers of Education and Cultural Affairs of the Federal States; data compiled by the German Youth Institute and TU Dortmund, 2016.",
+}",The chart shows the percentage of children in all-day schools in the period 2005/06 to 2015/16. The proportion of children in all-day schools increased from almost 10 percent to some 33 percent in this period.,FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office; Statistics on children and staff in childcare centres and day care by child minders. Standing Conference of the Ministers of Education and Cultural Affairs of the Federal States; data compiled by the German Youth Institute and TU Dortmund, 2016.",
 04-02-d,Primary school age children in after-school clubs,Line,04/02/primary-school.csv,"{
   ""filter"": ""datum.group == 'Anteil der Kinder im Grundschulalter in Horten'"",
   ""numberFormat"": "".1%""
-}",The chart shows the percentage of primary school age children in after-school clubs from 2006 to 2016. The proportion increased in this period from 10.6 to 16.2 percent.,TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office; Statistics from child and youth welfare statistics. Standing Conference of the Ministers of Education and Cultural Affairs of the Federal States; data compiled by the German Youth Institute and TU Dortmund, 2016.",Data was compiled on children under the age of eleven.
+}",The chart shows the percentage of primary school age children in after-school clubs from 2006 to 2016. The proportion increased in this period from 10.6 to 16.2 percent.,FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office; Statistics from child and youth welfare statistics. Standing Conference of the Ministers of Education and Cultural Affairs of the Federal States; data compiled by the German Youth Institute and TU Dortmund, 2016.",Data was compiled on children under the age of eleven.
 04-03-a,Part-time employment due to childcare and other care responsbilities,TimeBar,04/03/reasons.csv,"{
   ""filter"": ""datum.category == 'Einschränkung der Erwerbstätigkeit'"",
   ""color"": ""reason"",
   ""numberFormat"": ""%""
-}","The chart shows the proportion of people employed part-time due to childcare and other care responsibilities in the period 2006 to 2015. In this period, the rate increased from 17 to more than 24 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, EU Labour Force Survey. ","Proportion of the part-time employed who cite caring for elderly or disabled relatives, or children, as the main reason for working part-time."
+}","The chart shows the proportion of people employed part-time due to childcare and other care responsibilities in the period 2006 to 2016. In this period, the rate increased from 17 to slightly below 25 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, EU Labour Force Survey. ","Proportion of the part-time employed who cite caring for elderly or disabled relatives, or children, as the main reason for working part-time."
 04-03-b,Non-employment due to childcare and other care responsibilities,TimeBar,04/03/reasons.csv,"{
   ""filter"": ""datum.category == 'Aufgabe der Erwerbstätigkeit'"",
   ""color"": ""reason"",
   ""numberFormat"": ""%""
-}",The chart shows the proportion of people who give up their work entirely due to childcare and other care responsibilities in the period 2006 to 2015. The proportion increased in this period from some 8 to 12 percent.,TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, EU Labour Force Survey. ","Proportion of non-employed persons who cite caring for elderly or disabled relatives, or children, as the main reason for quitting their last job."
+}",The chart shows the proportion of people who give up their work entirely due to childcare and other care responsibilities in the period 2006 to 2016. The proportion increased in this period from some 8 to more than 12 percent.,TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, EU Labour Force Survey. ","Proportion of non-employed persons who cite caring for elderly or disabled relatives, or children, as the main reason for quitting their last job."
 04-04-aa,Persons in employment commuting more than 30 minutes,Line,04/04/germany.csv,"{
   ""filter"": ""datum.region == 'Deutschland' && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger'""
-}","The chart shows the proportion of persons in employment commuting more than 30 minutes in the period 1991 to 2012. In this period, the proportion of persons in employment commuting more than 30 minutes increased from 22 to 26 percent.",FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Microcensus.",
+}","The chart shows the proportion of persons in employment commuting more than 30 minutes in the period 1991 to 2016. In this period, the proportion of persons in employment commuting more than 30 minutes increased from 22 to slightly less than 27 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
 04-04-ab,Persons in employment communting more than 30 minutes by type of location,Line,04/04/germany.csv,"{
   ""filter"": ""datum.region != 'Deutschland' && datum.year >= 2000 && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger'"",
   ""column"": ""region"",
   ""columnSort"": ""none"",
   ""columns"": 2
-}","The chart shows the proportion of persons in employment commuting more than 30 minutes in the period 2000 to 2012. Distinctions are made between location categories. In all four categories, “very central”, “central”, “peripheral” and “very peripheral”, the proportion of persons in employment commuting more than 30 minutes increased between 2000 and 2012. The growth was particularly clear in very central locations. In 2000, some 26 percent of persons in employment were commuting more than 30 minutes in central locations. In 2012, the relevant figure was some 30 percent. In central and very peripheral locations, 23 percent of persons in employment were commuting more than 30 minutes in 2012, in peripheral locations the figure was 21 percent.",FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Microcensus.",
-04-04-b,Types of transport used by commuters,Slope,04/04/germany.csv,"{
-  ""filter"": ""(datum.year == 2000 || datum.year == 2012) && datum.facet == 'Verkehrsmittel' && (datum.facet_value == 'Pkw' || datum.facet_value == 'Öffentliches Verkehrsmittel' || datum.facet_value == 'Fahrrad')"",
+}","The chart shows the proportion of persons in employment commuting more than 30 minutes in the period 2000 to 2016. Distinctions are made between location categories. In all four categories, “very central”, “central”, “peripheral” and “very peripheral”, the proportion of persons in employment commuting more than 30 minutes increased between 2000 and 2016. The growth was particularly clear in very central locations. In 2000, some 26 percent of persons in employment were commuting more than 30 minutes in central locations. In 2016, the relevant figure was 32 percent. In central and very peripheral locations, more than 24 percent of persons in employment were commuting more than 30 minutes in 2016, in peripheral locations the figure was just over 20 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
+04-04-b,Types of transport used by commuters 2000 and 2016,Slope,04/04/germany.csv,"{
+  ""filter"": ""(datum.year == 2000 || datum.year == 2016) && datum.facet == 'Verkehrsmittel' && (datum.facet_value == 'Pkw' || datum.facet_value == 'Öffentliches Verkehrsmittel' || datum.facet_value == 'Fahrrad')"",
   ""column"": ""region"",
   ""columnSort"": ""none"",
   ""color"": ""facet_value"",
   ""columns"": 3
-}","The chart shows types of transport used by commuters in 2000 and 2012 by location categories. In 2012, 63 percent used their own car to go to work, 13 percent used public transport and 9 percent cycled. In very central locations, there was a trend away from using cars and towards the use of public transport and bicycles. In 2012, some 56 percent of commuters in very central locations used their car to go to work, 21 percent used public transport and 9 percent cycled. In peripheral and very peripheral locations, 70 and 67 percent respectively used their own car to travel to work in 2012. In 2002, the comparable figures were only 67 and 63 percent. In central locations, there has been little change when it comes to transport choices. Here, 68 percent of people commuted in their own cars.",FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Microcensus.","Conurbations: “very central”, outskirts of major cities: “central”, rural regions: “peripheral and very peripheral”."
-04-04-c,Types of transport used by long-distance commuters,Slope,04/04/germany.csv,"{
-  ""filter"": ""(datum.year == 2000 || datum.year == 2012) && datum.facet == 'Fernpendler'"",
+}","The chart shows types of transport used by commuters in 2000 and 2016 by location categories. In 2016, 64 percent used their own car to go to work, 13 percent used public transport and 9 percent cycled. In very central locations, there was a trend away from using cars and towards the use of public transport and bicycles. In 2016, some 57 percent of commuters in very central locations used their car to go to work, 21 percent used public transport and ten percent cycled. In peripheral and very peripheral locations, 72 and 71 percent respectively used their own car to travel to work in 2016. In 2002, the comparable figures were only 67 and 63 percent. In central locations, there has been little change when it comes to transport choices. Here, 70 percent of people commuted in their own cars.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.","Conurbations: “very central”, outskirts of major cities: “central”, rural regions: “peripheral and very peripheral”."
+04-04-c,Types of transport used by long-distance commuters 2000 and 2016,Slope,04/04/germany.csv,"{
+  ""filter"": ""(datum.year == 2000 || datum.year == 2016) && datum.facet == 'Fernpendler'"",
   ""column"": ""region"",
   ""columnSort"": ""none"",
   ""color"": ""facet_value"",
   ""bandSize"": 65
-}","The chart shows types of transport used by long-distance commuters in the period 2000 to 2012 in total and by location category. The proportion of long-distance commuters travelling to work by train increased in this period from 29 to 40 percent. The proportion of long-distance commuters using a car to get to work fell from 69 percent in 2000 to 58 percent in 2012. In all four location categories “very central”, “central”, “peripheral” and “very peripheral”, the proportion of long-distance commuters travelling to work by train increased. The proportion of persons travelling by rail was highest in very central locations (53 percent). The proportion of long-distance commuters travelling by car was 46 percent in very central regions. In central locations, the figure was 65 percent, in peripheral locations 72 percent and in very peripheral locations 79 percent.",FALSE,plotted,TRUE,TRUE,,,,German Federal Statistical Office.,
+}","The chart shows types of transport used by long-distance commuters in the period 2000 to 2016 in total and by location category. The proportion of long-distance commuters travelling to work by train increased in this period from 29 to 38 percent. The proportion of long-distance commuters using a car to get to work fell from 69 percent in 2000 to 60 percent in 2016. In all four location categories “very central”, “central”, “peripheral” and “very peripheral”, the proportion of long-distance commuters travelling to work by public transportation increased. The proportion of persons travelling by public transportation was highest in very central locations (51 percent). The proportion of long-distance commuters travelling by car was 46 percent in very central regions. In central locations, the figure was 63 percent, in peripheral locations 74 percent and in very peripheral locations 82 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Results of the 2016 Microcensus.",
 05-01-a,Net household income in euros,Line,05/01/region.csv,"{
   ""confidence"": 95,
   ""category"": ""datum.region"",
   ""numberFormat"": ""s""
-}","The chart shows net household income in euros in the period 1991 to 2014. In this period, net household income increased from 18,100 euros to some 19,800 euros. In West German federal states, the net household income stood at some 20,640 euros in 2014 and in East German federal states at some 17,050 euros.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",Net household income in 2010 prices.
+}","The chart shows net household income in euros in the period 1991 to 2014. In this period, net household income increased from 18,100 euros to some 19,800 euros. In West German federal states, the net household income stood at some 20,640 euros in 2014 and in East German federal states at some 17,050 euros.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",Net household income in 2010 prices.
 05-02-a,Gini coefficient of household income,Line,05/02/germany.csv,"{
   ""confidence"": 95,
   ""category"": ""datum.category"",
   ""numberFormat"": "".2f"",
   ""filter"": ""datum.category == 'Gini nach Steuern und Transfers'""
-}",The chart depicts the Gini coefficient of household income in the period 1991 to 2014. The Gini coefficient of household income increased in this period from 0.25 to 0.29.,TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
-05-02-b,Gini coefficient of household income in OECD countries 2013,Bar,05/02/oecd.csv,"{
+}",The chart depicts the Gini coefficient of household income in the period 1991 to 2014. The Gini coefficient of household income increased in this period from 0.25 to 0.29.,FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+05-02-b,Gini coefficient of household income in OECD countries 2014,Bar,05/02/oecd.csv,"{
   ""y"": ""country"",
-  ""numberFormat"": "".3f"",
-  ""category"": ""datum.country_code == 'DEU' ? '1' : '0'""
-}","The chart shows the Gini coefficient of household income in OECD countries in 2013. The Gini coefficient is calculated on a scale of 0 to 1. The higher the figure, the greater the inequality. Of the 31 OECD countries depicted, Germany ranked 14th with a coefficient of 0.29. Scoring 0.24, Iceland had the lowest Gini coefficient of household income and Mexico, scoring 0.46, had the highest.",TRUE,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/inequality/income-inequality.htm,OECD (2017): Income inequality indicator. Doi: 10.787/459aa7f1-en. ,"For Australia, Finland, Hungary, Israel, Korea, Mexico, Netherlands und the United States of America data refers to the year 2014. For all other countries it is 2013. "
+  ""numberFormat"": "".2f"",
+  ""category"": ""datum.country_code == 'DEU' ? '1' : '0'"",
+  ""showBarValues"": true
+}","The chart shows the Gini coefficient of household income in OECD countries in 2014. The Gini coefficient is calculated on a scale of 0 to 1. The higher the figure, the greater the inequality. Of the 35 OECD countries depicted, Germany ranked 13th with a coefficient of 0.29. Scoring 0.25, Iceland, Slowakia and Slovenia had the lowest Gini coefficient of household income and Costa Rica scoring 0.49, had the highest.",TRUE,plotted,TRUE,TRUE,,,https://data.oecd.org/inequality/income-inequality.htm,"OECD (2017), Income inequality (indicator); doi: 10.1787/459aa7f1-en.","Last accessed November 9, 2017."
 05-02-c,Gini coefficient of net household income before and after taxes and transfers,Line,05/02/germany.csv,"{
   ""confidence"": 95,
   ""category"": ""datum.category"",
   ""numberFormat"": "".2f""
-}","The chart depicts the Gini coefficient of net household income before and after taxes and transfers in the period 1991 to 2014. The Gini coefficient is calculated on a scale of 0 to 1. The higher the figure, the greater the inequality. Throughout the entire period, the Gini coefficient of household income after taxes and transfers was clearly below that before taxes and transfers. In 2014, the Gini coefficient before taxes and transfers was 0.49, and after taxes and transfers 0.29.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}","The chart depicts the Gini coefficient of net household income before and after taxes and transfers in the period 1991 to 2014. The Gini coefficient is calculated on a scale of 0 to 1. The higher the figure, the greater the inequality. Throughout the entire period, the Gini coefficient of household income after taxes and transfers was clearly below that before taxes and transfers. In 2014, the Gini coefficient before taxes and transfers was 0.49, and after taxes and transfers 0.29.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 05-02-d,International comparison of tax ratios in per cent of GDP 2015,Bar,05/02/contribution-ratio.csv,"{
   ""numberFormat"": "".0%"",
   ""y"": ""country"",
-  ""category"": ""datum.country == 'Deutschland' ? '1' : '0'""
-}","The chart depicts an international comparison of tax ratios in 2015. With a tax ratio of 36.9 percent, Germany is mid-table and at a similar level to the Netherlands and Slovenia. Ireland, with a ratio of 23.6 percent, had the lowest quota, while Denmark had the highest with some 46.6 percent.",TRUE,plotted,TRUE,TRUE,,,,OECD 2015. Revenue Statistics 1965-2014. German Federal Ministry of Finance (2016). Die wichtigsten Steuern im internationalen Vergleich 2015,* Data for Japan and Poland for 2014.
+  ""category"": ""datum.country == 'Deutschland' ? '1' : '0'"",
+  ""showBarValues"": true
+}","The chart depicts an international comparison of tax ratios in 2015. With a tax ratio of 36.9 percent, Germany is mid-table and at a similar level to the Netherlands and Slovenia. Ireland, with a ratio of 23.6 percent, had the lowest quota, while Denmark had the highest with some 46.6 percent.",FALSE,plotted,TRUE,TRUE,,,,OECD 2015. Revenue Statistics 1965-2014. German Federal Ministry of Finance (2016). Die wichtigsten Steuern im internationalen Vergleich 2015,* Data for Japan and Poland for 2014.
 05-03-a,Gini coefficient of wealth in EU-15,Bar,05/03/euro15.csv,"{
   ""y"": ""country"",
   ""numberFormat"": "".2f"",
   ""category"": ""datum.country_code == 'DE' ? '1' : '0'"",
-  ""sort"": ""descending""
+  ""sort"": ""descending"",
+  ""showBarValues"": true,
+  ""domain"": [0,1]
 }","The chart shows the Gini coefficient of wealth in the 15 countries in the euro area. With a Gini coefficient of 0.76, Germany ranks 14th.",FALSE,plotted,TRUE,TRUE,,,,Sierminska and Medgyesi 2013. The Distribution of Wealth Between Households. European Commission Research Note 11/2013.,"The data was collected in a household survey harmonized for the Eurozone, the Eurosystem Household Finance and Consumption Survey. The survey was conducted in the various countries in different years during the period 2008-2011."
 05-04-a,Risk-of-poverty rate,Line,05/04/groups.csv,"{
   ""confidence"": 95,
   ""numberFormat"": "".1%"",
   ""filter"": ""datum.facet == 'Alle'""
-}","The chart shows the risk-of-poverty rate in the period 1991 to 2014. In this period, the risk-of-poverty rate increased from 11.3 to 15.8 percent.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}","The chart shows the risk-of-poverty rate in the period 1991 to 2014. In this period, the risk-of-poverty rate increased from 11.3 to 15.8 percent.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 05-04-b,Risk-of-poverty rate for selected groups 2014,Lollipop,05/04/groups.csv,"{
   ""numberFormat"": ""%"",
   ""filter"": ""datum.year == '2014' && ((datum.facet == 'Haushaltstyp' && (datum.facet_value == 'Alleinerziehend 1 Kind' || datum.facet_value == 'Alleinerziehend 2+ Kinder' || datum.facet_value == 'Paar 3+ Kinder')) || datum.facet == 'Herkunftsland' || datum.facet == 'Region' || datum.facet == 'Alle')"",
@@ -375,19 +380,19 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""y"": ""facet_value"",
   ""column"": ""facet"",
   ""highlight"": ""datum.facet == 'Alle'""
-}","The chart shows the risk-of-poverty rate for selected groups in 2014. People whose country of origin is not Germany were much more often at risk of poverty than those originating from Germany. With a risk-of-poverty rate of 21.1 percent, people in East German federal states were more often at risk of poverty than West Germans who had a risk-of-poverty rate of 14.7 percent. Single parents and couples with more than 2 children also had an increased risk of poverty.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}","The chart shows the risk-of-poverty rate for selected groups in 2014. People whose country of origin is not Germany were much more often at risk of poverty than those originating from Germany. With a risk-of-poverty rate of 21.1 percent, people in East German federal states were more often at risk of poverty than West Germans who had a risk-of-poverty rate of 14.7 percent. Single parents and couples with more than 2 children also had an increased risk of poverty.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 05-04-c,Risk-of-poverty rate by age group 2014,Lollipop,05/04/groups.csv,"{
   ""y"": ""facet_value"",
   ""sort"": ""none"",
   ""numberFormat"": ""%"",
   ""filter"": ""datum.year == '2014' && datum.facet == 'Altersgruppen'""
-}",The chart shows the risk-of-poverty rate by age group in 2014. The risk of poverty affected the various age groups differently but young people were more affected. Particularly at risk of poverty were the age group 18-24 with a rate of some 24 percent and those aged under 10 with a rate of some 22 percent.,TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}",The chart shows the risk-of-poverty rate by age group in 2014. The risk of poverty affected the various age groups differently but young people were more affected. Particularly at risk of poverty were the age group 18-24 with a rate of some 24 percent and those aged under 10 with a rate of some 22 percent.,FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 05-04-d,Risk-of-poverty rate before and after taxes and transfers,Line,05/04/groups.csv,"{
   ""confidence"": 95,
   ""numberFormat"": "".1%"",
   ""filter"": ""datum.facet == 'Alle' || datum.facet == 'Umverteilung'"",
   ""category"": ""datum.facet == 'Umverteilung' ? datum.facet_value : 'Nach Steuern und Transfers'""
-}","The chart shows the risk-of-poverty rate before and after taxes and transfers in the period 1991 to 2014. Throughout the entire period, the risk-of-poverty rate after taxes and transfers was clearly below the risk-of-poverty rate before taxes and transfers. In 2014, the risk-of-poverty rate before taxes and transfers stood at some 35 percent and after taxes and transfers at just under 16 percent.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}","The chart shows the risk-of-poverty rate before and after taxes and transfers in the period 1991 to 2014. Throughout the entire period, the risk-of-poverty rate after taxes and transfers was clearly below the risk-of-poverty rate before taxes and transfers. In 2014, the risk-of-poverty rate before taxes and transfers stood at some 35 percent and after taxes and transfers at just under 16 percent.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 05-05-a,Old-age dependency ratio up to 2013 and forecast up to 2060,Line,05/05/scenario.csv,"{
   ""numberFormat"": "".1f"",
   ""color"": ""scenario"",
@@ -446,22 +451,22 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""filter"": ""datum.category == 'Gewaltkriminalität' && datum.type != 'Aufklärungsquoten'"",
   ""numberFormat"": ""s"",
   ""color"": ""type""
-}","The chart shows recorded and solved cases of violent crime in the period 1993 to 2016. In the period between 1993 and 2007, there was a major increase in violent crime. In 2007, there was a peak of 217,923 recorded cases. Between 2007 and 2016, violent crime fell to 193,542 recorded cases. Clearance rates also improved between 1993 and 2002, from 65.4 to 74.4 percent. Since 2002, these rates have been relatively steady at a level between 74 and 75,8 percent. In 2016, the clearance rate peaked at 75.8 percent. ",TRUE,plotted,TRUE,TRUE,,,,Police Crime Statistics 2017.,Data for the Federal Republic of Germany (eastern and western federal states) only available starting 1993.
+}","The chart shows recorded and solved cases of violent crime in the period 1993 to 2016. In the period between 1993 and 2007, there was a major increase in violent crime. In 2007, there was a peak of 217,923 recorded cases. Between 2007 and 2016, violent crime fell to 193,542 recorded cases. Clearance rates also improved between 1993 and 2002, from 65.4 to 74.4 percent. Since 2002, these rates have been relatively steady at a level between 74 and 75,8 percent. In 2016, the clearance rate peaked at 75.8 percent. ",FALSE,plotted,TRUE,TRUE,,,,Police Crime Statistics 2017.,Data for the Federal Republic of Germany (eastern and western federal states) only available starting 1993.
 06-02-b,Recorded and solved cases of property crime,Line,06/02/categories.csv,"{
   ""filter"": ""datum.category == 'Diebstahlkriminalität' && datum.type != 'Aufklärungsquoten'"",
   ""numberFormat"": ""s"",
   ""color"": ""type""
-}","The chart shows recorded and solved cases of property crime in the period 1993 to 2016. Between 1993 and 2010, property crime fell considerably from more than 2,870,000 recorded cases to some 2,300,000. Since 2010, property crime has been rising. In 2016, some 2,374,000 were recorded. Clearance rates have dropped since 1998 from 32.3 to 27.2 percent in 2016.",TRUE,plotted,TRUE,TRUE,,,,Police Crime Statistics 2017.,Data for the Federal Republic of Germany (eastern and western federal states) only available starting 1993.
+}","The chart shows recorded and solved cases of property crime in the period 1993 to 2016. Between 1993 and 2010, property crime fell considerably from more than 2,870,000 recorded cases to some 2,300,000. Since 2010, property crime has been rising. In 2016, some 2,374,000 were recorded. Clearance rates have dropped since 1998 from 32.3 to 27.2 percent in 2016.",FALSE,plotted,TRUE,TRUE,,,,Police Crime Statistics 2017.,Data for the Federal Republic of Germany (eastern and western federal states) only available starting 1993.
 06-02-c,Violent crime by federal states 2016,StatesMap,06/02/states.csv,"{
   ""filter"": ""datum.year == 2016 && datum.category == 'Gewaltkriminalität'"",
   ""numberFormat"": ""d"",
   ""legendTitle"": ""Fälle pro 100.000 Einwohner""
-}","Using a map of Germany, the chart shows the regional differences in violent crime in the federal states in 2016. There are major regional differences with figures ranging from 164 to 481 per 100,000 inhabitants. Rates of violent crime were much higher in 2016 in the city-states of Hamburg, Bremen and Berlin than in larger, more rural federal states. When these larger federal states are compared, a north-south divide can be identified.",TRUE,plotted,TRUE,TRUE,,,,Police Crime Statistics 2017.,
+}","Using a map of Germany, the chart shows the regional differences in violent crime in the federal states in 2016. There are major regional differences with figures ranging from 164 to 481 per 100,000 inhabitants. Rates of violent crime were much higher in 2016 in the city-states of Hamburg, Bremen and Berlin than in larger, more rural federal states. When these larger federal states are compared, a north-south divide can be identified.",FALSE,plotted,TRUE,TRUE,,,,Police Crime Statistics 2017.,
 06-02-d,Property crime by federal states 2016,StatesMap,06/02/states.csv,"{
   ""filter"": ""datum.year == 2016 && datum.category == 'Diebstahlkriminalität'"",
   ""numberFormat"": ""d"",
   ""legendTitle"": ""Fälle pro 100.000 Einwohner""
-}","Using a map of Germany, the chart shows the regional differences in property crime in the federal states in 2016. There are major regional differences with figures ranging from 1,400 to 7,700 cases per 100,000 inhabitants. Rates of property crime were much higher in 2016 in the city-states of Hamburg, Bremen and Berlin than in larger, more rural federal states. When these larger federal states are compared, a north-south divide can be identified.",TRUE,plotted,TRUE,TRUE,,,,Police Crime Statistics 2017.,
+}","Using a map of Germany, the chart shows the regional differences in property crime in the federal states in 2016. There are major regional differences with figures ranging from 1,400 to 7,700 cases per 100,000 inhabitants. Rates of property crime were much higher in 2016 in the city-states of Hamburg, Bremen and Berlin than in larger, more rural federal states. When these larger federal states are compared, a north-south divide can be identified.",FALSE,plotted,TRUE,TRUE,,,,Police Crime Statistics 2017.,
 06-03-a,Overall assessment of local policing 2012,Bar,06/03/facets.csv,"{
   ""filter"": ""datum.facet == ''"",
   ""numberFormat"": ""%"",
@@ -493,11 +498,11 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
   ""columnSort"": ""none"",
   ""color"": ""category"",
   ""numberFormat"": ""s""
-}","The chart shows the development of hate crime in the period 2001 to 2016. In this period, hate crime increased from 5,376 to 10,751 cases, peaking in 2016. The main factor here was the particularly stark increase in xenophobic offences. In the given period, these increased from 3,548 to 8,983 cases.",TRUE,plotted,TRUE,TRUE,,,,Statistics on Politically Motivated Crime 2017.,
+}","The chart shows the development of hate crime in the period 2001 to 2016. In this period, hate crime increased from 5,376 to 10,751 cases, peaking in 2016. The main factor here was the particularly stark increase in xenophobic offences. In the given period, these increased from 3,548 to 8,983 cases.",FALSE,plotted,TRUE,TRUE,,,,Statistics on Politically Motivated Crime 2017.,
 07-00-a,Population density by district at end of 2015,KrsMap,07/00/density.csv,"{
   ""legendTitle"": ""Bevölkerung je km²"",
   ""thresholds"": [100, 200, 400, 600, 800]
-}","Using a map of Germany, the chart shows the regional differences in population density by county at the end of 2015. The figures range from 36 to 4,668 persons per square kilometer. In almost a fifth of the counties and cities administered as an independent county the population density per square kilometer was less than 100 persons. In the most densely populated tenth, it was more than 1,500 persons. Cities and conurbations were particularly densely populated.",TRUE,plotted,FALSE,TRUE,,,,"German Federal Statistical Office, Gemeindeverzeichnis. ","Independent (“kreisfreie”) cities and counties by area, population and population density on 31 December 2014."
+}","Using a map of Germany, the chart shows the regional differences in population density by county at the end of 2015. The figures range from 36 to 4,668 persons per square kilometer. In almost a fifth of the counties and cities administered as an independent county the population density per square kilometer was less than 100 persons. In the most densely populated tenth, it was more than 1,500 persons. Cities and conurbations were particularly densely populated.",FALSE,plotted,FALSE,TRUE,,,,"German Federal Statistical Office, Gemeindeverzeichnis. ","Independent (“kreisfreie”) cities and counties by area, population and population density on 31 December 2014."
 07-00-b,Population change by county 2012 to 2035,KrsMap,07/00/districts.csv,"{
   ""legendTitle"": ""Bevölkerungsentwicklung in Prozent"",
   ""numberFormat"": "".0%""
@@ -505,18 +510,18 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
 07-01-a,Costs for rent and utilities as a share of net household income,Line,07/01/facets.csv,"{
   ""confidence"": 95,
   ""filter"": ""datum.facet == 'Gesamt'""
-}","The chart shows costs for rent and utilities as a share of net household income for the period 1991 to 2014. From 1991 to the mid-2000s, costs for rent and utilities as a share of net household income increased from 21 to 29 percent in Germany. Since that time, there has been little change.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",Utility costs have been surveyed in the SOEP since 2013. Changes between 2012 and 2013 may be due to this methodological adjustment.
+}","The chart shows costs for rent and utilities as a share of net household income for the period 1991 to 2014. From 1991 to the mid-2000s, costs for rent and utilities as a share of net household income increased from 21 to 29 percent in Germany. Since that time, there has been little change.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",Utility costs have been surveyed in the SOEP since 2013. Changes between 2012 and 2013 may be due to this methodological adjustment.
 07-01-b,Costs for rent and utilities as a share of net household income by income group 2014,Lollipop,07/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Einkommensposition' && datum.year == '2013'"",
   ""numberFormat"": ""%"",
   ""y"": ""facet_value"",
   ""sort"": ""none""
-}","The chart shows costs for rent and utilities as a share of net household income by 5 different income groups of the same size, so-called quintiles, in 2014. The 20 percent of people in Germany with the lowest incomes spent an average of 37 percent of their household income on rent, hot water and heating. In the next income bracket, the second quintile, the figure averaged at only 26 percent. The figure was 17 percent for the upper 20 percent of earners.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}","The chart shows costs for rent and utilities as a share of net household income by 5 different income groups of the same size, so-called quintiles, in 2014. The 20 percent of people in Germany with the lowest incomes spent an average of 37 percent of their household income on rent, hot water and heating. In the next income bracket, the second quintile, the figure averaged at only 26 percent. The figure was 17 percent for the upper 20 percent of earners.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 07-01-c,Costs for rent and utilities as a share of net household income by household types 2014,Lollipop,07/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Haushaltstyp' && datum.year == '2013'"",
   ""numberFormat"": ""%"",
   ""y"": ""facet_value""
-}","The chart shows costs for rent and utilities as a share of net household income by household type in 2014. For 1-person households aged under 35 and 60 and over, costs for rent and utilities made up the biggest share of available income, more specifically more than a third. For single parents, the share was just under one third. Couples with and without children spent the smallest share of their available income on accommodation.",TRUE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
+}","The chart shows costs for rent and utilities as a share of net household income by household type in 2014. For 1-person households aged under 35 and 60 and over, costs for rent and utilities made up the biggest share of available income, more specifically more than a third. For single parents, the share was just under one third. Couples with and without children spent the smallest share of their available income on accommodation.",FALSE,plotted,TRUE,TRUE,,,,"Calculations by DIW Berlin, SOEPv32.1.",
 07-02-a,"Travel time to educational, service and cultural facilities 2016, motorised private transport",PointMap,07/02/center-points.csv,"{
   ""geotiff"": ""07-02-miv"",
   ""accessor"": ""center"",
@@ -536,7 +541,7 @@ id,title,type,data,config,alt_text,new_data,status,dashboard,report,copyright,so
     {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
   ]
 }","Using a map of Germany, the chart shows travel time by car to regional and major regional centres in 2016. The travel time ranged from 0 to more than 50 minutes. Only 1 percent of the German population needed more than 30 minutes to reach the nearest regional centre by car.
-",WAHR,deprecated,FALSE,FALSE,,,,"German Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR) Erreichbarkeitsmodell. Geometry: Counties, December 31, 2014, © GeoBasis-DE/BKG","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, doctor, hotel, nursing home, theatre, museum, youth centre, secondary school, library, large sports facility, train station.
+",FALSE,deprecated,FALSE,FALSE,,,,"German Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR) Erreichbarkeitsmodell. Geometry: Counties, December 31, 2014, © GeoBasis-DE/BKG","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, doctor, hotel, nursing home, theatre, museum, youth centre, secondary school, library, large sports facility, train station.
 An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the following facilities: specialist shops, major banks and financial institutions, vocational school/university, specialist hospital, research library, stadium, long-distance train station."
 07-02-b,"Travel time to educational, service and cultural facilities 2016, public transport",PointMap,07/02/center-points.csv,"{
   ""geotiff"": ""07-02-oev"",
@@ -556,7 +561,7 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
     {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
     {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
   ]
-}","Using a map of Germany, the chart shows travel time using public transport to regional and major regional centres in 2016. The travel time ranged from 0 to more than 50 minutes. Almost a third of the German population needed longer than half an hour to reach the nearest larger town using public transport.",WAHR,deprecated,FALSE,FALSE,,,,"German Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR) Erreichbarkeitsmodell. Geometry: Counties, December 31, 2014, © GeoBasis-DE/BKG","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, doctor, hotel, nursing home, theatre, museum, youth centre, secondary school, library, large sports facility, train station.
+}","Using a map of Germany, the chart shows travel time using public transport to regional and major regional centres in 2016. The travel time ranged from 0 to more than 50 minutes. Almost a third of the German population needed longer than half an hour to reach the nearest larger town using public transport.",FALSE,deprecated,FALSE,FALSE,,,,"German Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR) Erreichbarkeitsmodell. Geometry: Counties, December 31, 2014, © GeoBasis-DE/BKG","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, doctor, hotel, nursing home, theatre, museum, youth centre, secondary school, library, large sports facility, train station.
 An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the following facilities: specialist shops, major banks and financial institutions, vocational school/university, specialist hospital, research library, stadium, long-distance train station."
 07-02-c,"Travel time to educational, service and cultural facilities 2016",PointMap,07/02/center-points.csv,"{
   ""accessor"": ""center"",
@@ -588,42 +593,42 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
     {""color"": ""rgb(7,120,165)"", ""label"": ""40 - 50""},
     {""color"": ""rgb(0,102,146)"", ""label"": ""50+""}
   ]
-}",,-,plotted,TRUE,TRUE,,,,"German Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR) Erreichbarkeitsmodell. Geometry: Counties, December 31, 2014, © GeoBasis-DE/BKG","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, general specialists, hotel, old people's residential home, theatre, museum, youth recreation centre, secondary school, library, sizable sports facility, railway station.
+}",,FALSE,plotted,TRUE,TRUE,,,,"German Federal Institute for Research on Building, Urban Affairs and Spatial Development (BBSR) Erreichbarkeitsmodell. Geometry: Counties, December 31, 2014, © GeoBasis-DE/BKG","A ""Mittelzentrum"" has at least 30,000 to 40,000 inhabitants and typically offers the following facilities: department store, hospital, general specialists, hotel, old people's residential home, theatre, museum, youth recreation centre, secondary school, library, sizable sports facility, railway station.
 An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the following facilities: specialist shops, larger banks and financial institutions, (technical) universities, clinic, academic library, sports stadium, long distance railway station."
 07-03-a,Availability of internet access of at least 50 Mbit/s per municipality,GemMap,07/03/municipalities.csv,"{
-  ""filter"": ""datum.year == '2010' || datum.year == '2015'"",
+  ""filter"": ""datum.year == '2010' || datum.year == '2016'"",
   ""column"": ""year"",
   ""columns"": 2,
   ""numberFormat"": "".0%"",
   ""legendTitle"": ""Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s""
-}","Using two maps of Germany, the chart shows the availability of internet access of at least 50 Mbit/s for the years 2010 and 2015. Compared to 2010, the number of households with high-speed internet access has increased. But there are still many municipalities, especially in rural regions, where only a small proportion of the population had high-speed internet access. ",FALSE,"deprecated, print only",FALSE,FALSE,"© BMVI, TÜV Rheinland",,,"German Federal Ministry of Transport and Digital Infrastructure, TÜV Rheinland. ",Grey areas are uninhabited areas.
+}","Using two maps of Germany, the chart shows the availability of internet access of at least 50 Mbit/s for the years 2010 and 2016. Compared to 2010, the number of households with high-speed internet access has increased. But there are still many municipalities, especially in rural regions, where only a small proportion of the population had high-speed internet access. ",TRUE,"deprecated, print only",FALSE,FALSE,"© BMVI, TÜV Rheinland",,,"German Federal Ministry of Transport and Digital Infrastructure, TÜV Rheinland. ",Grey areas are uninhabited areas.
 07-03-b,Availability of internet access of at least 50 Mbit/s per county,KrsMap,07/03/districts.csv,"{
-  ""filter"": ""datum.year == '2010' || datum.year == '2015'"",
+  ""filter"": ""datum.year == '2010' || datum.year == '2016'"",
   ""column"": ""year"",
   ""columns"": 2,
   ""numberFormat"": "".0%"",
   ""legendTitle"": ""Anteil der Haushalte mit Verfügbarkeit von 50 Mbit/s""
-}","Using two maps of Germany, the chart shows the availability of internet access of at least 50 Mbit/s for the years 2010 and 2015. Compared to 2010, the number of households with high-speed internet access has increased. But there are still many counties in rural regions where only a small proportion of the population had high-speed internet access. ",FALSE,plotted,TRUE,TRUE,"© BMVI, TÜV Rheinland",,,"German Federal Ministry of Transport and Digital Infrastructure, TÜV Rheinland. ",
-08-01-a,Family forms and life forms 1996 and 2015,Slope,08/01/facets.csv,"{
+}","Using two maps of Germany, the chart shows the availability of internet access of at least 50 Mbit/s for the years 2010 and 2016. Compared to 2010, the number of households with high-speed internet access has increased. But there are still many counties in rural regions where only a small proportion of the population had high-speed internet access. Regional focal points for low coverage are Bavaria, Saxony, Saxony-Anhalt and Thuringia. ",TRUE,plotted,TRUE,TRUE,"© BMVI, TÜV Rheinland",,,"German Federal Ministry of Transport and Digital Infrastructure, TÜV Rheinland. ",
+08-01-a,Family forms and life forms 1996 and 2016,Slope,08/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Erwachsene'"",
   ""columns"": 1,
   ""numberFormat"": "".1%"",
   ""color"": ""category""
-}","The chart shows family forms in 1996 and 2015. In 2015, 56 percent of the population in Germany lived with their spouse, in 1996, the figure was 66 percent. The percentage of men and women living in unmarried partnerships was 6 percent in 1996 and 9 percent in 2015. In 1996, some 28 percent of people were living without a partner, in 2015 the figure was some 34 percent. In 1996 and 2015, far fewer than 1 percent of all men and women were living in a same-sex partnership or registered civil partnership.",TRUE,"plotted, new data available",TRUE,TRUE,,,,"German Federal Statistical Office (2017), Results of the Microcensus 2015.","The German Law on Registered Civil Partnership (Gesetz über die eingetragene Lebenspartnerschaft) first entered into force in 2001, which means that the 1996 data only include information on same-sex partnerships."
-08-01-b,Proportion of unmarried children within their parents’ household by family form 1996 and 2015,Slope,08/01/facets.csv,"{
+}","The chart shows family forms in 1996 and 2016. In 2016, 56 percent of the population in Germany lived with their spouse, in 1996, the figure was 66 percent. The percentage of men and women living in unmarried partnerships was 6 percent in 1996 and 9 percent in 2016. In 1996, some 28 percent of people were living without a partner, in 2016 the figure was some 34 percent. In 1996 and 2016, far fewer than 1 percent of all men and women were living in a same-sex partnership or registered civil partnership.",TRUE,"plotted, new data available",TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2016.","The German Law on Registered Civil Partnership (Gesetz über die eingetragene Lebenspartnerschaft) first entered into force in 2001, which means that the 1996 data only include information on same-sex partnerships."
+08-01-b,Proportion of unmarried children within their parents’ household by family form 1996 and 2016,Slope,08/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Kinder'"",
   ""column"": ""region"",
   ""columnSort"": ""none"",
   ""bandSize"": ""70"",
   ""color"": ""category""
-}","The chart shows the proportion of unmarried children within their parents’ household by family form in 1996 and 2015. In 2015, most children, 72 percent, were still growing up in a household with married parents. This is more than 10 percent fewer than in 1996. In 2015, some 21 percent of children were growing up with a single parent and 7 percent in an unmarried partnership. In the East German larger, rural states, some 58 percent of children were living with married parents. This is far fewer than in West German larger, rural states where the figure stood at some 75 percent. In city-states, the comparable figure was just under 60 percent.",TRUE,"plotted, new data available",TRUE,TRUE,,,,"German Federal Statistical Office (2017), Results of the Microcensus 2015.",
-08-01-c,Family and life forms in Germany 2015,Bar,08/01/facets.csv,"{
+}","The chart shows the proportion of unmarried children within their parents’ household by family form in 1996 and 2016. In 2016, most children, 72 percent, were still growing up in a household with married parents. This is more than 10 percent fewer than in 1996. In 2016, one in five children grew up with a single parent and 7 percent in an unmarried partnership. The share of children growing up with a signle parent was much higher in east German Flächenstaaten (25 per cent) than in the west German Flächenstaaten (19 per cent). The share was highest in the city states with 27 per cent of children growing up with a single parent. In the East German larger, rural states, some 57 percent of children were living with married parents in 2016. This is far fewer than in West German larger, rural states where the figure stood at some 76 percent. In the city states, the comparable figure was just under 62 percent.",TRUE,"plotted, new data available",TRUE,TRUE,,,,"German Federal Statistical Office, Results of the Microcensus 2016.",
+08-01-c,Family and life forms in Germany 2016,Bar,08/01/facets.csv,"{
   ""filter"": ""datum.facet == 'Erwachsene' && datum.year ==  '2015'"",
   ""numberFormat"": ""%"",
   ""y"": ""facet"",
   ""color"": ""category"",
   ""colorLegend"": true
-}",The chart shows family forms in Germany in 2015. 56 percent of the population in Germany were living with their spouse. Almost 34 percent were living without a partner. Some 6 percent of the population were living in unmarried partnerships. Far fewer than 1 percent of all men and women were living in a same-sex partnership or registered civil partnership.,TRUE,"plotted, new data available",FALSE,FALSE,,,,"German Federal Statistical Office (2017), Results of the Microcensus 2015.",
+}",The chart shows family forms in Germany in 2016. 56 percent of the population in Germany were living with their spouse. Almost 34 percent were living without a partner. Some 6 percent of the population were living in unmarried partnerships. Far fewer than 1 percent of all men and women were living in a same-sex partnership or registered civil partnership.,TRUE,"plotted, new data available",FALSE,FALSE,,,,"German Federal Statistical Office, Results of the Microcensus 2016.",
 08-02-a,Persons stating that they can expect help from others 2015,Bar,08/02/facets.csv,"{
   ""numberFormat"": ""%"",
   ""y"": ""facet"",
@@ -636,7 +641,7 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
   ""column"": ""category"",
   ""colorLegend"": true,
   ""highlight"": ""datum.facet == 'Insgesamt'""
-}","The chart shows the proportion of persons stating that they can expect help from others in 2014. Results are depicted according to age, employment status and gender. In Germany, some 97 percent of the population said they had a specific person they can turn to to ask for help when they need to. Only 3 percent were unable to ask others for help when they need it. Gender and age group had little impact on the figures. Employment status made more of a difference. It was considerably more difficult for the unemployed to find friends, neighbours or relatives to ask for help.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office (2017), Results of EU-SILC 2015.",
+}","The chart shows the proportion of persons stating that they can expect help from others in 2014. Results are depicted according to age, employment status and gender. In Germany, some 97 percent of the population said they had a specific person they can turn to to ask for help when they need to. Only 3 percent were unable to ask others for help when they need it. Gender and age group had little impact on the figures. Employment status made more of a difference. It was considerably more difficult for the unemployed to find friends, neighbours or relatives to ask for help.",FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office (2017), Results of EU-SILC 2015.",
 08-03-a,Volonteers in total and by age group,Line,08/03/facets.csv,"{
   ""filter"": ""datum.facet == 'Alter'"",
   ""numberFormat"": "".1%"",
@@ -674,14 +679,14 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
   ""columnSort"": ""none"",
   ""columns"": 3,
   ""highlight"": ""datum.age == 'Insgesamt'""
-}","The chart shows the proportion of members of sports clubs of the regional sports associations by age group in 2016. Separate figures are available for East German and West German federal states. All in all, three in ten people in Germany belonged to a sports club. With a share of some 71 percent, children aged 7-14 had the highest membership quota, followed by the 15-18 age group with membership standing at some 56 percent. Thereafter, there was a clear decline in membership of sports clubs. In East German federal states, just over 15 percent of the population belonged to a sports club, the comparable figure in West German federal states was some 31 percent.",TRUE,plotted,TRUE,TRUE,,,,"German Olympic Sports Confederation (2016), Bestandserhebung 2016. ",This chart shows the share of members in sports clubs of the regional sports associations by age group (1 January 2015).
+}","The chart shows the proportion of members of sports clubs of the regional sports associations by age group in 2016. Separate figures are available for East German and West German federal states. All in all, three in ten people in Germany belonged to a sports club. With a share of some 71 percent, children aged 7-14 had the highest membership quota, followed by the 15-18 age group with membership standing at some 56 percent. Thereafter, there was a clear decline in membership of sports clubs. In East German federal states, just over 15 percent of the population belonged to a sports club, the comparable figure in West German federal states was some 31 percent.",FALSE,plotted,TRUE,TRUE,,,,"German Olympic Sports Confederation (2016), Bestandserhebung 2016. ",This chart shows the share of members in sports clubs of the regional sports associations by age group (1 January 2015).
 08-04-b,Members of sports clubs by age group 2016,Bar,08/04/regions.csv,"{
   ""numberFormat"": ""%"",
   ""filter"": ""datum.region == 'Deutschland'"",
   ""y"": ""age"",
   ""sort"": ""none"",
   ""highlight"": ""datum.age == 'Insgesamt'""
-}","The chart shows the proportion of members of sports clubs of the regional sports associations by age group in 2016. All in all, about a third of people in Germany belonged to a sports club. With a share of some 71 percent, children aged 7-14 had the highest membership quota, followed by the 15-18 age group with membership standing at some 56 percent. Thereafter, there was a clear decline in membership of sports clubs.",TRUE,plotted,FALSE,FALSE,,,,"German Olympic Sports Confederation (2016), Bestandserhebung 2016. ",
+}","The chart shows the proportion of members of sports clubs of the regional sports associations by age group in 2016. All in all, about a third of people in Germany belonged to a sports club. With a share of some 71 percent, children aged 7-14 had the highest membership quota, followed by the 15-18 age group with membership standing at some 56 percent. Thereafter, there was a clear decline in membership of sports clubs.",FALSE,plotted,FALSE,FALSE,,,,"German Olympic Sports Confederation (2016), Bestandserhebung 2016. ",
 09-01-a,"GDP per capita in euros (adjusted for price changes, index 2010=100)",Line,09/01/years.csv,"{
   ""numberFormat"": ""s""
 }","The chart depicts GDP per capita (adjusted for price changes) in the period 1991 to 2016. In this period, GDP per capita increased from almost 25,500 euros to some 34,360 euros in real terms.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office (2017), Volkswirtschaftliche Gesamtrechnungen, Fachserie 18, Reihe 1.4.",
@@ -698,27 +703,27 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
   ""yAnnotations"": [
     {""value"": 0.6, ""label"": ""Maastricht-Referenzwert""}
   ]
-}","The chart shows the national debt ratio in the period 1991 to 2016. Between 1991 and 2010, the national debt ratio increased from some 39 to 81 percent. Since this peak in 2010, the national debt ratio has fallen and stood at some 68 percent in 2016. At this level, the national debt ratio however still exceeds the Maastricht reference value of 60 percent.",TRUE,plotted,TRUE,TRUE,,Bundesbank (2017).,https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Oeffentliche_Finanzen_in_Deutschland/oeffentliche_finanzen_in_deutschland_details_value_node.html?tsId=BBK01.BJ9959&listId=www_v27_web011_21a,German national debt (as defined in the Maastricht Treaty) as a percentage of GDP. ,"Preliminary value for 2016 (April 24, 2017)."
+}","The chart shows the national debt ratio in the period 1991 to 2016. Between 1991 and 2010, the national debt ratio increased from some 39 to 81 percent. Since this peak in 2010, the national debt ratio has fallen and stood at some 68 percent in 2016. At this level, the national debt ratio however still exceeds the Maastricht reference value of 60 percent.",TRUE,plotted,TRUE,TRUE,,Bundesbank (2017).,https://www.bundesbank.de/Navigation/DE/Statistiken/Zeitreihen_Datenbanken/Oeffentliche_Finanzen_in_Deutschland/oeffentliche_finanzen_in_deutschland_details_value_node.html?tsId=BBK01.BJ9959&listId=www_v27_web011_21a,German national debt (as defined in the Maastricht Treaty) as a percentage of GDP. ,"Preliminary value for 2016 (September 1, 2017)."
 09-04-a,Research and development spending as a percentage of GDP,Line,09/04/fue.csv,"{
   ""color"": ""country"",
   ""numberFormat"": "".2%""
-}","The chart shows research and development spending as a percentage of GDP in the period 1995 to 2015. In this period, spending on research and development (R&D) as a percentage of GDP increased from 2.2 percent to just under 3.0 percent. Throughout the entire period, Germany's R&D spending as a percentage of GDP remained above the OECD average which stood at 2.4 percent in 2015.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, German Federal Ministry of Education and Research, Stifterverband-Wissenschaftsstatistik. OECD (2017), Gross domestic spending on R&D (indicator). doi: 10.1787/d8b068b4-en (Accessed June 2017).",
+}","The chart shows research and development spending as a percentage of GDP in the period 1995 to 2015. In this period, spending on research and development (R&D) as a percentage of GDP increased from 2.2 percent to just below 3.0 percent. Throughout the entire period, Germany's R&D spending as a percentage of GDP remained above the OECD average which stood at 2.4 percent in 2015.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, German Federal Ministry of Education and Research, Stifterverband-Wissenschaftsstatistik. OECD (2017), Gross domestic spending on R&D (indicator). doi: 10.1787/d8b068b4-en (Accessed June 2017).",
 09-04-b,Innovator rate,Line,09/04/inno.csv,,The chart shows the innovator rate in the period 1992 to 2015. It fell from 53 to 35 percent.,TRUE,plotted,FALSE,TRUE,,,,"Innovationsverhalten der deutschen Wirtschaft, Indikatorenbericht zur Innovationserhebung 2016 (ZEW, infas, Fraunhofer ISI).
 ","The application of the new classification of economic activities in the 2008, changes in the sampling which was then based on the business register, and improved imputation and weighting methods result in a break of the time series in 2006. Since 2006, the sample is drawn from the population of businesses in the business register. "
 09-05-a,Time required to start a business in days,Line,09/05/days.csv,"{
   ""unit"": ""Tage"",
   ""numberFormat"": "".1f""
-}","The chart shows the time required to start a business in days in the period 2007 to 2016. In 2007 and 2008, it took an average of 6.5 days to set up a business in Germany, in 2009 the time was only 4.5 days. Since 2009, the time required to start a business has increased again and in 2016 stood at 6.9 days.",TRUE,plotted,TRUE,TRUE,,,,"European Commission, Directorate-General for Growth, SME Performance Review.",
+}","The chart shows the time required to start a business in days in the period 2007 to 2016. In 2007 and 2008, it took an average of 6.5 days to set up a business in Germany, in 2009 the time was only 4.5 days. Since 2009, the time required to start a business has increased again and in 2016 stood at 6.9 days.",FALSE,plotted,TRUE,TRUE,,,,"European Commission, Directorate-General for Growth, SME Performance Review.",
 09-05-b,Costs required to start a business in euros,Line,09/05/costs.csv,"{
   ""numberFormat"": ""s""
-}","The chart shows the costs required to start a business in euros in the period 2007 to 2015. In 2007 and 2008, it cost an average of 783 euros to set up a business in Germany, in the year 2009, the figure was only 166 euros. Since 2009, the costs of starting a business have increased again and in 2016 stood at 383 euros.",TRUE,plotted,TRUE,TRUE,,,,"European Commission, Directorate-General for Growth, SME Performance Review.",
+}","The chart shows the costs required to start a business in euros in the period 2007 to 2015. In 2007 and 2008, it cost an average of 783 euros to set up a business in Germany, in the year 2009, the figure was only 166 euros. Since 2009, the costs of starting a business have increased again and in 2016 stood at 383 euros.",FALSE,plotted,TRUE,TRUE,,,,"European Commission, Directorate-General for Growth, SME Performance Review.",
 10-01-a,Air pollutants combined (index),Line,10/01/categories.csv,"{
   ""filter"": ""year(datum.year) >= 2000 && datum.category == 'Luftschadstoffe (+ PM<sub>2,5</sub>)'"",
   ""numberFormat"": "".2f"",
   ""yAnnotations"": [
     {""value"": 100, ""formattedValue"": ""100"", ""label"": """", ""dy"": ""1.1em"", ""x"": ""2005""}
   ]
-}","The chart shows air pollutants in the period 2000 to 2014. In this period, the index fell from some 121 to around 84. The base year in which the index is set at 100 is 2005.",FALSE,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Base year (index=100) is 2005.
+}","The chart shows air pollutants in the period 2000 to 2015. In this period, the index fell from some 121 to around 82. The base year in which the index is set at 100 is 2005.",TRUE,plotted,TRUE,TRUE,,,,Umweltbundesamt (2017). National Trend Tables for the German Atmospheric Emission Reporting 1990-2015.,Base year (index=100) is 2005.
 10-01-b,Different air pollutants (index),Line,10/01/categories.csv,"{
   ""filter"": ""year(datum.year) >= 2000 && datum.category != 'Luftschadstoffe (+ PM<sub>2,5</sub>)'"",
   ""numberFormat"": "".2f"",
@@ -729,15 +734,15 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
   ""yAnnotations"": [
     {""value"": 100, ""formattedValue"": ""100"", ""label"": """", ""dy"": ""1.1em"", ""x"": ""2005""}
   ]
-}","The chart shows different air pollutants in the period 2000 to 2014. In this period, levels of non-methane volatile organic compounds, nitrogen oxides, particulate matter and sulphur dioxide decreased. In the case of ammonia, the index increased from 103 to 109. The base year in which the index is set at 100 is 2005.",FALSE,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Base year (index=100) is 2005.
-10-01-c,Average annual nitrogen dioxide pollution 2015,PointMap,10/01/no2-points.csv,"{
+}","The chart shows different air pollutants in the period 2000 to 2015. In this period, levels of non-methane volatile organic compounds, nitrogen oxides, particulate matter and sulphur dioxide decreased. In the case of ammonia, the index increased from 103 to 112. The base year in which the index is set at 100 is 2005.",TRUE,plotted,TRUE,TRUE,,,,Umweltbundesamt (2017). National Trend Tables for the German Atmospheric Emission Reporting 1990-2015.,Base year (index=100) is 2005.
+10-01-c,Average annual nitrogen dioxide pollution 2016,PointMap,10/01/no2-points.csv,"{
   ""filter"": ""datum.value != '-999'"",
   ""geotiff"": ""10-01-no2"",
   ""legendTitle"": ""NO₂ Jahresmittelwert in Mikrogramm pro Kubikmeter (µg/m³)"",
   ""thresholds"": [10, 20, 30, 40, 50, 60, 70, 80],
   ""colorRange"": [""#95da3f"", ""#74b917"", ""#5ca200"", ""#3f8800"", ""#f2bf18"", ""#d4a500"", ""#b68b00"", ""#987200"", ""#7b5900""]
-}","Using a map of Germany, the chart shows the average annual nitrogen dioxide pollution measured at federal state and Federal Environment Agency air monitoring network points in 2015. The levels range from 3 to 87 micrograms per cubic metre.",FALSE,plotted,TRUE,TRUE,,,,Umweltbundesamt 2015.,Annual averages measured at federal state and Umweltbundesamt air monitoring network points.
-10-01-d,Nitrogen dioxide levels above or below statutory limits 2015,DotPlot,10/01/no2-points.csv,,"Using a map of Germany, the chart shows whether the nitrogen dioxide levels were above or below the statutory limit of 40 micrograms per cubic metre at given monitoring network points in 2015. In 2015, the statutory limit was exceeded at 27 percent of monitoring points. Differentiation is made between monitoring points near transport, those near industry and those in the background. The nitrogen dioxide statutory limit was only exceeded at monitoring points near transport.",FALSE,"flagship, print export only",FALSE,TRUE,,,,Umweltbundesamt 2015.,Annual averages measured at federal state and Umweltbundesamt air monitoring network points.
+}","Using a map of Germany, the chart shows the average annual nitrogen dioxide pollution measured at federal state and Federal Environment Agency air monitoring network points in 2016. The levels range from 3 to 82 micrograms per cubic metre.",TRUE,plotted,TRUE,TRUE,,,,Umweltbundesamt 2017.,Annual averages measured at federal state and Umweltbundesamt air monitoring network points.
+10-01-d,Nitrogen dioxide levels above or below statutory limits 2016,DotPlot,10/01/no2-points.csv,,"Using a map of Germany, the chart shows whether the nitrogen dioxide levels were above or below the statutory limit of 40 micrograms per cubic metre at given monitoring network points in 2016. In 2016, the statutory limit was exceeded at 28 percent of monitoring points. Differentiation is made between monitoring points near transport, those near industry and those in the background. The nitrogen dioxide statutory limit was only exceeded at monitoring points near transport.",TRUE,"flagship, print export only",FALSE,TRUE,,,,Umweltbundesamt 2017.,Annual averages measured at federal state and Umweltbundesamt air monitoring network points.
 10-01-e,EU comparison of nitrogen dioxide (NO<sub>2</sub>) 2013,BoxPlot,10/01/eu-categories.csv,"{
   ""filter"": ""datum.category == 'NO2'"",
   ""highlight"": ""datum.country == 'Deutschland'"",
@@ -759,16 +764,16 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
   ""xAnnotations"": [
     {""x"": ""1970"", ""value"": 106.9329097153},
     {""x"": ""1975"", ""value"": 101.3745362439},
-    {""x"": ""2013"", ""value"": 68.5}
+    {""x"": ""2014"", ""value"": 67.2}
   ]
-}","The chart shows biodiversity and environmental quality in the period 1970 to 2013. The aim is to reach a target of 100. In this period, the indicator fell from 106.9 to 68.5.",FALSE,plotted,TRUE,TRUE,,,,German Federal Agency for Nature Conservation 2015. ,Chart also includes reconstructed historical values.
+}","The chart shows biodiversity and environmental quality in the period 1970 to 2014. The aim is to reach a target of 100. In this period, the indicator fell from 106.9 to 67.2.",TRUE,plotted,TRUE,TRUE,,,,German Federal Agency for Nature Conservation 2017. Data from Dachverband Deutscher Avifaunisten 2017. ,Chart also includes reconstructed historical values.
 10-02-b,"Biodiversity and environmental quality, aggregated and sub-indicators",Slope,10/02/categories.csv,"{
-  ""filter"": ""datum.year == 1990 || datum.year == 2013"",
+  ""filter"": ""datum.year == 1990 || datum.year == 2014"",
   ""color"": ""facet_value"",
   ""column"": ""facet"",
   ""numberFormat"": "".1f"",
   ""endLabel"": true
-}","The chart shows biodiversity and environmental quality aggregated and with five sub-indicators. All in all, the indicator fell from 76.5 to 68.5 between 1990 and 2013. For the sub-indicators “settlements”, “agricultural land” as well as “coasts/oceans”, levels deteriorated between 1990 and 2013. However, the sub-indicators “forests” and “inland waters” improved and increased from 81.6 to 86.9 and 64.1 to 71.9 respectively.",FALSE,plotted,TRUE,TRUE,,,,German Federal Agency for Nature Conservation 2015.,
+}","The chart shows biodiversity and environmental quality aggregated and with five sub-indicators. All in all, the indicator fell from 76.5 to 67.2 between 1990 and 2014. For the sub-indicators “settlements”, “agricultural land” as well as “coasts/oceans”, levels deteriorated between 1990 and 2014. However, the sub-indicators “forests” and “inland waters” improved and increased from 81.6 to 83.9 and 64.1 to 73.6 respectively.",TRUE,plotted,TRUE,TRUE,,,,German Federal Agency for Nature Conservation 2017. Data from Dachverband Deutscher Avifaunisten 2017. ,
 10-03-a,"Energy productivity (GDP (2010) per unit of primary energy consumption, adjusted for price changes)",Line,10/03/years.csv,"{
   ""x"": ""year"",
   ""y"": ""value"",
@@ -777,7 +782,7 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
 11-01-a,Voter turnout in Bundestag elections as a percentage of eligible electorate,Line,11/01/federation.csv,"{
   ""color"": ""region"",
   ""numberFormat"": "".1%""
-}","The chart shows voter turnout in Bundestag elections in the period 1949 to 2013. Following high turnout levels right through to the 1980s, voter turnout has dropped since the Bundestag election in 1987. Its lowest-ever level was 70.8 percent, recorded in 2009. At the 2013 Bundestag election, turnout was 71.5 as a whole, breaking down into 72.4 percent in West German federal states and 67.6 percent in East German federal states.",FALSE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Election Statistics. ",Voter turnout only for the west German federal states and west Berlin until 1987.
+}","The chart shows voter turnout in Bundestag elections in the period 1949 to 2017. Following high turnout levels right through to the 1980s, voter turnout has dropped since the Bundestag election in 1987. Its lowest-ever level was 70.8 percent, recorded in 2009. At the 2017 Bundestag election, turnout was 76.2 as a whole, breaking down into 76.8 percent in West German federal states and 73.2 percent in East German federal states.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Election Statistics. ",Voter turnout only for the west German federal states and west Berlin until 1987.
 11-01-b,Voter turnout in the respective last and last-but-one Landtag elections as a percentage of eligible electorate,Slope,11/01/states.csv,"{
   ""column"": ""state"",
   ""color"": ""state"",
@@ -794,11 +799,10 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
   ""minWidth"": 120,
   ""xTicks"": [""2006"", ""2011"", ""2017""],
   ""columnFilter"": [
-    {""title"": ""Gestiegen"", ""test"": ""indexof(['Baden-Württemberg', 'Bayern', 'Hessen', 'Mecklenburg-Vorpommern', 'Rheinland-Pfalz', 'Sachsen-Anhalt', 'Saarland', 'Nordrhein-Westfalen', 'Sachsen-Anhalt', 'Berlin', 'Schleswig-Holstein'], datum.state) > -1""},
-    {""title"": ""Stagniert"", ""test"": ""indexof(['Hamburg', 'Niedersachsen'], datum.state) > -1""},
-    {""title"": ""Gesunken"", ""test"": ""indexof(['Brandenburg', 'Bremen', 'Sachsen', 'Thüringen'], datum.state) > -1""}
+    {""title"": ""Gestiegen"", ""test"": ""indexof(['Baden-Württemberg', 'Bayern', 'Hessen', 'Mecklenburg-Vorpommern', 'Rheinland-Pfalz', 'Sachsen-Anhalt', 'Saarland', 'Nordrhein-Westfalen', 'Sachsen-Anhalt', 'Berlin', 'Schleswig-Holstein','Niedersachsen'], datum.state) > -1""},
+    {""title"": ""Stagniert oder gesunken"", ""test"": ""indexof(['Brandenburg', 'Bremen', 'Sachsen', 'Thüringen', 'Hamburg'], datum.state) > -1""}
   ]
-}","The chart shows voter turnout in the last two Landtag elections in each federal state as a percentage of eligible electorate. In Hesse, Baden-Württemberg, Rhineland-Palatinate, Bavaria, Berlin, Saarland, Saxony-Anhalt, Mecklenburg-Western Pomerania, Schleswig-Holstein and North Rhine-Westphalia, voter turnout has increased. In these federal states, voter turnout at the last two Landtag elections stood between 61 percent in Saxony-Anhalt and 73 percent in Hesse. In Thuringia, Bremen, Saxony and Brandenburg, voter turnout has dropped and stood between 48 percent in Brandenburg and 53 percent in Thuringia. In Lower Saxony and Hamburg there was hardly any change, with figures of 56 percent in Hamburg and 59 percent in Lower Saxony.",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Election Statistics, June 7, 2017. ",
+}","The chart shows voter turnout in the last two Landtag elections in each federal state as a percentage of eligible electorate. In Hesse, Baden-Württemberg, Rhineland-Palatinate, Bavaria, Berlin, Saarland, Saxony-Anhalt, Mecklenburg-Western Pomerania, Schleswig-Holstein,North Rhine-Westphalia, and Lower Saxony voter turnout has increased. In these federal states, voter turnout at the last two Landtag elections stood between 61 percent in Saxony-Anhalt and 73 percent in Hesse. In Thuringia, Bremen, Saxony and Brandenburg, voter turnout has dropped and stood between 48 percent in Brandenburg and 53 percent in Thuringia. In Hamburg there was hardly any change with a voter turnout of 56 per cent. ",TRUE,plotted,TRUE,TRUE,,,,"German Federal Statistical Office, Election Statistics.",Voter turnout for the state election in Lower Saxony in October 2017 is preliminary. 
 11-02-a,Perceived ability for citizens to influence politics 2014,Bar,11/02/facets.csv,"{
   ""numberFormat"": ""%"",
   ""color"": ""answer"",
@@ -818,7 +822,7 @@ An ""Oberzentrum"" has 200,000 to 300,000 inhabitants and typically offers the f
   ""zero"": false,
   ""endLabel"": true,
   ""columns"": 1
-}","The chart shows eight selected fundamental rights in the years 2012/13 and 2016. The eight selected fundamental rights are: freedom of assembly and association; right to life and security of the person; freedom of opinion and expression; fundamental labour rights; freedom of belief and religion; freedom from arbitrary interference with privacy; due process of law and rights; and equal treatment and absence of discrimination. These fundamental rights were placed on a scale between 0 and 1, the latter being the optimum. Seven of the fundamental rights and the total index increased in the given period and in 2016 reached values between 0.81 and 0.93. Only the fundamental right to equal treatment remained almost unchanged between 2012/13 and 2016.",TRUE,plotted,TRUE,TRUE,,World Justice Project.,http://worldjusticeproject.org/historical-data,Rule of Law Index 2016. ,
+}","The chart shows eight selected fundamental rights in the years 2012/13 and 2016. The eight selected fundamental rights are: freedom of assembly and association; right to life and security of the person; freedom of opinion and expression; fundamental labour rights; freedom of belief and religion; freedom from arbitrary interference with privacy; due process of law and rights; and equal treatment and absence of discrimination. These fundamental rights were placed on a scale between 0 and 1, the latter being the optimum. Seven of the fundamental rights and the total index increased in the given period and in 2016 reached values between 0.81 and 0.93. Only the fundamental right to equal treatment remained almost unchanged between 2012/13 and 2016.",FALSE,plotted,TRUE,TRUE,,World Justice Project.,http://worldjusticeproject.org/historical-data,Rule of Law Index 2016. ,
 12-01-a,Annual global greenhouse gas emissions in billions of tonnes of CO<sub>2eq</sub>,Slope,12/01/global.csv,"{
   ""filter"": ""datum.category == 'GHG' && (datum.year == 1990 || datum.year == 2012)"",
   ""numberFormat"": ""s"",
@@ -833,7 +837,7 @@ Greenhouse gas emissions, Earth System Science Data.",
   ""filter"": ""datum.category == 'CO2'"",
   ""numberFormat"": ""s"",
   ""unit"": ""Tonnen""
-}","The chart shows global CO2 emissions in the period from 1990 to 2015. In this period, global CO2 emissions increased from 22.67 to 36.25 billion tonnes.",TRUE,plotted,TRUE,TRUE,,,,"Olivier, J.G.J., G. Janssens-Maenhout, M. Muntean, and J.A.H.W. Peters (2016): Trends in global CO2 emissions: 2016 Report, JRC 103428, PBL2315.  ",The Edgar dataset on CO<sub>2</sub> emissions does not include emissions from CO<sub>2</sub>-neutral bio-energy and from land use change or from forest or bog fires etc.
+}","The chart shows global CO2 emissions in the period from 1990 to 2015. In this period, global CO2 emissions increased from 22.67 to 36.25 billion tonnes.",FALSE,plotted,TRUE,TRUE,,,,"Olivier, J.G.J., G. Janssens-Maenhout, M. Muntean, and J.A.H.W. Peters (2016): Trends in global CO2 emissions: 2016 Report, JRC 103428, PBL2315.  ",The Edgar dataset on CO<sub>2</sub> emissions does not include emissions from CO<sub>2</sub>-neutral bio-energy and from land use change or from forest or bog fires etc.
 12-01-c,Annual greenhouse gas emissions in Germany in millions of tonnes of CO<sub>2eq</sub>,TimeBar,12/01/germany.csv,"{
   ""color"": ""gas"",
   ""unit"": ""Tonnen"",
@@ -844,10 +848,10 @@ Greenhouse gas emissions, Earth System Science Data.",
     {""x"": ""2050"", ""value"": 249600000, ""label"": ""Ziel 2050"", ""valuePrefix"": ""max: "", ""ghost"": true}
   ],
   ""padding"": 55
-}","The chart shows greenhouse gas emissions in Germany in the period 1990 to 2015. In this period, greenhouse gas emissions in Germany fell from some 1,200 to 908 million tonnes of CO2 equivalents. Greenhouse gas emissions are to drop to 749 million tonnes by 2020 and to 250 million tonnes by 2050.",FALSE,plotted,TRUE,TRUE,,,,"Umweltbundesamt, National greenhouse gas inventories 1990 to 2015 (Date: 02/2017) and approximation for 2016 (Date: 03/2017).","*excluding carbon dioxide from land use, changes in land use and forestry"
+}","The chart shows greenhouse gas emissions in Germany in the period 1990 to 2015. In this period, greenhouse gas emissions in Germany fell from some 1,200 to 908 million tonnes of CO2 equivalents. Greenhouse gas emissions are to drop to 749 million tonnes by 2020 and to 250 million tonnes by 2050.",TRUE,plotted,TRUE,TRUE,,,,"Umweltbundesamt, National greenhouse gas inventories 1990 to 2015 (Date: 02/2017) and approximation for 2016 (Date: 03/2017).","*excluding carbon dioxide from land use, changes in land use and forestry. Data for 2016 are preliminary. "
 12-02-a,Public expenditure for development cooperation as a percentage of gross national income (ODA ratio),Line,12/02/values.csv,"{
   ""numberFormat"": "".2%""
-}",The chart shows public expenditure for development cooperation as a percentage of gross national income in the period 1960 to 2016. It increased from 0.31 to 0.7 percent.,TRUE,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/oda/net-oda.htm,Net ODA indicator.,Preliminary data for 2016.
+}",The chart shows public expenditure for development cooperation as a percentage of gross national income in the period 1960 to 2016. It increased from 0.31 to 0.7 percent.,FALSE,plotted,TRUE,TRUE,,OECD.,https://data.oecd.org/oda/net-oda.htm,Net ODA indicator.,Preliminary data for 2016.
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,

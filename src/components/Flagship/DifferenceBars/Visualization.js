@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React, { Component } from 'react';
 import {select, mouse, event} from 'd3-selection';
-import 'd3-transition';
+import {transition} from 'd3-transition';
 import {nest} from 'd3-collection';
 import {scaleLinear, scaleQuantize, scalePoint} from 'd3-scale';
 import {geoPath} from 'd3-geo';
@@ -284,7 +284,10 @@ export class DistrictsVisualization extends Component {
       const nestedData = this.nestedDataFn(districtData, startYear, endYear);
 
       nestedData.forEach(d => {
-        d.geo = features[d.key];
+        if (__DEV__ && !features[d.key]) {
+          console.warn('No feature for', d.key);
+        }
+        d.geo = features[d.key] ? features[d.key] : {};
       });
 
       return [].concat(nestedData);
@@ -679,13 +682,13 @@ export class DistrictsVisualization extends Component {
   initialRender() {
     this.rootSelection = select(this.root);
     const svg = this.svgSelection = select(this.svg);
-
+    
     this.mapArea = svg.append('g').classed('map', 1);
     this.mapPaths = this.mapArea.append('g').classed('paths', 1);
     this.mapAreaPersonalization = this.mapArea.append('g').classed('personalization', 1);
     this.mapAreaOverlay = this.mapArea.append('g').classed('overlay', 1);
-
-    this.chartArea = svg.append('g').classed('chart', 1);
+    
+    this.chartArea = svg.insert('g', '.map').classed('chart', 1);
     this.chartBase = this.chartArea.append('g').classed('base', 1).style('pointer-events', 'none');
     this.chartLabels = this.chartArea.append('g').classed('labels', 1);
     this.chartOverlay = this.chartArea.append('rect').attr('class', css(styles.interactionLayer));

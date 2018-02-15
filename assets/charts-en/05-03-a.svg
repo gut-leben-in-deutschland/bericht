@@ -9,7 +9,10 @@
                 Austria
             </text>
             <g transform="translate(0,15)" style="">
-                <rect x="0" fill="#8c1478" width="617" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="494" height="16" style="fill:#8c1478;"/>
+                <text x="498" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.77
+                </text>
             </g>
         </g>
         <g style="">
@@ -17,7 +20,10 @@
                 Germany
             </text>
             <g transform="translate(0,55)" style="">
-                <rect x="0" fill="#bd4aa5" width="609" height="16" style="fill:#bd4aa5;"/>
+                <rect x="0" fill="#bd4aa5" width="487" height="16" style="fill:#bd4aa5;"/>
+                <text x="491" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.76
+                </text>
             </g>
         </g>
         <g style="">
@@ -25,7 +31,10 @@
                 Cyprus
             </text>
             <g transform="translate(0,95)" style="">
-                <rect x="0" fill="#8c1478" width="561" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="449" height="16" style="fill:#8c1478;"/>
+                <text x="453" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.70
+                </text>
             </g>
         </g>
         <g style="">
@@ -33,7 +42,10 @@
                 France
             </text>
             <g transform="translate(0,135)" style="">
-                <rect x="0" fill="#8c1478" width="545" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="436" height="16" style="fill:#8c1478;"/>
+                <text x="440" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.68
+                </text>
             </g>
         </g>
         <g style="">
@@ -41,7 +53,10 @@
                 Portugal
             </text>
             <g transform="translate(0,175)" style="">
-                <rect x="0" fill="#8c1478" width="537" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="430" height="16" style="fill:#8c1478;"/>
+                <text x="434" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.67
+                </text>
             </g>
         </g>
         <g style="">
@@ -49,7 +64,10 @@
                 Finland
             </text>
             <g transform="translate(0,215)" style="">
-                <rect x="0" fill="#8c1478" width="529" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="423" height="16" style="fill:#8c1478;"/>
+                <text x="427" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.66
+                </text>
             </g>
         </g>
         <g style="">
@@ -57,7 +75,10 @@
                 Luxembourg
             </text>
             <g transform="translate(0,255)" style="">
-                <rect x="0" fill="#8c1478" width="529" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="423" height="16" style="fill:#8c1478;"/>
+                <text x="427" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.66
+                </text>
             </g>
         </g>
         <g style="">
@@ -65,7 +86,10 @@
                 Netherlands
             </text>
             <g transform="translate(0,295)" style="">
-                <rect x="0" fill="#8c1478" width="521" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="417" height="16" style="fill:#8c1478;"/>
+                <text x="421" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.65
+                </text>
             </g>
         </g>
         <g style="">
@@ -73,7 +97,10 @@
                 Italy
             </text>
             <g transform="translate(0,335)" style="">
-                <rect x="0" fill="#8c1478" width="489" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="391" height="16" style="fill:#8c1478;"/>
+                <text x="395" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.61
+                </text>
             </g>
         </g>
         <g style="">
@@ -81,7 +108,10 @@
                 Belgium
             </text>
             <g transform="translate(0,375)" style="">
-                <rect x="0" fill="#8c1478" width="489" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="391" height="16" style="fill:#8c1478;"/>
+                <text x="395" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.61
+                </text>
             </g>
         </g>
         <g style="">
@@ -89,7 +119,10 @@
                 Malta
             </text>
             <g transform="translate(0,415)" style="">
-                <rect x="0" fill="#8c1478" width="481" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="385" height="16" style="fill:#8c1478;"/>
+                <text x="389" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.60
+                </text>
             </g>
         </g>
         <g style="">
@@ -97,7 +130,10 @@
                 Spain
             </text>
             <g transform="translate(0,455)" style="">
-                <rect x="0" fill="#8c1478" width="465" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="372" height="16" style="fill:#8c1478;"/>
+                <text x="376" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.58
+                </text>
             </g>
         </g>
         <g style="">
@@ -105,7 +141,10 @@
                 Greece
             </text>
             <g transform="translate(0,495)" style="">
-                <rect x="0" fill="#8c1478" width="449" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="359" height="16" style="fill:#8c1478;"/>
+                <text x="363" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.56
+                </text>
             </g>
         </g>
         <g style="">
@@ -113,7 +152,10 @@
                 Slovenia
             </text>
             <g transform="translate(0,535)" style="">
-                <rect x="0" fill="#8c1478" width="433" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="347" height="16" style="fill:#8c1478;"/>
+                <text x="351" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.54
+                </text>
             </g>
         </g>
         <g style="">
@@ -121,7 +163,10 @@
                 Slovakia
             </text>
             <g transform="translate(0,575)" style="">
-                <rect x="0" fill="#8c1478" width="361" height="16" style="fill:#8c1478;"/>
+                <rect x="0" fill="#8c1478" width="289" height="16" style="fill:#8c1478;"/>
+                <text x="293" y="8" dy=".35em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:20.59375px;fill:#666666;">
+                    0.45
+                </text>
             </g>
         </g>
         <g transform="translate(0,599)" style="">
@@ -137,14 +182,14 @@
                 <line y1="-584" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:14.59375px;fill:#666666;text-anchor:middle;">
-                    0.4
+                    0.5
                 </text>
             </g>
             <g transform="translate(639,0)" style="">
                 <line y1="-584" y2="-8" style="shape-rendering:crispedges;stroke:rgba(0, 0, 0, 0.16862745098039217);stroke-opacity:0.6000000238418579;stroke-width:1px;"/>
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:14.59375px;fill:#666666;text-anchor:end;">
-                    0.8 
+                    1.0 
                 </text>
             </g>
         </g>

@@ -6,8 +6,8 @@ import PropTypes from 'prop-types';
 import raf from 'raf';
 import {LinkInline as Link} from 'components/ButtonLink/Link';
 import subsup from 'utils/subsup';
-import {sansRegular12} from 'theme/typeface';
-import {midGrey} from 'theme/constants';
+import {sansRegular12, sansBold12} from 'theme/typeface';
+import {midGrey, link} from 'theme/constants';
 import {ascending} from 'd3-array';
 
 import ScrollBlock from './ScrollBlock';
@@ -71,7 +71,20 @@ const styles = StyleSheet.create({
     color: midGrey,
     textAlign: 'right',
     lineHeight: 1.2
-  }
+  },
+  newDataLine: {
+    display: 'block',
+    marginTop: 1,
+  },
+  newDataLabel: {
+    ...sansBold12,
+    backgroundColor: link,
+    color: '#fff',
+    padding: '0 4px',
+    borderRadius: 3,
+    display: 'inline-block',
+    lineHeight: 1.41
+  },
 });
 
 
@@ -407,8 +420,9 @@ export class ScrollContainer extends Component {
     const description = {
       source_annotation: t(`flagship/${dimensionId}/source_annotation`, {}, null),
       source_label: t(`flagship/${dimensionId}/source_label`, {}, null),
-      source_url: t(`flagship/${dimensionId}/source_url`, {}, null)
+      source_url: t(`flagship/${dimensionId}/source_url`, {}, null),
     };
+    const newData = t(`flagship/${dimensionId}/new_data`, {}, 'false').toLowerCase() === 'true';
     const source = (
       <div>
         {!!(description.source_label || description.source_annotation) && t('charts/source')}{' '}
@@ -416,6 +430,11 @@ export class ScrollContainer extends Component {
         {' '}{subsup(description.source_annotation)}
         {!!secondarySource && <br />}
         {secondarySource}
+        {newData && (
+          <span className={css(styles.newDataLine)}>
+            <span className={css(styles.newDataLabel)}>{t('dashboard/new-data')}</span>
+          </span>
+        )}
       </div>
     );
 

@@ -9,8 +9,8 @@ import Footer from 'components/Footer/Footer';
 import {text} from 'theme/constants';
 import {sansRegular18} from 'theme/typeface';
 
-import favicon from '!!file!./favicon.png';
-import faviconApple from '!!file!./favicon-apple.png';
+import favicon from '!!file-loader!./favicon.png';
+import faviconApple from '!!file-loader!./favicon-apple.png';
 
 const styles = StyleSheet.create({
   everything: {

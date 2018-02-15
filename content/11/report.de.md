@@ -24,7 +24,7 @@ Das Recht auf freie Meinungsäußerung, Entfaltungsfreiheit und persönliche Fre
 
 Freie, geheime, gleiche und direkte **Wahlen** machen den **Kern unserer Demokratie** aus. Die **Wahlbeteiligung** gibt den Anteil der Wahlberechtigten an, die tatsächlich ihre Stimme abgeben. Sie ist ein guter **Indikator** für das politische Interesse der Menschen und oft auch Spiegelbild aktuell besonders strittiger politischer und gesellschaftlicher Entscheidungen.
 
-Doch nicht alle machen von ihrem Wahlrecht Gebrauch. Nach einem Höchststand in den 1970er Jahren ist die Wahlbeteiligung bei Bundestagswahlen deutlich gesunken. Bei der Bundestagswahl 2009 erreichte sie ihren bisherigen Tiefstand. Bei der letzten Bundestagswahl 2013 sind wieder etwas mehr Wahlberechtigte zur Wahl gegangen.
+Doch nicht alle machen von ihrem Wahlrecht Gebrauch. Nach einem Höchststand in den 1970er Jahren ist die Wahlbeteiligung bei Bundestagswahlen deutlich gesunken. Bei der Bundestagswahl 2009 erreichte sie ihren bisherigen Tiefstand. Bei der letzten Bundestagswahl 2017 sind wieder deutlich mehr Wahlberechtigte zur Wahl gegangen. Die Wahlbeteiligung lag mit 76,2 Prozent fast fünf Prozentpunkte höher als bei der Bundestagswahl 2013. 
 
 Auffällig ist, wie **unterschiedlich verschiedene Bevölkerungsgruppen ihr Wahlrecht nutzen**. So gehen Bürgerinnen und Bürger in **Arbeitslosigkeit**, mit **geringem Einkommen** und **niedrigem sozio-ökonomischem Status seltener wählen** als höhere Einkommens- und Statusgruppen.
 
@@ -42,13 +42,13 @@ Auffällig ist, wie **unterschiedlich verschiedene Bevölkerungsgruppen ihr Wahl
 <!-- ColumnContainer end -->
 
 
-<!--DifferenceBarScrollContainer start data=11/01/districts.csv startYear=1994 endYear=2013 geographyShould=2013 -->
+<!--DifferenceBarScrollContainer start data=11/01/districts.csv startYear=2013 endYear=2017 geography=2016 -->
 
 <!--ScrollBlock start stage=choropleth skipMobileVisualization-->
 
 ## Wahlbeteiligung bei Bundestagswahlen
 
-Die letzte **Bundestagswahl** fand am **22. September 2013** statt. Rund 61,95 Millionen Bürgerinnen und Bürger waren zur Wahl aufgerufen. Rund 44,31 Millionen Wahlberechtigte haben von ihrem Wahlrecht Gebrauch gemacht - das entspricht einer **Wahlbeteiligung von 71,5 Prozent**.
+Die letzte **Bundestagswahl** fand am **24. September 2017** statt. Rund 61,69 Millionen Bürgerinnen und Bürger waren zur Wahl aufgerufen. Rund 46,98 Millionen Wahlberechtigte haben von ihrem Wahlrecht Gebrauch gemacht - das entspricht einer **Wahlbeteiligung von 76,2 Prozent**.
 
 <!--ScrollBlock end-->
 
@@ -69,65 +69,71 @@ Wählen Sie ihre Gemeinde oder Stadt aus:
 
 <!--ScrollBlock start stage=endValue-->
 
-Die Punkte ordnen die Wahlbeteiligung bei der ** Bundestagswahl 2013** für die knapp über 400 Landkreise und kreisfreien Städte in Deutschland an - von links nach rechts, von der geringsten bis zur höchsten Wahlbeteiligung. Jeder interaktive Punkt markiert einen Landkreis oder eine kreisfreie Stadt auf der Landkarte.
+Die Punkte ordnen die Wahlbeteiligung bei der ** Bundestagswahl 2017** für die knapp über 400 Landkreise und kreisfreien Städte in Deutschland an - von links nach rechts, von der niedrigsten bis zur höchsten Wahlbeteiligung. Jeder interaktive Punkt markiert einen Landkreis oder eine kreisfreie Stadt auf der Landkarte.
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=values-->
 
-Die **transparenten Punkte** zeigen die **Wahlbeteiligung für die Bundestagswahl 1994** im Vergleich an. Wie hoch war die Wahlbeteiligung 1994 im Vergleich zur Bundestagswahl 2013 in den über 400 Landkreisen und kreisfreien Städten in Deutschland?
+Die **transparenten Punkte** zeigen die **Wahlbeteiligung für die Bundestagswahl 2013** im Vergleich an. Wie hat sich die Wahlbeteiligung bei der Bundestagswahl 2017 gegenüber der letzten Wahl 2013 verändert? Was hat sich in den über 400 Landkreisen und kreisfreien Städten in Deutschland getan?
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=difference-->
 
-Die grünen Linien verbinden die Wahlbeteiligung 2013 und 1994 für die 400 Regionen. Bewegen sich die Linien nach oben, dann ist die Wahlbeteiligung 2013 im Vergleich zur Bundestagswahl 1994 gesunken. Bewegen sich die Verbindungslinien nach unten, dann ist die Wahlbeteiligung 2013 im Vergleich zur Bundestagswahl 1994 gestiegen. Es zeigt sich: **In den meisten Landkreisen und kreisfreien Städten ist die Wahlbeteiligung gesunken**.    
+Die grünen Linien verbinden die Wahlbeteiligung 2013 und 2017 für jeden der 400 Landkreise und Städte. Bewegen sich die Linien nach oben, dann ist die Wahlbeteiligung 2017 im Vergleich zur letzten Bundestagswahl 2013 gesunken. Bewegen sich die Verbindungslinien nach unten, dann sind 2017 mehr Menschen in diesem Landkreis zur Wahl gegangen. 
 
-
-<!--ScrollBlock end-->
-
-<!--ScrollBlock start stage=difference highlights=11,12,13,14,15,16,15085-->
-
-In **Ostdeutschland** fiel die Wahlbeteiligung mit **67,6 Prozent** insgesamt niedriger aus als in Westdeutschland.
+Es zeigt sich: **In allen Landkreisen und kreisfreien Städten sind 2017 mehr Menschen zur Wahl gegangen**. Damit setzt sich der Trend steigender Wahlbeteiligung fort, der bereits bei den letzten Landtagswahlen zu beobachten war. 
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights=12064,12067,12071,12065,12063,14625,14511,14521,12069,12054,14523,12060,14626,14730,14524,14522,14628,14729,14627,14713,14612
--->
+<!--ScrollBlock start stage=difference highlights=11,12,13,14,15,16-->
 
-**Wahlbeteiligung in 21 Landkreisen und kreisfreien Städten gestiegen**: Von den über 400 Landkreisen und kreisfreien Städten ist die Wahlbeteiligung 2013 nur in 21 Landkreisen gegenüber der Bundestagswahl 1994 gestiegen. Diese liegen alle in Ostdeutschland, mehrheitlich in Brandenburg und Sachsen. Besonders deutlich war die Veränderung in Dresden und Leipzig. Hier hat die Wahlbeteiligung um 12,3 und 9,7 Prozentpunkte zugenommen.
-
-<!--ScrollBlock end-->
-
-
-<!--ScrollBlock start stage=difference highlights=09263,05515-->
-
-**Deutliche regionale Unterschiede in westdeutschen Landkreisen**: In Westdeutschland gaben mit 72,4 Prozent insgesamt mehr Wahlberechtigte ihre Stimme ab, allerdings zeigen sich hier große regionale Unterschiede. In Münster war die Wahlbeteiligung am höchsten. Hier gaben 78,5 Prozent der Wahlberechtigten ihre Stimme ab. Am geringsten fiel die Wahlbeteiligung in Straubing aus. Nur 57,4 Prozent der Wahlberechtigten gingen hier zur Wahl.
+In **Ostdeutschland** fiel die Wahlbeteiligung mit **73,2 Prozent** insgesamt niedriger aus als in Westdeutschland. Allerdings ist die Wahlbeteiligung gegenüber der letzten Bundestagswahl 2013 mit 5,7 Prozentpunkten stärker gestiegen als in den westdeutschen Bundesländern. 
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights=09662,07320,09561,15085,06413,07314,09361,07311,07134,06534,09363,09762,09763,03103,09476,06632,09764,03102,07132,06611,06631,03405,03155,05913,07334,06636,05914,10043,06414,03153,06433,06634,03255,07141,06533,03252,07312,05513,07333,06633-->
+<!--ScrollBlock start stage=difference highlights=01,02,03,04,05,06,07,08,09,10-->
 
-**Besonders starker Rückgang der Wahlbeteiligung in westdeutschen Landkreisen**: In Westdeutschland finden sich die Landkreise, in denen die Wahlbeteiligung 2013 im Vergleich zur Bundestagswahl 1994 besonders stark rückläufig war. Von den 40 Landkreisen mit dem stärksten Rückgang liegen 39 in Westdeutschland. Schwerpunkte sind hier Bayern, Hessen, Niedersachsen und Rheinland-Pfalz. Besonders stark ist die Wahlbeteiligung in Schweinfurt eingebrochen - ganze 16,2 Prozentpunkte weniger.  
-
-<!--ScrollBlock end-->
-
-<!--ScrollBlock start stage=difference highlights=09263,15085,15089,09662,15087,15082,12051,09272,09276,09271,15084,15083,09361,15090,09763,09161,09561,12068,15088,09363,15086,07317,09762,09275,09279,15081,12073,13073,13075,09464,15003,04012,09761,13071,09764,16072,09372,12053,16065,09262-->
-
-**Niedrigste Wahlbeteiligung 2013 überwiegend in Bayern, Thüringen und Sachsen-Anhalt**: Unter den 40 Landkreisen und kreisfreien Städten mit der niedrigsten Wahlbeteiligung gingen nur zwischen 57,4 und 63,4 Prozent aller Wahlberechtigten zur Bundestagswahl. Von diesen lagen 18 in Bayern, 7 in Sachsen-Anhalt und 6 in Thüringen.
+In **Westdeutschland** lag die Wahlbeteiligung bei **76,8 Prozent**. Gegenüber der letzten Bundestagswahl 2013 ist die Wahlbeteiligung damit um 4,4 Prozentpunkte gestiegen.
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights=07315,03355,05566,03157,08435,01058,03458,08226,09179,03158,01056,08311,09572,10046,08236,08315,08119,06439,08425,08111,08221,01057,09679,09175,05314,08115,01062,09184,08118,07338,08116,06436,06434,07339,05378,05558,03353,09188,08416,05515-->
+<!--ScrollBlock start stage=difference highlights=09188,04012,14612,15089-->
 
-**Höchste Wahlbeteiligung 2013 besonders häufig in Baden-Württemberg**: Unter den 40 Landkreisen und kreisfreien Städten mit der höchsten Wahlbeteiligung gingen zwischen 74,6 und 78,5 Prozent aller Wahlberechtigten zur Bundestagswahl. Von diesen lagen 13 allein in Baden-Württemberg und jeweils fünf in Niedersachsen und Nordrhein-Westfalen.
+**Deutliche regionale Unterschiede in westdeutschen Landkreisen**: In den westdeutschen Bundesländern gaben insgesamt mehr Wahlberechtigte ihre Stimme ab, hier zeigen sich aber auch größere regionale Unterschiede. Mit 84,1 Prozent bei der Bundestagswahl 2017 lag die Wahlbeteiligung in Starnberg deutschlandweit am höchsten. In Bremerhaven fiel die Wahlbeteiligung am niedrigsten aus. Nur 63,1 Prozent der Wahlberechtigten gingen hier zur Wahl. In den ostdeutschen Bundesländern lag die Wahlbeteiligung in Dresden mit 78,4 Prozent am höchsten, im Salzlandkreis mit 63,3 Prozent am niedrigsten. 
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference highlights=04012,09272-->
+
+**Anstieg der Wahlbeteiligung deutschlandweit**: In jedem der über 400 Landkreise und kreisfreien Städte sind 2017 mehr Menschen zur Wahl gegangen als noch zur letzten Bundestagswahl. Den geringsten Anstieg verzeichnete Bremerhaven mit 0,1 Prozentpunkten, den größten der Landkreis Freyung-Grafenau in Bayern. Dort ist die Wahlbeteiligung um 12,1 Prozentpunkte gestiegen. 
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference  highlights=09774,09177,09189,09776,09278,09773,09761,09187,09674,09273,09778,09779,09183,0918,09172,09185,09274,09662,09762,09261,09375,09163,09764,09361,09561,09161,09471,09262,09277,09372,09376,09362,09263,09461,09763,09279,09271,09275,09276,09272-->
+
+**Größte Zuwächse bei Wahlbeteiligung in Bayern**: Im Vergleich zur Bundestagswahl 2013 lagen die 40 Landkreise und kreisfreien Städte mit dem größten Anstieg der Wahlbeteiligung 2017 alle in Bayern. Allerdings verzeichnete Bayern im Jahr 2013 auch ein historisches Tief mit einer ausgesprochen geringen Wahlbeteiligung. 
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference  highlights=01062,03353,05515,05558,06434,06436,07235,07315,07332,07338,07339,08116,08221,08311,08315,08416,09174,09175,09176,09177,09178,09179,09181,09182,09184,09188,09190,09471,09474,09562,09572,09573,09574,09576,09671,09674,09677,09678,09679,09771-->
+
+**Höchste Wahlbeteiligung 2017 ausschließlich in westdeutschen Landkreisen und Städten**: In den 40 Landkreisen und kreisfreien Städten mit der höchsten Wahlbeteiligung gaben mehr als 80 Prozent der Wahlberechtigten eine gültige Stimme ab. Von diesen 40 Landkreisen lagen mehr als die Hälfte in Bayern und jeweils fünf in Baden-Württemberg und Rheinland-Pfalz. 
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference 
+highlights=01004,03401,03405,04012,05112,05116,05513,05916,06413,07314,07317,08231,09263,09363,09464,09662,12051,12053,12068,12070,12073,13071,13073,13074,13075,15001,15002,15003,15081,15082,15083,15084,15085,15086,15087,15088,15089,15090,15091,16062-->
+
+**Niedrige Wahlbeteiligung besonders häufig in Ostdeutschland**: In den 40 Landkreisen und kreisfreien Städten mit der niedrigsten Wahlbeteiligung gingen weniger als 70 Prozent der Wahlberechtigten zur Bundestagswahl 2017. Davon lagen allein 24 Landkreise in den ostdeutschen Bundesländern, vor allem in Sachsen-Anhalt, aber auch in Brandenburg und Mecklenburg-Vorpommern. Eine Wahlbeteiligung von unter 70 Prozent kommt in den westdeutschen Bundesländern nur vereinzelt vor. Kleinere regionale Schwerpunkte gibt es in Nordrhein-Westfalen und Bayern. 
 
 <!--ScrollBlock end-->
 
 <!--DifferenceBarScrollContainer end-->
 
 
-## Geringere Wahlbeteiligung auch bei vielen Landtagswahlen
+## Höhere Wahlbeteiligung bei vielen Landtagswahlen
 
 <!-- Quote text='Demokratie ist ein Geschenk, aber es fehlt das Bewusstsein, wie grandios dieses Geschenk ist.' source='aus dem Bürgerdialog des Deutschen Naturschutzrings in Berlin am 1. September 2015' -->
 
@@ -137,7 +143,7 @@ Auch bei **vielen Landtagswahlen** zeigte sich bis vor kurzem eine **rückläufi
 11-01-d
 ```
 
-Zu einem **leichten Umschwung** kam es bei den Landtagswahlen im März 2016 in **Baden-Württemberg, Rheinland-Pfalz und Sachsen-Anhalt**. Dieser **positive Trend** wurde bei den Wahlen in **Mecklenburg-Vorpommern und Berlin** im September 2016 fortgesetzt. Deutlich mehr Menschen sind hier wählen gegangen. Diese Wahlen standen unter dem Eindruck der intensiven Debatten um die Flüchtlingspolitik und motivierten so mehr Wahlberechtigte zur Stimmabgabe. Aber auch bei den Landtagswahlen 2017 sind deutlich mehr Menschen wählen gegangen. Besonders deutlich war der Anstieg im Saarland mit mehr als sechs Prozentpunkten, aber auch in Schleswig-Holstein und Nordrhein-Westfalen ist die Wahlbeteiligung um mehr als fünf Prozentpunkte gestiegen. 
+Zu einem **Umschwung** kam es bei den Landtagswahlen im März 2016 in **Baden-Württemberg, Rheinland-Pfalz und Sachsen-Anhalt**. Dieser **positive Trend** wurde bei den Wahlen in **Mecklenburg-Vorpommern und Berlin** im September 2016 fortgesetzt. Deutlich mehr Menschen sind hier wählen gegangen. Diese Wahlen standen unter dem Eindruck der intensiven Debatten um die Flüchtlingspolitik und motivierten so mehr Wahlberechtigte zur Stimmabgabe. Aber auch bei den Landtagswahlen 2017 sind deutlich mehr Menschen wählen gegangen. Besonders deutlich war der Anstieg im Saarland mit mehr als sechs Prozentpunkten, aber auch in Schleswig-Holstein und Nordrhein-Westfalen ist die Wahlbeteiligung um mehr als fünf Prozentpunkte gestiegen. Bei der letzten Landtagswahl im Oktober 2017 in Niedersachsen ist die Wahlbeteiligung um knapp vier Prozentpunkte auf 63,1 Prozent gestiegen.[^1]
 
 <!-- GovernmentMeasures start -->
 
@@ -155,7 +161,7 @@ Diese Aussage eines Teilnehmers des Bürgerdialogs des Naturpark-Vereins in Bad-
 
 Für die Demokratie ist entscheidend, dass Bürgerinnen und Bürger von der Politik gut informiert sind und mitgestalten können. Dies gilt für Bund, Länder und Kommunen gleichermaßen.
 
-Dem Ziel, die politischen Partizipationsmöglichkeiten zu erfassen, dient ein Indikator der im Rahmen einer europäisch vergleichenden Studie erhoben wird, dem [European Social Survey](http://www.europeansocialsurvey.org/).[^1] Er misst, wie **stark Menschen ihren Einfluss auf die Politik einschätzen**.   
+Dem Ziel, die politischen Partizipationsmöglichkeiten zu erfassen, dient ein Indikator der im Rahmen einer europäisch vergleichenden Studie erhoben wird, dem [European Social Survey](http://www.europeansocialsurvey.org/).[^2] Er misst, wie **stark Menschen ihren Einfluss auf die Politik einschätzen**.   
 
 <!-- ColumnContainer start -->
 
@@ -222,4 +228,5 @@ Seit 2006 setzt sich die Antidiskriminierungsstelle des Bundes für mehr Gleichb
 
 <!-- GovernmentMeasures end -->
 
-[^1]: An der siebten Befragung des European Social Surveys, der unter anderem nach den Partizipationsmöglichkeiten im Land fragt, haben neben Deutschland weitere 20 EU-Staaten teilgenommen.
+[^1]: Bei der Wahlbeteiligung in Niedersachsen handelt es sich um das vorläufige Endergebnis.
+[^2]: An der siebten Befragung des European Social Surveys, der unter anderem nach den Partizipationsmöglichkeiten im Land fragt, haben neben Deutschland weitere 20 EU-Staaten teilgenommen.

@@ -14,7 +14,7 @@ keywords:
   - Our country
 ---
 
-With its “Wellbeing in Germany – what matters to us” initiative, the federal government is turning its attention to the issue of wellbeing. It is designed to provide a benchmark for effective policymaking. But how do people define “wellbeing”? The government initiated a national dialogue to find the answer to this question. It revealed that people have a very broad and diverse view of what constitutes wellbeing. Based on this dialogue and the findings of other national and international research projects and discussions, the federal government selected **12 dimensions and 46 indicators** in order to describe and measure the current status and trends in wellbeing in Germany. The indicators will be updated on a regular basis and are tagged accordingly ‎(last update: June 2017).
+With its “Wellbeing in Germany – what matters to us” initiative, the federal government is turning its attention to the issue of wellbeing. It is designed to provide a benchmark for effective policymaking. But how do people define “wellbeing”? The government initiated a national dialogue to find the answer to this question. It revealed that people have a very broad and diverse view of what constitutes wellbeing. Based on this dialogue and the findings of other national and international research projects and discussions, the federal government selected **12 dimensions and 46 indicators** in order to describe and measure the current status and trends in wellbeing in Germany. The indicators will be updated on a regular basis and are tagged accordingly ‎(last update: January 2018).
 
 Family, health, education, work and income are dimensions of wellbeing that have a direct impact on **“our life”**.
 

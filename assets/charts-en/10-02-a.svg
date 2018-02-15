@@ -1,116 +1,119 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
     <desc style="">
-        The chart shows biodiversity and environmental quality in the period 1970 to 2013. The aim is to reach a target of 100. In this period, the indicator fell from 106.9 to 68.5.
+        The chart shows biodiversity and environmental quality in the period 1970 to 2014. The aim is to reach a target of 100. In this period, the indicator fell from 106.9 to 67.2.
     </desc>
     <g transform="translate(0,24)" style="">
         <g transform="translate(0,241)" style="">
-            <line x1="0" x2="43" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-            <line x1="43" x2="78" stroke-dasharray="2 2" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-dasharray:2px, 2px;stroke-width:1px;"/>
-            <line x1="78" x2="103" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-            <line x1="103" x2="138" stroke-dasharray="2 2" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-dasharray:2px, 2px;stroke-width:1px;"/>
-            <line x1="138" x2="640" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-            <g transform="translate(31,0)" style="">
+            <line x1="0" x2="47" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <line x1="47" x2="80" stroke-dasharray="2 2" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-dasharray:2px, 2px;stroke-width:1px;"/>
+            <line x1="80" x2="104" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <line x1="104" x2="137" stroke-dasharray="2 2" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-dasharray:2px, 2px;stroke-width:1px;"/>
+            <line x1="137" x2="640" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
+            <g transform="translate(35,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1970
                 </text>
             </g>
-            <g transform="translate(91,0)" style="">
+            <g transform="translate(92,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1975
                 </text>
             </g>
-            <g transform="translate(151,0)" style="">
+            <g transform="translate(149,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1990
                 </text>
             </g>
-            <g transform="translate(611,0)" style="">
+            <g transform="translate(605,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2013
+                    2014
                 </text>
             </g>
         </g>
-        <g transform="translate(23,0)" style="">
-            <rect y="26.19999999999999" width="15" height="213.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(28,0)" style="">
+            <rect y="26.19999999999999" width="14" height="213.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(83,0)" style="">
-            <rect y="37.19999999999999" width="15" height="202.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(85,0)" style="">
+            <rect y="37.19999999999999" width="14" height="202.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(223,0)" style="">
-            <rect y="86.80000000000001" width="15" height="153.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(218,0)" style="">
+            <rect y="86.80000000000001" width="14" height="153.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(143,0)" style="">
-            <rect y="87" width="15" height="153" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(142,0)" style="">
+            <rect y="87" width="14" height="153" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(263,0)" style="">
-            <rect y="88" width="15" height="152" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(256,0)" style="">
+            <rect y="88" width="14" height="152" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(323,0)" style="">
-            <rect y="90.4" width="15" height="149.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(313,0)" style="">
+            <rect y="90.4" width="14" height="149.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(243,0)" style="">
-            <rect y="93.80000000000001" width="15" height="146.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(237,0)" style="">
+            <rect y="93.80000000000001" width="14" height="146.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(203,0)" style="">
-            <rect y="93.80000000000001" width="15" height="146.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(199,0)" style="">
+            <rect y="93.80000000000001" width="14" height="146.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(283,0)" style="">
-            <rect y="94.4" width="15" height="145.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(275,0)" style="">
+            <rect y="94.4" width="14" height="145.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(423,0)" style="">
-            <rect y="95.19999999999999" width="15" height="144.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(408,0)" style="">
+            <rect y="95.19999999999999" width="14" height="144.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(163,0)" style="">
-            <rect y="95.4" width="15" height="144.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(161,0)" style="">
+            <rect y="95.4" width="14" height="144.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(443,0)" style="">
-            <rect y="95.80000000000001" width="15" height="144.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(332,0)" style="">
+            <rect y="96.19999999999999" width="14" height="143.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(343,0)" style="">
-            <rect y="96.19999999999999" width="15" height="143.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(180,0)" style="">
+            <rect y="97.4" width="14" height="142.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(183,0)" style="">
-            <rect y="97.4" width="15" height="142.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(427,0)" style="">
+            <rect y="97.80000000000001" width="14" height="142.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(363,0)" style="">
-            <rect y="97.80000000000001" width="15" height="142.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(351,0)" style="">
+            <rect y="97.80000000000001" width="14" height="142.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(560,0)" style="">
+            <rect y="98.4" width="14" height="141.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(484,0)" style="">
+            <rect y="99.19999999999999" width="14" height="140.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(465,0)" style="">
+            <rect y="99.6" width="14" height="140.4" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(446,0)" style="">
+            <rect y="99.6" width="14" height="140.4" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(294,0)" style="">
+            <rect y="99.80000000000001" width="14" height="140.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(389,0)" style="">
+            <rect y="100.4" width="14" height="139.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(370,0)" style="">
+            <rect y="100.6" width="14" height="139.4" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(579,0)" style="">
+            <rect y="104" width="14" height="136" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(522,0)" style="">
+            <rect y="104" width="14" height="136" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
         <g transform="translate(503,0)" style="">
-            <rect y="98.19999999999999" width="15" height="141.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+            <rect y="105.19999999999999" width="14" height="134.8" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(483,0)" style="">
-            <rect y="98.4" width="15" height="141.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(598,0)" style="">
+            <rect y="105.6" width="14" height="134.4" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(463,0)" style="">
-            <rect y="99.6" width="15" height="140.4" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(583,0)" style="">
-            <rect y="99.80000000000001" width="15" height="140.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(303,0)" style="">
-            <rect y="99.80000000000001" width="15" height="140.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(403,0)" style="">
-            <rect y="100.4" width="15" height="139.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(383,0)" style="">
-            <rect y="100.6" width="15" height="139.4" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(603,0)" style="">
-            <rect y="103" width="15" height="137" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(543,0)" style="">
-            <rect y="103.6" width="15" height="136.4" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(523,0)" style="">
-            <rect y="104.4" width="15" height="135.6" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(563,0)" style="">
-            <rect y="107.80000000000001" width="15" height="132.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
+        <g transform="translate(541,0)" style="">
+            <rect y="106.80000000000001" width="14" height="133.2" shape-rendering="crispEdges" fill="#74b917" style="fill:#74b917;shape-rendering:crispedges;"/>
         </g>
         <g transform="translate(0,240)" style="">
             <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
@@ -137,38 +140,43 @@
             </text>
         </g>
         <g transform="translate(0,26.1341805694)" style="">
-            <line x1="23" x2="38" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
-            <circle r="3.5" cx="23" style="fill:#f6f6f0;stroke:#454545;"/>
-            <text x="30.5" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
-            <text x="30.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:26.8125px;fill:#454545;text-anchor:middle;">
+            <line x1="28" x2="42" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
+            <circle r="3.5" cx="28" style="fill:#f6f6f0;stroke:#454545;"/>
+            <text x="35" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
+            <text x="35" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:26.8125px;fill:#454545;text-anchor:middle;">
                 106.9
             </text>
         </g>
         <g transform="translate(0,37.25092751220001)" style="">
-            <line x1="83" x2="98" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
-            <circle r="3.5" cx="83" style="fill:#f6f6f0;stroke:#454545;"/>
-            <text x="90.5" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
-            <text x="90.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:26.8125px;fill:#454545;text-anchor:middle;">
+            <line x1="85" x2="99" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
+            <circle r="3.5" cx="85" style="fill:#f6f6f0;stroke:#454545;"/>
+            <text x="92" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
+            <text x="92" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:26.8125px;fill:#454545;text-anchor:middle;">
                 101.4
             </text>
         </g>
-        <g transform="translate(0,103)" style="">
-            <line x1="603" x2="618" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
-            <circle r="3.5" cx="603" style="fill:#f6f6f0;stroke:#454545;"/>
-            <text x="610.5" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
-            <text x="610.5" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:20.8125px;fill:#454545;text-anchor:middle;">
-                68.5
+        <g transform="translate(0,105.6)" style="">
+            <line x1="598" x2="612" style="shape-rendering:crispedges;stroke:#454545;stroke-width:1px;"/>
+            <circle r="3.5" cx="598" style="fill:#f6f6f0;stroke:#454545;"/>
+            <text x="605" text-anchor="middle" dy="-1.8em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:0px;white-space:nowrap;width:0px;fill:#454545;text-anchor:middle;"/>
+            <text x="605" text-anchor="middle" dy="-0.5em" style="display:block;font-family:BundesSans-Bold;font-size:12px;height:14.375px;white-space:nowrap;width:20.8125px;fill:#454545;text-anchor:middle;">
+                67.2
             </text>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  German Federal Agency for Nature Conservation 2015. 
+    <foreignObject x="0" y="288" width="640" height="114" style="display:block;height:114px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">
+            <div style="display:block;height:114px;width:640px;">
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  German Federal Agency for Nature Conservation 2017. Data from Dachverband Deutscher Avifaunisten 2017. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

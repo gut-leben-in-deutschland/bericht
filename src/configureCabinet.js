@@ -1,5 +1,5 @@
 import {configure as configureCabinet} from 'cabinet';
-import {DEFAULT_LOCALE, AVAILABLE_LOCALES, GITHUB_CONTENT_SOURCE, GITHUB_AUTH} from 'constants';
+import {DEFAULT_LOCALE, AVAILABLE_LOCALES, GITHUB_CONTENT_SOURCE, GITHUB_AUTH} from './constants';
 import flagship from 'state/reducers/flagship';
 import data from 'state/reducers/data';
 

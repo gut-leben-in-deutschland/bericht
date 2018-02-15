@@ -1,122 +1,126 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="height:420px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Anzahl atypisch und normal Beschäftigter im Zeitraum von 1991 bis 2015. Sowohl die Anzahl atypisch als auch normal Beschäftigter ist seit 2000 in Deutschland gewachsen. Die Anzahl der atypisch Beschäftigten von rund 5,9 auf 7,5 Millionen Personen, die Anzahl Normalbeschäftigter von 23,7 auf 24,7 Millionen.
+        Die Abbildung zeigt die Anzahl atypisch und normal Beschäftigter im Zeitraum von 1991 bis 2016. Sowohl die Anzahl atypisch als auch normal Beschäftigter ist seit 2000 in Deutschland gewachsen. Die Anzahl der atypisch Beschäftigten von rund 5,9 auf 7,6 Millionen Personen, die Anzahl Normalbeschäftigter von 23,7 auf rund 25,6 Millionen.
     </desc>
     <g transform="translate(0,24)" style="">
         <g transform="translate(0,241)" style="">
             <line x1="0" x2="640" stroke-dasharray="none" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
-            <g transform="translate(68,0)" style="">
+            <g transform="translate(71,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     1991
                 </text>
             </g>
-            <g transform="translate(572,0)" style="">
+            <g transform="translate(571,0)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2015
+                    2016
                 </text>
             </g>
         </g>
-        <g transform="translate(60,0)" style="">
-            <rect y="80.44200000000001" width="16" height="159.558" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="54.30600000000001" width="16" height="26.135999999999996" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(63,0)" style="">
+            <rect y="80.44200000000001" width="15" height="159.558" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="54.30600000000001" width="15" height="26.135999999999996" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(81,0)" style="">
-            <rect y="83.424" width="16" height="156.576" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="56.357999999999976" width="16" height="27.06600000000003" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(83,0)" style="">
+            <rect y="83.424" width="15" height="156.576" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="56.357999999999976" width="15" height="27.06600000000003" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(102,0)" style="">
-            <rect y="85.668" width="16" height="154.332" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="59.38799999999998" width="16" height="26.28000000000003" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(103,0)" style="">
+            <rect y="85.668" width="15" height="154.332" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="59.38799999999998" width="15" height="26.28000000000003" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(563,0)" style="">
+            <rect y="86.48399999999998" width="15" height="153.51600000000002" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="40.97999999999999" width="15" height="45.50399999999999" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
         <g transform="translate(123,0)" style="">
-            <rect y="87.894" width="16" height="152.106" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="60.906000000000006" width="16" height="26.988" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+            <rect y="87.894" width="15" height="152.106" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="60.906000000000006" width="15" height="26.988" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(144,0)" style="">
-            <rect y="89.916" width="16" height="150.084" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="61.16999999999999" width="16" height="28.74600000000001" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(564,0)" style="">
-            <rect y="91.28999999999999" width="16" height="148.71" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="46.446" width="16" height="44.843999999999994" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
-        </g>
-        <g transform="translate(165,0)" style="">
-            <rect y="92.346" width="16" height="147.654" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="62.78999999999999" width="16" height="29.55600000000001" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(143,0)" style="">
+            <rect y="89.916" width="15" height="150.084" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="61.16999999999999" width="15" height="28.74600000000001" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
         <g transform="translate(543,0)" style="">
-            <rect y="93.186" width="16" height="146.814" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="48.46799999999999" width="16" height="44.71800000000002" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+            <rect y="91.28999999999999" width="15" height="148.71" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="46.446" width="15" height="44.843999999999994" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(522,0)" style="">
-            <rect y="95.934" width="16" height="144.066" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="50.47200000000001" width="16" height="45.46199999999999" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(163,0)" style="">
+            <rect y="92.346" width="15" height="147.654" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="62.78999999999999" width="15" height="29.55600000000001" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(186,0)" style="">
-            <rect y="95.964" width="16" height="144.036" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="65.00400000000002" width="16" height="30.95999999999998" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(523,0)" style="">
+            <rect y="93.186" width="15" height="146.814" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="48.46799999999999" width="15" height="44.71800000000002" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(249,0)" style="">
-            <rect y="97.632" width="16" height="142.368" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="62.04599999999999" width="16" height="35.58600000000001" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(503,0)" style="">
+            <rect y="95.934" width="15" height="144.066" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="50.47200000000001" width="15" height="45.46199999999999" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(270,0)" style="">
-            <rect y="97.71600000000001" width="16" height="142.284" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="61.5" width="16" height="36.21600000000001" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(183,0)" style="">
+            <rect y="95.964" width="15" height="144.036" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="65.00400000000002" width="15" height="30.95999999999998" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(207,0)" style="">
-            <rect y="97.91399999999999" width="16" height="142.086" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="65.80199999999999" width="16" height="32.111999999999995" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(243,0)" style="">
+            <rect y="97.632" width="15" height="142.368" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="62.04599999999999" width="15" height="35.58600000000001" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(501,0)" style="">
-            <rect y="98.214" width="16" height="141.786" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="52.349999999999994" width="16" height="45.864000000000004" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(263,0)" style="">
+            <rect y="97.71600000000001" width="15" height="142.284" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="61.5" width="15" height="36.21600000000001" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(228,0)" style="">
-            <rect y="98.322" width="16" height="141.678" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="63.125999999999976" width="16" height="35.196000000000026" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(203,0)" style="">
+            <rect y="97.91399999999999" width="15" height="142.086" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="65.80199999999999" width="15" height="32.111999999999995" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(291,0)" style="">
-            <rect y="98.904" width="16" height="141.096" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="63.048" width="16" height="35.855999999999995" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(483,0)" style="">
+            <rect y="98.214" width="15" height="141.786" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="52.349999999999994" width="15" height="45.864000000000004" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(480,0)" style="">
-            <rect y="101.208" width="16" height="138.792" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="54.60000000000002" width="16" height="46.607999999999976" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(223,0)" style="">
+            <rect y="98.322" width="15" height="141.678" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="63.125999999999976" width="15" height="35.196000000000026" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(459,0)" style="">
-            <rect y="101.54999999999998" width="16" height="138.45000000000002" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="54.43800000000002" width="16" height="47.111999999999966" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(283,0)" style="">
+            <rect y="98.904" width="15" height="141.096" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="63.048" width="15" height="35.855999999999995" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(438,0)" style="">
-            <rect y="102.042" width="16" height="137.958" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="56.346000000000004" width="16" height="45.696" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(463,0)" style="">
+            <rect y="101.208" width="15" height="138.792" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="54.60000000000002" width="15" height="46.607999999999976" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(417,0)" style="">
-            <rect y="102.55199999999999" width="16" height="137.448" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="56.087999999999994" width="16" height="46.464" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(443,0)" style="">
+            <rect y="101.54999999999998" width="15" height="138.45000000000002" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="54.43800000000002" width="15" height="47.111999999999966" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(312,0)" style="">
-            <rect y="103.11000000000001" width="16" height="136.89" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="66.21600000000001" width="16" height="36.894000000000005" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(423,0)" style="">
+            <rect y="102.042" width="15" height="137.958" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="56.346000000000004" width="15" height="45.696" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(396,0)" style="">
-            <rect y="105.096" width="16" height="134.904" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="58.98000000000002" width="16" height="46.115999999999985" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(403,0)" style="">
+            <rect y="102.55199999999999" width="15" height="137.448" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="56.087999999999994" width="15" height="46.464" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(333,0)" style="">
-            <rect y="105.816" width="16" height="134.184" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="69.16199999999998" width="16" height="36.654000000000025" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(303,0)" style="">
+            <rect y="103.11000000000001" width="15" height="136.89" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="66.21600000000001" width="15" height="36.894000000000005" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(375,0)" style="">
-            <rect y="107.382" width="16" height="132.618" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="62.628000000000014" width="16" height="44.75399999999999" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(383,0)" style="">
+            <rect y="105.096" width="15" height="134.904" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="58.98000000000002" width="15" height="46.115999999999985" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
-        <g transform="translate(354,0)" style="">
-            <rect y="107.51400000000001" width="16" height="132.486" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
-            <rect y="66.924" width="16" height="40.59" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        <g transform="translate(323,0)" style="">
+            <rect y="105.816" width="15" height="134.184" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="69.16199999999998" width="15" height="36.654000000000025" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(363,0)" style="">
+            <rect y="107.382" width="15" height="132.618" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="62.628000000000014" width="15" height="44.75399999999999" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
+        </g>
+        <g transform="translate(343,0)" style="">
+            <rect y="107.51400000000001" width="15" height="132.486" shape-rendering="crispEdges" fill="#f28502" style="fill:#f28502;shape-rendering:crispedges;"/>
+            <rect y="66.924" width="15" height="40.59" shape-rendering="crispEdges" fill="#be5b00" style="fill:#be5b00;shape-rendering:crispedges;"/>
         </g>
         <g transform="translate(0,240)" style="">
             <text dy="-3px" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.375px;white-space:nowrap;width:6px;fill:#666666;">
@@ -155,7 +159,7 @@
                     <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.
+                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2016.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
                                     <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
                                         Aktualisierte Daten

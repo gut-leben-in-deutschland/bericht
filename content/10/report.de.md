@@ -47,7 +47,7 @@ Der Blick auf die Indikatoren zeigt: Es gibt einige gute Nachrichten, aber es bl
 
 <!-- ColumnContainer end -->
 
-Betrachtet man die fünf wichtigsten Luftschadstoffe getrennt, so zeigt sich: Bei **vier der fünf Schadstoffe sank der deutschlandweite Ausstoß** deutlich - nur **Ammoniak** wird heute ähnlich häufig ausgestoßen wie zur Jahrtausendwende. Die deutschen Ammoniak-Emissionen überschritten 2013 die nach EU-Recht einzuhaltende nationale Emissionshöchstmenge um 33 Prozent. Ammoniak-Emissionen stammen insbesondere aus großen Tierhaltungsbetrieben.
+Betrachtet man die fünf wichtigsten Luftschadstoffe getrennt, so zeigt sich: Bei **vier der fünf Schadstoffe sank der deutschlandweite Ausstoß** seit 2000 deutlich - nur **Ammoniak** wird heute ähnlich häufig ausgestoßen wie zur Jahrtausendwende. Die deutschen Ammoniak-Emissionen überschritten 2015 die nach EU-Recht einzuhaltende nationale Emissionshöchstmenge um 38 Prozent. Ammoniak-Emissionen stammen insbesondere aus großen Tierhaltungsbetrieben.
 
 Gesamtemissionen haben aber nur einen begrenzten Aussagewert hinsichtlich der Luftqualität vor Ort. So gibt es lokale Probleme mit zu hohen Konzentrationen.
 
@@ -64,15 +64,13 @@ Gesamtemissionen haben aber nur einen begrenzten Aussagewert hinsichtlich der Lu
 
 In **Ballungsräumen** und **an wichtigen Verkehrswegen** kommt es immer wieder zur Überschreitung der Grenzwerte – mit negativen Folgen für die Gesundheit der Menschen und für die Umwelt.
 
-Die **Konzentration von Stickstoffidioxid** in der Luft wird von den **514 Messstationen** der Luftmessnetze der Länder und des Umweltbundesamtes gemessen. Die Karte zeigt die Jahresmittelwerte der Stickstoffidioxidbelastung in 2015.
-
+Die **Konzentration von Stickstoffidioxid** in der Luft wird von den **517 Messstationen** der Luftmessnetze der Länder und des Umweltbundesamtes gemessen. Die Karte zeigt die Jahresmittelwerte der Stickstoffidioxidbelastung in 2016. Der gesetzliche Grenzwert liegt bei 40 µg/m<sup>3</sup>.
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=dots skipMobileVisualization-->
 
-An 27 Prozent der Messstationen wurde der gesetzliche Grenzwert von 40 µg/m<sup>3</sup> überschritten.
-Beim Feinstaub wurden an 35 Prozent der Messstationen die von der WHO vorgeschlagenen Luftgüteleitwerte überschritten. Beim Stickstoffdioxid wurde der sogenannte 1-Stunden-Grenzwert von 200 µg/m<sup>3</sup> 2015 an 32 Orten überschritten - an 5 Orten sogar an mehr als 18 Tagen, dem gesetzlichen Grenzwert. Die jährlichen Durchschnittsbelastungen beim Stickstoffdioxid reichen von unter 10 µg/m<sup>3</sup> bis über 70 µg/m<sup>3</sup> in einzelnen Städten. Hier liegt der gesetzliche Grenzwert bei 40 µg/m<sup>3</sup>.
+An 28 Prozent der Messstationen wurde der gesetzliche Grenzwert von 40 µg/m<sup>3</sup> überschritten. Beim Stickstoffdioxid wurde der sogenannte 1-Stunden-Grenzwert von 200 µg/m<sup>3</sup> im Jahr 2016 an 24 Orten überschritten - an zwei Orten sogar an mehr als 18 Tagen. Im Vorjahr traf das noch auf fünf Orte zu. Die jährlichen Durchschnittsbelastungen beim Stickstoffdioxid reichen von unter 10 µg/m<sup>3</sup> bis über 80 µg/m<sup>3</sup> in einzelnen Städten. 
 
 <!--ScrollBlock end-->
 
@@ -108,7 +106,7 @@ Unterschieden wird zwischen **verkehrsnahen Messstationen** (Verkehr), Stationen
 
 <!--ScrollBlock start stage=groups-->
 
-An 151 der 245 verkehrsnahen Messstationen wurde 2015 der Jahresgrenzwert überschritten.    
+An 144 der 246 verkehrsnahen Messstationen wurde 2016 der Jahresgrenzwert überschritten.    
 
 <!--ScrollBlock end-->
 
@@ -161,14 +159,14 @@ Als ein Gradmesser für den Zustand von Agrarflächen, Wäldern, Siedlungen, Bin
 10-02-a
 ```
 
-Das Bild, das dieser Indikator zeichnet, ist alles andere als positiv: Die **Artenvielfalt und der Zustand der Landschaft** in Deutschland hat sich von 2003 bis 2013 **statistisch signifikant verschlechtert**, wenn man den Durchschnitt aller Landnutzungsformen – Agrarland, Siedlungen, Wälder etc. – betrachtet.
+Die **Artenvielfalt und Landschaftsqualität** alles andere als positiv: Der Indikator hat sich deutschlandweit von 2003 bis 2014 **statistisch signifikant verschlechtert**, wenn man den Durchschnitt aller Landnutzungsformen – Agrarland, Siedlungen, Wälder etc. – betrachtet.
 
 
 ```chart
 10-02-b
 ```
 
-Der Zielwert, den sich die **Bundesregierung in der Nachhaltigkeitsstrategie** und in der **Nationalen Strategie zu biologischen Vielfalt** gesetzt hat, wurde 2013 um fast ein Drittel verfehlt. Besonders kritisch sind der Zustand der **landwirtschaftlichen Flächen**, der **Küsten und der Meere**. Deutlich besser sieht es bei der Artenvielfalt und **Landschaftsqualität der Wälder** aus: 2013 wurden 87 Prozent des Zielwerts erreicht.
+Der Zielwert, den sich die **Bundesregierung in der Nachhaltigkeitsstrategie** und in der **Nationalen Strategie zu biologischen Vielfalt** gesetzt hat, wurde 2014 um ein Drittel verfehlt. Besonders kritisch sind der Zustand der **landwirtschaftlichen Flächen**, der **Küsten und der Meere**. Deutlich besser sieht es bei der Artenvielfalt und **Landschaftsqualität der Wälder** aus: 2014 wurden knapp 84 Prozent des Zielwerts erreicht.
 
 
 <!-- GovernmentMeasures start -->

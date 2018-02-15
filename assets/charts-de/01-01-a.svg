@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="460" style="height:460px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="424" style="height:424px;width:640px;">
     <desc style="">
         Die Abbildung zeigt die Entwicklung der Lebenserwartung bei Geburt im Zeitraum von 1956 bis 2015. Differenziert wird dabei nach Männern und Frauen und ost- und westdeutschen Bundesländern. Die Lebenserwartung ist in diesem Zeitraum für alle Gruppen deutlich gestiegen. Die Lebenserwartung von Männern lag im gesamten Zeitraum unter der Lebenserwartung von Frauen. 2015 betrug die Lebenserwartung für Frauen sowohl in den west- als auch ostdeutschen Bundesländern rund 83 Jahre, für Männer lag die Lebenserwartung bei 78,4 Jahren in den westdeutschen Bundesländern und bei 77 Jahren in den ostdeutschen Bundesländern.
     </desc>
@@ -108,25 +108,20 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="328" width="640" height="132" style="display:block;height:132px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
-            <div style="display:block;height:132px;width:640px;">
+    <foreignObject x="0" y="328" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-right:204px;width:640px;">
                 </div>
-                <div style="display:block;height:132px;width:640px;">
-                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle: 
                                 <a rel="external" title=" (Link zu externer Seite)" href="http://www.humanmortality.de/" style="border-bottom-color:rgb(0, 79, 128);border-left-color:rgb(0, 79, 128);border-right-color:rgb(0, 79, 128);border-top-color:rgb(0, 79, 128);color:rgb(0, 79, 128);cursor:pointer;font-family:BundesSans-Regular;font-size:12px;line-height:normal;outline-color:rgb(0, 79, 128);text-align:left;">
                                     Human Mortality Database.
                                 </a>
                                  University of California, Berkeley (USA) und Max-Planck-Institut für demografische Forschung (Deutschland).
-                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
-                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
-                                        Aktualisierte Daten
-                                    </span>
-                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

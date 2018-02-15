@@ -48,7 +48,7 @@ Since the late 1950s, life expectancy in Germany has been steadily increasing by
 
 <!--ScrollBlock start stage=choropleth skipMobileVisualization-->
 
-**Large regional differences in life expectancy across Germany**: Across the almost [400 districts and cities](http://www.demogr.mpg.de/go/lebenserwartung) there were clear regional differences in life expectancy at birth between 2013 and 2015.[^1] The district of Starnberg came out top with 83.3 years. People in the city of Bremerhaven lived on average almost sex years less with a life expectancy of 77.6.
+**Large regional differences in life expectancy across Germany**: Across the almost [400 districts and cities](http://www.demogr.mpg.de/go/lebenserwartung) there were clear regional differences in life expectancy at birth between 2013 and 2015.[^1] The district of Starnberg came out top with 83.3 years. People in the city of Bremerhaven lived on average almost six years less with a life expectancy of 77.6.
 
 In all districts and cities, **women live much longer than men**. Women in the district Breisgau-Hochschwarzwald had the highest average life expectancy at almost 85 years. Women in Pirmasens had the lowest life expectancy at birth at 80 years. Among men, residents of Starnberg lived the longest, with an average of 81.5 years. Men in Bremerhaven lived on average to the age of 74.3.
 
@@ -141,7 +141,7 @@ Within a period of 15 years the share of obese people in Germany increased by 36
 01-02-a
 ```
 
-Compared to other [OECD countries](http://dx.doi.org/10.1787/health_glance-2015-graph43-en) Germany comes around halfway. In countries such as Switzerland, Norway and Italy only 11 out of 100 people are obese. In contrast, in the USA, Mexico and New Zealand 1 in 3 adults are obese. 
+Compared to other [OECD countries](http://dx.doi.org/10.1787/health_glance-2017-21-en) Germany comes around halfway. In countries such as Switzerland around ten out of 100 people are obese. In contrast, in Mexico and New Zealand more than 33 out of 100 adults are obese. In the United States of America this holds true for nearly 40 out of 100 adults. 
 
 The **risk of obesity increases with age**. Between 1999 and 2013, the risk of becoming obese increased in all age groups. The proportion of obese men and women in Germany was highest in the **55 to 64** age group. One in 4 men and 1 in 5 women in this age group were obese.
 
@@ -234,7 +234,7 @@ Everyone may need long-term care at some point in his or her life. This issue wa
 
 <!-- Quote text='If I should ever have to go to a nursing home […], I would like to be treated humanely – not on the basis of a schedule but instead as needed on the basis of my physical and mental condition.' source='from an online response submitted on 12 September 2015' -->
 
-At the end of 2015, around 2.9 million people in Germany were in need of long-term care. The majority of those needing care are looked after at home, mainly by their relatives. Some 700,000 people in need of care are supported by relatives together with assistance care services. One third of all people in need of care live permanently in a retirement or nursing home.
+[At the end of 2015](https://www.destatis.de/DE/Publikationen/Thematisch/Gesundheit/Pflege/PflegeDeutschlandergebnisse5224001159004.pdf?__blob=publicationFile), around 2.9 million people in Germany were in need of long-term care. The majority of those needing care are looked after at home, mainly by their relatives. Some 700,000 people in need of care are supported by relatives together with assistance care services. One third of all people in need of care live permanently in a retirement or nursing home.
 
 
 ```chart

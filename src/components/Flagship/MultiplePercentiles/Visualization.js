@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import {StyleSheet, css} from 'aphrodite';
 
 import {select, mouse, event} from 'd3-selection';
-import 'd3-transition';
+import {transition} from 'd3-transition';
 import {scaleLinear, scalePoint} from 'd3-scale';
 import {max} from 'd3-array';
 

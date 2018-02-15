@@ -134,8 +134,9 @@ function mapContentToProps({data}) {
 }
 
 MapDotsScrollContainer.defaultProps = {
-  threshold: 40,
-  colorThresholds: '10,20,30,40,50,60,70,80',
+  // Use .5 thresholds, so the legend class labels can round up/down accordingly
+  threshold: 40.5,
+  colorThresholds: '10.5,20.5,30.5,40.5,50.5,60.5,70.5,80.5',
   // make sure to keep the colors in sync with the geotiff
   colorRange: '#95da3f,#74B917,#3F8800,#005500,#FFDB3E,#D4A500,#987200,#614200,#3B1500'
 };

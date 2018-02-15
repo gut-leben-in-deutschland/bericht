@@ -31,7 +31,7 @@ In almost one fifth of German districts and cities, there are fewer than 100 peo
 }
 ```
 
-By 2035, a **population growth** of up to 22 per cent is projected for economically vibrant districts, such as the area around Munich. Districts that are less economically developed are expected to experience a **sharp decline in population**.
+By 2035, a **population growth** of up to 22 per cent is projected for economically vibrant districts, such as the area around Munich. Districts that are less economically developed are expected to experience a **sharp decline in population**.[^1]
 
 ```chart
 07-00-b
@@ -152,7 +152,7 @@ However, people in many rural areas need an hour or more to reach their nearest 
 
 In rural areas **local public transport** is often **tied in with school transport**. Therefore, it is much more difficult to move around outside of peak times, particularly during the school holidays and on weekends.
 
-In 2014, almost everyone in Germany was within walking distance of a bus stop and slightly more than one third of people could walk to a railway station. However the statistics do not provide information on the regularity and the hours of operation of public transit.[^1] The federal states and municipalities decide on the hours of operation of different bus and train lines when making calls for tender.
+In 2016, almost everyone in Germany was within walking distance of a bus stop and almost four out of ten people could walk to a railway station. However the statistics do not provide information on the regularity and the hours of operation of public transit.[^2] The federal states and municipalities decide on the hours of operation of different bus and train lines when making calls for tender.
 
 <!-- GovernmentMeasures start -->
 
@@ -169,13 +169,13 @@ Younger participants in the national dialogue in particular stressed the importa
 
 <!-- Quote text='There is no internet access in some parts of the country. How is a student in this day and age meant to study without the internet?' source='from an online response submitted 7 July 2015' -->
 
-The **broadband access** indicator measures the percentage of households and businesses that have access to an internet connection with speeds of at least 50 megabits per second (Mbit/s). This indicator stands for the **digital infrastructure in Germany**.
+The **broadband access** indicator measures the percentage of households and businesses that have access to an internet connection with speeds of at least 50 megabits per second (Mbit/s). This indicator stands for the **digital infrastructure in Germany** by the end of 2016.
 
-<!--DifferenceBarScrollContainer start data=07/03/districts.csv startYear=2010 endYear=2015 geographyMaybe=2013 -->
+<!--DifferenceBarScrollContainer start data=07/03/districts.csv startYear=2010 endYear=2016 geographyMaybe=2013 -->
 
 <!--ScrollBlock start stage=choropleth skipMobileVisualization-->
 
-**Regional differences in broadband access**: In mid-2016, more than **7 out of 10 households** in Germany had **access to internet speeds in excess of 50 Mbit/s**. That is an increase of 5.6 per cent over the previous year. In **rural communities** on average less than 3 out of 10 households have access to fast broadband.
+**Regional differences in broadband access**: In mid-2017, **almost 77 per cent of households** in Germany had **access to internet speeds in excess of 50 Mbit/s**. That corresponds to an eight per cent increase over the previous year. In **rural communities** on average 36 per cent of households have access to fast broadband.
 
 Each district is marked on the map: the darker the shading, the more households have access to fast broadband.
 
@@ -199,7 +199,7 @@ Select your municipality or city:
 
 <!--ScrollBlock start stage=endValue-->
 
-The dots show broadband access for around 400 districts and cities in Germany – from left to right, from the lowest to the highest share with access to fast internet in 2015. Every interactive dot stands for one district or city.
+The dots show broadband access for around 400 districts and cities in Germany – from left to right, from the lowest to the highest share with access to fast internet in 2016. Every interactive dot stands for one district or city.
 
 
 <!--ScrollBlock end-->
@@ -207,39 +207,41 @@ The dots show broadband access for around 400 districts and cities in Germany �
 
 <!--ScrollBlock start stage=values-->
 
-**How much has broadband access expanded over the last five years?** The transparent dots provide a comparison of the figures for broadband access in districts and cities for 2010. Broadband access has expanded throughout Germany. Find out what has been done in the last few years.
+**How much has broadband access expanded over the last six years?** The transparent dots provide a comparison of the figures for broadband access in districts and cities for 2010. Broadband access has expanded throughout Germany. Find out what has been done in the last six years.
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights='07232,15083,15086,09272,09372,13076,09276,06535,14522,15081,16069,16061,13074,15091,03354,16074,09472,07231,16070,09671,06636,12053,09373,16076,12070,01051,03462,16062,16067,09675,09185,13075,03453,09177,07337,09371,13071,09183,09672,09173,03457,09773,07332,01055,03254,03156,03157,03153,03256,07320,16055,16052,09189,09764,12062,16063,13072,09275,09376,12071,09277,16077,16073,16066,09176,03151,09673,01059,12072,09273,16075,09476,09575,09674,09274,12068,09778,09186,16056,16072,03360,13073,09181,16064,03257,09374,09774,09571,03459,03357,09190,09377,03355,09477,12066,03452,09676,09187,09779,03358,09577,03359,03456,07133,09780,07135,15001,03455,05915,16053,07316,07111,09463,09561,03102,16054,07319,09562,12052,09161,12051,09262,09261,09762,04012,15087,16065,14626,15084,05374,09677,14524,09471,01054,15090,09776,12073,09474,07141,09777,09478,07334,07138,09174,09182,14511,07143,10043,03158,07339,07313,09361,01004,03404,01001,09462,09363,03405,09163,07233,15082,09279,10046,09475,09479,09678,01061,09180,09171,05916,07317,07211,13004,09172,07312,06437,09661,03402,07318,07311,09461,15088,09271,09175,03155,12065,03103,09763,03152,12067,09278,16071,16068,14523,01053'-->
+<!--ScrollBlock start stage=difference highlights='16067,12070,09185,09672,13071,07231,06636,09373,13075,01051,09183,09177,03453,16070,09173,16062,07332,09773,07337,09371,03156,03457,01055,03254,03157,03256,03153,16055,09189,16052,07320,09764,16063,12062,13072,09275,09277,09376,09673,09575,01059,09176,16073,12071,03151,16075,09273,16077,09778,16056,09476,09274,09186,12068,09571,13073,16066,09181,16064,03360,09674,12072,03357,09377,09774,09374,16072,09187,09477,12066,03452,09190,03257,09779,03459,03355,09676,09577,03358,09780,15001,03359,03456,07133,07135,03455,07316,16054,12051,09561,05915,09262,03102,07319,09161,16053,12052,07111,09562,09463,09261,04012,09762,15087,14626,15084,16065,09677,05374,09471,15090,01054,09474,12073,09776,09777,14524,07141,09174,09478,07334,14511,09182,07138,10043,03158,07143,07339,03404,01004,01001,03405,09361,09462,07313,09363,09163,15082,09279,07233,10046,09475,09479,09678,09180,09171,09172,07312,01061,13004,06437,03402,07211,05916,07317,09661,09461,07318,07311,15088,09271,03155,12065,09175,03103,09763,03152,12067,09278,16071,16068,14523,01053,07232,15083,15086,09272,06535,14522,09372,13076,15081,16069,09276,13074,03354,15091,12053,16061,09472,16074,16076,09671,03462,09675'-->
 
-**Almost half of districts and cities did not have access to broadband in 2010**. In 195 of approximately 400 districts, five years ago no households or less than one per cent of households had fast internet.
-
-<!--ScrollBlock end-->
-
-<!--ScrollBlock start stage=difference highlights='01003,05911,06413,06434,06437,04011,09661,08222,09261,05513,01004,09162,03404,01001,09462,03403,09565,03402,07314,07318,02000,06412,05111,06414,06411,07311,03401,09363,03405,01002,09461,09763,09762,05315,04012,05316,05314,09464,09362,09163'-->
-
-In the **40 districts and cities** with the **best digital infrastructure**, over 9 out of 10 households have access to fast broadband. The leader in this respect is the city of Rosenheim, where almost 99 out of 100 households have fast internet.
-
-With the exception of the Hochtaunus district and the Odenwald district, the best digital infrastructure can be found in cities.
+**Almost half of districts and cities did not have access to broadband in 2010**. In 195 of approximately 400 districts, six years ago no households or less than one per cent of households had fast internet.
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights='09261,09762,04012,01004,03404,01001,09462,09363,03405,09163,06437,09661,03402,07318,07311,09461,09763'-->
+<!--ScrollBlock start stage=difference highlights='09562,03404,09463,09761,03402,07211,01004,03403,06414,06434,05120,05512,09261,05916,03401,01001,03405,08231,07317,09461,09661,05513,06411,09361,01002,05315,09462,04012,05314,07313,09763,07318,09263,09363,07311,05316,09464,09762,09163,09362'-->
 
-**Almost half of districts** with the best digital infrastructure in 2015 had a figure of less than 1 per cent for fast internet provision in 2010.     
+In the **40 districts and cities** with the **best digital infrastructure**, more than 9 out of 10 households have access to fast broadband. The leader in this respect is the city of Regensburg, where almost all households (99.6 per cent) have access to fast internet.
 
-<!--ScrollBlock end-->
-
-<!--ScrollBlock start stage=difference highlights='09278,12062,16063,07232,15083,15086,13072,09272,14521,07233,15088,09372,14730,06634,14628,09275,09376,14729,15085,12071,13076,16068,09276,06535,14522,15087,16065,14625,07132,14626,15081,15084,09277,15082,09279,05374,16069,16077,09677,16061'-->
-
-In the **40 districts** with the **lowest coverage**, less than 40 per cent of households and companies have fast broadband. The district Straubing-Bogen in Bavaria has the lowest coverage in Germany, where only 13 out of 100 households have access. Regional focal points are in Bavaria, Saxony-Anhalt and Thuringia.  
+With the exception of the Hochtaunus district and the Odenwald district, the best digital infrastructure can be found in cities and so-called city-districts.
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights='09171,09189,10045,05916,09561,03102,07317,07211,01053,03103,09263,16054,13004,07319,09562,12052,09161,09172,12051,09262,09764,07312,09361,06437,09661,09261,01004,03404,01001,09462,03402,07318,07311,09363,03405,09461,09763,09762,04012,09163'-->
+<!--ScrollBlock start stage=difference highlights='09261,04012,09762,03404,01004,01001,03405,09462,09363,09163,06437,03402,09661,09461,07318,07311,09763'-->
 
-In these **40 districts and towns, a great deal has changed over the last five years**. The number of households and companies with access to fast broadband has gone up by at least 80 percentage points.
+**Almost half of districts** with the best digital infrastructure in 2016 had a figure of less than 1 per cent for fast internet provision back in 2010.     
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference 
+highlights='16063,12062,07232,15083,15086,09278,13072,09272,06535,09275,14522,14729,09372,15082,15088,14730,07132,15087,16068,13076,09277,06634,15081,14626,14625,15084,14628,16069,16065,09276,03354,13074,09376,08225,14523,09677,15091,09279,09673,12053'-->
+
+In the **40 districts** with the **lowest coverage**, about 50 per cent of households and companies have access to fast broadband. The Wartburg district in Thuringia has the lowest coverage in Germany, where only 19 out of 100 households have access to fast internet. Regional focal points for low coverage are in Bavaria, Saxony, Saxony-Anhalt and Thuringia.  
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference highlights='10045,09262,03102,16052,07312,07320,01061,07319,09764,13004,06437,09161,09263,16053,03103,12052,07111,03404,09562,03402,09463,07211,01004,09261,05916,01001,03405,07317,09661,09461,09361,09462,09763,04012,07313,07318,07311,09363,09762,09163'-->
+
+In these **40 districts and towns, a great deal has changed over the last six years**. In 2010, less than one percent of households and companies had access to fast broadband. This share has increased by at least 90 percentage points, on average. The city of Rosenheim accomplished the fastest and most comprehensive increase in coverage. In 2010, only 0.2 per cent of households had access to fast broadband. In 2016, this was true for almost all households (99.6 per cent).
+
 
 <!--ScrollBlock end-->
 
@@ -255,5 +257,6 @@ With its Digital Agenda the federal government is also supporting the expansion 
 <!-- GovernmentMeasures end -->
 
 
+[^1]: The Federal Institute for Research on Building, Urban Affairs and Spatial Planning (BBSR) is currently overhauling the forecast on spatial development. This includes the assumptions on fertility, mortality and the regional migration flows within Germany. The long-term projection of internal and external migration is subject to high statistical uncertainty. Despite this uncertainty, regional differences in demographic trends will prevail: Larger cities and economically strong regions will continue to attract more people and grow, whereas economically weaker, mainly rural and peripheral areas will experience a further decline in population.
 
-[^1]: Cf. Data from the German Mobility Panel.
+[^2]: Cf. Data from the German Mobility Panel.

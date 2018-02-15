@@ -176,7 +176,7 @@ Chart.propTypes = {
   locale: PropTypes.string.isRequired,
   t: PropTypes.func.isRequired,
   tLabel: PropTypes.func.isRequired,
-  newData: PropTypes.bool.isRequired
+  newData: PropTypes.bool
 };
 Chart.defaultProps = {
   config: Map()

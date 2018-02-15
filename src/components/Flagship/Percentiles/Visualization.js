@@ -4,7 +4,7 @@ import {StyleSheet, css} from 'aphrodite';
 import {defaultMemoize as memoize} from 'reselect';
 
 import {select, mouse, event} from 'd3-selection';
-import 'd3-transition';
+import {transition} from 'd3-transition';
 import {scaleBand, scaleLinear, scaleQuantize, scalePoint} from 'd3-scale';
 import {shuffle, range, extent, max, ascending} from 'd3-array';
 

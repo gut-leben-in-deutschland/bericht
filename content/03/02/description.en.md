@@ -17,7 +17,7 @@ It helps to detect risks with regard to young people's job market and income-ear
 
 These young people have no qualifications other than the secondary level I certificate and are no longer in school or a training programme.
 
-The at-risk group of early school leavers should not be confused with the risk group of **school dropouts** who have no secondary school certificate. The school dropout rate in 2014 was 5.8 per cent.
+The at-risk group of early school leavers should not be confused with the risk group of **school dropouts** who have no secondary school certificate. The school dropout rate in 2015 was 5.6 per cent.
 
 The data is based on the Microcensus carried out by the Federal Statistical Office.
 

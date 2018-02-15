@@ -126,7 +126,7 @@ Wichtig ist, dass der Gini-Koeffizient der Haushaltseinkommen nach Steuern und T
 
 <!-- ColumnContainer end -->
 
-Im **internationalen Vergleich der Gini-Koeffizienten** der Haushaltsnettoeinkommen liegt **Deutschland** auf **Platz 14 von 31 OECD-Staaten**. Die geringste Ungleichheit (rund 0,25) weisen unter anderen nordeuropäische Länder wie Island oder Norwegen auf. Die verfügbaren Einkommen in Spanien (0,35), Großbritannien (0,356), den USA (0,39) oder Mexiko (0,46) sind hingegen deutlich ungleicher verteilt als in Deutschland. Unter den größten Industrie- und Schwellenländern (G20) weist Deutschland die geringste Ungleichheit bei den Haushaltsnettoeinkommen auf.
+Im [**internationalen Vergleich der Gini-Koeffizienten**](http:dx.doi.org/10.1787/459aa7f1-en) der Haushaltsnettoeinkommen liegt **Deutschland** auf **Platz 13 von 35 OECD-Staaten**. Die geringste Ungleichheit (rund 0,25) weisen unter anderen Island, die Slowakei und Slowenien auf. Die verfügbaren Einkommen in den USA (0,39), der Türkei (0,4), Mexiko (0,46) und Costa Rica (0,49) sind hingegen deutlich ungleicher verteilt als in Deutschland. Unter den größten Industrie- und Schwellenländern (G20) weist Deutschland die geringste Ungleichheit bei den Haushaltsnettoeinkommen auf.
 
 ```chart
 05-02-b

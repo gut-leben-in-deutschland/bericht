@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="610px" height="670px" viewBox="0 0 610 670" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>03-03-a14-l.de.chart</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
@@ -20,59 +20,59 @@
                 <tspan x="181.604" y="74">100%</tspan>
                 <tspan x="24.74" y="86">Fachhochschul- oder Hochschulreife</tspan>
             </text>
-            <text id="30,4%-Fachhochschul-" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="275">30,4%</tspan>
+            <text id="31,8%-Fachhochschul-" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="275">31,8%</tspan>
                 <tspan x="401" y="287" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Fachhochschul- oder Hochschulreife</tspan>
             </text>
-            <text id="66,4%-Haupt--oder-Re" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="410">66,4%</tspan>
+            <text id="64,8%-Haupt--oder-Re" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="410">64,8%</tspan>
                 <tspan x="401" y="422">Haupt- oder Realschulabschluss</tspan>
             </text>
-            <text id="3,2%-Kein-Schulabsch" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="513">3,2%</tspan>
+            <text id="3,4%-Kein-Schulabsch" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="513">3,4%</tspan>
                 <tspan x="401" y="525" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Kein Schulabschluss</tspan>
             </text>
-            <text id="69,2%-Fachhochschul-" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="74">69,2%</tspan>
+            <text id="70,7%-Fachhochschul-" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="74">70,7%</tspan>
                 <tspan x="401" y="86">Fachhochschul- oder Hochschulreife</tspan>
             </text>
-            <text id="28,7%-Haupt--oder-Re" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="150">28,7%</tspan>
+            <text id="26,9%-Haupt--oder-Re" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="150">26,9%</tspan>
                 <tspan x="401" y="162" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Haupt- oder Realschulabschluss</tspan>
             </text>
-            <text id="2,1%-Kein-Schulabsch" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="188">2,1%</tspan>
+            <text id="2,5%-Kein-Schulabsch" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="188">2,5%</tspan>
                 <tspan x="401" y="200" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Kein Schulabschluss</tspan>
             </text>
-            <rect id="parents" fill="#FF8BA6" x="345" y="513" width="40" height="7"></rect>
-            <rect id="parents" fill="#FF8BA6" x="345" y="193" width="40" height="2"></rect>
+            <rect id="parents" fill="#FF8BA6" x="345" y="513" width="40" height="8"></rect>
+            <rect id="parents" fill="#FF8BA6" x="345" y="193" width="40" height="3"></rect>
             <rect id="parents" fill="#C40046" x="225" y="268" width="40" height="228"></rect>
-            <path d="M265,267 C305.185153,267.182455 305.185154,243.186748 345,243 C345,243.186748 345,250 345,250 C311.094116,250.181919 305,274.177626 265,274 C305.185154,274.177626 305.185154,274.177626 345,274 L345,426 C305.185154,426.037564 305.185154,426.037564 265,426 C305.185154,426.037564 305.185154,450.033271 345,450 C345,450.033271 345,520 345,520 C305.185154,520 305.185154,495.004293 265,495 C265,495.004293 265,267.182455 265,267 Z" id="flow" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 381.500000) scale(1, -1) translate(-305.000000, -381.500000) "></path>
-            <rect id="parents" fill="#C40046" x="345" y="337" width="40" height="152"></rect>
-            <rect id="parents" fill="#C40046" x="345" y="138" width="40" height="31"></rect>
+            <path d="M265,268 C305.185153,268.182455 305.185154,243.186748 345,243 C345,243.186748 345,251 345,251 C311.094116,251.181919 305,279.177626 265,279 C305.185154,279.177626 305.185154,279.177626 345,279 L345,427 C305.185154,427.037564 305.185154,427.037564 265,427 C305.185154,427.037564 305.185154,450.033271 345,450 C345,450.033271 345,521 345,521 C305.185154,521 305.185154,496.004293 265,496 C265,496.004293 265,268.182455 265,268 Z" id="flow" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 382.000000) scale(1, -1) translate(-305.000000, -382.000000) "></path>
+            <rect id="parents" fill="#C40046" x="345" y="337" width="40" height="148"></rect>
+            <rect id="parents" fill="#C40046" x="345" y="138" width="40" height="29"></rect>
             <rect id="parents" fill="#810019" x="225" y="40" width="40" height="106"></rect>
-            <rect id="parents" fill="#810019" x="345" y="243" width="40" height="70"></rect>
-            <rect id="parents" fill="#810019" x="345" y="40" width="40" height="74"></rect>
-            <path d="M265,89 C305.185153,89.4856642 305,40.0033705 345,40 C345,40.0033705 345,42 345,42 C306.25,42 307.098256,90.8935104 265,91 C305.185154,90.8988181 314,66 345,66 L345,97 C318.5,97 305.185153,121 265,121 L345,121 C345,121 345,195 345,195 C305.185154,195 305.185154,195 265,195 L265,89 Z" id="flow" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 117.500000) scale(1, -1) translate(-305.000000, -117.500000) "></path>
+            <rect id="parents" fill="#810019" x="345" y="243" width="40" height="71"></rect>
+            <rect id="parents" fill="#810019" x="345" y="40" width="40" height="75"></rect>
+            <path d="M265,90 C305.185153,90.4856642 305,40.0033705 345,40 C345,40.0033705 345,43 345,43 C306.25,43 307.098256,91.8935104 265,92 C305.185154,91.8988181 314,69 345,69 L345,98 C318.5,98 305.185153,121 265,121 C305.185153,121 305,121 345,121 C345,121 345,196 345,196 C305.185154,196 305.185154,196 265,196 L265,90 Z" id="flow" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 118.000000) scale(1, -1) translate(-305.000000, -118.000000) "></path>
             <rect id="parents" fill="#FF8BA6" x="225" y="615" width="40" height="15"></rect>
-            <rect id="parents" fill="#FF8BA6" x="345" y="628" width="40" height="2"></rect>
-            <rect id="parents" fill="#C40046" x="345" y="595" width="40" height="9"></rect>
-            <rect id="parents" fill="#810019" x="345" y="568" width="40" height="3"></rect>
-            <path d="M265,568 L345,568 L345,570 C345,570 265,570.271264 265,570 C305,570.271264 305,594.232184 345,594.232184 L345,603 C305,603.898851 305,579.871264 265,579.8 C305,579.871264 305,627.85977 345,626.933333 C345,626.933333 345,630 345,630 C303.171143,630 304.206055,582.080811 265,582.933333 L265,568 Z" id="flow" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 599.000000) scale(1, -1) translate(-305.000000, -599.000000) "></path>
+            <rect id="parents" fill="#FF8BA6" x="345" y="627" width="40" height="3"></rect>
+            <rect id="parents" fill="#C40046" x="345" y="595" width="40" height="8"></rect>
+            <rect id="parents" fill="#810019" x="345" y="568" width="40" height="4"></rect>
+            <path d="M265,568 L345,568 L345,571 C345,571 265,571.271264 265,571 C305,571.271264 305,595.232184 345,595.232184 L345,603 C305,603.898851 305,579.871264 265,579.8 C305,579.871264 305,626.85977 345,625.933333 C345,625.933333 345,630 345,630 C303.171143,630 304.206055,582.080811 265,582.933333 L265,568 Z" id="flow" fill-opacity="0.1" fill="#000000" transform="translate(305.000000, 599.000000) scale(1, -1) translate(-305.000000, -599.000000) "></path>
             <text id="100%-Kein-Schulabsch" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
                 <tspan x="181.604" y="619">100%</tspan>
                 <tspan x="107.3" y="631">Kein Schulabschluss</tspan>
             </text>
-            <text id="22,8%-Fachhochschul-" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="565">22,8%</tspan>
+            <text id="24,3%-Fachhochschul-" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="565">24,3%</tspan>
                 <tspan x="401" y="577" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Fachhochschul- oder Hochschulreife</tspan>
             </text>
-            <text id="62,4%-Haupt--oder-Re" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="595">62,4%</tspan>
+            <text id="55,9%-Haupt--oder-Re" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="595">55,9%</tspan>
                 <tspan x="401" y="607" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Haupt- oder Realschulabschluss</tspan>
             </text>
-            <text id="14,8%-Kein-Schulabsc" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="401" y="625">14,8%</tspan>
+            <text id="19,8%-Kein-Schulabsc" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="401" y="625">19,8%</tspan>
                 <tspan x="401" y="637">Kein Schulabschluss</tspan>
             </text>
         </g>

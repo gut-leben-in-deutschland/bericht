@@ -3,7 +3,7 @@ export const AVAILABLE_LOCALES = ['de', 'en'];
 
 export const GITHUB_CONTENT_SOURCE = {
   username: 'interactivethings',
-  reponame: 'quality-of-life-in-germany',
+  reponame: 'gut-leben-in-deutschland',
   ref: 'master'
 };
 

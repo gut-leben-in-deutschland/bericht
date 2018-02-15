@@ -23,13 +23,13 @@ Education helps people to find their direction in life and make sound judgements
 
 The **proportion of persons with at least secondary school graduation** indicator shows how many people have at least completed **vocational training or gained a university entrance qualification**. It measures a country's performance in education - i.e. the educational level of a society and therefore approximates the quality of the German education system.
 
-Anyone who gains a university entrance qualification or completes vocational training in Germany today has good opportunities in the job market. In 2015, almost nine out of ten people aged 25 to 64 in Germany held at least one of these qualifications – six per cent more than the [OECD average](http://dx.doi.org/10.1787/888933396529). The share of women with at least secondary school graduation is now slightly above the share of men with that qualification. 
+Anyone who gains a university entrance qualification or completes vocational training in Germany today has good opportunities in the job market. In 2016, 87 out of 100 people aged 25 to 64 in Germany held at least one of these qualifications – five more people than the [OECD average](http://dx.doi.org/10.1787/eag-2017-table11-en). The share of young women aged 25 to 34 with at least secondary school graduation is now slightly above the share of men with that qualification. 
 
 ```chart
 03-01-a
 ```
 
-Education is one of the key **prerequisites for the integration of migrants**. Here too, there has been a **process of catching up** in the years up to 2014. The proportion of migrants who have gained a university entrance qualification or completed vocational training has increased significantly in the younger age groups. However, there is still a clear gap between people with and without migration backgrounds.
+Education is one of the key **prerequisites for the integration of migrants**. Here too, there has been a **process of catching up** in the years up to 2016. The proportion of migrants who have gained a university entrance qualification or completed vocational training has increased significantly in the younger age groups. However, there is still a clear gap between people with and without migration backgrounds.
 
 
 ```chart
@@ -58,9 +58,9 @@ The **risk group of early school-leavers** serves as an indicator here. They are
 
 <!-- ColumnLeft start -->
 
-Their numbers have dropped over recent years, from around 13 per cent in 2003 to less than 10 per cent in 2015. However, at above 10 per cent young men in Germany are at slightly greater risk than young women (9.5 per cent). With this, Germany has achieved one of the core targets of the Europe 2020 Strategy for Employment and Smart, Sustainable and Inclusive Growth.
+Their numbers have dropped over recent years, from around 13 per cent in 2003 to about 10 per cent in 2016. However, young men in Germany (10.8 per cent) have higher risk compared to young women (9.8 per cent). With this, Germany came close to one of the core tartgets of the Europe 2020 Strategy for Employment and Smart, Sustainable and Inclusive Growth.
 
-[Across Europe](http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=t2020_40&plugin=1) the number of early school-leavers has fallen from more than 16 per cent to just under 11 per cent. Hence, Germany is below the European average in 2016.[^1]
+[Across Europe](http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=t2020_40&plugin=1) the number of early school-leavers has fallen from more than 16 per cent to 10.7 per cent. Hence, Germany is below the European average in 2016.[^1]
 
 <!-- ColumnLeft end -->
 
@@ -78,7 +78,7 @@ Their numbers have dropped over recent years, from around 13 per cent in 2003 to
 
 <!-- ColumnLeft start -->
 
-There are also fewer early school leavers among young migrants in Germany. In 2005 almost one in four migrants was in this group, but by 2014 this had fallen to one in six.
+There are also fewer early school leavers among young migrants in Germany. In 2005 the rate of early school leavers was 24 per cent, but only 18 per cent in 2016. 
 
 Despite this improvement, there is still a clear gap between people with and without migration background. Special efforts have to be made to ensure that **education as a driver of integration** is effective, particularly because many refugees with little formal education have sought asylum in Germany in 2015 and 2016.
 
@@ -113,11 +113,11 @@ Educational equity is one of the topics that was hotly debated during the nation
 
 The **educational mobility between parents and children** indicator compares the **highest** general **school-leaving qualification of the parents with that of their children**.
 
-In Germany there is a strong **relationship between parental levels of education and those achieved by their children**. Seven out of ten children whose parents have a university or university of applied science entrance qualification also gain this qualification. The proportion of young people who leave the education system with no formal qualification is very low in these families.
+In Germany there is a strong **relationship between parental levels of education and those achieved by their children**. More than seven out of ten children whose parents have a university or university of applied science entrance qualification also gain this qualification. The proportion of young people who leave the education system with no formal qualification is very low in these families.
 
-On the other hand, the evidence shows that many children in Germany make an advancement in the educational system. In fact, upward educational mobility is currently strongest in educationally disadvantaged families: More than 85 per cent of these children leave school with qualification and almost 23 per cent even gain a university or university of applied science entrance qualification. If we look back at the last 20 years, the **trend is clearly positive**. In 2015, one in four children with parents who had no school-leaving qualifications gained their university entrance certificate. Twentyone years earlier, it was only one in thirteen.
+On the other hand, the evidence shows that many children in Germany make an advancement in the educational system. In fact, upward educational mobility is currently strongest in educationally disadvantaged families: More than 80 per cent of these children leave school with qualification and about 24 per cent even gain a university or university of applied science entrance qualification. If we look back at the last 20 years, the **trend is clearly positive**. In 2016, one in four children with parents who had no school-leaving qualifications gained their university entrance certificate. Two decades ago, it was only one in thirteen.
 
-There is still a lot to do, as it is still the case that one in seven children from educationally disadvantaged households leave school without qualifications and hence have fewer opportunities when it comes to finding good jobs, earning a good income – and, in short, having a good life.
+There is still a lot to do, as it is still the case that one in five children from educationally disadvantaged households leave school without qualifications and hence have fewer opportunities when it comes to finding good jobs, earning a good income – and, in short, having a good life.
 
 <!-- ColumnContainer start -->
 
@@ -139,7 +139,7 @@ There is still a lot to do, as it is still the case that one in seven children f
 
 <!-- ColumnContainer end -->
 
-In families with a migration background the picture is a mixed one. Even if parents have gained university entrance qualification, above-average numbers of their children gain only basic secondary school certificates or leave school without any qualification. But it is pleasing to see that above-average numbers of children with a migration background whose parents have no school qualification have gone on to gain basic secondary school qualification or university or applied university entrance qualification. 
+In families with a migration background the picture is a mixed one. Even if parents have gained university entrance qualification, above-average numbers of their children gain only basic secondary school certificates or leave school without any qualification. But on the positive side above-average numbers of children with a migration background whose parents have no school qualification have gone on to gain basic secondary school qualification or university or applied university entrance qualification. 
 
 Overall, it remains a top priority to weaken the relationship between social background and educational achievement.
 
@@ -174,9 +174,9 @@ The indicator **participation in further education** shows the proportion of **1
 03-04-a
 ```
 
-In 2014, this involved more than half of all people in the 18-64 age group. In 2007 only 43 per cent of this group participated in further education. The increase affected all age groups, but was particularly prevalent in the age group 25-34 and the age group 55-64 years, at more than 10 percentage points. Lifelong learning is more important than ever in light of technological advances and an aging society.
+In 2014, this involved half of all people in the 18-64 age group. In 2007 only 43 per cent of this group participated in further education. The increase affected all age groups, but was particularly marked among those aged 55-64 years, at more than 17 percentage points. Lifelong learning is more important than ever in light of technological advances and an aging society. The need for lifelong learning in the further education activities of those aged 65 to 69 years, who were surveyed for the very first time in 2016. One in five individuals participated in further education, but mainly in non-profession-related training.
 
-**Companies are the most important providers for further education** in Germany. 70 per cent of all further education is company-related. Profession-related further education activities account for 13 per cent of all further education, while 17 per cent are non-profession-related activities. The focus of the training activities varies according to the type of further education. Company-related and individual profession-related further education generally revolves around **economy, work and law**, while non-profession-related further education mainly involves training on languages, culture and politics.
+**Companies are the most important providers for further education** in Germany. 71 per cent of all further education is company-related. Profession-related further education activities account for 10 per cent of all further education, while 20 per cent are non-profession-related activities. The focus of the training activities varies according to the type of further education. Company-related and individual profession-related further education generally revolves around **economy, work and law** and **nature, technology and IT**, while non-profession-related further education mainly involves training on **languages, culture and politics**.
 
 
 ```chart

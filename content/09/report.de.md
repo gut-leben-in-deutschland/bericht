@@ -46,7 +46,7 @@ In den **ostdeutschen Ländern** hat sich die Summe der jährlich produzierten G
 
 <!-- ColumnContainer end -->
 
-Im [**internationalen Vergleich**](http://databank.worldbank.org/data/reports.aspx?source=2&series=NY.GDP.PCAP.PP.CD&country) weist Deutschland ein relativ hohes BIP pro Kopf auf. Im Jahr 2015 belegte die Bundesrepublik Rang 15 von rund 180 Ländern. Von den Folgen der **globalen Wirtschafts- und Finanzkrise** in 2008 hat sich die deutsche Wirtschaft schnell erholt. Dazu beigetragen haben zwei Konjunkturpakete der Bundesregierung, die Kurzarbeiterregelung und die Stabilisierung der Banken. So hatte das BIP pro Kopf bereits im Jahr 2011 das Vorkrisenniveau erreicht.
+Im [**internationalen Vergleich**](https://www.imf.org/external/pubs/ft/weo/2017/02/weodata/weorept.aspx?pr.x=55&pr.y=10&sy=2016&ey=2016&scsm=1&ssd=1&sort=country&ds=.&br=1&c=512%2C946%2C914%2C137%2C612%2C546%2C614%2C962%2C311%2C674%2C213%2C676%2C911%2C548%2C193%2C556%2C122%2C678%2C912%2C181%2C313%2C867%2C419%2C682%2C513%2C684%2C316%2C273%2C913%2C868%2C124%2C921%2C339%2C948%2C638%2C943%2C514%2C686%2C218%2C688%2C963%2C518%2C616%2C728%2C223%2C836%2C516%2C558%2C918%2C138%2C748%2C196%2C618%2C278%2C624%2C692%2C522%2C694%2C622%2C142%2C156%2C449%2C626%2C564%2C628%2C565%2C228%2C283%2C924%2C853%2C233%2C288%2C632%2C293%2C636%2C566%2C634%2C964%2C238%2C182%2C662%2C359%2C960%2C453%2C423%2C968%2C935%2C922%2C128%2C714%2C611%2C862%2C321%2C135%2C243%2C716%2C248%2C456%2C469%2C722%2C253%2C942%2C642%2C718%2C643%2C724%2C939%2C576%2C644%2C936%2C819%2C961%2C172%2C813%2C132%2C726%2C646%2C199%2C648%2C733%2C915%2C184%2C134%2C524%2C652%2C361%2C174%2C362%2C328%2C364%2C258%2C732%2C656%2C366%2C654%2C734%2C336%2C144%2C263%2C146%2C268%2C463%2C532%2C528%2C944%2C923%2C176%2C738%2C534%2C578%2C536%2C537%2C429%2C742%2C433%2C866%2C178%2C369%2C436%2C744%2C136%2C186%2C343%2C925%2C158%2C869%2C439%2C746%2C916%2C926%2C664%2C466%2C826%2C112%2C542%2C111%2C967%2C298%2C443%2C927%2C917%2C846%2C544%2C299%2C941%2C582%2C446%2C474%2C666%2C754%2C668%2C698%2C672&s=NGDPDPC&grp=0&a=) weist Deutschland ein relativ hohes BIP pro Kopf auf. Im Jahr 2016 belegte die Bundesrepublik Rang 17 von rund 190 Ländern. Von den Folgen der **globalen Wirtschafts- und Finanzkrise** in 2008 hat sich die deutsche Wirtschaft schnell erholt. Dazu beigetragen haben zwei Konjunkturpakete der Bundesregierung, die Kurzarbeiterregelung und die Stabilisierung der Banken. So hatte das BIP pro Kopf bereits im Jahr 2011 das Vorkrisenniveau erreicht.
 
 <!-- GovernmentMeasures start -->
 
@@ -78,7 +78,7 @@ Die **Investitionsquote** gibt an, wie viel Prozent der Wirtschaftsleistung in p
 
 Die **Investitionsquote** hat sich in Deutschland seit 2002 auf einem Niveau von rund 20 Prozent stabilisiert. Sie liegt damit unterhalb des Niveaus zu Beginn der 1990er Jahre. Damals wurde infolge der deutschen Wiedervereinigung viel investiert.
 
-Im [**Vergleich mit Ländern der Europäischen Union**](https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InvestitionenPDF_5811108.pdf?__blob=publicationFile) liegt Deutschland 2016 mit einer Gesamtinvestitionsquote von 20,0 Prozent knapp über dem EU-Durchschnitt von 19,7 Prozent.
+Im [**Vergleich mit Ländern der Europäischen Union**](https://www.destatis.de/DE/Publikationen/Thematisch/VolkswirtschaftlicheGesamtrechnungen/Inlandsprodukt/InvestitionenPDF_5811108.pdf?__blob=publicationFile) liegt Deutschland 2016 mit einer Gesamtinvestitionsquote von 20,0 Prozent knapp über dem EU-Durchschnitt von 19,8 Prozent.
 
 <!-- ColumnRight end -->
 
@@ -166,7 +166,7 @@ Wirtschaftswissenschaftler sind sich einig: **Investitionen in Forschung und Ent
 
 Ein wichtiger, etablierter und international vergleichbarer **Indikator für die Innovationsfähigkeit** einer Volkswirtschaft sind die **Ausgaben für Forschung und Entwicklung** (FuE) in **Relation zur Wirtschaftsleistung**.
 
-Die FuE-Ausgaben sind von 1995 bis 2015 von 2,2 auf knapp 3 Prozent gestiegen. Im Jahr 2015 wurden in Deutschland mehr als 90 Milliarden Euro für Forschung und Entwicklung und damit sieben Prozent mehr als 2014 ausgegeben.
+Die FuE-Ausgaben sind von 1995 bis 2015 von 2,2 auf gut 2,9 Prozent gestiegen. Im Jahr 2015 wurden in Deutschland knapp 89 Milliarden Euro für Forschung und Entwicklung ausgegeben. Das sind gut fünf Prozent mehr als 2014.
 
 Der Blick auf die [**EU-Mitgliedsstaaten**](http://ec.europa.eu/eurostat/documents/2995521/7752015/9-30112016-BP-DE.pdf/4a567899-61d5-4921-a0a0-ea7bdbba39aa) zeigt, wie gut Deutschland bei den Gesamtausgaben für FuE dasteht. 2015 lag die Bundesrepublik im EU-Vergleich auf Rang fünf. Allerdings wird im globalen Vergleich zum Teil deutlich mehr Geld für FuE ausgegeben, beispielsweise in Südkorea oder Japan.
 
@@ -226,7 +226,7 @@ Einen Hinweis auf Fortschritte in diesem Bereich kann der Indikator **Zeitdauer 
 
 2016 hat eine Unternehmensgründung in Deutschland durchschnittlich 6,9 Tage gedauert und 383 Euro gekostet. Bei der Dauer liegt Deutschland damit über dem EU-Durchschnitt von 3,3 Tagen, bei den Kosten nur leicht über dem EU-Durschnitt von 320 Euro.
  
-Auch wenn bei internationalen Vergleichen zu beachten ist, dass Deutschland für junge Unternehmer eine hohe Rechtssicherheit bietet, so braucht es eine deutliche **Verbesserung der Gründerkultur**. Die Bundesregierung will Gründerinnen und Gründer  motivieren und unterstützen. Schwerpunkt ist ein leichterer Zugang zu passenden Finanzierungsmöglichkeiten für neue Unternehmerinnen und Unternehmer.
+Auch wenn bei internationalen Vergleichen zu beachten ist, dass Deutschland für junge Unternehmer eine hohe Rechtssicherheit bietet, so braucht es eine deutliche **Verbesserung der Gründerkultur**. Die Bundesregierung will Gründerinnen und Gründer motivieren und unterstützen. Schwerpunkt ist ein leichterer Zugang zu passenden Finanzierungsmöglichkeiten für neue Unternehmerinnen und Unternehmer.
  
 <!-- GovernmentMeasures start -->
 

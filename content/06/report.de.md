@@ -77,7 +77,7 @@ Das subjektive Sicherheitsgefühl der Menschen ist durch politische Maßnahmen n
 
 <!-- GovernmentMeasures end -->
 
-## Bundesweiter Rückgang von Gewaltdelikten
+## Erster Anstieg von Gewaltdelikten seit 2007
 
 <!-- Quote text='Sicherheit im täglichen Leben ist mir wichtig. Ich möchte ohne Angst in öffentlichen Verkehrsmitteln reisen, mich auch in Parks und Nebenstraßen sicher fühlen. Die Präsenz der Polizei müsste hierfür erheblich verstärkt werden.' source='aus einer Online-Antwort vom 25. August 2015' -->
 

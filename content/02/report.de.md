@@ -24,7 +24,7 @@ Arbeitslosigkeit senkt die Lebensqualität stark. Sie beeinträchtigt nicht nur 
 
 <!-- ColumnLeft start -->
 
-Die **Arbeitslosenquote** ist zentral für die Beschreibung der Entwicklung auf dem Arbeitsmarkt. Sie gibt an, wie viele Menschen in einem Monat Arbeit suchen und bei der Bundesagentur für Arbeit als arbeitslos gemeldet sind. Im Mai 2017 waren insgesamt 2,5 Millionen Menschen in Deutschland arbeitslos. Das entspricht einer [Arbeitslosenquote](https://statistik.arbeitsagentur.de/Navigation/Statistik/Statistik-nach-Themen/Arbeitsmarkt-im-Ueberblick/Arbeitsmarkt-im-Ueberblick-Nav.html) von 5,6 Prozent.
+Die **Arbeitslosenquote** ist zentral für die Beschreibung der Entwicklung auf dem Arbeitsmarkt. Sie gibt an, wie viele Menschen in einem Monat Arbeit suchen und bei der Bundesagentur für Arbeit als arbeitslos gemeldet sind. Im Dezember 2017 waren weniger als 2,4 Millionen Menschen in Deutschland arbeitslos. Das entspricht einer [Arbeitslosenquote](https://statistik.arbeitsagentur.de/Navigation/Statistik/Statistik-nach-Themen/Arbeitsmarkt-im-Ueberblick/Arbeitsmarkt-im-Ueberblick-Nav.html) von 5,3 Prozent.
 
 In den letzten 20 Jahren war die Arbeitslosenquote starken Schwankungen ausgesetzt. Auf zwei historische Höchststände folgte eine deutliche Erholung. Im Jahr 1997 waren fast 4,4 Millionen Menschen arbeitslos. Im Januar 2005 gab es mehr als fünf Millionen Arbeitslose, zum Teil weil arbeitsfähige Sozialhilfeempfänger erstmals in der Statistik mitgezählt wurden. Danach entspannte sich die Lage am Arbeitsmarkt stark. Arbeitsmarktreformen, Investitionen und industrielle Wettbewerbsfähigkeit haben dazu beigetragen. Auch die globale Finanzmarktkrise konnte die günstige Entwicklung am deutschen Arbeitsmarkt nicht beeinträchtigen. Verglichen mit dem historischen Höchststand im Jahr 2005 hat sich die Arbeitslosenquote inzwischen halbiert. Mit einem Jahresmittel von 6,1 Prozent lag sie 2016 auf dem niedrigsten Niveau seit der Deutschen Einheit.
 
@@ -172,7 +172,7 @@ Am Arbeitsleben aktiv teilzunehmen, Chancen zu haben und gleichbehandelt zu werd
 
 Etablierter Gradmesser für die **Beteiligung am Arbeitsmarkt** ist die **Erwerbstätigenquote**. Sie ergänzt die Arbeitslosenquote und reflektiert die grundsätzliche Entscheidung und tatsächliche Chance von Menschen, am Erwerbsleben teilzunehmen.
 
-**Seit der Wiedervereinigung** ist die Erwerbstätigenquote von 70,4 auf 77,8 Prozent gestiegen. Fast vier von fünf Menschen in Deutschland im Alter von 20 bis 64 Jahren sind erwerbstätig. Zwei Ursachen sind für diese Entwicklung besonders wichtig: immer mehr und **höhere Bildungsabschlüsse von Frauen** und **mehr berufstätige Frauen** – vor allem in den westdeutschen Ländern. Westdeutsche Frauen nähern sich langsam dem höheren Niveau in den ostdeutschen Ländern an. Insgesamt ist die Erwerbstätigkeit der Frauen seit 1991 somit deutlich gestiegen.
+**Seit der Wiedervereinigung** ist die Erwerbstätigenquote von 70,4 auf 78,4 Prozent gestiegen. Fast vier von fünf Menschen in Deutschland im Alter von 20 bis 64 Jahren sind erwerbstätig. Zwei Ursachen sind für diese Entwicklung besonders wichtig: immer mehr und **höhere Bildungsabschlüsse von Frauen** und **mehr berufstätige Frauen** – vor allem in den westdeutschen Ländern. Westdeutsche Frauen nähern sich langsam dem höheren Niveau in den ostdeutschen Ländern an. Insgesamt ist die Erwerbstätigkeit der Frauen seit 1991 somit deutlich gestiegen.
 
 ```chart
 02-03-a
@@ -182,7 +182,7 @@ Etablierter Gradmesser für die **Beteiligung am Arbeitsmarkt** ist die **Erwerb
 }
 ```
 
-Gleiches gilt für **Menschen mit Migrationshintergrund**: Zwischen 2005 und 2015 stieg ihre Erwerbstätigenquote deutlich. Klare Unterschiede bestehen noch zwischen den Geschlechtern: Die Erwerbstätigenquote der Männer mit Migrationshintergrund lag nur fünfeinhalb Prozentpunkte unter der Erwerbstätigenquote der Männer ohne Migrationshintergrund. Frauen mit Migrationshintergrund erreichten lediglich eine Erwerbstätigenquote von knapp 62 Prozent. Dagegen sind knapp 77 Prozent der Frauen ohne Migrationshintergrund erwerbstätig.
+Gleiches gilt für **Menschen mit Migrationshintergrund**: Zwischen 2005 und 2016 stieg ihre Erwerbstätigenquote stark an. Im Vergleich mit Menschen ohne Migrationshintergrund bestehen aber weiterhin klare Unterschiede. Diese sind bei Männern weniger stark ausgeprägt als bei Frauen. Im letzten Jahr lag die Erwerbstätigenquote der Männer mit Migrationshintergrund knapp acht Prozentpunkte unter der Erwerbstätigenquote der Männer ohne Migrationshintergrund. Bei Frauen beträgt der Abstand mehr als 15 Prozentpunkte. Frauen mit Migrationshintergrund erreichten im Jahr 2016 lediglich eine Erwerbstätigenquote von rund 62 Prozent. Dagegen sind knapp 78 Prozent der Frauen ohne Migrationshintergrund erwerbstätig.
 
 Eine erfolgreiche Integration von Menschen mit Migrationshintergrund ist wichtiger denn je. Mit dem starken Flüchtlingszuzug im Jahr 2015 wird der Einfluss der Zuwanderung auf die Entwicklung der Arbeitslosigkeit zunehmend sichtbar werden. Es kommt darauf an, Flüchtlinge bei der Arbeitsmarktintegration zu unterstützen. Durch die Förderung des Spracherwerbs, Bildung und berufliche Ausbildung sowie die Anerkennung beruflicher Abschlüsse aus den Herkunftsländern.
 
@@ -235,9 +235,9 @@ Der Arbeitsmarkt soll aus Sicht der Bürgerinnen und Bürger ausreichend sichere
 
 <!-- ColumnRight start -->
 
-Von den mehr als 32 Millionen abhängig Beschäftigten im Alter von 20 bis 64 Jahren betrug der Anteil der atypisch Beschäftigten im Jahr 2015 23,2 Prozent. Seit dem Höchststand 2007 mit 25,5 Prozent ist der Anteil leicht gesunken. Atypische Beschäftigung ist teils frei gewählt, teils in Kauf genommen als Einstieg in den Arbeitsmarkt und teils unfreiwillig.
+Von den mehr als 33 Millionen abhängig Beschäftigten im Alter von 20 bis 64 Jahren betrug der Anteil der atypisch Beschäftigten im Jahr 2016 22,9 Prozent. Seit dem Höchststand 2007 mit 25,5 Prozent ist der Anteil damit gesunken. Atypische Beschäftigung ist teils frei gewählt, teils in Kauf genommen als Einstieg in den Arbeitsmarkt und teils unfreiwillig.
 
-Im Jahr 2015 gingen rund 7,5 Mio. Menschen in Deutschland einer so genannten atypischen Beschäftigung nach. Sie arbeiteten befristet, in Minijobs, in Teilzeit unter 20 Wochenstunden oder in Zeitarbeit. Von den atypisch Beschäftigten waren rund 4,8 Millionen Personen in Teilzeit, 2,5 Millionen befristet und 2,3 Millionen geringfügig beschäftigt. Im Vergleich dazu gab es mit etwa 662.000 Personen nur relativ wenige Zeitarbeitnehmerinnen und -arbeitnehmer. Das sind 2,1 Prozent aller abhängig Beschäftigten.[^3]
+Im Jahr 2016 gingen knapp 7,6 Mio. Menschen in Deutschland einer so genannten atypischen Beschäftigung nach. Sie arbeiteten befristet, in Minijobs, in Teilzeit unter 20 Wochenstunden oder in Zeitarbeit. Von den atypisch Beschäftigten waren rund 4,8 Millionen Personen in Teilzeit, 2,6 Millionen befristet und 2,1 Millionen geringfügig beschäftigt. Im Vergleich dazu gab es mit etwa 732.000 Personen nur relativ wenige Zeitarbeitnehmerinnen und -arbeitnehmer. Das sind 2,2 Prozent aller abhängig Beschäftigten.[^3]
 
 
 <!-- ColumnRight end -->
@@ -249,7 +249,7 @@ Im Jahr 2015 gingen rund 7,5 Mio. Menschen in Deutschland einer so genannten aty
 02-04-ab
 ```
 
-Sowohl atypische als auch Normalbeschäftigung sind seit dem Jahr 2000 in Deutschland gestiegen. Die Anzahl der atypisch Beschäftigten ist zwischen 2000 und 2015 von rund 5,9 auf knapp 7,5 Millionen Personen angestiegen. Der Höchststand wurde 2010 mit rund 7,9 Millionen erreicht. Seitdem ist ein leichter Rückgang zu beobachten. Die Anzahl Normalbeschäftigter stieg zwischen 2000 und 2015 leicht von 23,7 auf 24,8 Millionen. Ein Anstieg atypischer Beschäftigung allein auf Kosten der Normalarbeitsverhältnisse lässt sich nicht nachweisen.
+Sowohl atypische als auch Normalbeschäftigung sind seit dem Jahr 2000 in Deutschland gestiegen. Die Anzahl der atypisch Beschäftigten ist zwischen 2000 und 2016 von rund 5,9 auf knapp 7,6 Millionen Personen angestiegen. Der Höchststand wurde 2010 mit rund 7,9 Millionen erreicht. Seitdem ist ein leichter Rückgang zu beobachten. Die Anzahl Normalbeschäftigter stieg zwischen 2000 und 2016 von 23,7 auf 25,6 Millionen. Ein Anstieg atypischer Beschäftigung allein auf Kosten der Normalarbeitsverhältnisse lässt sich nicht nachweisen.
 
 ```chart
 02-04-b
@@ -300,7 +300,7 @@ Der Indikator **Reale Nettolöhne** misst, wie sich die jährlichen Nettolöhne 
 
 <!-- ColumnRight start -->
 
-Die realen Nettolöhne und -gehälter je Arbeitnehmer bewegten sich von 1991 bis 2016 preisbereinigt zwischen 19.811 Euro und 20.561 Euro. Die durchschnittliche Lohnentwicklung ist in den vergangenen 25 Jahren insgesamt hinter dem Wirtschaftswachstum zurückgeblieben. Seit dem Jahr 2009 stellt sich die Situation allerdings wieder deutlich positiver dar. Nach einem zwischenzeitlichen Rückgang der realen Nettolöhne und -gehälter, steigen die realen Nettolöhne und –gehälter wieder spürbar. Zwischen 1991 und 2016 sind sie durchschnittlich um 1,3 Prozent jährlich gestiegen.
+Die realen Nettolöhne und -gehälter je Arbeitnehmer bewegten sich von 1991 bis 2016 preisbereinigt zwischen 19.811 Euro und 20.637 Euro. Die durchschnittliche Lohnentwicklung ist in den vergangenen 25 Jahren insgesamt hinter dem Wirtschaftswachstum zurückgeblieben. Seit dem Jahr 2009 stellt sich die Situation allerdings wieder deutlich positiver dar. Nach einem zwischenzeitlichen Rückgang steigen die realen Nettolöhne und –gehälter wieder spürbar. 
 
 <!-- ColumnRight end -->
 

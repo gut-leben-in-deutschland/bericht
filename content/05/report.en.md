@@ -126,7 +126,7 @@ It is important to note that the Gini coefficient of household income after taxe
 
 <!-- ColumnContainer end -->
 
-The **international comparison of Gini coefficients** for household income places **Germany** **14th out of 31 OECD countries**. Northern European countries such as Iceland and Norway have some of the lowest levels of inequality (about 0.25). Disposable income in Spain (0.35), the UK (0.36), the USA (0.39) and Mexico (0.46) is distributed much less equally than in Germany. Among the major industrial and emerging economies (G20), Germany has the lowest level of inequality for net household incomes.
+The [**international comparison of Gini coefficients**](http:dx.doi.org/10.1787/459aa7f1-en) for household income places **Germany** **13th out of 35 OECD countries**. Countries such as Iceland, Slovenia and Slowakia have some of the lowest levels of inequality (about 0.25). Disposable income in the United States of America (0.39), Turkey (0.4), Mexico (0.46) and Costa Rica (0.49) is distributed much less equally than in Germany. Among the major industrial and emerging economies (G20), Germany has the lowest level of inequality for net household incomes.
 
 ```chart
 05-02-b

@@ -24,7 +24,7 @@ The right to freedom of expression, freedom to develop one's talents and persona
 
 Free, secret, equal and direct **elections** are at the **heart of our democracy**. **Voter turnout** shows the percentage of the eligible electorate that actually voted. It is a good **indicator** for people's interest in politics and often reflects particularly controversial political and social issues that are important at the time.
 
-Yet not everyone uses their right to vote. After peaking in the 1970s, voter turnout has dropped significantly in Bundestag elections. It reached its low point in the Bundestag elections of 2009, but recovered slightly in the last Bundestag elections held in 2013.
+Yet not everyone uses his or her right to vote. After peaking in the 1970s, voter turnout has dropped significantly in Bundestag elections. It reached its low point in the Bundestag elections of 2009. In the last Bundestag elections 2017 voter turnout increased significantly. More than 76 per cent of eligible voters exercised their right to vote, which was five percentage points higher than in the last elections. 
 
 It is striking how differently **population groups use their right to vote**. People who are **unemployed**, on **low incomes** and of **low socio-economic status vote less often** than higher income and higher status groups.
 
@@ -42,16 +42,15 @@ It is striking how differently **population groups use their right to vote**. Pe
 <!-- ColumnContainer end -->
 
 
-<!--DifferenceBarScrollContainer start data=11/01/districts.csv startYear=1994 endYear=2013 geographyShould=2013 -->
+<!--DifferenceBarScrollContainer start data=11/01/districts.csv startYear=2013 endYear=2017 geography=2016 -->
 
 <!--ScrollBlock start stage=choropleth skipMobileVisualization-->
 
 ## Voter turnout in Bundestag elections
 
-The last **Bundestag election** was held on **22 September 2013**. 61.95 million German citizens were eligible to vote. Around 44.31 million availed themselves of this right to vote, corresponding to a **voter turnout of 71.5 per cent**.
+The last **Bundestag election** was held on **24 September 2017**. About 61.69 million German citizens were eligible to vote. Around 46.98 million availed themselves of this right to vote, corresponding to a **voter turnout of 76.2 per cent**.
 
 <!--ScrollBlock end-->
-
 
 <!--ScrollBlock start stage=dots tooltips='user'-->
 
@@ -69,65 +68,73 @@ Select your municipality or city:
 
 <!--ScrollBlock start stage=endValue-->
 
-The dots show voter turnout at the **Bundestag election in 2013** for just over 400 districts and towns that do not belong to a district in Germany – from left to right, from the lowest to the highest voter turnout. On the map, every interactive dot stands for a district or city.
+The dots show voter turnout at the **Bundestag election in 2017** for just over 400 districts and cities that do not belong to a district in Germany – from left to right, from the lowest to the highest voter turnout. On the map, every interactive dot stands for a district or city.
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=values-->
 
-The **transparent dots** provide a comparison with the **voter turnout at the Bundestag election in 1994**. How does voter turnout in 1994 compare with turnout at the Bundestag election in 2013 in the 400 districts and city that do not belong to district in Germany?
+The **transparent dots** provide a comparison with the **voter turnout at the Bundestag election in 2013**. How does voter turnout in 2013 compare with turnout at the Bundestag election in 2017 in the 400 districts and cities in Germany?
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=difference-->
 
-The green lines connect voter turnout in 2013 and 1994 for the 400 districts. If the lines go up, this means that voter turnout in 2013 fell compared to the Bundestag election in 1994. If the lines go down, this means that voter turnout in 2013 rose compared to the Bundestag election in 1994. It shows that **voter turnout fell in most districts and cities**.    
+The green lines connect voter turnout in 2013 and 2017 for the 400 districts. If the lines go up, this means that voter turnout in 2017 fell compared to the Bundestag election in 2013. If the lines go down, this means that voter turnout in 2017 rose compared to the Bundestag election in 2013. 
 
-
-<!--ScrollBlock end-->
-
-<!--ScrollBlock start stage=difference highlights=11,12,13,14,15,16,15085-->
-
-In **eastern Germany**, voter turnout was generally lower than in western Germany, at **67.6 per cent**.
+It shows that **in all districts and cities more people cast their ballot**. This is a continuation of the trend already seen in recent Landtag elections.     
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights=12064,12067,12071,12065,12063,14625,14511,14521,12069,12054,14523,12060,14626,14730,14524,14522,14628,14729,14627,14713,14612
--->
+<!--ScrollBlock start stage=difference highlights=11,12,13,14,15,16-->
 
-**Voter turnout increased in 21 districts and cities**: Of the 400 or so districts and cities, voter turnout in 2013 only increased in 21 districts cities compared to the Bundestag election of 1994. They are all in eastern Germany, mainly in Brandenburg and Saxony. There were particularly sharp increases in Dresden and Leipzig, where voter turnout rose by 12.3 and 9.7 percentage points respectively.
+With 73.2 per cent, **voter turnout in eastern Germany** was generally lower than in western Germany. However, compared to the previous Bundestag election, voter turnout increased by 5.7 percentage points. This increase was larger than in western Germany. 
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference highlights=01,02,03,04,05,06,07,08,09,10-->
+
+In **western Germany** voter turnout was at **76.8 per cent**. Compared to the Bundestag election in 2013, voter turnout increased by 4.4 percentage points.  
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference highlights=09188,04012,14612,15089-->
+
+**Marked regional differences in western Germany**: Overall voter turnout as well as regional differences were higher in western Germany. With 84.1 per cent of eligible voter casting the ballot, the district of Starnberg in Bavaria had the highest voter turnout in Germany. In turn, Bremerhaven had the lowest voter turnout with only 63.1 per cent. 
+
+In **eastern Germany** voter turnout was highest in the city of Dresden with 78.4 per cent and lowest in the Salzlandkreis with 63.3 per cent.
+
+<!--ScrollBlock end-->
+
+<!--ScrollBlock start stage=difference highlights=04012,09272-->
+
+** Increase in voter turnout all over Germany**: In each of the 401 districts voter turnout increased in the 2017 Bundestag election.  The increase in voter turnout was smallest in Bremerhaven with a plus of 0.1 percentage points and highest in the district Freyung-Grafenau in Bavaria with 12.1 percentage points. 
 
 <!--ScrollBlock end-->
 
 
-<!--ScrollBlock start stage=difference highlights=09263,05515-->
+<!--ScrollBlock start stage=difference highlights=09774,09177,09189,09776,09278,09773,09761,09187,09674,09273,09778,09779,09183,0918,09172,09185,09274,09662,09762,09261,09375,09163,09764,09361,09561,09161,09471,09262,09277,09372,09376,09362,09263,09461,09763,09279,09271,09275,09276,09272-->
 
-**Clear regional differences in western Germany**: In the western federal states, overall voter turnout was higher at 72.4 per cent but there were some big regional differences. Voter turnout was highest in Münster where 78.5 per cent of the electorate cast their vote. The lowest voter turnout was in Straubing where only 57.4 per cent of voters went to the elections.
-
-<!--ScrollBlock end-->
-
-<!--ScrollBlock start stage=difference highlights=09662,07320,09561,15085,06413,07314,09361,07311,07134,06534,09363,09762,09763,03103,09476,06632,09764,03102,07132,06611,06631,03405,03155,05913,07334,06636,05914,10043,06414,03153,06433,06634,03255,07141,06533,03252,07312,05513,07333,06633-->
-
-**Particularly sharp drop in voter turnout in certain districts of western Germany**: The districts where voter turnout decreased particularly strongly in 2013 compared to the Bundestag elections of 1994 were mainly in western Germany. 39 of the 40 districts with the most dramatic fall were in western Germany, mainly in Bavaria, Hessen, Lower Saxony and Rhineland-Palatinate. Voter turnout collapsed particularly badly in Schweinfurt with a drop of 16.2 percentage points.  
+** Largest increases in voter turnout in Bavaria**: When comparing voter turnout in the 2013 and 2017 Bundestag elections, the 40 districts with the steepest increases in voter turnout were all in Bavaria. Increases were particularly marked, because Bavarian voter turnout had reached an all-time low in the 2013 Bundestag election.   
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights=09263,15085,15089,09662,15087,15082,12051,09272,09276,09271,15084,15083,09361,15090,09763,09161,09561,12068,15088,09363,15086,07317,09762,09275,09279,15081,12073,13073,13075,09464,15003,04012,09761,13071,09764,16072,09372,12053,16065,09262-->
+<!--ScrollBlock start stage=difference  highlights=01062,03353,05515,05558,06434,06436,07235,07315,07332,07338,07339,08116,08221,08311,08315,08416,09174,09175,09176,09177,09178,09179,09181,09182,09184,09188,09190,09471,09474,09562,09572,09573,09574,09576,09671,09674,09677,09678,09679,09771-->
 
-**Lowest voter turnout in 2013 mainly in Bavaria, Thuringia and Saxony-Anhalt**: Of the 40 districts and cities with the lowest voter turnout only between 57.4 and 63.6 per cent of the eligible electorate actually voted in the Bundestag elections. Of these, 18 were in Bavaria, 7 in Saxony-Anhalt and 6 in Thuringia.
+** Districts with highest voter turnout in western Germany**: More than 80 per cent of eligible voter cast their ballot in the 40 districts with the highest voter turnout in the 2017 Bundestag elections. More than half of these districts were in Bavaria and five each in Baden-Wuerttemberg and Rhineland-Palatinate. 
 
 <!--ScrollBlock end-->
 
-<!--ScrollBlock start stage=difference highlights=07315,03355,05566,03157,08435,01058,03458,08226,09179,03158,01056,08311,09572,10046,08236,08315,08119,06439,08425,08111,08221,01057,09679,09175,05314,08115,01062,09184,08118,07338,08116,06436,06434,07339,05378,05558,03353,09188,08416,05515-->
+<!--ScrollBlock start stage=difference highlights=01004,03401,03405,04012,05112,05116,05513,05916,06413,07314,07317,08231,09263,09363,09464,09662,12051,12053,12068,12070,12073,13071,13073,13074,13075,15001,15002,15003,15081,15082,15083,15084,15085,15086,15087,15088,15089,15090,15091,16062-->
 
-**In 2013 the highest voter turnout was generally in Baden-Württemberg**: Of the 40 districts and cities with the highest voter turnout, 74.6 and 78.5 per cent of the eligible electorate voted in the Bundestag elections. Of these, 13 were in Baden-Württemberg and 5 each in Lower Saxony and North Rhine-Westphalia.
+** Low voter turnout prevalent in eastern Germany**: Less than 70 per cent of eligible voters cast their ballot in the 40 districts with the lowest voter turnout in the 2017 Bundestag election. Of these, 24 districts were in eastern Germany, mainly in Saxony-Anhalt, but also in some regions of Brandenburg and Mecklenburg-West-Pomerania. Of the districts with low voter turnout only few are in western Germany, mainly in Bavaria and North Rhine-Westphalia.
 
 <!--ScrollBlock end-->
 
 <!--DifferenceBarScrollContainer end-->
 
 
-## Lower voter turnout also seen in many Landtag elections.
+## Higher voter turnout also seen in many Landtag elections
 
 <!-- Quote text='Democracy is a gift, but there is lack of awareness of just how great this gift is.' source='from the national dialogue event of the Deutsche Naturschutzring in Berlin on 1 September 2015' -->
 
@@ -137,7 +144,7 @@ Until recently, **many Landtag elections** also experienced **a drop in voter tu
 11-01-d
 ```
 
-There was a **slight turnaround** at the Landtag elections held in March 2016 in **Baden-Württemberg, Rhineland-Palatinate and Saxony-Anhalt**. This **positive trend** continued at the elections in **Mecklenburg-Vorpommern and Berlin** in September 2016, where many more people cast their vote. Many voters were motivated to have their say at these elections because of the hotly debated issue of refugee policy. But also at the Landtag elections held in 2017 more people casted their vote. The Saarland elections had the largest increase in voter turnout, but also in Schleswig-Holstein and North Rhine-Westphalia voter turnout increased by more than five percentage points. 
+There was a **slight turnaround** at the Landtag elections held in March 2016 in **Baden-Württemberg, Rhineland-Palatinate and Saxony-Anhalt**. This **positive trend** continued at the elections in **Mecklenburg-Vorpommern and Berlin** in September 2016, where many more people cast their vote. Many voters were motivated to have their say at these elections because of the hotly debated issue of refugee policy. But also at the Landtag elections held in 2017 more people casted their vote. The Saarland elections had the largest increase in voter turnout, but also in Schleswig-Holstein and North Rhine-Westphalia voter turnout increased by more than five percentage points. Voter turnout increased as well at October 2017 Landtag elections in Lower Saxony. A total of 63.1 per cent of eligible voters exercised their right to vote, an increase of four percentage points over the previous Landtag elections. 
 
 <!-- GovernmentMeasures start -->
 
@@ -155,7 +162,7 @@ This statement by a participant at the national dialogue event of the Naturpark-
 
 It is important for democracy that citizens are well informed about policy and have opportunities to help shape it. This applies equally at federal, state and local level.
 
-The aim of measuring opportunities for political participation is served by an indicator taken from the [European Social Survey](http://www.europeansocialsurvey.org/).[^1] It measures how people perceive their **ability to influence politics**.   
+The aim of measuring opportunities for political participation is served by an indicator taken from the [European Social Survey](http://www.europeansocialsurvey.org/).[^2] It measures how people perceive their **ability to influence politics**.   
 
 <!-- ColumnContainer start -->
 
@@ -221,5 +228,6 @@ The Federal Anti-Discrimination Agency has been promoting more equal treatment s
 
 <!-- GovernmentMeasures end -->
 
-[^1]: Along with Germany, 20 other EU countries took part in the seventh edition of the European Social Survey, which includes questions on opportunities for participation.
+[^1]: Voter turnout for the state election in Lower Saxony in October 2017 is preliminary. 
+[^2]: Along with Germany, 20 other EU countries took part in the seventh edition of the European Social Survey, which includes questions on opportunities for participation.
  

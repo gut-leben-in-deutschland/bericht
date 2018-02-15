@@ -71,6 +71,11 @@ export const sansRegular14 = {
   fontSize: '14px',
   lineHeight: 1.5
 };
+export const sansRegular15 = {
+  ...sansRegular,
+  fontSize: '15px',
+  lineHeight: 1.5
+};
 export const sansRegular16 = {
   ...sansRegular,
   fontSize: '16px',

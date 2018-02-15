@@ -16,6 +16,7 @@ Insgesamt,Insgesamt,2012,0.1036781516
 Insgesamt,Insgesamt,2013,0.0980785501
 Insgesamt,Insgesamt,2014,0.0952825666
 Insgesamt,Insgesamt,2015,0.0981787702091135
+Insgesamt,Insgesamt,2016,0.103252223215194
 Geschlecht,Männlich,1999,0.142
 Geschlecht,Männlich,2000,0.146
 Geschlecht,Männlich,2001,0.122
@@ -33,6 +34,7 @@ Geschlecht,Männlich,2012,0.10965416
 Geschlecht,Männlich,2013,0.1029733893
 Geschlecht,Männlich,2014,0.1003320438
 Geschlecht,Männlich,2015,0.10122864534437
+Geschlecht,Männlich,2016,0.108233180969268
 Geschlecht,Weiblich,1999,0.156
 Geschlecht,Weiblich,2000,0.152
 Geschlecht,Weiblich,2001,0.128
@@ -50,6 +52,7 @@ Geschlecht,Weiblich,2012,0.0973439452
 Geschlecht,Weiblich,2013,0.0928464489
 Geschlecht,Weiblich,2014,0.0899268407
 Geschlecht,Weiblich,2015,0.0949272600160507
+Geschlecht,Weiblich,2016,0.0977044441433272
 Migrationshintergrund,Ohne Migrationshintergrund,2005,0.1084771537
 Migrationshintergrund,Ohne Migrationshintergrund,2006,0.109080818
 Migrationshintergrund,Ohne Migrationshintergrund,2007,0.101069061
@@ -61,6 +64,7 @@ Migrationshintergrund,Ohne Migrationshintergrund,2012,0.0817279771
 Migrationshintergrund,Ohne Migrationshintergrund,2013,0.0759255456
 Migrationshintergrund,Ohne Migrationshintergrund,2014,0.0738599119
 Migrationshintergrund,Ohne Migrationshintergrund,2015,0.0755149729618203
+Migrationshintergrund,Ohne Migrationshintergrund,2016,0.0733892176571549
 Migrationshintergrund,Mit Migrationshintergrund,2005,0.2433941855
 Migrationshintergrund,Mit Migrationshintergrund,2006,0.2443414797
 Migrationshintergrund,Mit Migrationshintergrund,2007,0.2221408414
@@ -72,3 +76,4 @@ Migrationshintergrund,Mit Migrationshintergrund,2012,0.172508357
 Migrationshintergrund,Mit Migrationshintergrund,2013,0.1653516005
 Migrationshintergrund,Mit Migrationshintergrund,2014,0.161159203583253
 Migrationshintergrund,Mit Migrationshintergrund,2015,0.162700583545336
+Migrationshintergrund,Mit Migrationshintergrund,2016,0.182728619152536

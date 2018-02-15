@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="720" style="height:720px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="774" style="height:774px;width:640px;">
     <desc style="">
-        The chart shows different air pollutants in the period 2000 to 2014. In this period, levels of non-methane volatile organic compounds, nitrogen oxides, particulate matter and sulphur dioxide decreased. In the case of ammonia, the index increased from 103 to 109. The base year in which the index is set at 100 is 2005.
+        The chart shows different air pollutants in the period 2000 to 2015. In this period, levels of non-methane volatile organic compounds, nitrogen oxides, particulate matter and sulphur dioxide decreased. In the case of ammonia, the index increased from 103 to 112. The base year in which the index is set at 100 is 2005.
     </desc>
     <g transform="translate(424,0)" style="">
         <g style="">
@@ -16,31 +16,31 @@
                     2000
                 </text>
             </g>
-            <g transform="translate(53.58818928431756,288)" style="">
+            <g transform="translate(50.01825150574923,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2005
                 </text>
             </g>
-            <g transform="translate(96.44114196323818,288)" style="">
+            <g transform="translate(100.00912575287461,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2009
+                    2010
                 </text>
             </g>
             <g transform="translate(150,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#79b8a1" stroke-width="3" stroke-dasharray="none" d="M0,90.24667693152L10.73523660539695,98.1136292168L21.44114196323817,106.32164837312001L32.14704732107939,112.38159176735999L42.85295267892061,119.77611037584L53.58818928431756,128L64.29409464215878,129.74702400304L75,136.97320295824L85.70590535784122,145.9926639432L96.44114196323818,156.00594302960002L107.1470473210794,153.51971492976L117.8529526789206,156.99326048352L128.55885803676182,161.04800619920002L139.2940946421588,161.69014947984002L150,167.25615125872002" style="fill:none;stroke:#79b8a1;stroke-width:3px;"/>
+                <path fill="none" stroke="#79b8a1" stroke-width="3" stroke-dasharray="none" d="M0,90.24419023999997L10.020076656324147,98.09548735999999L20.01277605402446,106.2661032L30.005475451724767,112.36291200000002L39.99817484942508,119.82536464L50.01825150574923,128L60.01095090344953,129.84184664L70.00365030114985,137.13807848L79.99634969885015,146.210950864L90.0164263551743,156.313452336L100.00912575287461,153.96124088L110.00182515057492,157.34994308800003L119.99452454827524,161.55746382400002L130.0146012045994,162.329452784L140.0073006022997,167.72734737599998L150,172.010011504" style="fill:none;stroke:#79b8a1;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="154" x2="160" y1="167.25615125872002" y2="167.25615125872002" stroke="#79b8a1" stroke-width="3" style="stroke:#79b8a1;stroke-width:3px;"/>
-                    <text dy="0.3em" x="164" y="167.25615125872002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.8125px;fill:#666666;">
+                    <line x1="154" x2="160" y1="172.010011504" y2="172.010011504" stroke="#79b8a1" stroke-width="3" style="stroke:#79b8a1;stroke-width:3px;"/>
+                    <text dy="0.3em" x="164" y="172.010011504" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            75.46
+                            72.49
                         </tspan>
                     </text>
                 </g>
@@ -65,7 +65,7 @@
             </g>
             <g transform="translate(0,128)" style="">
                 <line x1="0" x2="150" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
-                <circle r="3.5" cx="53.58818928431756" style="fill:#f6f6f0;stroke:#454545;"/>
+                <circle r="3.5" cx="50.01825150574923" style="fill:#f6f6f0;stroke:#454545;"/>
                 <text x="150" text-anchor="end" dy="1.1em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:18px;fill:#454545;text-anchor:end;">
                      100
                 </text>
@@ -86,31 +86,31 @@
                     2000
                 </text>
             </g>
-            <g transform="translate(53.58818928431756,288)" style="">
+            <g transform="translate(50.01825150574923,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2005
                 </text>
             </g>
-            <g transform="translate(96.44114196323818,288)" style="">
+            <g transform="translate(100.00912575287461,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2009
+                    2010
                 </text>
             </g>
             <g transform="translate(150,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,69.87888334559997L10.73523660539695,76.47515589231998L21.44114196323817,97.69594173312001L32.14704732107939,107.06485014736L42.85295267892061,120.06550911648L53.58818928431756,128L64.29409464215878,127.11035607536002L75,132.64843732783999L85.70590535784122,132.5048230768L96.44114196323818,149.0549959312L107.1470473210794,142.01099444687998L117.8529526789206,143.44329067648002L128.55885803676182,148.62163182895998L139.2940946421588,149.38209996992L150,156.94563407616" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
+                <path fill="none" stroke="#23614e" stroke-width="3" stroke-dasharray="none" d="M0,69.3785288L10.020076656324147,76.54687104000001L20.01277605402446,98.10297664000001L30.005475451724767,107.45301088000002L39.99817484942508,121.30927856L50.01825150574923,128L60.01095090344953,127.57911936000002L70.00365030114985,133.151312624L79.99634969885015,134.306512096L90.0164263551743,153.505405344L100.00912575287461,149.159478432L110.00182515057492,152.63371251200002L119.99452454827524,158.76777521600002L130.0146012045994,161.552770736L140.0073006022997,166.962246704L150,168.686146496" style="fill:none;stroke:#23614e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="154" x2="160" y1="156.94563407616" y2="156.94563407616" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="164" y="156.94563407616" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.8125px;fill:#666666;">
+                    <line x1="154" x2="160" y1="168.686146496" y2="168.686146496" stroke="#23614e" stroke-width="3" style="stroke:#23614e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="164" y="168.686146496" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            81.91
+                            74.57
                         </tspan>
                     </text>
                 </g>
@@ -135,7 +135,7 @@
             </g>
             <g transform="translate(0,128)" style="">
                 <line x1="0" x2="150" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
-                <circle r="3.5" cx="53.58818928431756" style="fill:#f6f6f0;stroke:#454545;"/>
+                <circle r="3.5" cx="50.01825150574923" style="fill:#f6f6f0;stroke:#454545;"/>
                 <text x="150" text-anchor="end" dy="1.1em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:18px;fill:#454545;text-anchor:end;">
                      100
                 </text>
@@ -153,31 +153,31 @@
                     2000
                 </text>
             </g>
-            <g transform="translate(53.58818928431756,288)" style="">
+            <g transform="translate(50.01825150574923,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2005
                 </text>
             </g>
-            <g transform="translate(96.44114196323818,288)" style="">
+            <g transform="translate(100.00912575287461,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2009
+                    2010
                 </text>
             </g>
             <g transform="translate(150,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#a4d38e" stroke-width="3" stroke-dasharray="none" d="M0,93.28131950144001L10.73523660539695,107.97301854032L21.44114196323817,116.72055362256L32.14704732107939,125.85659226319999L42.85295267892061,124.27170734015999L53.58818928431756,128L64.29409464215878,129.46649834272L75,137.75852647920001L85.70590535784122,145.70226301024002L96.44114196323818,157.98530746512L107.1470473210794,142.1677974296L117.8529526789206,151.96763661152L128.55885803676182,156.95856703951998L139.2940946421588,160.8803263136L150,170.9402732888" style="fill:none;stroke:#a4d38e;stroke-width:3px;"/>
+                <path fill="none" stroke="#a4d38e" stroke-width="3" stroke-dasharray="none" d="M0,88.54047856L10.020076656324147,103.56849776000001L20.01277605402446,112.37531311999999L30.005475451724767,121.88082816000002L39.99817484942508,120.22462816000001L50.01825150574923,128L60.01095090344953,126.67039263999999L70.00365030114985,136.022476176L79.99634969885015,144.581993904L90.0164263551743,158.603284896L100.00912575287461,141.503683312L110.00182515057492,153.740695728L119.99452454827524,157.964113408L130.0146012045994,160.505303328L140.0073006022997,171.76882328L150,170.834734912" style="fill:none;stroke:#a4d38e;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="154" x2="160" y1="170.9402732888" y2="170.9402732888" stroke="#a4d38e" stroke-width="3" style="stroke:#a4d38e;stroke-width:3px;"/>
-                    <text dy="0.3em" x="164" y="170.9402732888" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.8125px;fill:#666666;">
+                    <line x1="154" x2="160" y1="170.834734912" y2="170.834734912" stroke="#a4d38e" stroke-width="3" style="stroke:#a4d38e;stroke-width:3px;"/>
+                    <text dy="0.3em" x="164" y="170.834734912" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            73.16
+                            73.23
                         </tspan>
                     </text>
                 </g>
@@ -202,7 +202,7 @@
             </g>
             <g transform="translate(0,128)" style="">
                 <line x1="0" x2="150" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
-                <circle r="3.5" cx="53.58818928431756" style="fill:#f6f6f0;stroke:#454545;"/>
+                <circle r="3.5" cx="50.01825150574923" style="fill:#f6f6f0;stroke:#454545;"/>
                 <text x="150" text-anchor="end" dy="1.1em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:18px;fill:#454545;text-anchor:end;">
                      100
                 </text>
@@ -223,31 +223,31 @@
                     2000
                 </text>
             </g>
-            <g transform="translate(53.58818928431756,288)" style="">
+            <g transform="translate(50.01825150574923,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2005
                 </text>
             </g>
-            <g transform="translate(96.44114196323818,288)" style="">
+            <g transform="translate(100.00912575287461,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2009
+                    2010
                 </text>
             </g>
             <g transform="translate(150,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#74b917" stroke-width="3" stroke-dasharray="none" d="M0,123.40430670303999L10.73523660539695,121.44957657743998L21.44114196323817,124.80159094464L32.14704732107939,124.91717106448002L42.85295267892061,126.89853901296001L53.58818928431756,128L64.29409464215878,126.91511497215998L75,126.85672559887999L85.70590535784122,124.67828823456L96.44114196323818,120.38021767856L107.1470473210794,127.22209816432002L117.8529526789206,117.32646942655998L128.55885803676182,121.68434845168L139.2940946421588,115.82314283568002L150,113.50317753776002" style="fill:none;stroke:#74b917;stroke-width:3px;"/>
+                <path fill="none" stroke="#74b917" stroke-width="3" stroke-dasharray="none" d="M0,123.38424432L10.020076656324147,121.42991391999999L20.01277605402446,124.78362031999998L30.005475451724767,124.89972688L39.99817484942508,126.88228079999999L50.01825150574923,128L60.01095090344953,126.90846784000001L70.00365030114985,126.85307712L79.99634969885015,124.68826608L90.0164263551743,120.39837023999999L100.00912575287461,127.22437536000001L110.00182515057492,117.35969904000001L119.99452454827524,121.72158239999999L130.0146012045994,115.88149584000001L140.0073006022997,114.0292336L150,108.86291951999999" style="fill:none;stroke:#74b917;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="154" x2="160" y1="113.50317753776002" y2="113.50317753776002" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
-                    <text dy="0.3em" x="164" y="113.50317753776002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:32.8125px;fill:#666666;">
+                    <line x1="154" x2="160" y1="108.86291951999999" y2="108.86291951999999" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
+                    <text dy="0.3em" x="164" y="108.86291951999999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:32.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            109.06
+                            111.96
                         </tspan>
                     </text>
                 </g>
@@ -272,7 +272,7 @@
             </g>
             <g transform="translate(0,128)" style="">
                 <line x1="0" x2="150" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
-                <circle r="3.5" cx="53.58818928431756" style="fill:#f6f6f0;stroke:#454545;"/>
+                <circle r="3.5" cx="50.01825150574923" style="fill:#f6f6f0;stroke:#454545;"/>
                 <text x="150" text-anchor="end" dy="1.1em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:18px;fill:#454545;text-anchor:end;">
                      100
                 </text>
@@ -293,31 +293,31 @@
                     2000
                 </text>
             </g>
-            <g transform="translate(53.58818928431756,288)" style="">
+            <g transform="translate(50.01825150574923,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2005
                 </text>
             </g>
-            <g transform="translate(96.44114196323818,288)" style="">
+            <g transform="translate(100.00912575287461,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2009
+                    2010
                 </text>
             </g>
             <g transform="translate(150,288)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,94.55216851647998L10.73523660539695,100.08814698463999L21.44114196323817,108.17010182048L32.14704732107939,113.01687702976L42.85295267892061,118.45264322256L53.58818928431756,128L64.29409464215878,132.97711748048002L75,137.98737927152L85.70590535784122,145.55141244880002L96.44114196323818,151.36057148016L107.1470473210794,140.65946207375998L117.8529526789206,146.41371644048L128.55885803676182,153.3471089016L139.2940946421588,152.19956165856L150,160.19658132576" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
+                <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,93.68646240000001L10.020076656324147,99.95224528L20.01277605402446,107.65787151999999L30.005475451724767,112.99706784L39.99817484942508,118.54228752L50.01825150574923,128L60.01095090344953,133.687801808L70.00365030114985,139.655366496L79.99634969885015,147.816103264L90.0164263551743,154.531316544L100.00912575287461,145.92983088000003L110.00182515057492,151.803141088L119.99452454827524,159.30603552L130.0146012045994,159.230857552L140.0073006022997,166.789826032L150,167.34537672" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="154" x2="160" y1="160.19658132576" y2="160.19658132576" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="164" y="160.19658132576" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.8125px;fill:#666666;">
+                    <line x1="154" x2="160" y1="167.34537672" y2="167.34537672" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="164" y="167.34537672" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.8125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            79.88
+                            75.41
                         </tspan>
                     </text>
                 </g>
@@ -342,16 +342,16 @@
             </g>
             <g transform="translate(0,128)" style="">
                 <line x1="0" x2="150" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
-                <circle r="3.5" cx="53.58818928431756" style="fill:#f6f6f0;stroke:#454545;"/>
+                <circle r="3.5" cx="50.01825150574923" style="fill:#f6f6f0;stroke:#454545;"/>
                 <text x="150" text-anchor="end" dy="1.1em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:18px;fill:#454545;text-anchor:end;">
                      100
                 </text>
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="624" width="640" height="96" style="display:block;height:96px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:100px;width:640px;">
-            <div style="display:block;height:100px;width:640px;">
+    <foreignObject x="0" y="624" width="640" height="150" style="display:block;height:150px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:154px;width:640px;">
+            <div style="display:block;height:154px;width:640px;">
                 <div style="display:block;height:40px;padding-right:62px;width:640px;">
                     <div style="display:block;height:40px;line-height:12px;width:578px;">
                         <div style="border-bottom-color:rgb(69, 69, 69);border-left-color:rgb(69, 69, 69);border-right-color:rgb(69, 69, 69);border-top-color:rgb(69, 69, 69);color:rgb(69, 69, 69);display:inline-block;font-family:BundesSans-Regular;font-size:12px;height:18px;margin-right:12px;outline-color:rgb(69, 69, 69);padding-left:12px;position:relative;width:89.84375px;">
@@ -397,11 +397,16 @@
                         </div>
                     </div>
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Source:  Umweltbundesamt 2015.
+                <div style="display:block;height:114px;width:640px;">
+                    <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Source:  Umweltbundesamt (2017). National Trend Tables for the German Atmospheric Emission Reporting 1990-2015.
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:75.53125px;">
+                                        Updated data
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Federal Government

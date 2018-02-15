@@ -17,7 +17,7 @@ Er dient der Risikoerkennung mit Blick auf Arbeitsmarkt- und Einkommenschancen j
 
 Diese jungen Menschen haben im Anschluss an die Sekundarstufe I keinen weiteren Abschluss gemacht und befinden sich auch nicht in Bildung oder Ausbildung.
 
-Die Risikogruppe der frühen Schulabgänger ist nicht zu verwechseln mit der Risikogruppe der **Schulabbrecher**, die keinen Hauptschulabschluss haben. Der Anteil der Schulabbrecher lag 2014 bei 5,8 Prozent.
+Die Risikogruppe der frühen Schulabgänger ist nicht zu verwechseln mit der Risikogruppe der **Schulabbrecher**, die keinen Hauptschulabschluss haben. Der Anteil der Schulabbrecher lag 2015 bei 5,6 Prozent.
 
 Datengrundlage sind Mikrozensus-Befragungen des Statistischen Bundesamtes.
 

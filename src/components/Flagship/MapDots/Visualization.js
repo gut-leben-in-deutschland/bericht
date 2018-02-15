@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import {defaultMemoize as memoize} from 'reselect';
 import {shallowEqual} from 'utils/shallowEqual';
 import {select, mouse, event} from 'd3-selection';
-import 'd3-transition';
+import {transition} from 'd3-transition';
 import {List, Set} from 'immutable';
 import {StyleSheet, css} from 'aphrodite';
 import subsup from 'utils/subsup';
@@ -13,13 +13,13 @@ import {Tooltip} from 'components/Tooltip/Tooltip';
 import {midGrey, userHighlight} from 'theme/constants';
 import layout from './layout';
 import {sansBold14, sansBold18, sansBold20} from 'theme/typeface';
-import {sOnly} from 'theme/mediaQueries';
+import {onlyS} from 'theme/mediaQueries';
 
 const styles = StyleSheet.create({
   groupLabel: {
     ...sansBold18,
     fill: midGrey,
-    [sOnly]: {
+    [onlyS]: {
       ...sansBold14
     }
   },

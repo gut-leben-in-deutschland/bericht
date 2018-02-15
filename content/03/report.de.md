@@ -23,13 +23,13 @@ Bildung fördert die Orientierung und das Urteilsvermögen der Menschen. Bildung
 Der Indikator **Anteil der Menschen mit einem Abschluss der Sekundarstufe II** zeigt, wie viele Menschen mindestens eine **abgeschlossene Berufsausbildung oder eine Hochschulreife** haben. Damit wird der Bildungserfolg, also das Bildungsniveau einer 
 Gesellschaft und näherungsweise auch die Qualität des deutschen Bildungssystems gemessen.
 
-Wer heute in Deutschland die Hochschulreife erlangt oder eine Berufsausbildung abschließt, hat gute Chancen auf dem Arbeitsmarkt. Im Jahr 2015 verfügten in Deutschland fast neun von zehn Menschen im Alter von 25 bis 64 Jahren über mindestens eine dieser Qualifikationen - gut sechs Prozentpunkte mehr als im Durchschnitt der [OECD Länder](http://dx.doi.org/10.1787/888933396529). Erfreulich ist auch: Jüngere Frauen haben den Rückstand zu den Männern mittlerweile aufgeholt. Der Anteil junger Frauen mit Abschluss der Sekundarstufe II liegt sogar knapp über dem Anteil der jungen Männer.
+Wer heute in Deutschland die Hochschulreife erlangt oder eine Berufsausbildung abschließt, hat gute Chancen auf dem Arbeitsmarkt. Im Jahr 2016 verfügten in Deutschland rund 87 von 100 Menschen im Alter von 25 bis 64 Jahren über mindestens eine dieser Qualifikationen.  - das sind fünf Personen mehr als im Durchschnitt der [OECD Länder](http://dx.doi.org/10.1787/eag-2017-table11-en). Erfreulich ist auch: Jüngere Frauen haben den Rückstand zu den Männern mittlerweile aufgeholt. Der Anteil junger Frauen im Alter von 25 bis 34 Jahren mit Abschluss der Sekundarstufe II liegt sogar knapp über dem Anteil der jungen Männer.
 
 ```chart
 03-01-a
 ```
 
-Bildung ist eine der wichtigsten **Voraussetzungen für die Integration zugewanderter Menschen**. Auch hier ist in den Jahren bis 2014 ein **Aufholprozess** zu erkennen: Der Anteil der Migrantinnen und Migranten, die entweder Hochschulreife oder einen Hochschulabschluss erreichen, nahm bei den jungen Altersgruppen erheblich zu. Dennoch bleibt ein deutlicher Abstand zu den Menschen ohne Migrationshintergrund.
+Bildung ist eine der wichtigsten **Voraussetzungen für die Integration zugewanderter Menschen**. Auch hier ist in den Jahren bis 2016 ein **Aufholprozess** zu erkennen: Der Anteil der Migrantinnen und Migranten, die entweder Hochschulreife oder einen Hochschulabschluss erreichen, nahm bei den jungen Altersgruppen erheblich zu. Dennoch bleibt ein deutlicher Abstand zu den Menschen ohne Migrationshintergrund.
 
 
 ```chart
@@ -60,9 +60,9 @@ Als Indikator dient hier die **Risikogruppe der frühen Schulabgänger**. Sie si
 
 <!-- ColumnLeft start -->
 
-Ihr Anteil ist in den letzten Jahren gesunken – von rund 13 Prozent im Jahr 2003 auf unter zehn Prozent in 2015. Allerdings bleiben junge Männer in Deutschland mit knapp über zehn Prozent etwas stärker gefährdet als junge Frauen mit 9,5 Prozent. Damit hat Deutschland ein Kernziel der „EU-2020-Strategie für Beschäftigung und intelligentes, nachhaltiges und integratives Wachstum“ erreicht.
+Ihr Anteil ist in den letzten Jahren gesunken – von rund 13 Prozent im Jahr 2003 auf zehn Prozent in 2016. Allerdings bleiben junge Männer in Deutschland mit knapp elf Prozent etwas stärker gefährdet als junge Frauen mit einem Anteil von unter zehn Prozent. Damit kam Deutschland dem 10-Prozent-Ziel der „EU-2020-Strategie für Beschäftigung und intelligentes, nachhaltiges und integratives Wachstum“ sehr nahe.
 
-[Europaweit](http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=t2020_40&plugin=1) sank der Anteil der frühen Schulabgänger von 16 Prozent im Jahr 2004 auf mittlerweile auf knapp unter elf Prozent im Jahr 2016. Deutschland liegt damit unter dem europäischen Durchschnitt.[^1]    
+[Europaweit](http://ec.europa.eu/eurostat/tgm/table.do?tab=table&init=1&language=en&pcode=t2020_40&plugin=1) sank der Anteil der frühen Schulabgänger von 16 Prozent im Jahr 2004 auf knapp unter elf Prozent im Jahr 2016. Deutschland liegt damit unter dem europäischen Durchschnitt.[^1]    
 
 <!-- ColumnLeft end -->
 
@@ -80,7 +80,7 @@ Ihr Anteil ist in den letzten Jahren gesunken – von rund 13 Prozent im Jahr 20
 
 <!-- ColumnLeft start -->
 
-Auch unter jungen Migrantinnen und Migranten in Deutschland gibt es weniger frühe Schulabgänger. 2005 gehörte noch fast jeder Vierte dazu, 2015 nur noch jeder Sechste.
+Auch unter jungen Migrantinnen und Migranten in Deutschland gibt es heute weniger frühe Schulabgänger als noch vor elf Jahren. 2005 waren das noch 24 Prozent der jungen Menschen mit Migrationshintergrund, 2016 lag der Anteil bei rund 18 Prozent.
 
 Trotz dieser Verbesserung bleibt ein deutlicher Abstand zu den Menschen ohne Migrationshintergrund. Damit **Bildung als Motor der Integration** funktioniert, sind besondere Anstrengungen nötig – nicht zuletzt, weil 2015 und 2016 viele Flüchtlinge mit geringer formaler Bildung in Deutschland Schutz gesucht haben.
 
@@ -115,11 +115,11 @@ Bildungsgerechtigkeit gehörte zu den Themen, die im Bürgerdialog besonders int
 
 Der Indikator **Bildungsmobilität zwischen Eltern und Kindern** vergleicht den **höchsten** allgemeinbildenden **Schulabschluss der Eltern mit dem ihrer Kinder**.
 
-Der **Zusammenhang zwischen dem Bildungsniveau der Eltern und dem ihrer Kinder** ist in Deutschland stark ausgeprägt. Sieben von zehn Kindern, von denen zumindest ein Elternteil Abitur oder Fachhochschulreife hat, erreichen diesen Abschluss ebenfalls. Der Anteil von Jugendlichen, die das Bildungssystem ohne formalen Abschluss verlassen, ist in diesen Familien sehr gering.
+Der **Zusammenhang zwischen dem Bildungsniveau der Eltern und dem ihrer Kinder** ist in Deutschland stark ausgeprägt. Gut sieben von zehn Kindern, von denen mindestens ein Elternteil Abitur oder Fachhochschulreife hat, erreichen diesen Abschluss ebenfalls. Der Anteil von Jugendlichen, die das Bildungssystem ohne formalen Abschluss verlassen, ist in diesen Familien sehr gering.
 
-Andererseits belegen die Zahlen auch: Viele Kinder schaffen den Aufstieg im deutschen Schulsystem. Gerade in bildungsfernen Familien, in denen kein Elternteil einen Schulabschluss hat, ist die aufwärtsgerichtete Bildungsmobilität am größten: Über 85 Prozent der Kinder machen qualifizierte Abschlüsse, knapp 23 Prozent erreichen sogar die Fachhochschulreife oder das Abitur. Blickt man auf die vergangenen 20 Jahre zurück, so zeigt sich eine **deutlich positive Entwicklung**. Im Jahr 2015 schaffte knapp jedes vierte Kind von Eltern ohne Schulabschluss die Hochschulreife. Zwanzig Jahre früher war es nur etwa jedes 13. Kind.
+Andererseits belegen die Zahlen auch: Viele Kinder schaffen den Aufstieg im deutschen Schulsystem. Gerade in bildungsfernen Familien, in denen kein Elternteil einen Schulabschluss hat, ist die aufwärtsgerichtete Bildungsmobilität am größten: Gut 80 Prozent der Kinder machen qualifizierte Abschlüsse, rund 24 Prozent erreichen sogar die Fachhochschulreife oder das Abitur. Blickt man auf die vergangenen 20 Jahre zurück, so zeigt sich eine **deutlich positive Entwicklung**. Im Jahr 2016 schaffte knapp jedes vierte Kind von Eltern ohne Schulabschluss die Hochschulreife. Zwanzig Jahre früher war es nur etwa jedes 13. Kind.
 
-Es bleibt weiterer Handlungsbedarf. Denn immer noch verlässt jedes siebte Kind aus bildungsfernem Elternhaus die Schule ohne Abschluss und hat damit schlechtere Aussichten auf gute Arbeit, ein befriedigendes Einkommen, kurz auf ein gutes Leben.
+Es bleibt weiterer Handlungsbedarf. Denn immer noch verlässt jedes fünfte Kind aus bildungsfernem Elternhaus die Schule ohne Abschluss und hat damit schlechtere Aussichten auf gute Arbeit, ein befriedigendes Einkommen, kurz auf ein gutes Leben.
 
 <!-- ColumnContainer start -->
 
@@ -141,7 +141,7 @@ Es bleibt weiterer Handlungsbedarf. Denn immer noch verlässt jedes siebte Kind 
 
 <!-- ColumnContainer end -->
 
-Bei den Familien mit Migrationshintergrund ist das Bild gemischt. Obwohl die Eltern die Hochschulreife haben, gibt es bei den Kindern überdurchschnittlich viele, die zunächst einen Haupt- oder Realschulabschluss schaffen oder die Schule ohne Abschluss verlassen. Erfreulich ist, dass überdurchschnittlich vielen Kindern mit Migrationshintergrund, deren Eltern keinen Schulabschluss haben, der Sprung zu einem Haupt- und Realschulabschluss oder gar zur Fachhochschul- oder Hochschulreife gelingt. Es ist daher von hoher Priorität, den nach wie vor bestehenden Zusammenhang zwischen Herkunft und Bildungserfolg weiter abzubauen.
+Bei den Familien mit Migrationshintergrund ist das Bild gemischt. In Familien in denen mindestens ein Elternteil die Hochschulreife hat, gibt es überdurchschnittlich viele Kinder, die zunächst einen Haupt- oder Realschulabschluss schaffen oder die Schule ohne Abschluss verlassen. Erfreulich ist hingegen, dass überdurchschnittlich vielen Kindern mit Migrationshintergrund, deren Eltern keinen Schulabschluss haben, der Sprung zu einem Haupt- und Realschulabschluss oder gar zur Fachhochschul- oder Hochschulreife gelingt. Es ist daher von hoher Priorität, den nach wie vor bestehenden Zusammenhang zwischen Herkunft und Bildungserfolg weiter abzubauen.
 
 ```chart
 03-03-b14
@@ -174,9 +174,9 @@ Der Indikator ** Beteiligung an Weiterbildung** zeigt den Anteil der **18- bis 6
 03-04-a
 ```
 
-Im Jahr 2014 traf dies auf mehr als die Hälfte der 18- bis 64-Jährigen zu. Im Jahr 2007 beteiligten sich nur 43 Prozent an Weiterbildung. Die Zunahme erfolgte über alle Altersgruppen hinweg. Besonders ausgeprägt war der Anstieg bei den 25- bis 34-Jährigen sowie den 55- bis 64-Jährigen mit über zehn Prozentpunkten. Lebenslanges Lernen ist angesichts des technischen Fortschritts und der alternden Gesellschaft heute wichtiger denn je.
+Im Jahr 2016 traf dies auf die Hälfte der 18- bis 64-Jährigen zu. Im Jahr 2007 beteiligten sich nur 43 Prozent an Weiterbildung. Die Zunahme erfolgte über alle Altersgruppen hinweg. Besonders ausgeprägt war der Anstieg bei den 55- bis 64-Jährigen mit 17 Prozentpunkten. Lebenslanges Lernen ist angesichts des technischen Fortschritts und der alternden Gesellschaft heute wichtiger denn je. Davon zeugen auch die Weiterbildungsaktivitäten der 65- bis 69-Jährigen die 2016 erstmals befragt wurden. In dieser Gruppe hat sich jeder Fünfte weitergebildet, vorwiegend im Bereich der nicht-berufsbezogenen Weiterbildungen. 
 
-**Unternehmen sind der wichtigste Ort der Weiterbildung** in Deutschland. Hier finden 70 Prozent der erfassten Weiterbildungsaktivitäten statt. Dreizehn Prozent der Weiterbildungen sind individuell-berufsbezogen, 17 Prozent sind nicht-berufsbezogen. Die Schwerpunkte der Weiterbildungsaktivitäten unterscheiden sich nach Form der Weiterbildung. Überwiegen bei betrieblichen und berufsbezogenen Weiterbildungen die Themen **Wirtschaft, Arbeit, Recht**, sind es bei den nicht-berufsbezogenen Weiterbildungen Sprache, Kultur und Politik.
+**Unternehmen sind der wichtigste Ort der Weiterbildung** in Deutschland. Im Jahr 2016 finden hier 71 Prozent der erfassten Weiterbildungsaktivitäten statt. Zehn Prozent der Weiterbildungen sind individuell-berufsbezogen, 20 Prozent sind nicht-berufsbezogen. Die Schwerpunkte der Weiterbildungsaktivitäten unterscheiden sich nach Form der Weiterbildung. Überwiegen bei betrieblichen und berufsbezogenen Weiterbildungen die Themen **Wirtschaft, Arbeit, Recht** sowie **Natur, Technik und Computer**, sind es bei den nicht-berufsbezogenen Weiterbildungen **Sprache, Kultur und Politik**.
 
 
 ```chart

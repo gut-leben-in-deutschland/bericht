@@ -31,7 +31,7 @@ function createExpressApp(config) {
       publicPath: config.output.publicPath,
       contentBase: config.output.contentBase,
       stats: {
-        assets: true,
+        assets: false,
         chunkModules: false,
         chunkOrigins: false,
         chunks: false,

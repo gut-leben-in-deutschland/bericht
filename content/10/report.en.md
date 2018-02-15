@@ -47,7 +47,7 @@ The indicators shows that there is some good news, but there is still a lot to d
 
 <!-- ColumnContainer end -->
 
-When we look at each of the five main air pollutants separately we find that **throughout Germany emissions of four of the five pollutants have fallen** significantly – only **ammonia** emissions remain largely unchanged since the turn of the millennium. In 2013, German ammonia emissions were 33 per cent higher than the national emissions maximum set by EU law. Ammonia emissions are mainly produced by large livestock farms.
+When we look at each of the five main air pollutants separately we find that **throughout Germany emissions of four of the five pollutants have fallen** significantly since 2000 – only **ammonia** emissions remain largely unchanged since the turn of the millennium. In 2015, German ammonia emissions were 38 per cent higher than the national emissions maximum set by EU law. Ammonia emissions are mainly produced by large livestock farms.
 
 However, total emissions only provide limited information about local air quality. There are localised problems with excessively high concentrations.
 
@@ -64,15 +64,14 @@ However, total emissions only provide limited information about local air qualit
 
 Limits are regularly breached in **conurbations** and around **key transport routes**– with negative consequences for human health and the environment. 
 
-The **concentration of nitrogen dioxide** in the air is measured by the **514 monitoring stations** that make up the air monitoring networks of the federal states and the Federal Environment Agency. The map shows average annual amounts of nitrogen dioxide pollution in 2015.
+The **concentration of nitrogen dioxide** in the air is measured by the **517 monitoring stations** that make up the air monitoring networks of the federal states and the Federal Environment Agency. The map shows average annual amounts of nitrogen dioxide pollution in 2016.The legal limit is 40 µg/m<sup>3</sup>.
 
 
 <!--ScrollBlock end-->
 
 <!--ScrollBlock start stage=dots skipMobileVisualization-->
 
-The legal limit of 40 µg/m<sup>3</sup> was exceeded at 27 per cent of monitoring stations.
-For particulate matters, the WHO's air quality guidelines were exceeded at 35 per cent of monitoring stations. For nitrogen dioxide, the 1-hour level of 200 µg/m<sup>3</sup> was exceeded in 32 locations in 2015, and at five locations the legal limit was breached on more than 18 days. The annual average amounts of nitrogen dioxide pollution range from below 10 µg/m<sup>3</sup> to above 70 µg/m<sup>3</sup> in some cities. The legal limit is 40 µg/m<sup>3</sup>.
+The legal limit of 40 µg/m<sup>3</sup> was exceeded at 28 per cent of monitoring stations. For nitrogen dioxide, the 1-hour level of 200 µg/m<sup>3</sup> was exceeded in 24 locations in 2016, and at two locations the legal limit was breached on more than 18 days. This value dropped relative to the previous year when the legal limit was exceeded at five stations. The annual average amounts of nitrogen dioxide pollution range from below 10 µg/m<sup>3</sup> to above 80 µg/m<sup>3</sup> in some cities. 
 
 <!--ScrollBlock end-->
 
@@ -108,7 +107,7 @@ A distinction is drawn between **monitoring stations close to traffic** (traffic
 
 <!--ScrollBlock start stage=groups-->
 
-In 2015 the annual limit was exceeded at 151 of the 245 monitoring stations that were close to traffic.    
+In 2016 the annual limit was exceeded at 144 of the 246 monitoring stations that were close to traffic.    
 
 <!--ScrollBlock end-->
 
@@ -160,14 +159,14 @@ The **indicator for biodiversity and environmental quality**, also known as the 
 10-02-a
 ```
 
-The picture provided by this indicator is far from positive. **Biodiversity and the state of the environment** **deteriorated to a statistically significant extent** in Germany between 2003 and 2013 when we take into account the average of all forms of land use – agricultural land, settlements, forests, etc.
+Trends in **Biodiversity and the state of the environment** in Germany are far from positive. The indicator **deteriorated** in Germany between 2003 and 2014. This negative trend has been statistically significant. This holds true for the average of all forms of land use – agricultural land, settlements, forests, etc.
 
 
 ```chart
 10-02-b
 ```
 
-Almost one third of the targets set by the **federal government in its Sustainable Development Strategy** (*Nachhaltigkeitsstrategie*) and in the ** National Strategy on Biological Diversity** (*Nationale Strategie zur biologischen Vielfalt*) were missed. The state of **agricultural land**, **coastlines and seas** is particularly critical, but biodiversity and **the quality of forests** is much better, with 87 per cent of the target being hit in 2013.
+The targets set by the **federal government in its Sustainable Development Strategy** (*Nachhaltigkeitsstrategie*) and in the **National Strategy on Biological Diversity** (*Nationale Strategie zur biologischen Vielfalt*) were missed by one third. The state of **agricultural land**, **coastlines and seas** is particularly critical, but biodiversity and **the quality of forests** is much better, with 84 per cent of the target being hit in 2014.
 
 
 <!-- GovernmentMeasures start -->

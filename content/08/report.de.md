@@ -41,17 +41,17 @@ Wie sich das Zusammenleben in Deutschland im Zeitverlauf entwickelt hat, zeigt d
 
 <!-- ColumnRight start -->
 
-Die **Formen des Zusammenlebens** haben sich in den letzten Jahren gewandelt: Mehr als jeder dritte Erwachsene lebt mittlerweile allein. Im Jahr 2015 sind das mehr als 34 Prozent. Die Zahl nicht ehelicher Lebensgemeinschaften nimmt ebenso zu wie die stabiler gleichgeschlechtlicher Beziehungen.
+Die **Formen des Zusammenlebens** haben sich in den letzten Jahren gewandelt: Mehr als jeder dritte Erwachsene lebt mittlerweile allein. Im Jahr 2016 sind das mehr als 34 Prozent. Die Zahl nicht ehelicher Lebensgemeinschaften nimmt ebenso zu wie die stabiler gleichgeschlechtlicher Beziehungen.
 
-Aber noch immer gilt: Mehr als die Hälfte der Deutschen lebt mit ihrer Ehefrau oder ihrem Ehemann zusammen. 2015 sind das rund 56 von 100 Personen. 1996 waren es noch 66 von 100 Personen.
+Aber noch immer gilt: Mehr als die Hälfte der Deutschen lebt mit ihrer Ehefrau oder ihrem Ehemann zusammen. 2016 sind das 56 von 100 Personen. 1996 waren es noch 66 von 100 Personen.
 
 <!-- ColumnRight end -->
 
 <!-- ColumnContainer end -->
 
-Der **Großteil der Kinder** wächst 2015 nach wie vor bei ihren verheirateten Eltern auf. Es sind allerdings zehn Prozent weniger als vor zehn Jahren. Die **Zahl der Alleinerziehenden steigt** weiter: Jedes fünfte Kind in Deutschland wächst heute bei nur einem Elternteil auf.
+Der **Großteil der Kinder** wächst 2016 nach wie vor bei ihren verheirateten Eltern auf. Es sind allerdings zehn Prozent weniger als vor zehn Jahren. Die **Zahl der Alleinerziehenden steigt** weiter: Jedes fünfte Kind in Deutschland wächst heute bei nur einem Elternteil auf.
 
-Bemerkenswert sind die **regionalen Unterschiede**: In den **ostdeutschen Flächenländern** leben deutlich weniger Kinder bei verheirateten Eltern (57,5 Prozent) als in westdeutschen Flächenländern (75,3 Prozent). Dafür ist in den ostdeutschen Flächenstaaten, der Anteil der Kinder größer, die bei einem alleinerziehenden Elternteil aufwachsen (25,5 Prozent). In den **Stadtstaaten** sind das knapp 30 Prozent aller Kinder.
+Bemerkenswert sind die **regionalen Unterschiede**: In den **ostdeutschen Flächenländern** leben deutlich weniger Kinder bei verheirateten Eltern (rund 57 Prozent) als in westdeutschen Flächenländern (rund 76 Prozent). Dafür ist in den ostdeutschen Flächenstaaten, der Anteil der Kinder größer, die bei einem alleinerziehenden Elternteil aufwachsen. Dieser Anteil liegt bei 25 Prozent im Vergleich zu knapp 19 Prozent in den westdeutschen Flächenstaaten. In den **Stadtstaaten** sind das rund 27 Prozent aller Kinder.
 
 ```chart
 08-01-b

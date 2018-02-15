@@ -18,8 +18,6 @@ if (process.env.NODE_ENV !== 'production') {
     collapsed: true
   });
   middlewares.push(logger);
-
-  window.Perf = require('react-addons-perf');
 }
 
 const loadContent = (path, callback, dispatch, actions) => {
@@ -152,7 +150,9 @@ if (__DEV__) {
 
 // Client render
 if (typeof document !== 'undefined') {
-  ReactDOM.render((
+  const renderOrHydrate = document.querySelector('[data-reactroot]') ? ReactDOM.hydrate : ReactDOM.render;
+
+  renderOrHydrate((
     <AppContainer>
       <AppRoot configuration={cabinetConfig} />
     </AppContainer>

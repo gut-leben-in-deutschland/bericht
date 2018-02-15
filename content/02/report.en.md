@@ -24,9 +24,9 @@ Unemployment has a major impact on wellbeing. It not only affects people who are
 
 <!-- ColumnLeft start -->
 
-The **unemployment rate** is key to describing labour market trends. It shows how many people are seeking work and are registered unemployed with the Federal Employment Agency in a given month. In May 2017, a total of 2.5 million people were unemployed in Germany. This corresponds to an [unemployment rate](https://statistik.arbeitsagentur.de/Navigation/Statistik/Statistik-nach-Themen/Arbeitsmarkt-im-Ueberblick/Arbeitsmarkt-im-Ueberblick-Nav.html) of 5.6 per cent.
+The **unemployment rate** is key to describing labour market trends. It shows how many people are seeking work and are registered unemployed with the Federal Employment Agency in a given month. In December 2017, less than 2.4 million people were unemployed in Germany. This corresponds to an [unemployment rate](https://statistik.arbeitsagentur.de/Navigation/Statistik/Statistik-nach-Themen/Arbeitsmarkt-im-Ueberblick/Arbeitsmarkt-im-Ueberblick-Nav.html) of 5.3 per cent.
 
-The unemployment rate in Germany has fluctuated sharply at certain times over the last 20 years. During this time, two historical highs were followed by significant declines in the unemployment rate. During the first peak period, in 1997, nearly 4.4 million men and women were registered as unemployed. In January 2005, unemployment rose above the 5 million mark, partly because welfare recipients who are fit to work were included in the statistics for the first time. The unemployment rate fell in the following years, helped by labour market reforms, investment and industrial competitiveness. Even the global financial crisis did not affect the positive trend in the German labour market. The unemployment rate has halved since the historic peak of 2005. In 2016 it was at its lowest rate since German reunification with an annual average of 6.1 per cent.
+The unemployment rate in Germany has fluctuated sharply at certain times over the last 20 years. During this time, two historical highs were followed by significant declines in the unemployment rate. During the first peak period, in 1997, nearly 4.4 million men and women were registered as unemployed. In January 2005, unemployment rose above the 5 million mark, partly because welfare recipients who are fit to work were included in the statistics for the first time. The unemployment rate fell in the following years, helped by labour market reforms, investment and industrial competitiveness. Even the global financial crisis did not affect the positive trend in the German labour market. The unemployment rate has halved since the historic peak of 2005. In 2016, it was at its lowest rate since German reunification with an annual average of 6.1 per cent.
 
 <!-- ColumnLeft end -->
 
@@ -178,7 +178,7 @@ Participants in the national dialogue felt it was important to be involved in wo
 
 The accepted indicator for **participation in the labour market** is the **employment rate**. It supplements the unemployment rate and reflects people's general preference and actual opportunities to take part in working life.
 
-**Since reunification**, the employment rate has increased from 70.4 to 77.8 per cent. Almost four out of five people in Germany aged 20 to 64 are working. Two reasons for this trend are particularly important: There are more and more **highly educated women** and **more women in work** - particularly in the West German federal states. Women in Western Germany are gradually closing the gap with respect to the higher female labour market participation in the East German federal states. Overall, employment among women has increased substantially since 1991.
+**Since reunification**, the employment rate has increased from 70.4 to 78.4 per cent. Almost four out of five people in Germany aged 20 to 64 are working. Two reasons for this trend are particularly important: There are more and more **highly educated women** and **more women in work** - particularly in the West German federal states. Women in Western Germany are gradually closing the gap with respect to the higher female labour market participation in the East German federal states. Overall, employment among women has increased substantially since 1991.
 
 
 ```chart
@@ -189,7 +189,7 @@ The accepted indicator for **participation in the labour market** is the **emplo
 }
 ```
 
-The same applies to **people with migration background**: Their employment rate rose significantly between 2005 and 2015. When it comes to gender, there are still clear differences: The employment rate for men with migration background was only 5.5 percentage points below that of men without migration background. But, only 62 per cent of women with migration background were employed, as compared to 77 per cent of women without migration background.
+The same applies to **people with migration background**: Their employment rate rose significantly between 2005 and 2016. Nevertheless, clear differences between people with and without migration background persist. These differences are less pronounced for men than they are for women. In 2016 the employment rate of men with migration background was eight percentage points below the rate of men without migration background. The employment rate of women with migration background was 62 per cent, which is more than 15 percentage points lower than that of women without migration background. 
 
 The importance of successfully integrating individuals with a migration background into the labour market has increased given the high number of refugees who came to Germany in the recent past. It is important to help refugees by providing opportunities to learn German, get education and vocational training, and by recognising professional qualifications gained in their countries of origin.
 
@@ -242,9 +242,9 @@ In the national dialogue, people believed that the labour market should provide 
 
 <!-- ColumnRight start -->
 
-Of the almost 32 million dependent employees aged 20-64, the proportion of people in non-standard employment in 2015 was 23.2 per cent. This has gone down slightly since it peaked in 2007 at 25.5 per cent. Non-standard employment is partly a matter of choice, partly accepted as a way of entering the labour market, and partly involuntary.
+Of the 33 million dependent employees aged 20-64, the proportion of people in non-standard employment in 2016 was 22.9 per cent. This has gone down since it peaked in 2007 at 25.5 per cent. Non-standard employment is partly a matter of choice, partly accepted as a way of entering the labour market, and partly involuntary.
 
-In 2015, around 7.5 million people in Germany worked in non-standard forms of employment. They were working on fixed-term contracts, in marginal or part-time employment for less than 20 hours a week or in temp employment. Of the people in non-standard forms of employment, 4.8 million were working part-time, 2.5 million were on fixed-term contracts and 2.3 million were in marginal employment. In comparison, relatively few people were in temp or subcontracted labour contracts (662,000 people). This represents 2.1 per cent of all employees.[^3]
+In 2016, around 7.6 million people in Germany worked in non-standard forms of employment. They were working on fixed-term contracts, in marginal or part-time employment for less than 20 hours a week or in temp employment. Of the people in non-standard forms of employment, 4.8 million were working part-time, 2.6 million were on fixed-term contracts and 2.1 million were in marginal employment. In comparison, relatively few people were in temp or subcontracted labour contracts (732,000 people). This represents 2.2 per cent of all employees.[^3]
 
 
 <!-- ColumnRight end -->
@@ -256,7 +256,7 @@ In 2015, around 7.5 million people in Germany worked in non-standard forms of em
 02-04-ab
 ```
 
-Non-standard and standard employment have both gone up in Germany since 2000. The number of people in non-standard employment increased from 5.9 to 7.5 million between 2000 and 2015. The peak of around 7,9 million was reached in 2010 and has dropped slightly since then. The number of people in standard employment increased slightly from 23.7 to 24.8 million between 2000 and 2015. There is no evidence of an increase in non-standard employment solely at the expense of standard employment contracts.
+Non-standard and standard employment have both gone up in Germany since 2000. The number of people in non-standard employment increased from 5.9 to 7.9 million between 2000 and 2016. The peak of around 7.9 million was reached in 2010 and has dropped slightly since then. The number of people in standard employment increased from 23.7 to 25.6 million between 2000 and 2016. There is no evidence of an increase in non-standard employment solely at the expense of standard employment contracts.
 
 ```chart
 02-04-b
@@ -307,7 +307,7 @@ The indicator **real net wages and salaries** provides information on changes ov
 
 <!-- ColumnRight start -->
 
-Between 1991 and 2016 real, price-adjusted net wages and salaries per employee fluctuated between 19,811 and 20,561 euros. Average wage increases have lagged behind economic growth over the last 25 years. But the situation has been much more positive since 2009. After a temporary fall in real net wages and salaries, they are now once again increasing. Between 1991 and 2016 they increased on average by 1.3 per cent a year.
+Between 1991 and 2016 real, price-adjusted net wages and salaries per employee fluctuated between 19,811 and 20,637 euros. Average wage increases have lagged behind economic growth over the last 25 years. But the situation has been much more positive since 2009. After a temporary fall in real net wages and salaries, they are now once again increasing.
 
 <!-- ColumnRight end -->
 

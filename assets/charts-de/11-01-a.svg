@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="384" style="height:384px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Entwicklung der Wahlbeteiligung bei Bundestagswahlen im Zeitraum von 1949 bis 2013. Ausgehend von einer hohen Wahlbeteiligung bis in die 1980er Jahre ist die Wahlbeteiligung seit der Bundestagswahl 1987 gesunken. 2009 erreichte sie mit 70,8 Prozent ihren bisherigen Tiefstand. Bei der Bundestagswahl 2013 lag sie bei 71,5 Prozent insgesamt und bei 72,4 Prozent in den westdeutschen Bundesländern und bei 67,6 Prozent in den ostdeutschen Bundesländern.
+        Die Abbildung zeigt die Entwicklung der Wahlbeteiligung bei Bundestagswahlen im Zeitraum von 1949 bis 2017. Ausgehend von einer hohen Wahlbeteiligung bis in die 1980er Jahre ist die Wahlbeteiligung seit der Bundestagswahl 1987 gesunken. 2009 erreichte sie mit 70,8 Prozent ihren bisherigen Tiefstand. Bei der Bundestagswahl 2017 lag sie bei 76,2 Prozent insgesamt und bei 76,8 Prozent in den westdeutschen Bundesländern und bei 73,2 Prozent in den ostdeutschen Bundesländern.
     </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
@@ -11,31 +11,31 @@
                     1949
                 </text>
             </g>
-            <g transform="translate(142.5,264)" style="">
+            <g transform="translate(154.22152433868825,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    1969
+                    1972
                 </text>
             </g>
-            <g transform="translate(292.1201232032854,264)" style="">
+            <g transform="translate(301.76011595603336,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    1990
+                    1994
                 </text>
             </g>
             <g transform="translate(456,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2013
+                    2017
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,75.6L28.5,57.599999999999994L57,53.28L85.5,53.52000000000001L114,55.68000000000001L142.5,55.920000000000016L163.86036960985626,45.359999999999985L192.36036960985626,46.31999999999999L220.86036960985626,51.359999999999985L242.24024640657086,50.16L270.74024640657086,61.68000000000001L292.1201232032854,77.37422911200002L320.6201232032854,74.475781536L349.1201232032854,66.719582592L377.6201232032854,74.201557896L399,77.63407704L427.5,94.117505352L456,92.33068322399998" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
+                <path fill="none" stroke="#4d7a3b" stroke-width="3" stroke-dasharray="none" d="M0,75.6L26.823529411764707,57.599999999999994L53.64705882352941,53.28L80.47058823529412,53.52000000000001L107.29411764705883,55.68000000000001L134.11764705882354,55.920000000000016L154.22152433868825,45.359999999999985L181.04505375045298,46.31999999999999L207.86858316221765,51.359999999999985L227.99082014736078,50.16L254.81434955912553,61.68000000000001L274.9365865442686,77.37422911200002L301.76011595603336,74.475781536L328.58364536779806,66.719582592L355.40717477956275,74.201557896L375.52941176470586,77.63407704L402.35294117647055,94.117505352L429.1764705882353,92.33068322399998L456,81.23782257599999" style="fill:none;stroke:#4d7a3b;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="460" x2="466" y1="102.124619328" y2="102.124619328" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
-                    <text dy="0.3em" x="470" y="102.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:94.546875px;fill:#666666;">
+                    <line x1="460" x2="466" y1="91.64882500799999" y2="91.64882500799999" stroke="#4d7a3b" stroke-width="3" style="stroke:#4d7a3b;stroke-width:3px;"/>
+                    <text dy="0.3em" x="470" y="91.64882500799999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:94.546875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            71,5%
+                            76,2%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Deutschland
@@ -44,12 +44,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#235114" stroke-width="3" stroke-dasharray="none" d="M292.1201232032854,75.36054264L320.6201232032854,70.716080232L349.1201232032854,65.379063936L377.6201232032854,70.488819912L399,75.644568168L427.5,90.62204448L456,90.124619328" style="fill:none;stroke:#235114;stroke-width:3px;"/>
+                <path fill="none" stroke="#235114" stroke-width="3" stroke-dasharray="none" d="M274.9365865442686,75.36054264L301.76011595603336,70.716080232L328.58364536779806,65.379063936L355.40717477956275,70.488819912L375.52941176470586,75.644568168L402.35294117647055,90.62204448L429.1764705882353,90.124619328L456,79.64882500799999" style="fill:none;stroke:#235114;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="460" x2="466" y1="90.124619328" y2="90.124619328" stroke="#235114" stroke-width="3" style="stroke:#235114;stroke-width:3px;"/>
-                    <text dy="0.3em" x="470" y="90.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:172.109375px;fill:#666666;">
+                    <line x1="460" x2="466" y1="79.64882500799999" y2="79.64882500799999" stroke="#235114" stroke-width="3" style="stroke:#235114;stroke-width:3px;"/>
+                    <text dy="0.3em" x="470" y="79.64882500799999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:172.109375px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            72,4%
+                            76,8%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Westdeutsche Bundesländer
@@ -58,12 +58,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#89b874" stroke-width="3" stroke-dasharray="none" d="M292.1201232032854,85.248290784L320.6201232032854,89.673258576L349.1201232032854,72.09347832L377.6201232032854,89.254480368L399,85.76217633599998L427.5,108.68915052L456,101.87159412" style="fill:none;stroke:#89b874;stroke-width:3px;"/>
+                <path fill="none" stroke="#89b874" stroke-width="3" stroke-dasharray="none" d="M274.9365865442686,85.248290784L301.76011595603336,89.673258576L328.58364536779806,72.09347832L355.40717477956275,89.254480368L375.52941176470586,85.76217633599998L402.35294117647055,108.68915052L429.1764705882353,101.87159412L456,88.266689208" style="fill:none;stroke:#89b874;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="460" x2="466" y1="114.124619328" y2="114.124619328" stroke="#89b874" stroke-width="3" style="stroke:#89b874;stroke-width:3px;"/>
-                    <text dy="0.3em" x="470" y="114.124619328" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:164.546875px;fill:#666666;">
+                    <line x1="460" x2="466" y1="103.64882500799999" y2="103.64882500799999" stroke="#89b874" stroke-width="3" style="stroke:#89b874;stroke-width:3px;"/>
+                    <text dy="0.3em" x="470" y="103.64882500799999" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:164.546875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            67,6%
+                            73,2%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Ostdeutsche Bundesländer
@@ -91,16 +91,21 @@
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="96" style="display:block;height:96px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:96px;width:640px;">
+            <div style="display:block;height:96px;width:640px;">
                 <div style="display:block;height:0px;padding-right:183px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                <div style="display:block;height:96px;width:640px;">
+                    <div style="clear:both;display:block;height:96px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:96px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:72px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
                                 Quelle:  Statistisches Bundesamt, Wahlen. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

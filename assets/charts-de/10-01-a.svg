@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="348" style="height:348px;width:640px;">
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" style="height:420px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Entwicklung der Luftschadstoffe im Zeitraum von 2000 bis 2014. In diesem Zeitraum ist der Index von etwa 121 auf rund 84 gesunken. Das Basisjahr, in dem der Index den Wert 100 annimmt, ist 2005.
+        Die Abbildung zeigt die Entwicklung der Luftschadstoffe im Zeitraum von 2000 bis 2015. In diesem Zeitraum ist der Index von etwa 121 auf rund 82 gesunken. Das Basisjahr, in dem der Index den Wert 100 annimmt, ist 2005.
     </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
@@ -11,31 +11,31 @@
                     2000
                 </text>
             </g>
-            <g transform="translate(213.63824794681267,264)" style="">
+            <g transform="translate(199.40609600292024,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2005
                 </text>
             </g>
-            <g transform="translate(384.47868596010954,264)" style="">
+            <g transform="translate(398.70304800146016,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2009
+                    2010
                 </text>
             </g>
             <g transform="translate(598,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2014
+                    2015
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#74b917" stroke-width="3" stroke-dasharray="none" d="M0,70.27267099968L42.79780993351584,76.81990544223999L85.4786859601095,86.74196729872L128.15956198670318,92.64741645439997L170.84043801329682,97.89290181359999L213.63824794681267,104L256.31912397340636,105.24322217472002L299,110.4448543272L341.68087602659364,114.88589014272L384.47868596010954,122.95740711696001L427.1595619867032,117.1160134088L469.8404380132968,119.22887472768L512.5213140398905,124.33193248416L555.3191239734064,123.99505605152001L598,129.76836349744002" style="fill:none;stroke:#74b917;stroke-width:3px;"/>
+                <path fill="none" stroke="#74b917" stroke-width="3" stroke-dasharray="none" d="M0,69.04678080000002L39.946705603212266,75.91860304L79.78426720204418,85.83717696L119.62182880087607,91.91870911999999L159.45939039970796,97.35676800000002L199.40609600292024,104L239.24365760175215,104.93752566399999L279.08121920058403,110.564062176L318.9187807994159,115.520765264L358.8654864026282,124.67036588799999L398.70304800146016,119.55572176000001L438.540609600292,122.577438304L478.3781711991239,127.86339407999998L518.3248768023362,127.89997604800001L558.1624384011681,133.455495392L598,133.547837824" style="fill:none;stroke:#74b917;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="602" x2="608" y1="129.76836349744002" y2="129.76836349744002" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
-                    <text dy="0.3em" x="612" y="129.76836349744002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.890625px;fill:#666666;">
+                    <line x1="602" x2="608" y1="133.547837824" y2="133.547837824" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
+                    <text dy="0.3em" x="612" y="133.547837824" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:26.890625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            83,89
+                            81,53
                         </tspan>
                     </text>
                 </g>
@@ -60,23 +60,28 @@
             </g>
             <g transform="translate(0,104)" style="">
                 <line x1="0" x2="598" style="fill-rule:evenodd;stroke:#454545;stroke-dasharray:1px, 3px;stroke-linecap:round;stroke-linejoin:round;stroke-width:1px;"/>
-                <circle r="3.5" cx="213.63824794681267" style="fill:#f6f6f0;stroke:#454545;"/>
+                <circle r="3.5" cx="199.40609600292024" style="fill:#f6f6f0;stroke:#454545;"/>
                 <text x="598" text-anchor="end" dy="1.1em" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:18px;fill:#454545;text-anchor:end;">
                      100
                 </text>
             </g>
         </g>
     </g>
-    <foreignObject x="0" y="288" width="640" height="60" style="display:block;height:60px;width:640px;">
-        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:60px;width:640px;">
-            <div style="display:block;height:60px;width:640px;">
+    <foreignObject x="0" y="288" width="640" height="132" style="display:block;height:132px;width:640px;">
+        <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:132px;width:640px;">
+            <div style="display:block;height:132px;width:640px;">
                 <div style="display:block;height:0px;padding-right:41px;width:640px;">
                 </div>
-                <div style="display:block;height:60px;width:640px;">
-                    <div style="clear:both;display:block;height:60px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
-                        <div style="display:block;float:left;height:60px;padding-left:10px;padding-right:10px;width:330px;">
-                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:36px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Umweltbundesamt 2015.
+                <div style="display:block;height:132px;width:640px;">
+                    <div style="clear:both;display:block;height:132px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
+                        <div style="display:block;float:left;height:132px;padding-left:10px;padding-right:10px;width:330px;">
+                            <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:108px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
+                                Quelle:  Umweltbundesamt (2017). Nationale Trendtabellen für die deutsche Berichterstattung atmosphärischer Emissionen 1990-2015. 
+                                <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
+                                    <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
+                                        Aktualisierte Daten
+                                    </span>
+                                </span>
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);">
                                     <br style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);font-family:BundesSans-Regular;font-size:12px;outline-color:rgb(102, 102, 102);" />
                                     CC BY 4.0 Bundesregierung

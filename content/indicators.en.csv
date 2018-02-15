@@ -70,12 +70,13 @@ dimension_id,id,title,placeholder,data,filter,mini_config,new_data,keywords
  ""data"": ""static/dashboard/data/03-01.csv"",
  ""color"": ""facet_value"",
  ""colorSort"": ""none"",
- ""numberFormat"": ""%"",
+ ""numberFormat"": "".0%"",
  ""y"": ""facet_value"",
  ""sort"": ""none"",
  ""column"": """",
  ""columnSort"": ""none"",
- ""columns"": 1
+ ""columns"": 1,
+ ""showBarValues"": true
 }",,"Education,Educational level,Secondary school II level,Quality of education system,Educational success"
 03,03-02,Early school leavers,,03/02/facets.csv,year(datum.year) >= 2005 && datum.facet == 'Insgesamt',"{
  ""type"": ""Line"",
@@ -121,7 +122,8 @@ dimension_id,id,title,placeholder,data,filter,mini_config,new_data,keywords
 }",,"Care,Childcare,Work and caregiving,Work and childcare,Caring for relatives,Looking after relatives"
 04,04-04,Commuting time,,04/04/germany.csv,datum.region == 'Deutschland' && datum.facet == 'Zeitaufwand' && datum.facet_value == '30 Minuten oder länger',"{
  ""type"": ""Line"",
- ""data"": ""static/dashboard/data/04-04.csv""
+ ""data"": ""static/dashboard/data/04-04.csv"",
+ ""column"": ""facet_value""
 }",,"Commuting,Commuting time,Travel to work"
 05,05-01,Net household income,,05/01/region.csv,datum.region == 'Deutschland',"{
  ""type"": ""Line"",
@@ -317,7 +319,8 @@ dimension_id,id,title,placeholder,data,filter,mini_config,new_data,keywords
  ""type"": ""Line"",
  ""data"": ""static/dashboard/data/10-01.csv"",
  ""numberFormat"": "".2f"",
- ""endDy"": ""1.9em""
+ ""endDy"": ""1.9em"",
+ ""column"": ""category""
 }",,"Air,Pollution,Clean air,Air pollution,Particulate matters,Emissions,Sulphur dioxide,Nitrogen,Ammonia"
 10,10-02,Biodiversity and environmental quality,,10/02/categories.csv,(datum.year == 1990 || datum.year == 2013) && datum.facet == 'Gesamtindikator',"{
  ""type"": ""Slope"",

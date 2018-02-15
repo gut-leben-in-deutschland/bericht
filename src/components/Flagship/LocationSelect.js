@@ -12,7 +12,7 @@ import {setLocation} from 'state/actions/flagship';
 import {sansRegular15, sansRegular18} from 'theme/typeface';
 import {text, softGrey, softBeige} from 'theme/constants';
 
-import municipalitiesUrl from '!!file!data/municipalities.csv';
+import municipalitiesUrl from '!!file-loader!data/municipalities.csv';
 import {DATA_STATUS_REQUESTED} from 'state/reducers/data';
 import {loadData as loadDataAction} from 'state/actions/data';
 

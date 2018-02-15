@@ -171,7 +171,7 @@ export default (points, props) => {
     return {
       value: safeExtent[0],
       color: colorScale(safeExtent[0]),
-      label: `${numberFormat(safeExtent[0])} - ${numberFormat(safeExtent[1])}`
+      label: `${numberFormat(Math.ceil(safeExtent[0]))} - ${numberFormat(Math.floor(safeExtent[1]))}`
     };
   });
   const thresholdLegendIndex = colorLegendValues.findIndex(d => d.value >= threshold);

@@ -3,9 +3,9 @@ import {feature as topojsonFeature} from 'topojson';
 import {createSelector} from 'reselect';
 import {DATA_STATUS_REQUESTED} from 'state/reducers/data';
 
-import germanyTopo from '!!file!data/germany.json';
-import kreg2014Topo from '!!file!data/kreg-2014.json';
-import krsTopo from '!!file!data/krs.json';
+import germanyTopo from '!!file-loader!data/germany.json';
+import kreg2014Topo from '!!file-loader!data/kreg-2014.json';
+import krsTopo from '!!file-loader!data/krs.json';
 
 const createAgsToDistrictMapper = (map = {}) => {
   return ags => {

@@ -1,32 +1,36 @@
 country_code,country,country_en,year,value
 AUS,Australien,Australia,2014,0.337
-AUT,Österreich,Austria,2013,0.280
-BEL,Belgien,Belgium,2013,0.268
-CZE,Tschechien,Czech Republic,2013,0.262
-DNK,Dänemark,Denmark,2013,0.254
+AUT,Österreich,Austria,2014,0.274
+BEL,Belgien,Belgium,2014,0.266
+CAN,Kanada,Canada,2014,0.313
+CRI,Costa Rica,Costa Rica, 2014,0.491
+CZE,Tschechien,Czech Republic,2014,0.257
+DNK,Dänemark,Denmark,2014,0.256
 FIN,Finnland,Finland,2014,0.257
-FRA,Frankreich,France,2013,0.294
-DEU,Deutschland,Germany,2013,0.292
-GRC,Griechenland,Greece,2013,0.343
+FRA,Frankreich,France,2014,0.297
+DEU,Deutschland,Germany,2014,0.289
+GRC,Griechenland,Greece,2014,0.339
 HUN,Ungarn,Hungary,2014,0.288
-ISL,Island,Iceland,2013,0.244
-IRL,Irland,Ireland,2013,0.309
-ITA,Italien,Italy,2013,0.325
+ISL,Island,Iceland,2014,0.246
+IRL,Irland,Ireland,2014,0.298
+ITA,Italien,Italy,2014,0.326
 KOR,"Korea, Republik","Korea, Republic of",2014,0.302
-LUX,Luxemburg,Luxembourg,2013,0.281
+LTU,Litauen,Lithuania,2014,0.381
+LUX,Luxemburg,Luxembourg,2014,0.284
+LVA,Lettland,Latvia,2014,0.350
 MEX,Mexiko,Mexico,2014,0.459
 NLD,Niederlande,Netherlands,2014,0.283
-NZL,Neuseeland,New Zealand,2013,0.333
-NOR,Norwegen,Norway,2013,0.252
-POL,Polen,Poland,2013,0.3
-PRT,Portugal,Portugal,2013,0.342
-SVK,Slowakei,Slovakia,2013,0.269
-ESP,Spanien,Spain,2013,0.346
-SWE,Schweden,Sweden,2013,0.281
-CHE,Schweiz,Switzerland,2013,0.295
-TUR,Türkei,Turkey,2013,0.393
-GBR,Vereinigtes Königreich,United Kingdom,2013,0.358
+NZL,Neuseeland,New Zealand,2014,0.349
+NOR,Norwegen,Norway,2014,0.257
+POL,Polen,Poland,2014,0.298
+PRT,Portugal,Portugal,2014,0.338
+SVK,Slowakei,Slovakia,2014,0.247
+ESP,Spanien,Spain,2014,0.344
+SWE,Schweden,Sweden,2014,0.274
+CHE,Schweiz,Switzerland,2014,0.297
+TUR,Türkei,Turkey,2014,0.398
+GBR,Vereinigtes Königreich,United Kingdom,2014,0.356
 USA,Vereinigte Staaten von Amerika,United States of America,2014,0.394
-EST,Estland,Estonia,2013,0.361
+EST,Estland,Estonia,2014,0.346
 ISR,Israel,Israel,2014,0.365
-SVN,Slowenien,Slovenia,2013,0.255
+SVN,Slowenien,Slovenia,2014,0.251

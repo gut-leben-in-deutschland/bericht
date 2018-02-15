@@ -1,7 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="610" height="576" viewBox="0 0 610 462" style="display:block;height:576px;margin-left:63px;margin-right:63px;width:610px;">
-    <title style="">
-        03-03-b14-l.en.chart
-    </title>
     <desc style="">
         Created with Sketch.
     </desc>
@@ -30,7 +27,7 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:38.375px;line-height:13px;white-space:nowrap;width:187.6875px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="185" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                29.4%
+                31%
             </tspan>
             <tspan x="401" y="197" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 University or university of
@@ -41,7 +38,7 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:38.375px;line-height:13px;white-space:nowrap;width:170.8125px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="237" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                66.5%
+                64.4%
             </tspan>
             <tspan x="401" y="249" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Middle school or
@@ -52,7 +49,7 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:151.96875px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="287" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                4.1%
+                4.5%
             </tspan>
             <tspan x="401" y="299" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 No school-leaving qualification
@@ -60,7 +57,7 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:38.375px;line-height:13px;white-space:nowrap;width:193.53125px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="41" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                63.7%
+                64.3%
             </tspan>
             <tspan x="401" y="53" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 University or university of
@@ -71,7 +68,7 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:38.375px;line-height:13px;white-space:nowrap;width:167.484375px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="87" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                33.1%
+                32%
             </tspan>
             <tspan x="401" y="99" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Middle school or
@@ -82,12 +79,22 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:151.96875px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="133" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                3.2%
+                3.7%
             </tspan>
             <tspan x="401" y="145" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 No school-leaving qualification
             </tspan>
         </text>
+        <path fill="#FF8BA6" d="M345 289h40v2h-40zM345 139h40v1h-40z" style="fill:#ff8ba6;fill-rule:evenodd;"/>
+        <path fill="#C40046" d="M225 210h40v57h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
+        <path d="M265 267c40.185-.182 40.185 23.813 80 24v-2c-33.906-.182-40-24.178-80-24 40.185-.178 40.185-.178 80 0v-37c-39.815-.038-39.815-.038-80 0 40.044-.037 54.128-24.022 80-24v-16c-39.815 0-39.815 21.996-80 22v57z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
+        <path fill="#C40046" d="M345 228h40v37h-40zM345 95h40v8h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
+        <path fill="#810019" d="M225 40h40v25h-40zM345 188h40v16h-40zM345 40h40v15h-40z" style="fill:#810019;fill-rule:evenodd;"/>
+        <path d="M265 65c38.627-.621 40 74.997 80 75v-1c-40 0-40-74.899-80-75 40 0 34 39 80 39v-8c-39.815-.277-39.815-40-80-40h80V40h-80v25z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
+        <path fill="#FF8BA6" d="M225 408h40v14h-40zM345 420h40v2h-40z" style="fill:#ff8ba6;fill-rule:evenodd;"/>
+        <path fill="#C40046" d="M345 382h40v8h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
+        <path fill="#810019" d="M345 339h40v3h-40z" style="fill:#810019;fill-rule:evenodd;"/>
+        <path d="M265 422h80v-2s-80-.271-80 0c40-.271 40-30.232 80-30v-8c-40-.899-38 29.129-80 29 40 .129 41-69 80-69v-3c-42 0-43 69-80 69v14z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:156.828125px;fill:#454545;fill-rule:evenodd;">
             <tspan x="181.604" y="411" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 100%
@@ -98,7 +105,7 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:38.375px;line-height:13px;white-space:nowrap;width:187.6875px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="329" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                24.6%
+                25.9%
             </tspan>
             <tspan x="401" y="341" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 University or university of
@@ -109,7 +116,7 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:38.375px;line-height:13px;white-space:nowrap;width:167.484375px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="373" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                61.9%
+                56.2%
             </tspan>
             <tspan x="401" y="385" font-family="BundesSans-Regular, BundesSans" font-weight="normal" style="font-family:BundesSans-Regular, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 Middle school or
@@ -120,7 +127,7 @@
         </text>
         <text font-family="BundesSans-Bold, BundesSans" font-size="12" fill="#454545" style="display:block;font-family:BundesSans-Bold, BundesSans;font-size:12px;height:26.375px;line-height:13px;white-space:nowrap;width:156.25px;fill:#454545;fill-rule:evenodd;">
             <tspan x="401" y="417" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
-                13.4%
+                17.9%
             </tspan>
             <tspan x="401" y="429" style="font-family:BundesSans-Bold, BundesSans;font-size:12px;line-height:13px;white-space:nowrap;fill:#454545;fill-rule:evenodd;">
                 No school-leaving qualification
@@ -136,16 +143,6 @@
                 Children’s education level
             </tspan>
         </text>
-        <path fill="#FF8BA6" d="M345 289h40v2h-40zM345 139h40v1h-40z" style="fill:#ff8ba6;fill-rule:evenodd;"/>
-        <path fill="#C40046" d="M225 210h40v57h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
-        <path d="M265 267c40.185-.182 40.185 23.813 80 24v-2c-33.906-.182-40-24.178-80-24 40.185-.178 40.185-.178 80 0v-37c-39.815-.038-39.815-.038-80 0 40.044-.037 54.128-24.022 80-24v-16c-39.815 0-39.815 21.996-80 22v57z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
-        <path fill="#C40046" d="M345 228h40v37h-40zM345 95h40v8h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
-        <path fill="#810019" d="M225 40h40v25h-40zM345 188h40v16h-40zM345 40h40v15h-40z" style="fill:#810019;fill-rule:evenodd;"/>
-        <path d="M265 65c38.627-.621 40 74.997 80 75v-1c-40 0-40-74.899-80-75 40 0 34 39 80 39v-8c-39.815-.277-39.815-40-80-40h80V40h-80v25z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
-        <path fill="#FF8BA6" d="M225 408h40v14h-40zM345 420h40v2h-40z" style="fill:#ff8ba6;fill-rule:evenodd;"/>
-        <path fill="#C40046" d="M345 382h40v8h-40z" style="fill:#c40046;fill-rule:evenodd;"/>
-        <path fill="#810019" d="M345 339h40v3h-40z" style="fill:#810019;fill-rule:evenodd;"/>
-        <path d="M265 422h80v-2s-80-.271-80 0c40-.271 40-30.232 80-30v-8c-40-.899-38 29.129-80 29 40 .129 41-69 80-69v-3c-42 0-43 69-80 69v14z" fill-opacity=".1" fill="#000" style="fill-opacity:0.10000000149011612;fill-rule:evenodd;"/>
     </g>
     <foreignObject x="0" y="462" width="640" height="114" style="display:block;height:114px;width:640px;">
         <body xmlns="http://www.w3.org/1999/xhtml" style="display:block;height:114px;width:640px;">

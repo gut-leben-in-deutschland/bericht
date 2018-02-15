@@ -16,7 +16,7 @@ The indicator **participation in further education** shows the proportion of 18-
 
 It reflects the importance of **lifelong learning** in society.
 
-The aim is to monitor learning activities in adulthood. It brings together all kinds of adult learning, i.e. regular education, further education and informal learning. The data is based on the Adult Education Surveys (AES) of 2007 and 2014 carried out by TNS Infratest. The federal government has commissioned the AES surveys every two to three years. Since 2007, the survey has been a key element of the European Statistical System and is carried out according to the AES concept. 
+The aim is to monitor learning activities in adulthood. It brings together all kinds of adult learning, i.e. regular education, further education and informal learning. The data is based on the Adult Education Surveys (AES). The surveys of 2007 and 2014 have been carried out by Kantar Public (formerly TNS Infratest). The federal government has commissioned the AES surveys every two to three years. Since 2007, the survey has been a key element of the European Statistical System and is carried out according to the AES concept. 
 
 
 <!-- Prologue end -->

@@ -32,10 +32,10 @@
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#74b917" stroke-width="6" stroke-dasharray="none" d="M0,152L168.30260996532215,145.20000000000005L336.6973900346779,144.4L505,113.60000000000002" style="fill:none;stroke:#74b917;stroke-width:6px;"/>
+                <path fill="none" stroke="#74b917" stroke-width="6" stroke-dasharray="none" d="M0,151.99999999999997L168.30260996532215,145.20000000000002L336.6973900346779,144.39999999999998L505,113.6" style="fill:none;stroke:#74b917;stroke-width:6px;"/>
                 <g style="">
-                    <line x1="509" x2="515" y1="113.60000000000002" y2="113.60000000000002" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
-                    <text dy="0.3em" x="519" y="113.60000000000002" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:83.78125px;fill:#666666;">
+                    <line x1="509" x2="515" y1="113.6" y2="113.6" stroke="#74b917" stroke-width="3" style="stroke:#74b917;stroke-width:3px;"/>
+                    <text dy="0.3em" x="519" y="113.6" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:83.78125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             43,6%
                         </tspan>
@@ -95,10 +95,10 @@
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,148.00000000000003L168.30260996532215,149.20000000000002L336.6973900346779,149.20000000000002L505,100.40000000000003" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
+                <path fill="none" stroke="#2aaec9" stroke-width="3" stroke-dasharray="none" d="M0,148L168.30260996532215,149.2L336.6973900346779,149.2L505,100.4" style="fill:none;stroke:#2aaec9;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="509" x2="515" y1="112.00000000000003" y2="112.00000000000003" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
-                    <text dy="0.3em" x="519" y="112.00000000000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:89.921875px;fill:#666666;">
+                    <line x1="509" x2="515" y1="112" y2="112" stroke="#2aaec9" stroke-width="3" style="stroke:#2aaec9;stroke-width:3px;"/>
+                    <text dy="0.3em" x="519" y="112" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:89.921875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             46,9%
                         </tspan>
@@ -109,10 +109,10 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,138.00000000000003L168.30260996532215,130.00000000000003L336.6973900346779,124.00000000000003L505,100.00000000000003" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
+                <path fill="none" stroke="#00857c" stroke-width="3" stroke-dasharray="none" d="M0,138L168.30260996532215,129.99999999999997L336.6973900346779,124L505,100" style="fill:none;stroke:#00857c;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="509" x2="515" y1="100.00000000000003" y2="100.00000000000003" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
-                    <text dy="0.3em" x="519" y="100.00000000000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:89.921875px;fill:#666666;">
+                    <line x1="509" x2="515" y1="100" y2="100" stroke="#00857c" stroke-width="3" style="stroke:#00857c;stroke-width:3px;"/>
+                    <text dy="0.3em" x="519" y="100" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:89.921875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             47,0%
                         </tspan>
@@ -123,10 +123,10 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#71d7cc" stroke-width="3" stroke-dasharray="none" d="M0,142L168.30260996532215,131.20000000000002L336.6973900346779,140.00000000000003L505,106.00000000000003" style="fill:none;stroke:#71d7cc;stroke-width:3px;"/>
+                <path fill="none" stroke="#71d7cc" stroke-width="3" stroke-dasharray="none" d="M0,142L168.30260996532215,131.2L336.6973900346779,140L505,105.99999999999997" style="fill:none;stroke:#71d7cc;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="509" x2="515" y1="124.00000000000003" y2="124.00000000000003" stroke="#71d7cc" stroke-width="3" style="stroke:#71d7cc;stroke-width:3px;"/>
-                    <text dy="0.3em" x="519" y="124.00000000000003" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:89.921875px;fill:#666666;">
+                    <line x1="509" x2="515" y1="124" y2="124" stroke="#71d7cc" stroke-width="3" style="stroke:#71d7cc;stroke-width:3px;"/>
+                    <text dy="0.3em" x="519" y="124" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:89.921875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             45,5%
                         </tspan>
@@ -137,10 +137,10 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#1f6e00" stroke-width="3" stroke-dasharray="none" d="M0,196L168.30260996532215,182.4L336.6973900346779,171.60000000000002L505,152" style="fill:none;stroke:#1f6e00;stroke-width:3px;"/>
+                <path fill="none" stroke="#1f6e00" stroke-width="3" stroke-dasharray="none" d="M0,196L168.30260996532215,182.39999999999998L336.6973900346779,171.60000000000002L505,151.99999999999997" style="fill:none;stroke:#1f6e00;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="509" x2="515" y1="152" y2="152" stroke="#1f6e00" stroke-width="3" style="stroke:#1f6e00;stroke-width:3px;"/>
-                    <text dy="0.3em" x="519" y="152" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:119.6875px;fill:#666666;">
+                    <line x1="509" x2="515" y1="151.99999999999997" y2="151.99999999999997" stroke="#1f6e00" stroke-width="3" style="stroke:#1f6e00;stroke-width:3px;"/>
+                    <text dy="0.3em" x="519" y="151.99999999999997" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:119.6875px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
                             34,0%
                         </tspan>

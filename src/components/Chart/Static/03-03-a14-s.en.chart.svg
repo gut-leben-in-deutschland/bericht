@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="300px" height="1232px" viewBox="0 0 300 1232" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <title>03-03-a14-s.en.chart</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
@@ -12,83 +12,83 @@
                 <tspan x="17.564" y="512">secondary modern</tspan>
                 <tspan x="33.488" y="524">school diploma</tspan>
             </text>
-            <text id="30.4%-University-or" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="534">30.4%</tspan>
+            <text id="31.8%-University-or" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="534">31.8%</tspan>
                 <tspan x="190" y="546" font-family="BundesSans-Regular, BundesSans" font-weight="normal">University or</tspan>
                 <tspan x="190" y="558" font-family="BundesSans-Regular, BundesSans" font-weight="normal">university of</tspan>
                 <tspan x="190" y="570" font-family="BundesSans-Regular, BundesSans" font-weight="normal">applied sciences</tspan>
                 <tspan x="190" y="582" font-family="BundesSans-Regular, BundesSans" font-weight="normal">entrance qualification</tspan>
             </text>
-            <text id="66.4%-Middle-school" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="766">66.4%</tspan>
-                <tspan x="190" y="778">Middle school or</tspan>
-                <tspan x="190" y="790">secondary modern</tspan>
-                <tspan x="190" y="802">school diploma</tspan>
+            <text id="64.8%-Middle-school" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="761">64.8%</tspan>
+                <tspan x="190" y="773">Middle school or</tspan>
+                <tspan x="190" y="785">secondary modern</tspan>
+                <tspan x="190" y="797">school diploma</tspan>
             </text>
-            <text id="3.2%-No-school-leavi" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="841">3.2%</tspan>
+            <text id="3.4%-No-school-leavi" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="841">3.4%</tspan>
                 <tspan x="190" y="853" font-family="BundesSans-Regular, BundesSans" font-weight="normal">No school-leaving</tspan>
                 <tspan x="190" y="865" font-family="BundesSans-Regular, BundesSans" font-weight="normal">qualification</tspan>
             </text>
-            <text id="69.2%-University-or" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="207">69.2%</tspan>
+            <text id="70.7%-University-or" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="207">70.7%</tspan>
                 <tspan x="190" y="219">University or</tspan>
                 <tspan x="190" y="231">university of</tspan>
                 <tspan x="190" y="243">applied sciences</tspan>
                 <tspan x="190" y="255">entrance qualification</tspan>
             </text>
-            <text id="28.7%-Middle-school" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="318">28.7%</tspan>
+            <text id="26.9%-Middle-school" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="318">26.9%</tspan>
                 <tspan x="190" y="330" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Middle school or</tspan>
                 <tspan x="190" y="342" font-family="BundesSans-Regular, BundesSans" font-weight="normal">secondary modern</tspan>
                 <tspan x="190" y="354" font-family="BundesSans-Regular, BundesSans" font-weight="normal">school diploma</tspan>
             </text>
-            <text id="2.1%-No-school-leavi" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="388">2.1%</tspan>
+            <text id="2.5%-No-school-leavi" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="388">2.5%</tspan>
                 <tspan x="190" y="400" font-family="BundesSans-Regular, BundesSans" font-weight="normal">No school-leaving</tspan>
                 <tspan x="190" y="412" font-family="BundesSans-Regular, BundesSans" font-weight="normal">qualification</tspan>
             </text>
-            <g id="Group-3" transform="translate(70.000000, 904.000000)">
-                <rect id="parents" fill="#FF8BA6" x="0" y="148" width="40" height="15"></rect>
-                <rect id="parents" fill="#FF8BA6" x="120" y="161" width="40" height="2"></rect>
-                <rect id="parents" fill="#C40046" x="120" y="83" width="40" height="9"></rect>
-                <rect id="parents" fill="#810019" x="120" y="0" width="40" height="3"></rect>
-                <path d="M40,0 L120,0 L120,2 C120,2 40,2.27126437 40,2 C80,2.27126437 91.5,71.2321839 120,71.2321839 L120,80 C80,80 76.5,11.8 40,11.8 C80,11.8712644 80,160.85977 120,159.933333 C120,159.933333 120,163 120,163 C78.1711426,163 79.2060547,14.0808105 40,14.9333333 L40,0 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(80.000000, 81.500000) scale(1, -1) translate(-80.000000, -81.500000) "></path>
+            <g id="Group-3" transform="translate(70.000000, 903.000000)">
+                <rect id="parents" fill="#FF8BA6" x="0" y="149" width="40" height="15"></rect>
+                <rect id="parents" fill="#FF8BA6" x="120" y="161" width="40" height="3"></rect>
+                <rect id="parents" fill="#C40046" x="120" y="84" width="40" height="8"></rect>
+                <rect id="parents" fill="#810019" x="120" y="0" width="40" height="4"></rect>
+                <path d="M40,0 L120,0 L120,3 C120,3 40,3.27126437 40,3 C80,3.27126437 91.5,72.2321839 120,72.2321839 L120,80 C80,80 76.5,11.8 40,11.8 C80,11.8712644 80,160.85977 120,159.933333 C120,159.933333 120,164 120,164 C78.1711426,164 79.2060547,14.0808105 40,14.9333333 L40,0 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(80.000000, 82.000000) scale(1, -1) translate(-80.000000, -82.000000) "></path>
             </g>
             <g id="Group-2" transform="translate(70.000000, 451.000000)">
-                <rect id="parents" fill="#FF8BA6" x="120" y="370" width="40" height="7"></rect>
+                <rect id="parents" fill="#FF8BA6" x="120" y="370" width="40" height="8"></rect>
                 <rect id="parents" fill="#C40046" x="0" y="81" width="40" height="228"></rect>
-                <path d="M40,68 C80.1851531,68.1824553 80.1851535,0.186748411 120,5.68434189e-14 C120,0.186748411 120,7 120,7 C86.0941161,7.18191871 79.9999997,75.1776256 40,75 C80.1851535,75.1776256 80.1851535,75.1776256 120,75 L120,227 C80.1851535,227.037564 80.1851535,227.037564 40,227 C80.1851535,227 85,305.5 120,307 C120,307.033271 120,377 120,377 C75.5,377 80.1851535,296.004293 40,296 C40,296.004293 40,68.1824553 40,68 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(80.000000, 188.500000) scale(1, -1) translate(-80.000000, -188.500000) "></path>
-                <rect id="parents" fill="#C40046" x="120" y="150" width="40" height="152"></rect>
-                <rect id="parents" fill="#810019" x="120" y="0" width="40" height="70"></rect>
+                <path d="M40,69 C80.1851531,69.1824553 80.1851535,0.186748411 120,5.68434189e-14 C120,0.186748411 120,8 120,8 C86.0941161,8.18191871 79.9999997,80.1776256 40,80 C80.1851535,80.1776256 80.1851535,80.1776256 120,80 L120,228 C80.1851535,228.037564 80.1851535,228.037564 40,228 C80.1851535,228 85,305.5 120,307 C120,307.033271 120,378 120,378 C75.5,378 80.1851535,297.004293 40,297 C40,297.004293 40,69.1824553 40,69 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(80.000000, 189.000000) scale(1, -1) translate(-80.000000, -189.000000) "></path>
+                <rect id="parents" fill="#C40046" x="120" y="150" width="40" height="148"></rect>
+                <rect id="parents" fill="#810019" x="120" y="0" width="40" height="71"></rect>
             </g>
             <g id="Group" transform="translate(70.000000, 120.000000)">
-                <rect id="parents" fill="#FF8BA6" x="120" y="253" width="40" height="2"></rect>
-                <rect id="parents" fill="#C40046" x="120" y="154" width="40" height="31"></rect>
+                <rect id="parents" fill="#FF8BA6" x="120" y="252" width="40" height="3"></rect>
+                <rect id="parents" fill="#C40046" x="120" y="154" width="40" height="29"></rect>
                 <rect id="parents" fill="#810019" x="0" y="0" width="40" height="106"></rect>
-                <rect id="parents" fill="#810019" x="120" y="0" width="40" height="74"></rect>
-                <path d="M40,149 C77.5,149 77,0.00337047083 120,0 C120,0.00337047083 120,2 120,2 C79,2 79.9999997,151.898818 40,152 C80.1851535,151.898818 76,70 120,70 L120,101 C95,101 92.9750977,181 40,181 C80.1851527,181 120,181 120,181 C120,181 120,255 120,255 C80.1851535,255 80.1851535,255 40,255 L40,149 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(80.000000, 127.500000) scale(1, -1) translate(-80.000000, -127.500000) "></path>
+                <rect id="parents" fill="#810019" x="120" y="0" width="40" height="75"></rect>
+                <path d="M40,149 C77.5,149 77,0.00337047083 120,0 C120,0.00337047083 120,3 120,3 C79,3 79.9999997,151.898818 40,152 C80.1851535,151.898818 76,72 120,72 L120,101 C95,101 92.9750977,180 40,180 C80.1851527,180 120,180 120,180 C120,180 120,255 120,255 C80.1851535,255 80.1851535,255 40,255 L40,149 Z" id="Rectangle-3" fill-opacity="0.1" fill="#000000" transform="translate(80.000000, 127.500000) scale(1, -1) translate(-80.000000, -127.500000) "></path>
             </g>
             <text id="100%-No-school-leavi" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
                 <tspan x="82.604" y="1021">100%</tspan>
                 <tspan x="19.184" y="1033">No school-leaving</tspan>
                 <tspan x="46.496" y="1045">qualification</tspan>
             </text>
-            <text id="22.8%-University-or" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="920">22.8%</tspan>
+            <text id="24.3%-University-or" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="920">24.3%</tspan>
                 <tspan x="190" y="932" font-family="BundesSans-Regular, BundesSans" font-weight="normal">University or</tspan>
                 <tspan x="190" y="944" font-family="BundesSans-Regular, BundesSans" font-weight="normal">university of</tspan>
                 <tspan x="190" y="956" font-family="BundesSans-Regular, BundesSans" font-weight="normal">applied sciences</tspan>
                 <tspan x="190" y="968" font-family="BundesSans-Regular, BundesSans" font-weight="normal">entrance qualification</tspan>
             </text>
-            <text id="62.4%-Middle-school" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="1009">62.4%</tspan>
+            <text id="55.9%-Middle-school" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="1009">55.9%</tspan>
                 <tspan x="190" y="1021" font-family="BundesSans-Regular, BundesSans" font-weight="normal">Middle school or</tspan>
                 <tspan x="190" y="1033" font-family="BundesSans-Regular, BundesSans" font-weight="normal">secondary modern</tspan>
                 <tspan x="190" y="1045" font-family="BundesSans-Regular, BundesSans" font-weight="normal">school diploma</tspan>
             </text>
-            <text id="14.8%-No-school-leav" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
-                <tspan x="190" y="1080">14.8%</tspan>
+            <text id="19.8%-No-school-leav" font-family="BundesSans-Bold, BundesSans" font-size="12" font-weight="bold" line-spacing="12" fill="#454545">
+                <tspan x="190" y="1080">19.8%</tspan>
                 <tspan x="190" y="1092">No school-leaving</tspan>
                 <tspan x="190" y="1104">qualification</tspan>
             </text>

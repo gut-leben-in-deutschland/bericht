@@ -140,7 +140,7 @@ Im Zeitraum von 15 Jahren stieg der Anteil der fettleibigen Personen in Deutschl
 01-02-a
 ```
 
-Im [OECD-Vergleich](http://dx.doi.org/10.1787/health_glance-2015-graph43-en) liegt Deutschland im Mittelfeld. Länder wie die Schweiz, Norwegen und Italien haben nur elf Fettleibige pro 100 Personen. In den Vereinigten Staaten von Amerika, Mexiko oder Neuseeland ist hingegen bereits jeder dritte Erwachsene fettleibig.
+Im [OECD-Vergleich](http://dx.doi.org/10.1787/health_glance-2017-21-en) liegt Deutschland im Mittelfeld. Länder wie die Schweiz oder Italien komen auf rund zehn Fettleibige pro 100 Personen. In den Mexiko oder Neuseeland sind hingegen mehr als 33 von 100 Erwachsenen fettleibig. In den Vereinigten Staaten von Amerika betrifft das sogar 40 von 100 Erwachsenen.  
 
 Das **Risiko für Fettleibigkeit nimmt mit dem Alter zu**. Zwischen 1999 und 2013 ist das Risiko fettleibig zu werden in allen Altersgruppen gestiegen. In der Altersgruppe der **55- bis 64-Jährigen** war der Anteil fettleibiger Männer und Frauen am höchsten. Jeder vierte Mann und jede fünfte Frau dieser Altersgruppe waren fettleibig.
 
@@ -232,7 +232,7 @@ Auf Pflege angewiesen zu sein, gehört zu den Lebenssituationen, die jeden Mensc
 
 <!-- Quote text='Sollte ich in ein Pflegeheim müssen [...] möchte ich menschlich - nicht nach Minuten - gepflegt werden. Sondern nach geistigem & körperlichem Bedarf.' source='aus einer Online-Antwort vom 12. September 2015' -->
 
-Insgesamt waren zum Jahresende 2015 knapp 2,9 Millionen Menschen in Deutschland pflegebedürftig. Der Großteil der Pflegebedürftigen wird zu Hause und dabei mehrheitlich von ihren Angehörigen allein versorgt. Knapp 700.000 Angehörige werden von einem Pflegedienst unterstützt. Etwas weniger als ein Drittel aller Pflegebedürftigen lebt dauerhaft in einem Pflege- oder Altenheim.
+[Insgesamt](https://www.destatis.de/DE/Publikationen/Thematisch/Gesundheit/Pflege/PflegeDeutschlandergebnisse5224001159004.pdf?__blob=publicationFile) waren zum Jahresende 2015 knapp 2,9 Millionen Menschen in Deutschland pflegebedürftig. Der Großteil der Pflegebedürftigen wird zu Hause und dabei mehrheitlich von ihren Angehörigen allein versorgt. Knapp 700.000 Angehörige werden von einem Pflegedienst unterstützt. Etwas weniger als ein Drittel aller Pflegebedürftigen lebt dauerhaft in einem Pflege- oder Altenheim.
 
 ```chart
 01-00-b

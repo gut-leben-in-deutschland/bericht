@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="402" style="height:402px;width:640px;">
     <desc style="">
-        Die Abbildung zeigt die Entwicklung des Anteils der frühen Schulabgänger an allen Personen im Alter von 18 bis 24 Jahren im Zeitraum von 2005 bis 2015 differenziert nach Migrationshintergrund. Der Anteil der frühen Schulabgänger mit Migrationshintergrund ist in diesem Zeitraum von 24 auf 16,3 Prozent gesunken. Er liegt damit aber immer noch deutlich über dem Anteil der frühen Schulabgänger ohne Migrationshintergrund von 7,6 Prozent.
+        Die Abbildung zeigt die Entwicklung des Anteils der frühen Schulabgänger an allen Personen im Alter von 18 bis 24 Jahren im Zeitraum von 2005 bis 2016 differenziert nach Migrationshintergrund. Der Anteil der frühen Schulabgänger mit Migrationshintergrund ist in diesem Zeitraum von 24 auf 18,3 Prozent gesunken. Der Abstand des Anteils früher Schulabgänger mit und ohne Migrationshintergrund (7,3 Prozent) ist gegenüber dem Vorjahr größer geworden. 
     </desc>
     <g transform="translate(0,0)" style="">
         <g style="">
@@ -11,13 +11,13 @@
                     2005
                 </text>
             </g>
-            <g transform="translate(135.82557502738226,264)" style="">
+            <g transform="translate(164.7580283793876,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
-                    2008
+                    2009
                 </text>
             </g>
-            <g transform="translate(317.05038335158815,264)" style="">
+            <g transform="translate(288.2419716206124,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="middle" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:middle;">
                     2012
@@ -26,16 +26,16 @@
             <g transform="translate(453,264)" style="">
                 <line y2="3" style="shape-rendering:crispedges;stroke:#bbbbbb;stroke-width:1px;"/>
                 <text y="8" dy="0.6em" text-anchor="end" style="display:block;font-family:BundesSans-Regular;font-size:12px;height:14.390625px;white-space:nowrap;width:24px;fill:#666666;text-anchor:end;">
-                    2015
+                    2016
                 </text>
             </g>
             <g style="">
-                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,153.36168944000002L45.27519167579409,151.28578120000003L90.55038335158818,162.12891456L135.82557502738226,169.56190760000004L181.22480832420592,175.20000000000002L226.5,169.12447928000003L271.7751916757941,171.5171056L317.05038335158815,181.05747872L362.44961664841185,185.53715992000002L407.7248083242059,187.77394672000003L453,185.45698383270923" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
+                <path fill="none" stroke="#c40046" stroke-width="3" stroke-dasharray="none" d="M0,153.36168944L41.1613144137416,151.28578119999997L82.3226288274832,162.12891456L123.4839432412248,169.56190759999998L164.7580283793876,175.2L205.9193427931292,169.12447928L247.0806572068708,171.51710559999998L288.2419716206124,181.05747872L329.5160567587752,185.53715992000002L370.6773711725168,187.77394672L411.8386855862584,185.4569838327092L453,181.3982214278448" style="fill:none;stroke:#c40046;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="457" x2="463" y1="185.45698383270923" y2="185.45698383270923" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
-                    <text dy="0.3em" x="467" y="185.45698383270923" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:77.78125px;fill:#666666;">
+                    <line x1="457" x2="463" y1="181.3982214278448" y2="181.3982214278448" stroke="#c40046" stroke-width="3" style="stroke:#c40046;stroke-width:3px;"/>
+                    <text dy="0.3em" x="467" y="181.3982214278448" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:83.78125px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            9,8%
+                            10,3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Insgesamt
@@ -44,12 +44,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#810019" stroke-width="3" stroke-dasharray="none" d="M0,177.21827704000003L45.27519167579409,176.73534560000002L90.55038335158818,183.14475120000003L135.82557502738226,192.67754000000002L181.22480832420592,195.97580224L226.5,189.44584176L271.7751916757941,189.65512920000003L317.05038335158815,198.61761832000002L362.44961664841185,203.25956352L407.7248083242059,204.91207048L453,203.58802163054378" style="fill:none;stroke:#810019;stroke-width:3px;"/>
+                <path fill="none" stroke="#810019" stroke-width="3" stroke-dasharray="none" d="M0,177.21827704L41.1613144137416,176.73534560000002L82.3226288274832,183.1447512L123.4839432412248,192.67754L164.7580283793876,195.97580224L205.9193427931292,189.44584176L247.0806572068708,189.6551292L288.2419716206124,198.61761832000002L329.5160567587752,203.25956352L370.6773711725168,204.91207048L411.8386855862584,203.58802163054375L453,205.28862587427608" style="fill:none;stroke:#810019;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="457" x2="463" y1="203.58802163054378" y2="203.58802163054378" stroke="#810019" stroke-width="3" style="stroke:#810019;stroke-width:3px;"/>
-                    <text dy="0.3em" x="467" y="203.58802163054378" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:167px;fill:#666666;">
+                    <line x1="457" x2="463" y1="205.28862587427608" y2="205.28862587427608" stroke="#810019" stroke-width="3" style="stroke:#810019;stroke-width:3px;"/>
+                    <text dy="0.3em" x="467" y="205.28862587427608" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:167px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            7,6%
+                            7,3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Ohne Migrationshintergrund
@@ -58,12 +58,12 @@
                 </g>
             </g>
             <g style="">
-                <path fill="none" stroke="#fe5072" stroke-width="3" stroke-dasharray="none" d="M0,69.28465160000002L45.27519167579409,68.52681624000002L90.55038335158818,86.28732688000002L135.82557502738226,94.05120624000003L181.22480832420592,105.67962672000004L226.5,101.33859072000004L271.7751916757941,111.94385744000002L317.05038335158815,125.99331440000003L362.44961664841185,131.71871960000001L407.7248083242059,135.07263713339762L453,133.8395331637312" style="fill:none;stroke:#fe5072;stroke-width:3px;"/>
+                <path fill="none" stroke="#fe5072" stroke-width="3" stroke-dasharray="none" d="M0,69.28465160000002L41.1613144137416,68.52681624000002L82.3226288274832,86.28732688L123.4839432412248,94.05120624L164.7580283793876,105.67962672000002L205.9193427931292,101.33859072000001L247.0806572068708,111.94385743999999L288.2419716206124,125.9933144L329.5160567587752,131.7187196L370.6773711725168,135.0726371333976L411.8386855862584,133.83953316373118L453,117.8171046779712" style="fill:none;stroke:#fe5072;stroke-width:3px;"/>
                 <g style="">
-                    <line x1="457" x2="463" y1="133.8395331637312" y2="133.8395331637312" stroke="#fe5072" stroke-width="3" style="stroke:#fe5072;stroke-width:3px;"/>
-                    <text dy="0.3em" x="467" y="133.8395331637312" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:162.765625px;fill:#666666;">
+                    <line x1="457" x2="463" y1="117.8171046779712" y2="117.8171046779712" stroke="#fe5072" stroke-width="3" style="stroke:#fe5072;stroke-width:3px;"/>
+                    <text dy="0.3em" x="467" y="117.8171046779712" fill="#666666" text-anchor="start" style="display:block;height:14.390625px;white-space:nowrap;width:162.765625px;fill:#666666;">
                         <tspan style="font-family:BundesSans-Bold;font-size:12px;white-space:nowrap;fill:#666666;">
-                            16,3%
+                            18,3%
                         </tspan>
                         <tspan style="font-family:BundesSans-Regular;font-size:12px;white-space:nowrap;fill:#666666;">
                              Mit Migrationshintergrund
@@ -100,7 +100,7 @@
                     <div style="clear:both;display:block;height:114px;margin-left:-10px;overflow-x:auto;overflow-y:auto;width:660px;">
                         <div style="display:block;float:left;height:114px;padding-left:10px;padding-right:10px;width:330px;">
                             <p style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:90px;margin-bottom:12px;margin-top:12px;outline-color:rgb(102, 102, 102);width:310px;">
-                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2015.
+                                Quelle:  Statistisches Bundesamt, Ergebnisse des Mikrozensus 2016.
                                 <span style="border-bottom-color:rgb(102, 102, 102);border-left-color:rgb(102, 102, 102);border-right-color:rgb(102, 102, 102);border-top-color:rgb(102, 102, 102);color:rgb(102, 102, 102);display:block;font-family:BundesSans-Regular;font-size:12px;height:18px;outline-color:rgb(102, 102, 102);width:310px;">
                                     <span style="background-color:rgb(0, 79, 128);border-bottom-color:rgb(255, 255, 255);border-bottom-left-radius:3px;border-bottom-right-radius:3px;border-left-color:rgb(255, 255, 255);border-right-color:rgb(255, 255, 255);border-top-color:rgb(255, 255, 255);border-top-left-radius:3px;border-top-right-radius:3px;color:rgb(255, 255, 255);display:inline-block;font-family:BundesSans-Bold;font-size:12px;height:18px;outline-color:rgb(255, 255, 255);padding-left:4px;padding-right:4px;width:105.09375px;">
                                         Aktualisierte Daten
